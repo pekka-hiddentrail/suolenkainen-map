@@ -78,7 +78,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Attunement must identify the neighbor condition that holds T004.
 - Surface must prepare a divided threshold, crossing, hinge, or decision structure.
 - Inscription must eventually decide what the gate opens between.
-- Preserve the inherited neighbor rule: T004 carries Neighbor + Rule + Preserve from the S004 last-free-coordinate ruling or another neighbor rule-pressure identified in Attunement.
+- Preserve an inherited neighbor rule: T004 carries Neighbor + Rule + Preserve (Black 6), but the source is undecided — it is not the S004 last-free-coordinate ruling, since that mechanism never actually applied to T004 (the corrected walk-back reached [-1,0] before ever touching occupied [0,0]). Live, undecided candidates: the same-sign-diagonal tie-break rule itself, or the archaic-symbol contact confirmed at T001's SW edge. Attunement must decide.
 
 ## Rule And Documentation Obligations
 

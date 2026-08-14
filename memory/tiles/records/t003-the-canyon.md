@@ -53,7 +53,7 @@
 | Documentation / publication | User created a Docs page for The Canyon, photographed T003, wrote a generic blog about S003, and plans to use Claude to generate descriptions for two Instagram posts. |
 | Deck / card update | C074 received a glued moonscape. |
 | Omen sources | C074 map of undercity; C127 rockstar and bass guitar |
-| Keywords | K017 Twist-Born; K018 Loosely Held; K019 Route-Tangled; K020 Bright; K021 Hold by Route; K022 Boundary Cost; K023 Layer-Line Inheritance; K024 Star-Canyon Grid; K025 The Canyon |
+| Keywords | K024 Star-Canyon Grid; K025 The Canyon (T003's other one-off Cartography results — Twist-Born, Loosely Held, Route-Tangled, Bright, Hold by Route, Boundary Cost, Layer-Line Inheritance — were retired as keywords under the recurrence rule; see Tags) |
 | Tags | S003; T003; The-Canyon; twist-born; loosely-held; route-tangled; bright; hold-by-route; boundary-cost; layer-line-inheritance; dried-river-valley; cliffs; bright-city-foundation; supernova-city; star-canyon-grid; hidden-tunnel; T002-red-circle-inheritance; silver-grid-bleed; black-warning-bleed; undercity-map; rockstar-bass; C074-moonscape; color-6-notice |
 | Unresolved | Decide later whether T002's color-6 return condition is resolved, complicated, or carried as witness. Return when T003, The Canyon, Star-Canyon Grid, hidden tunnel, yellow routes, silver grid bleed, black warning bleed, red-circle inheritance, C074/C127, or Force/Residue rule clarifications appear. |
 | Last updated by session | S003 Maintenance |

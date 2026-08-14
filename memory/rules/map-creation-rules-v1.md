@@ -180,34 +180,58 @@ After that, Attunement creates binding pressures from the newborn map-object sta
 
 |  | Origin | Tether | Entanglement | Temper | Office | Inheritance |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **1** | Drawn-In: Surrounding tiles are pulled into it. | Anchored: The tile is firmly bound to its coordinate. It does not drift or rotate unless another rule later moves it. | Neighbor- Tangled: The tile is entangled with one or more adjacent tiles. | Quiet: It wants restraint, openness, stillness, or low intensity. | Connector: It joins things: edges, routes, regions, colors, layers, or broken continuities.. | Edge Inheritance: It inherits something from a touching or nearby edge. |
-| **2** | Void-Born: It resists surroundings and behaves separately. | Loosely Held: The tile belongs here, but imperfectly. It may shift, rotate, or loosen if later pressure affects it. | Route-Tangled: The tile is entangled with movement: road, river, coast, path, current, procession, or drift-line. | Dense: It wants accumulation, layering, crowding, or compression. | Divider: It separates things: creates boundary, wall, gap, interruption, or distinction. | Echo Inheritance: It inherits an old mark, previous tile, past session, or buried memory. |
-| **3** | Twist-Born: Influences are bent, rotated, or thrown into turmoil. | Reversed: Rotate 180° or invert expected relation. | Region-Tangled: The tile is entangled with a larger area, biome, territory, district, color field, or zone. | Hungry: It wants to pull, consume, spread, absorb, or demand more. | Harbor: It receives, shelters, stores, gathers, or protects something. | Material Inheritance: It inherits a material requirement, restriction, substrate, tool, or texture. |
-| **4** | Edge-Starved: Contact edges feed it; non-contact edges become barren/strange. | Drifting: The tile can move along a defined path, edge, coastline, route, border, or neighboring chain. | Grid-Tangled: The tile is entangled with structure: grid, coordinates, repetition, measurement, lattice, or constructed order. | Divided: It contains internal opposition, split logic, border tension, or incompatible halves. | Gate: Tile must become a threshold, crossing, hinge, pass, bridge, or decision point. | Omen Inheritance: It inherits the current omen, sign, phrase, hue, mood, or card-image pressure. |
-| **5** | Contagious: It carries a force that may later bleed outward. | Tidebound: The tile is bound to another moving condition: coastline, bleed, region, route, stack, card result, or neighboring tile state. | Shape-Tangled: The tile is entangled with a multi-tile form: circle, triangle, square, spiral, arc, ring, corridor, or patch. | Bright: It carries attention, signal, shine, power, celebration, danger, or visibility. | Signal: It announces, marks, warns, names, attracts, or becomes visible from afar. | Void Inheritance: It inherits blankness, absence, strangeness, silence, missingness, or non-map material. |
-| **6** | Go to the **Origin Matrix**. | Go to the **Tether Matrix**. | Go to the **Entanglement Matrix**. | Go to the **Temper Matrix**. | Go to the **Office Matrix**. | Go to the **Inheritance Matrix**. |
+| **1** | Drawn-In | Anchored: The tile is firmly bound to its coordinate. It does not drift or rotate unless another rule later moves it. | Neighbor- Tangled: The tile is entangled with one or more adjacent tiles. | Quiet: It wants restraint, openness, stillness, or low intensity. | Connector: It joins things: edges, routes, regions, colors, layers, or broken continuities.. | Edge Inheritance: It inherits something from a touching or nearby edge. |
+| **2** | Void-Born | Loosely Held: The tile belongs here, but imperfectly. It may shift, rotate, or loosen if later pressure affects it. | Route-Tangled: The tile is entangled with movement: road, river, coast, path, current, procession, or drift-line. | Dense: It wants accumulation, layering, crowding, or compression. | Divider: It separates things: creates boundary, wall, gap, interruption, or distinction. | Echo Inheritance: It inherits an old mark, previous tile, past session, or buried memory. |
+| **3** | Twist-Born | Reversed: Rotate 180° or invert expected relation. | Region-Tangled: The tile is entangled with a larger area, biome, territory, district, color field, or zone. | Hungry: It wants to pull, consume, spread, absorb, or demand more. | Harbor: It receives, shelters, stores, gathers, or protects something. | Material Inheritance: It inherits a material requirement, restriction, substrate, tool, or texture. |
+| **4** | Edge-Starved | Drifting: The tile can move along a defined path, edge, coastline, route, border, or neighboring chain. | Grid-Tangled: The tile is entangled with structure: grid, coordinates, repetition, measurement, lattice, or constructed order. | Divided: It contains internal opposition, split logic, border tension, or incompatible halves. | Gate: Tile must become a threshold, crossing, hinge, pass, bridge, or decision point. | Omen Inheritance: It inherits the current omen, sign, phrase, hue, mood, or card-image pressure. |
+| **5** | Contagious | Tidebound: The tile is bound to another moving condition: coastline, bleed, region, route, stack, card result, or neighboring tile state. | Shape-Tangled: The tile is entangled with a multi-tile form: circle, triangle, square, spiral, arc, ring, corridor, or patch. | Bright: It carries attention, signal, shine, power, celebration, danger, or visibility. | Signal: It announces, marks, warns, names, attracts, or becomes visible from afar. | Void Inheritance: It inherits blankness, absence, strangeness, silence, missingness, or non-map material. |
+| **6** | **Origin Matrix**. | **Tether Matrix**. | **Entanglement Matrix**. | **Temper Matrix**. | **Office Matrix**. | **Inheritance Matrix**. |
 
 ## Origin
 
-Origin is the tile’s birth behavior.
+Origin is the tile's birth behavior: not what it looks like yet, but how it first enters the map at all — pulled inward, resisting its surroundings, twisted on the way in, starved outside its contact edges, or already carrying something that will spread. It answers where the tile's existence starts from, before Tether decides how firmly that existence holds.
 
-Examples:
+Not every named Origin needs a mechanical effect. Some (like Twist-Born) are meant to stay narrative-only, guiding how later phases read and describe the tile rather than triggering a rule.
 
-1. Drawn-In — surrounding tiles pull into it; neighboring colors/patterns may bleed inward.  
-2. Void-Born — it resists its surroundings and behaves separately.  
-3. Twist-Born — it enters through turmoil, rotation, misalignment, or vortex-like force.  
-4. Edge-Starved — touching sides matter; non-touching sides are barren, strange, or underfed.  
-5. Contagious — it carries something that may later spread outward.  
-6. Origin Matrix — deeper/stranger emergence logic.
+### Drawn-In
+*"Surrounding tiles are pulled into it."*
+
+**Effect:** If the Drawn-In tile moves from it's location, a random tile (Black number decides, calculating from north clockwise.) is pulld to the tile's previous location.
+
+### Void-Born
+*"It resists surroundings and behaves separately."*
+
+**Effect:** If the Void-Born tile moves, it is never affected by any other tile. Any rules that would apply are negated.
+
+### Twist-Born
+*"Influences are bent, rotated, or thrown into turmoil."*
+
+**Effect:** None — narrative only
+
+### Edge-Starved
+*"Contact edges feed it; non-contact edges become barren/strange."*
+
+**Effect:** When tile is worked, edges without connecting tile are left untouched or minimal.
+
+### Contagious
+*"It carries a force that may later bleed outward."*
+
+**Effect:** Every time a tile is changed next to this tile, it bleeds something random to that tile.
+
+### The Origin Matrix
+
+The Origin Matrix is what a Green 6 calls instead of one of the five named Origins above. Rather than a single word, it reads Yellow, Brown, and Black together as Force, Threshold, and Scar — a deeper, stranger, or more compound birth than any one named Origin can hold on its own. Matrix-tier results across all six Cartography categories are narrative-only: they add depth to how the tile is described, but do not carry their own mechanical effect.
+
+**Reading a Matrix result:** each row is written to be read left to right as one connected passage, not three separate fragments. Force gives a standalone definition of itself, then opens a sentence that keeps running through Threshold and closes partway into Scar; Scar's second sentence then stands alone as the takeaway. Force is always two sentences, Threshold is always one, Scar is always two.
 
 |  | Yellow — Force | Brown — Threshold | Black — Scar |
 | :---- | :---- | :---- | :---- |
-| 1 | Pull: The map draws the tile in. Neighboring pressures, edges, or routes summon it. | Edge: It enters through one touching edge or border. | Clean: The birth leaves little disturbance. The tile can settle normally. |
-| 2 | Refusal: The tile appears by resisting or rejecting the surrounding map. | Gap: It enters through absence, blankness, missing space, or unclaimed room. | Barren: Some parts remain empty, sterile, pale, silent, or void-touched. |
-| 3 | Turbulence: The tile emerges through spin, twist, storm, churn, or instability. | Seam: It enters through a join between tiles, regions, layers, or patterns. | Misaligned: The tile’s future surface must contain mismatch, wrong angle, offset, or bad registration. |
-| 4 | Hunger: The tile appears because something wants to consume, fill, absorb, or expand. | Route: It enters through a road, river, coast, current, trail, or movement line. | Stained: The tile carries contamination: color, material, mood, omen, or residue from elsewhere. |
-| 5 | Signal: The tile appears because something calls, shines, sings, warns, names, or attracts attention. | Layer: It enters from above, below, behind, beneath, or another layer/state. | Repeated: Something duplicates, echoes, branches, multiplies, or appears in chorus. |
-| 6 | Contradiction: The tile is born from incompatible forces acting at once. | Breach: It enters through a rupture, wound, tear, broken bridge, collapse, or impossible opening. | Unstable: The birth is not finished. The tile may shift, change, rotate, demand a later rule, or remain unresolved. |
+| 1 | Pull: The map itself draws the tile in. Neighboring pressures, edges, or routes drive the tile to be born, entering... | Edge: ...through one touching edge or border... | Clean: ...however, the birth leaves little disturbance. The tile settles and behaves normally. |
+| 2 | Refusal: The tile appears by resisting or rejecting its surroundings. That refusal drives the tile to be born, entering... | Gap: ...through absence, blankness, missing space, or unclaimed room... | Barren: ...however, the birth leaves it barren. Some parts remain empty, sterile, pale, silent, or void-touched. |
+| 3 | Turbulence: Spin, twist, storm, churn, or instability throw the tile into being. That turbulence drives the tile to be born, entering... | Seam: ...through a join between tiles, regions, layers, or patterns... | Misaligned: ...however, the birth leaves it misaligned. The tile's future surface must carry mismatch, wrong angle, offset, or bad registration. |
+| 4 | Hunger: Something wants to consume, fill, absorb, or expand. That hunger drives the tile to be born, entering... | Route: ...along a road, river, coast, current, or trail... | Stained: ...however, the birth leaves it stained. Contamination — color, material, mood, omen, or residue from elsewhere — clings to it. |
+| 5 | Signal: Something calls, shines, sings, warns, names, or attracts attention. That signal drives the tile to be born, entering... | Layer: ...from above, below, behind, beneath, or another layer or state... | Repeated: ...however, the birth leaves it repeated. Something duplicates, echoes, branches, multiplies, or appears in chorus. |
+| 6 | Contradiction: Incompatible forces act at once. That contradiction drives the tile to be born, entering... | Breach: ...through a rupture, wound, tear, broken bridge, collapse, or impossible opening... | Unstable: ...however, the birth leaves it unstable. The tile isn't finished — it may shift, change, rotate, demand a later rule, or remain unresolved. |
 
 ## Tether
 
@@ -416,9 +440,11 @@ Use this whenever a result cannot happen:
 
 Examples:
 
-* `Blocked: rotate attention away from the north edge cannot happen because K041 North Bleed and K078 Alders bind T001 to T002. Result converted to constraint.`  
-* `Blocked: cover the center cannot happen because K003 Anchor Point and K025 Central Structure remain controlling. Result skipped.`  
+* `Blocked: rotate attention away from the north edge cannot happen because a named north-bleed trait binds this tile to its neighbor. Result converted to constraint.`  
+* `Blocked: cover the center cannot happen because the anchor point and its central structure remain controlling. Result skipped.`  
 * `Blocked: ignore the neighbor relation cannot happen because Touching Force / Bleeding Force is active. Result deferred to the receiving tile.`
+
+These examples are illustrative only — they don't cite real keyword IDs on purpose, since a made-up ID here could collide with a real one added later to `keyword-list.md`. Reference a real ID from that file when writing an actual Blocked note for a session.
 
 ## Existing-Tile Concrete Action Table
 

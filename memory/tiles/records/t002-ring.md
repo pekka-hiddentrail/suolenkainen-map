@@ -42,7 +42,7 @@
 | Artifact draw | S002 Artifact Draw complete: Minimal log + Before/after + Lore fragment + Publication Matrix as Private self / Short caption / Teaser + Keyword list maintenance + Seed Matrix as Keyword / Todo queue / Return when tile targeted. Artifact is keyword K016 Ring, with supporting session-log note. |
 | Omen sources | C123 floral girl sleeping on tree stump; C089 giant carrying colosseum |
 | Active token | Concealed buried-thing token, now leaning toward Court arena / Ring relic |
-| Keywords | K003 Region-Tangled; K007 Burial Cost; K010 Edge-Starved; K011 Reversed; K012 Hungry; K013 Buried Threshold; K014 Open by Layer; K015 Omen Inheritance; K016 Ring |
+| Keywords | K003 Region-Tangled; K007 Burial Cost; K016 Ring (T002's other one-off Cartography results — Edge-Starved, Reversed, Hungry, Buried Threshold, Open by Layer, Omen Inheritance — were retired as keywords under the recurrence rule; see Tags) |
 | Tags | T002; Ring; edge-starved; reversed; region-tangled; hungry; buried-threshold; open-by-layer; burial-cost; omen-inheritance; Court-arena; void-relic; sinkhole; mountain; plastic-ring; dark-center; green-felt; green-bleed; roadway; dashed-red-circle; black-circle; T001-warning-bleed |
 | Unresolved | Decide whether T001's warning-strip bleed satisfies, complicates, or extends T001's warning-checker return condition. Decide whether the concealed token is fully identified as Ring/Court arena or remains partly hidden. Latin spectator text remains pending. |
 | Last updated by session | S002 Artifact Draw |

@@ -24,13 +24,13 @@ Audit Chronicle tasks in a later session. The audit should check whether Chronic
 
 ## Adopted Delta - Brown Even Creates Last-Free New Tile
 
-Status: adopted during S004 Awakening and folded into `map-creation-rules-v1.md`.
+Status: adopted during S004 Awakening and folded into `map-creation-rules-v1.md`. The rule itself still stands, but the S004/T004 worked example below was later found to rest on a walk-back error — see "Adopted Delta - Same-Sign Diagonal Walk-Back..." below for the correction.
 
 When walk-back reaches an occupied coordinate and the Brown number is even, Brown still means that a new tile must be created. Do not stack a new tile on the occupied coordinate and do not convert the result into an existing-tile revisit.
 
 Instead, the final target is the last empty coordinate in the walk-back path before the occupied coordinate.
 
-S004 example:
+S004 example (superseded — see correction below):
 
 - Start from T003 at [1,-1].
 - Raw target is [-4,-4].
@@ -39,6 +39,8 @@ S004 example:
 - Brown 4 is even, so a new tile is required.
 - The last free coordinate before occupied [0,0] is [-1,-1].
 - T004 appears at [-1,-1].
+
+**Correction:** this walk-back path was wrong — it ticked both coordinates at once along a same-sign diagonal, which is not a real hex step (see the Same-Sign Diagonal entry below). Re-walked correctly, T004's Awakening never actually reaches occupied [0,0] at all — it touches the map one step earlier, at [-1,0]. So this example no longer demonstrates the last-free-coordinate mechanism in practice; it demonstrates the same-sign-diagonal error the next entry fixes. The rule above remains adopted for any future case where a walk-back genuinely lands on an occupied coordinate.
 
 ## Adopted Delta - S003 Inscription / Force / Seed Clarifications
 
@@ -80,3 +82,13 @@ The walk-back rule's own worked example only ever demonstrated the opposite-sign
 This was discovered because S004's recorded walk-back for T004 followed the same-sign diagonal tick-by-tick ([-4,-4] -> [-3,-3] -> [-2,-2] -> [-1,-1] -> [0,0]) without ever taking a real hex step, and stopped one step too late: [-1,-1] does not actually touch any existing tile. Re-walking with real NE/SE steps reaches map contact one step earlier, at a tie between [-1,0] (T001's SW neighbor) and [0,-1] (T001's NW neighbor) — both 7 real steps out, differing only in whether the deciding extra step was NE-side or SE-side.
 
 Adopted tie-break: when a same-sign-diagonal walk-back ties between a north-side contact point (extra NE or NW step) and a south-side contact point (extra SE or SW step), the black card number decides — odd goes north-bound, even goes south-bound. For T004, Black 6 is even, so the tie resolves south-bound: T004's corrected final target is [-1,0], not [-1,-1]. All T004 records, the coordinate map, and the map diagram have been corrected to [-1,0] accordingly.
+
+## Adopted Delta - Keyword Recurrence Rule
+
+Status: adopted during a keyword/tag audit and folded into `keyword-list.md`.
+
+Checked how many times each of the 31 keyword IDs then in `keyword-list.md` (K001-K031) was actually referenced anywhere in the whole memory tree, outside its own bookkeeping (its own definition row, its own tile record's Keywords field, its own tile-data.md row). 26 of them appeared in exactly those 3 places and nowhere else — never referenced from another tile, another session, or any obligation. Only 5 recurred: K003 (Region-Tangled) and K007 (Burial Cost), each independently drawn by two different tiles, and K016 (Ring), K024 (Star-Canyon Grid), K025 (The Canyon), each created by Chronicle's Seed mechanism as an explicit future return condition.
+
+Adopted rule: a result earns a keyword ID only when a second tile independently draws the same result, or Chronicle's Seed mechanism creates it as a return condition on creation. A one-off Cartography result that belongs to exactly one tile and isn't a Seed return condition stays a plain tag on that tile's own record instead.
+
+Applied retroactively: K001, K002, K004-K006, K008-K015, K017-K023, and K026-K031 were removed from `keyword-list.md`. Nothing was lost — every one was already present as a plain tag on its own tile's record. Retired IDs are not reused or renumbered; the next new keyword continues from K032.
