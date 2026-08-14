@@ -2,8 +2,6 @@
 
 v0.2
 
-# 
-
 # Concept
 
 ## Ideas
@@ -37,8 +35,6 @@ Keep unresolved items short and concrete wherever they're recorded.
 - A prompt can be answered later. Attunement often creates pressure; Surface and Inscription often give that pressure a body.  
 - When uncertain, write the uncertainty down as a live question. Do not smooth it away.
 
-# 
-
 # Phases
 
 A session contains of 6 phases:
@@ -50,113 +46,13 @@ A session contains of 6 phases:
 * Inscription adds detail and meaning.  
 * Chronicle records and closes the work.
 
-## Phase 1: Awakening
+Each phase has its own full section below, in order.
 
-The session is opened and made active.
-
-This is where you begin the working session: open the session log, draw two faced cards that provide the six colored number results, consult the current procedure, choose or discover the target tile, and establish what kind of session this is. Awakening turns “I might work on the map” into “the map is now in session.”
-
-Typical actions:
-
-* open the session log  
-* draw two faced cards and read their colored number results  
-* determine the target tile  
-* read the current prompt  
-* identify the session’s required path  
-* mark the session as started
-
-## Phase 2: Cartography
-
-The target tile is handled as part of the map before mood, materials, or imagery are chosen.
-
-Cartography changes or confirms the tile's map-object state: target identity, coordinate, relation, binding, activation, valid and invalid moves, hard constraints, layer/stack status, edge status, and rule-state. It happens before Attunement so that Attunement reads the tile's actual map-state rather than guessing what the tile might become.
-
-Typical actions:
-
-* confirm whether the target is new or existing  
-* create a new tile's map-object identity  
-* update an existing tile's map-state  
-* record hard binds, bleeds, anchors, edge relations, and protected traits  
-* mark what actions are blocked by existing characteristics  
-* update tile status, keyword status, rule notes, or return conditions  
-* create temporary map-state notes, markers, arrows, tokens, or orientation records
-
-Cartography must not do Surface or Inscription work. It does not paint, collage, cut, stain, draw symbolic marks, choose final imagery, or complete lore-bearing details. It may place temporary notes, markers, arrows, or tokens beside the tile to record map-state.
-
-## Phase 3: Attunement
-
-The necessary preparation before physical map-work.
-
-Attunement happens after Cartography. It reads the tile's current map-object state and creates binding pressures that later phases must answer. You review previous notes, check active constraints, prepare materials, scan or print things, decorate or repair the deck, review bleeding rules, and gather anything the session requires.
-
-Typical actions:
-
-* check previous session notes  
-* inspect nearby tile effects and hard binds  
-* read the Cartography state before choosing pressures  
-* resolve which pressures are available, blocked, or pending  
-* scan, print, cut, sort, or prepare materials  
-* decorate or maintain the deck  
-* prepare references and tools  
-* plan how to approach the target tile without violating Cartography constraints
-
-## Phase 4: Surface
-
-The tile’s foundation is prepared or developed.
-
-This is where the tile becomes workable as a visual field. For a new tile, this includes writing tile details, marking orientation, basing, priming, dividing, and applying foundational marks. For existing tiles, this includes grids, substrate, paint fields, patchwork, backgrounds, large shapes, terrain masses, or continuation of patterns from nearby tiles.
-
-Typical actions:
-
-* write tile/layer details  
-* mark orientation and registration  
-* prime or base the tile  
-* add substrate or ground texture  
-* draw grids, divisions, or construction lines  
-* paint backgrounds  
-* create patchwork, zones, or fields  
-* continue a pattern forced by a neighboring tile
-
-## Phase 5: Inscription
-
-Detailed media and meaning are added.
-
-This is the phase of specific marks, features, symbols, and lived detail. Markers, pens, stickers, text, collage pieces, labels, buildings, roads, borders, icons, and other detail media are used depending on what the tile calls for.
-
-Typical actions:
-
-* add buildings or structures  
-* draw roads, paths, borders, rivers, signs  
-* add labels, names, symbols, or annotations  
-* use markers, stickers, text, stamps, or collage  
-* add lore-bearing details  
-* refine settlements, ruins, landmarks, or anomalies
-
-## Phase 6: Chronicle
-
-The session is closed, recorded, and extended outward.
-
-This is finishing work after the map action. It may include writing the session diary, recording what changed, photographing the tile, updating the website, writing lore, drafting a blog post, refining documentation, shuffling or updating the deck, and preparing the next session’s memory.
-
-Typical actions:
-
-* write the session log  
-* record final tile state  
-* photograph or scan the result  
-* update the website  
-* write short or long blog posts  
-* write lore  
-* update rules or documentation  
-* shuffle, reset, or maintain the deck  
-* note unresolved prompts for future sessions
-
-# 
-
-# Phase 1 \- Awakening
+# Phase 1 - Awakening
 
 The first thing to establish is where the last session left off — specifically, which tile was the previous target. That tile's coordinates become the reference point for calculating where to go next.
 
-The coordinate system uses two axes: NE-SW and SE-NW. Negative numbers sit to the left, positive to the right, and the very first tile placed — T001 — lives at \[0, 0\], the origin of everything. It looks unintuitive at first glance, but it becomes natural quickly. The key thing is that every tile has a precise, unambiguous address.
+The coordinate system uses two axes: NE-SW and SE-NW. Negative numbers sit to the left, positive to the right, and the very first tile placed — T001 — lives at [0, 0], the origin of everything. It looks unintuitive at first glance, but it becomes natural quickly. The key thing is that every tile has a precise, unambiguous address.
 
 Tiles are hexagons. Counting clockwise from the top, the six sides run N, NE, SE, S, SW, NW. The coordinate axes correspond to two of these six directions — NE-SW and SE-NW — so a coordinate shift is also a physical direction on the hex grid, not just an abstract number pair.
 
@@ -166,7 +62,7 @@ So: a new target coordinate exists. But there may not be a tile there yet.
 
 ## Handling the First Tile / Empty Map
 
-Before any map tiles exist, the first target is always T001 at \[0, 0\]. That tile is created by dividing it into four quadrants stemming from an anchor point on the tile. The anchor point is part of the tile's first physical structure and should remain available for later phases to answer.
+Before any map tiles exist, the first target is always T001 at [0, 0]. That tile is created by dividing it into four quadrants stemming from an anchor point on the tile. The anchor point is part of the tile's first physical structure and should remain available for later phases to answer.
 
 The walk-back logic below, and the brown-number decision that follows it, both assume an existing map to walk back toward. Before any map exists, those instructions are suspended — there is nothing to adjust the aim against yet.
 
@@ -180,11 +76,20 @@ The logic works like this. From the empty coordinate, identify the nearest of th
 
 From there, move one step toward that reference line. Check the new position: is there a tile there? Is it at least adjacent to an existing tile? If not, move again. Keep moving until the target lands somewhere that touches the existing map.
 
-To make it concrete: a target at \[-4, 5\] would first identify the diagonal as its nearest reference line. It steps to \[-4, 4\], then along the diagonal toward \[-3, 3\], \[-2, 2\], \[-1, 1\]. At \[-1, 1\], the target is adjacent to an existing tile. Stop.
+To make it concrete: a target at [-4, 5] would first identify the diagonal as its nearest reference line. It steps to [-4, 4], then along the diagonal toward [-3, 3], [-2, 2], [-1, 1]. At [-1, 1], the target is adjacent to an existing tile. Stop.
 
 Now the brown card number makes the final call. If it is even, a new tile is created at that location and the session continues from there. If it is odd, the target moves one step further — which might land on an existing tile, or might edge to another empty space that is adjacent to the map. Either way, the brown number is what decides whether something new is born or whether the session revisits somewhere that already exists.
 
 If the brown number is even but the walk-back path reaches an already occupied coordinate, do not stack a new tile on top of the occupied one and do not convert the result into an existing-tile revisit. Brown even means a new tile is required. In that case, use the last empty coordinate in the walk-back path before the occupied coordinate as the final target. Record both the occupied coordinate that stopped the walk and the last empty coordinate where the new tile appears.
+
+### Walking the two different diagonals
+
+The "diagonal where the absolute values of both coordinates are equal" is actually two different lines, and they behave differently during walk-back:
+
+- **Opposite-sign diagonal** (one coordinate positive, one negative, e.g. [-4, 4]): each coordinate-step along it is also a real single hex move — it is either due N ([+1,-1] per step) or due S ([-1,+1] per step). The worked example above ([-4, 5] to [-1, 1]) is on this diagonal, which is why treating each tick as one step was safe there.
+- **Same-sign diagonal** (both coordinates positive, or both negative, e.g. [-4, -4]): a tile's six real sides are only N, NE, SE, S, SW, NW — there is no direct E or W step, so [+1,+1] and [-1,-1] are not real single moves. Walking this diagonal back toward the origin actually alternates between two of those six sides: NE and SE (moving toward positive/east) or SW and NW (moving toward negative/west). Check for map contact after every one of those real steps, not after each two-coordinate tick — real contact is often found earlier than the tick-by-tick coordinate math suggests.
+
+On a same-sign diagonal, this can produce a tie: two paths of equal real-step length reach contact, one having taken the N-side leg (NE or NW) one more time than the S-side leg (SE or SW), the other the reverse. When that happens, the black card number breaks the tie the same way it does for reference lines: odd sends it to the north-bound option (the extra step is NE or NW), even sends it to the south-bound option (the extra step is SE or SW).
 
 It is a simple mechanism with surprisingly interesting consequences.
 
@@ -213,9 +118,7 @@ When a new tile is created, draw an Anchor point anywhere on the tile. Essential
 
 Raise questions from the drawn cards. What is a mystery a card presents? What is a feature that is unclear? What answers the map can provide to the card?
 
-# 
-
-# Phase 2.1 \- Cartography (New tile)
+# Phase 2.1 - Cartography (New tile)
 
 *The tile does not fully exist yet, but the map has already decided what kind of thing is trying to appear.*
 
@@ -280,7 +183,7 @@ Loosened — it belongs here, but imperfectly.
 Drifting — it can move along a coastline, route, edge, or boundary.  
 Turning — it may rotate or change orientation over time.  
 Tidebound — it follows some other changing condition.  
-6 \= Tether Matrix — special drifting, turning, detaching, or conditional rules.
+6 = Tether Matrix — special drifting, turning, detaching, or conditional rules.
 
 This is where ideas like “the tile rotates every session” or “the tile moves along the coast” belong.
 
@@ -304,7 +207,7 @@ Road-Knot — it is tied to a route, coast, river, path, or current.
 Land-Knot — it belongs to or resists a region, biome, territory, or color field.  
 Grid-Knot — it is tied to a grid, coordinate system, lattice, or repeated structure.  
 Shape-Knot — it belongs to a larger circle, triangle, square, spiral, arc, or multi-tile shape.  
-6 \= Entanglement Matrix — strange, distant, hidden, or impossible relationships.
+6 = Entanglement Matrix — strange, distant, hidden, or impossible relationships.
 
 |  | Yellow — Source | Brown — Relation | Black — Demand |
 | :---- | :---- | :---- | :---- |
@@ -326,7 +229,7 @@ Dense — compressed, layered, crowded, accumulative.
 Hungry — pulling, consuming, spreading, demanding.  
 Divided — split, opposed, internally conflicted.  
 Bright — visible, signal-like, radiant, celebratory, dangerous, attention-drawing.  
-6 \= Temper Matrix — unstable, contradictory, overcharged, or shifting inner nature.
+6 = Temper Matrix — unstable, contradictory, overcharged, or shifting inner nature.
 
 Temper tells Surface what kind of energy to honor.
 
@@ -354,7 +257,7 @@ Divider — separates, blocks, borders, dams, walls, or interrupts.
 Harbor — receives, shelters, stores, protects, or gathers something.  
 Gate — creates a crossing, hinge, threshold, pass, bridge, or decision point.  
 Signal — announces, warns, names, shines, attracts, or becomes legible.  
-6 \= Office Matrix — double office, failed office, parasitic office, ritual office, etc.
+6 = Office Matrix — double office, failed office, parasitic office, ritual office, etc.
 
 This category prevents the tile from being only “a place.” It gives it a map-function.
 
@@ -378,7 +281,7 @@ Echo Inheritance — it carries an old mark, old tile, previous session, or buri
 Material Inheritance — it inherits a material, restriction, substrate, tool, or texture.  
 Omen Inheritance — it carries the current omen, sign, hue, phrase, mood, or card-image pressure.  
 Void Inheritance — it brings blankness, absence, silence, strangeness, or non-map matter.  
-6 \= Inheritance Matrix — impossible source: retired tile, future tile, hidden layer, off-board object, weather token, dream/reference, etc.
+6 = Inheritance Matrix — impossible source: retired tile, future tile, hidden layer, off-board object, weather token, dream/reference, etc.
 
 Inheritance is close to “debt,” but better for new tiles because it asks what comes with the tile, not only what it owes.
 
@@ -391,9 +294,7 @@ Inheritance is close to “debt,” but better for new tiles because it asks wha
 | 5 | Void: From absence, blankness, missing space, silence, non-map matter, or unworked area. | Wound: Damage, gap, blank, missingness, awkward part, scar, rupture, or unresolved mark. | Spread: Let it branch, multiply, bleed, infect, echo, or travel outward. |
 | 6 | Impossible Source: From a future tile, off-board object, dream/reference, weather token, dead rule, retired tile, or contradiction. | Rule: A special behavior, restriction, future trigger, movement condition, bleed rule, or exception. | Owe: Record a future obligation: unresolved note, keyword, token, Chronicle debt, or later trigger. |
 
-# 
-
-# Phase 2.2 \- Cartography (Existing tile)
+# Phase 2.2 - Cartography (Existing tile)
 
 An existing tile is not born again.
 
@@ -416,18 +317,18 @@ These questions keep the phase cartographic rather than decorative.
 
 The six card numbers answer these six questions directly:
 
-* Green \= Root  
-* Blue \= Activation  
-* Red \= Adjustment  
-* Yellow \= Constraint  
-* Brown \= Cost  
-* Black \= Carry-forward
+* Green = Root  
+* Blue = Activation  
+* Red = Adjustment  
+* Yellow = Constraint  
+* Brown = Cost  
+* Black = Carry-forward
 
 The eight existing-tile result types remain descriptive vocabulary. Use them to name the overall shape of the adjustment after the six numbered answers are read.
 
 ## Existing-Tile Number Interpretations
 
-| \# | Root | Activation | Adjustment | Constraint | Cost | Carry-Forward |
+| # | Root | Activation | Adjustment | Constraint | Cost | Carry-Forward |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **1** | Coordinate / placement remains fixed. | Unresolved debt, wound, or pending obligation wakes. | Re-aim: attention turns toward a chosen live item. | Do not move the tile or alter its coordinate. | Marker cost: create a token, note, label, pointer, or temporary marker. | Attunement must read the active issue. |
 | **2** | Root identity remains fixed. | Neighbor relation, bleed, touch, or edge contact wakes. | Re-bind: one obligation becomes the active bond. | Hard bind cannot be ignored. | Debt cost: an obligation remains open or becomes more specific. | Surface must respect the map-state. |
@@ -460,7 +361,7 @@ When a result says something remains "authoritative," "controlling," or "primary
 Concrete effect:
 
 * Place a temporary marker beside the protected feature, not on top of it.  
-* Write in the log: "\[feature\] controls this session."  
+* Write in the log: "[feature] controls this session."  
 * Later phases must check before any permanent action: "Does this hide, weaken, cut, contradict, visually demote, detach, or ignore the protected feature?"  
 * If yes, the action is blocked unless a later result explicitly permits violating it.  
 * Record the block with the blocking keyword, characteristic, or map-state.
@@ -484,14 +385,14 @@ Examples:
 
 ## Existing-Tile Concrete Action Table
 
-| \# | Root: concrete action | Activation: concrete action | Adjustment: concrete action | Constraint: concrete action | Cost: concrete action | Carry-forward: concrete action |
+| # | Root: concrete action | Activation: concrete action | Adjustment: concrete action | Constraint: concrete action | Cost: concrete action | Carry-forward: concrete action |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **1** | Confirm the coordinate in the log. Write "coordinate unchanged." | Choose one unresolved debt from the tile record and mark it active for this session. | Place a temporary arrow/note showing where attention is aimed. | Check whether any result would move the tile; if yes, block it and name the blocking keyword/trait. | Create a small token, sticky note, label, or pointer for the active issue. | Add one Attunement note: "Attunement must read \[active issue\]." |
-| **2** | Copy the tile's root identity into the log. Write "root identity preserved." | Choose one edge, neighbor, touch, or bleed relation and mark it active. | Write "bind active/hardened" beside the relevant relation in the log. | Check for hard binds; if a result ignores them, block it and name the bleed/edge keyword. | Add or tighten a debt line in open obligations. | Add one Surface note: "Surface must respect \[bind/state\], without deciding imagery yet." |
-| **3** | List 1-3 named regions, marks, or features that must remain legible. | Choose the center, anchor, route, or core structure that wakes. | Record a working orientation: "read from \[edge/neighbor/center\] toward \[feature\]." | Check whether any result erases a name/mark/keyword; if yes, block it and name the protected keyword. | Add a tile-state note: layer/status/orientation changed. | Add one Inscription note: "Inscription must not erase \[protected item\]." |
-| **4** | Name the edge or neighbor relation that must remain acknowledged. | Choose one material/layer/support/buried state already in the tile record and mark it active. | Bring an old note, photo, prior state, or unresolved condition into the session area. | Check whether any result breaks an edge/neighbor relation; if yes, block it and name the relation/keyword. | Add or harden an edge condition: bleed, touch, boundary, neighbor debt, or crossing status. | Add one Chronicle note: "Chronicle must document \[state change/block\]." |
-| **5** | Identify the center, anchor, or primary structure. Place a marker beside it and log: "do not cover, cut, move, erase, or visually demote this unless later permitted." | Choose one name, label, keyword, title, or identity that wakes. | Add or update a layer/stack/support relation in the tile record. Use a note, not a physical layer yet. | Check whether any result violates the center/anchor; if yes, block it and name the anchor/structure keyword. | Update keyword/status/rule note, or create a pending keyword-update note. | Add one future-tile/neighbor note: "\[neighbor/future tile\] must account for this." |
-| **6** | Write "keyword/rule state unchanged for now." No identity change. | Mark one dormant issue as "withheld / waiting," not active. | Write "blocked," "suspended," or "no map-object change" in the log. | Check whether any permanent change is being attempted; if yes, block it and name the blocking rule/trait. | Record the non-action as a debt: "result delayed/refused because \[reason\]." | Create a return condition: "Return when \[trigger\] appears." |
+| **1** | Confirm the coordinate in the log. Write "coordinate unchanged." | Choose one unresolved debt from the tile record and mark it active for this session. | Place a temporary arrow/note showing where attention is aimed. | Check whether any result would move the tile; if yes, block it and name the blocking keyword/trait. | Create a small token, sticky note, label, or pointer for the active issue. | Add one Attunement note: "Attunement must read [active issue]." |
+| **2** | Copy the tile's root identity into the log. Write "root identity preserved." | Choose one edge, neighbor, touch, or bleed relation and mark it active. | Write "bind active/hardened" beside the relevant relation in the log. | Check for hard binds; if a result ignores them, block it and name the bleed/edge keyword. | Add or tighten a debt line in open obligations. | Add one Surface note: "Surface must respect [bind/state], without deciding imagery yet." |
+| **3** | List 1-3 named regions, marks, or features that must remain legible. | Choose the center, anchor, route, or core structure that wakes. | Record a working orientation: "read from [edge/neighbor/center] toward [feature]." | Check whether any result erases a name/mark/keyword; if yes, block it and name the protected keyword. | Add a tile-state note: layer/status/orientation changed. | Add one Inscription note: "Inscription must not erase [protected item]." |
+| **4** | Name the edge or neighbor relation that must remain acknowledged. | Choose one material/layer/support/buried state already in the tile record and mark it active. | Bring an old note, photo, prior state, or unresolved condition into the session area. | Check whether any result breaks an edge/neighbor relation; if yes, block it and name the relation/keyword. | Add or harden an edge condition: bleed, touch, boundary, neighbor debt, or crossing status. | Add one Chronicle note: "Chronicle must document [state change/block]." |
+| **5** | Identify the center, anchor, or primary structure. Place a marker beside it and log: "do not cover, cut, move, erase, or visually demote this unless later permitted." | Choose one name, label, keyword, title, or identity that wakes. | Add or update a layer/stack/support relation in the tile record. Use a note, not a physical layer yet. | Check whether any result violates the center/anchor; if yes, block it and name the anchor/structure keyword. | Update keyword/status/rule note, or create a pending keyword-update note. | Add one future-tile/neighbor note: "[neighbor/future tile] must account for this." |
+| **6** | Write "keyword/rule state unchanged for now." No identity change. | Mark one dormant issue as "withheld / waiting," not active. | Write "blocked," "suspended," or "no map-object change" in the log. | Check whether any permanent change is being attempted; if yes, block it and name the blocking rule/trait. | Record the non-action as a debt: "result delayed/refused because [reason]." | Create a return condition: "Return when [trigger] appears." |
 
 ## Existing-Tile Result Types
 
@@ -526,9 +427,7 @@ Use this structure when running the phase for an existing tile:
 * Log note.  
 * Future obligation.
 
-# 
-
-# Phase 3 \- Attunement
+# Phase 3 - Attunement
 
 Attunement does not “prepare generally.” It reads the Cartography state and creates one or more binding pressures that the later physical phases must answer.
 
@@ -648,9 +547,7 @@ Concrete off-tile assets prepared for later use: labels, masks, templates, fragm
 | 5 | Support: Prepare a blank tile, blank layer, backing, substrate, storage slot, coordinate note, sleeve, or physical carrier. | Multiplied: Prepare a small set, sequence, batch, strip, chain, or repeated family. | Answer it: Later work must respond to it, even if it is not physically used. |
 | 6 | Seed: Prepare a reusable future element: mini-card, keyword candidate, motif, pattern cell, repeated shape, or concept-object. | Transferred: Move it into another system: deck, keyword list, material reserve, future-work tray, storage box, or website queue. | Bind it: It creates a hard obligation: later work must use it, visibly reject it, or explain its absence in Chronicle. |
 
-# 
-
-# Phase 4 \- Surface
+# Phase 4 - Surface
 
 **Surface** is the phase where the tile receives a physical foundation.
 
@@ -769,7 +666,7 @@ What must remain open, exposed, incomplete, or available?
 | 5 | Ladder/Bridge point: TBD | Transfers: TBD | Connection debt: TBD |
 | 6 | Weather gate: TBD | Enters/exits unpredictably: TBD | Unresolved rule: TBD |
 
-# Phase 5 \- Inscription
+# Phase 5 - Inscription
 
 A broad patterned inscription appears, relates to a larger system, spreads beyond the target tile, propagates through the map, and permanently changes something. Inscription can resolve a pressure cleanly, or deliberately leave residue for Chronicle.
 
@@ -870,9 +767,7 @@ What does the inscription leave behind, and how does that remainder behave later
 | 5 | Contagion: TBD | Partial: TBD | Spreads later: TBD |
 | 6 | Ghost: TBD | Unresolved: TBD | Haunts future work: TBD |
 
-# 
-
-# **Phase 6 \- Chronicle**
+# Phase 6 - Chronicle
 
 Chronicle closes the session, records what happened, and decides what must be archived, explained, repaired, published, maintained, or carried forward.
 
@@ -903,7 +798,7 @@ During S001-S010, each Chronicle may leave at most one new open obligation unles
 | 1 | Minimal log: Write a very short session note. Record date, tile, draw, and one-sentence result. | Photo: Take a basic photo of the finished tile. | Plain explanation: Write a direct explanation of what the tile/action means in normal language. | No public action: Keep this session private for now. Record it internally only. | Deck reset: Shuffle, reset, sort, repair, update, or maintain the card/deck system. | Keyword: Create or update a keyword that may return later. |
 | 2 | Tile state: Record the final condition of the tile: level, surface, inscriptions, edges, bridges, wounds, names, unresolved effects. | Scan: Scan the tile or create a flat, clear archive image. | Session diary: Write a personal process note: what you did, what surprised you, what decisions you made. | Website update: Update the map website, tile page, project page, gallery, index, or progress log. | Keyword list: Add, remove, replace, or update one keyword in the growing keyword list. | Unresolved prompt: Write a question or prompt that remains unanswered. |
 | 3 | Change list: List what physically changed during the session. Include target tile and any other affected tiles. | Before/after: Capture both the earlier state and the final state, or describe the difference if no before photo exists. | Lore fragment: Write in-world material: place description, local history, rumor, ecology, event, inhabitant, route note. | Short post: Write a short update: a caption, micro-blog, quick note, small progress entry. | Rule/documentation note: Write or revise a rule note, clarify a table, record an ambiguity, or update documentation. | Future action: Define a concrete action for later: extend path, revisit tile, add weather, finish wound, update lore. |
-| 4 | Cause chain: Explain why the tile ended up this way. Connect Cartography \-\> Attunement \-\> Surface \-\> Inscription. | Detail capture: Photograph or scan a close-up: wound, edge, mark, path, bridge, texture, inscription, or special rule area. | Name/title: Name something: tile, path, region, wound, weather event, city part, bridge, rule, inscription, or session. | Long post: Draft or write a longer blog post explaining the session, method, tile, rule, or story. | Todo list / future-work queue: Pick one todo item, update it, complete it, reschedule it, or move it into the next-session queue. | Return condition: Define when something comes back: when tile is targeted, when a color is 6, when path bleeds, when weather appears. |
+| 4 | Cause chain: Explain why the tile ended up this way. Connect Cartography -> Attunement -> Surface -> Inscription. | Detail capture: Photograph or scan a close-up: wound, edge, mark, path, bridge, texture, inscription, or special rule area. | Name/title: Name something: tile, path, region, wound, weather event, city part, bridge, rule, inscription, or session. | Long post: Draft or write a longer blog post explaining the session, method, tile, rule, or story. | Todo list / future-work queue: Pick one todo item, update it, complete it, reschedule it, or move it into the next-session queue. | Return condition: Define when something comes back: when tile is targeted, when a color is 6, when path bleeds, when weather appears. |
 | 5 | Affected map record: Record changes to the wider map: neighbors, bleed, regions, routes, weather, stack state, special rules. | Archive object: Preserve a physical or digital object from the session: card, scrap, stencil, note, offcut, seed, weather token, material fragment. | Myth/rumor: Write a more legendary, distorted, oral, symbolic, or unreliable version of what happened. | Social/caption: Prepare something shareable: image caption, social post, alt text, title, teaser, short public description. | Physical maintenance: Repair, clean, flatten, glue, protect, label, sleeve, store, magnet-check, felt-check, or stabilize materials. | Memory token: Create a physical or digital token that carries memory forward: card, scrap, tag, note, marker, symbol, saved image. |
 | 6 | Go to the Record Matrix. | Go to the Witness Matrix. | Go to the Meaning Matrix. | Go to the Publication Matrix. | Go to the Maintenance Matrix. | Go to the Seed Matrix. |
 
@@ -911,7 +806,7 @@ During S001-S010, each Chronicle may leave at most one new open obligation unles
 
 What should the session record, and in what form?
 
-|  | Yellow \- Focus | Brown \- Form | Black \- Consequence |
+|  | Yellow - Focus | Brown - Form | Black - Consequence |
 | ----- | ----- | ----- | ----- |
 | 1 | Tile: Record the target tile itself: identity, coordinate, final state, visible changes, and unresolved details. | Plain note: Write a direct note in ordinary language. | Settles memory: This makes the session stable enough to return to later. |
 | 2 | Change: Record what changed physically or structurally. | List: Use a short bullet list or checklist. | Creates reference: The record becomes a practical reference for later sessions. |
@@ -924,7 +819,7 @@ What should the session record, and in what form?
 
 What should be visually witnessed, and how?
 
-|  | Yellow \- Target | Brown \- Method | Black \- Status |
+|  | Yellow - Target | Brown - Method | Black - Status |
 | ----- | ----- | ----- | ----- |
 | 1 | Whole tile: Witness the finished tile as a complete object. | Photo: Take a basic photograph. | Archive-ready: The image should be usable for archive or publication if needed. |
 | 2 | Detail: Witness a specific part rather than the whole tile: wound, edge, mark, label, route fragment, texture, material join, bleed endpoint, or altered local feature. | Close-up: Capture the detail clearly. | Private archive: Keep it as process documentation unless Publication calls for it. |
@@ -933,17 +828,11 @@ What should be visually witnessed, and how?
 | 5 | Object / card / scrap: Witness a physical object from the session. | Physical archive: Preserve or photograph the object with enough context to identify it. | Stored as memory token: Put it in a named storage place or note where it belongs. |
 | 6 | Hidden / unresolved thing: Witness something that cannot yet be shown directly. | Indirect evidence: Record shadow, absence, masked area, note, covered mark, or placeholder. | Kept secret or delayed: Name when or how it may be revealed later. |
 
-## 
-
-## 
-
-## 
-
 ## **Meaning Matrix**
 
 Where does the session’s meaning come from, and how should it be told?
 
-|  | Yellow \- Source | Brown \- Mode | Black \- Effect |
+|  | Yellow - Source | Brown - Mode | Black - Effect |
 | ----- | ----- | ----- | ----- |
 | 1 | Map action: Meaning comes from what physically happened on the tile or map. | Plain explanation: Explain it in normal language. | Makes it legible: The note helps a future reader understand the action. |
 | 2 | Card / omen: Meaning comes from a drawn card, omen, prompt, or session sign. | Symbolic reading: Translate the sign into a clear interpretation. | Adds omen-memory: The omen remains attached to the session record. |
@@ -956,7 +845,7 @@ Where does the session’s meaning come from, and how should it be told?
 
 Who is this session for, and how and when should it be shared?
 
-|  | Green \- Audience | Blue \- Format | Red \- Release Rule |
+|  | Green - Audience | Blue - Format | Red - Release Rule |
 | ----- | ----- | ----- | ----- |
 | 1 | Private self: The audience is only the maker and the internal map record. | Internal note: Keep the result in the session log, tile data, or private archive. | Do not publish yet: Record it internally only. |
 | 2 | Project archive: The audience is the project’s durable archive: website, tile page, index, process log, gallery, or public-facing record. | Website entry: Create or update a web/project entry with the session’s result, affected tile(s), images if available, and unresolved hooks. | Publish/update now: Add or update the archive record as part of closure once the necessary witness material exists. If images are not ready, create a draft note or publication debt. |
@@ -969,7 +858,7 @@ Who is this session for, and how and when should it be shared?
 
 What part of the system needs upkeep, and what kind?
 
-|  | Green \- System Area | Blue \- Maintenance Action | Red \- System Effect |
+|  | Green - System Area | Blue - Maintenance Action | Red - System Effect |
 | ----- | ----- | ----- | ----- |
 | 1 | Deck: The maintained area is the card/deck system. | Reset / shuffle / sort: Restore, sort, repair, update, sleeve, annotate, rebalance, or prepare the deck. | Restore readiness: The deck should be easier to use next session. |
 | 2 | Keyword list: The maintained area is the keyword index. | Add / replace / remove: Create, revise, retire, rename, or clarify one keyword entry. | Change future readings: The keyword list should affect later interpretation. |
@@ -991,7 +880,7 @@ There are two kinds of Seed todo:
 
 Maintenance can force the future-work queue to be processed. When Chronicle Maintenance gives Todo list / future-work queue, pick one todo item and either complete it, update it, reschedule it, assign a trigger, or move it into the next-session queue.
 
-|  | Green \- Seed Type | Blue \- Storage | Red \- Return Rule |
+|  | Green - Seed Type | Blue - Storage | Red - Return Rule |
 | ----- | ----- | ----- | ----- |
 | 1 | Keyword: A word, phrase, tag, motif, pressure, or concept may return later. | Keyword list: Store it as a keyword entry with status and brief gloss. | May return normally: It can return through later draws, readings, rules, or interpretation. |
 | 2 | Prompt: A question remains useful but unanswered. | Session log: Store the prompt in the session log or open obligations ledger. | Return when relevant: Bring it back when the same tile, feature, rule, material, omen, or pressure appears. |
@@ -999,8 +888,6 @@ Maintenance can force the future-work queue to be processed. When Chronicle Main
 | 4 | Condition: A specific event, draw, tile state, edge contact, color number, or rule trigger will wake something later. | Rule note: Store the condition in rules delta, open obligations, or tile data. | Return when condition triggers: Do not act early unless another rule explicitly activates it. |
 | 5 | Memory token: A physical or digital object carries the memory forward. | Physical/digital object: Store the object, image, note, scrap, card, tag, marker, or saved file in a named place. | Return when drawn, found, or noticed missing: The token re-enters play when encountered or when its absence matters. |
 | 6 | Ghost seed: Something is carried forward hidden, unnamed, delayed, or only partly recorded. | Hidden archive: Store just enough evidence that it can return without being fully explained now. | Return unpredictably or by 6: It may return when a 6 appears, when contradiction appears, or when the hidden thing becomes impossible to ignore. |
-
-## 
 
 ## Keyword Status
 

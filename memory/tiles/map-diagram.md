@@ -5,17 +5,20 @@ An ASCII drawing of the physical map, laid out by real coordinate, not just list
 ## Current map
 
 ```
-   ____ 
-  /    \
- /      \
-/  T003  \____ 
-\        /    \
- \      /      \
-  \____/  T002  \
-  /    \        /
+          ____ 
+         /    \
+        /      \
+       / [1,-1] \____ 
+       \  T003  /    \
+        \      /      \
+         \____/ [1, 0] \
+         /    \  T002  /
+        /      \      /
+   ____/ [0, 0] \____/
+  /    \  T001  /
  /      \      /
-/  T001  \____/
-\        /
+/ [-1,0] \____/
+\  T004  /
  \      /
   \____/
 ```
@@ -25,18 +28,9 @@ An ASCII drawing of the physical map, laid out by real coordinate, not just list
 | T001 | AIKA | [0,0] |
 | T002 | Ring | [1,0] |
 | T003 | The Canyon | [1,-1] |
+| T004 |  | [-1,0] |
 
-T004 is not drawn attached to this cluster. Its coordinate, [-1,-1], is two steps from T001 (through either the empty [-1,0] or empty [0,-1] slot) and two steps from T003 (through the empty [0,-1] slot) — it does not touch any existing tile by a single shared edge under the coordinate math. That matches the open note in `tile-data.md` that T004's exact physical edge placement still needs confirming; draw it here once that's settled instead of guessing:
-
-```
-   ____ 
-  /    \
- /      \
-/  T004  \
-\        /
- \      /
-  \____/
-```
+T004 is drawn attached to this cluster now, touching T001 directly on T004's NE / T001's SW edge. Its coordinate was originally recorded as [-1,-1] — two steps from T001 and not touching anything — but that walk-back had ticked both coordinates of a same-sign diagonal at once, which isn't a real single hex step (there is no direct E/W side). Re-walking with real NE/SE steps found map contact one step earlier, at [-1,0]; see `../rules/rules-delta.md`'s same-sign-diagonal entry for the full derivation. The redraw above places T004 by mirroring T001's already-confirmed T002 (NE) offset in the opposite (SW) direction — same 7-character/3-line constants, negated.
 
 ## How to draw or extend this
 

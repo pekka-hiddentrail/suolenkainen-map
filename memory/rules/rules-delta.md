@@ -70,3 +70,13 @@ Seed / todo clarification adopted:
 - Seed items are either triggered todos, with a return condition, or unscheduled todos, which sit in the general todo list until Maintenance or the user chooses them.
 - Chronicle Maintenance result 4 is now Todo list / future-work queue instead of Tile index update in the main Chronicle table.
 - Maintenance can force queue processing: pick one todo item and complete, update, reschedule, assign a trigger, or move it into the next-session queue.
+
+## Adopted Delta - Same-Sign Diagonal Walk-Back and North/South Tie-Break
+
+Status: adopted during a post-S004 rules-maintenance review and folded into `map-creation-rules-v1.md`.
+
+The walk-back rule's own worked example only ever demonstrated the opposite-sign diagonal (e.g. [-4, 5] to [-1, 1]), where each coordinate tick is also a real single hex step (N or S). It never covered the same-sign diagonal (e.g. [-4, -4]), where a tile's six real sides are only N, NE, SE, S, SW, NW — there is no direct E or W step, so a [+1,+1] or [-1,-1] tick is not a real move at all. Walking that diagonal back requires alternating NE/SE (heading toward positive/east) or SW/NW (heading toward negative/west), and checking for map contact after every real step rather than after each two-coordinate tick.
+
+This was discovered because S004's recorded walk-back for T004 followed the same-sign diagonal tick-by-tick ([-4,-4] -> [-3,-3] -> [-2,-2] -> [-1,-1] -> [0,0]) without ever taking a real hex step, and stopped one step too late: [-1,-1] does not actually touch any existing tile. Re-walking with real NE/SE steps reaches map contact one step earlier, at a tie between [-1,0] (T001's SW neighbor) and [0,-1] (T001's NW neighbor) — both 7 real steps out, differing only in whether the deciding extra step was NE-side or SE-side.
+
+Adopted tie-break: when a same-sign-diagonal walk-back ties between a north-side contact point (extra NE or NW step) and a south-side contact point (extra SE or SW step), the black card number decides — odd goes north-bound, even goes south-bound. For T004, Black 6 is even, so the tie resolves south-bound: T004's corrected final target is [-1,0], not [-1,-1]. All T004 records, the coordinate map, and the map diagram have been corrected to [-1,0] accordingly.
