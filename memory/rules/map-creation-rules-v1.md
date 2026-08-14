@@ -180,11 +180,11 @@ After that, Attunement creates binding pressures from the newborn map-object sta
 
 |  | Origin | Tether | Entanglement | Temper | Office | Inheritance |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **1** | Drawn-In | Anchored: The tile is firmly bound to its coordinate. It does not drift or rotate unless another rule later moves it. | Neighbor- Tangled: The tile is entangled with one or more adjacent tiles. | Quiet: It wants restraint, openness, stillness, or low intensity. | Connector: It joins things: edges, routes, regions, colors, layers, or broken continuities.. | Edge Inheritance: It inherits something from a touching or nearby edge. |
-| **2** | Void-Born | Loosely Held: The tile belongs here, but imperfectly. It may shift, rotate, or loosen if later pressure affects it. | Route-Tangled: The tile is entangled with movement: road, river, coast, path, current, procession, or drift-line. | Dense: It wants accumulation, layering, crowding, or compression. | Divider: It separates things: creates boundary, wall, gap, interruption, or distinction. | Echo Inheritance: It inherits an old mark, previous tile, past session, or buried memory. |
-| **3** | Twist-Born | Reversed: Rotate 180° or invert expected relation. | Region-Tangled: The tile is entangled with a larger area, biome, territory, district, color field, or zone. | Hungry: It wants to pull, consume, spread, absorb, or demand more. | Harbor: It receives, shelters, stores, gathers, or protects something. | Material Inheritance: It inherits a material requirement, restriction, substrate, tool, or texture. |
-| **4** | Edge-Starved | Drifting: The tile can move along a defined path, edge, coastline, route, border, or neighboring chain. | Grid-Tangled: The tile is entangled with structure: grid, coordinates, repetition, measurement, lattice, or constructed order. | Divided: It contains internal opposition, split logic, border tension, or incompatible halves. | Gate: Tile must become a threshold, crossing, hinge, pass, bridge, or decision point. | Omen Inheritance: It inherits the current omen, sign, phrase, hue, mood, or card-image pressure. |
-| **5** | Contagious | Tidebound: The tile is bound to another moving condition: coastline, bleed, region, route, stack, card result, or neighboring tile state. | Shape-Tangled: The tile is entangled with a multi-tile form: circle, triangle, square, spiral, arc, ring, corridor, or patch. | Bright: It carries attention, signal, shine, power, celebration, danger, or visibility. | Signal: It announces, marks, warns, names, attracts, or becomes visible from afar. | Void Inheritance: It inherits blankness, absence, strangeness, silence, missingness, or non-map material. |
+| **1** | Drawn-In | Anchored | Neighbor- Tangled: The tile is entangled with one or more adjacent tiles. | Quiet: It wants restraint, openness, stillness, or low intensity. | Connector: It joins things: edges, routes, regions, colors, layers, or broken continuities.. | Edge Inheritance: It inherits something from a touching or nearby edge. |
+| **2** | Void-Born | Loosely Held | Route-Tangled: The tile is entangled with movement: road, river, coast, path, current, procession, or drift-line. | Dense: It wants accumulation, layering, crowding, or compression. | Divider: It separates things: creates boundary, wall, gap, interruption, or distinction. | Echo Inheritance: It inherits an old mark, previous tile, past session, or buried memory. |
+| **3** | Twist-Born | Reversed | Region-Tangled: The tile is entangled with a larger area, biome, territory, district, color field, or zone. | Hungry: It wants to pull, consume, spread, absorb, or demand more. | Harbor: It receives, shelters, stores, gathers, or protects something. | Material Inheritance: It inherits a material requirement, restriction, substrate, tool, or texture. |
+| **4** | Edge-Starved | Drifting | Grid-Tangled: The tile is entangled with structure: grid, coordinates, repetition, measurement, lattice, or constructed order. | Divided: It contains internal opposition, split logic, border tension, or incompatible halves. | Gate: Tile must become a threshold, crossing, hinge, pass, bridge, or decision point. | Omen Inheritance: It inherits the current omen, sign, phrase, hue, mood, or card-image pressure. |
+| **5** | Contagious | Tidebound | Shape-Tangled: The tile is entangled with a multi-tile form: circle, triangle, square, spiral, arc, ring, corridor, or patch. | Bright: It carries attention, signal, shine, power, celebration, danger, or visibility. | Signal: It announces, marks, warns, names, attracts, or becomes visible from afar. | Void Inheritance: It inherits blankness, absence, strangeness, silence, missingness, or non-map material. |
 | **6** | **Origin Matrix**. | **Tether Matrix**. | **Entanglement Matrix**. | **Temper Matrix**. | **Office Matrix**. | **Inheritance Matrix**. |
 
 ## Origin
@@ -235,27 +235,47 @@ The Origin Matrix is what a Green 6 calls instead of one of the five named Origi
 
 ## Tether
 
-Tether is the tile’s attachment to the map.
+Tether is how firmly the tile holds its place on the map: whether it's rooted to a fixed coordinate, held by only a thin connection, or left free to slide, turn, or answer to some other changing condition. It answers how insistently the tile stays where it landed, before Entanglement decides what larger thing has already caught it up.
 
-Examples:
+### Anchored
+*"The tile is firmly bound to its coordinate. It does not drift or rotate unless another rule later moves it."*
 
-Anchored — it settles firmly.  
-Loosened — it belongs here, but imperfectly.  
-Drifting — it can move along a coastline, route, edge, or boundary.  
-Turning — it may rotate or change orientation over time.  
-Tidebound — it follows some other changing condition.  
-6 = Tether Matrix — special drifting, turning, detaching, or conditional rules.
+**Effect:** This tile cannot be moved, rotated, or pulled by any other tile's Effect. Any such attempt is negated.
 
-This is where ideas like “the tile rotates every session” or “the tile moves along the coast” belong.
+### Loosely Held
+*"The tile belongs here, but imperfectly. It may shift, rotate, or loosen if later pressure affects it."*
+
+**Effect:** The first time another tile's Effect would move, rotate, or pull this tile, it happens in full. After that first time, this tile becomes Anchored for the rest of the game.
+
+### Reversed
+*"Rotate 180°, or invert the expected relation."*
+
+**Effect:** At birth, this tile's orientation flips: North swaps with South, NE with SW, and SE with NW. Any later rule that refers to one of this tile's edges by direction uses the opposite direction instead.
+
+### Drifting
+*"The tile can move along a defined path, edge, coastline, route, border, or neighboring chain."*
+
+**Effect:** None — narrative only
+
+### Tidebound
+*"The tile is bound to another moving condition: coastline, bleed, region, route, stack, card result, or neighboring tile state."*
+
+**Effect:** None — narrative only
+
+### The Tether Matrix
+
+The Tether Matrix is what a Blue 6 calls instead of one of the five named Tethers above. Rather than a single word, it reads Yellow, Brown, and Black together as Bond, Anchor, and Motion — a deeper, stranger, or more compound attachment than any one named Tether can hold on its own. Matrix-tier results across all six Cartography categories are narrative-only: they add depth to how the tile is described, but do not carry their own mechanical effect.
+
+**Reading a Matrix result:** each row is written to be read left to right as one connected passage. Bond gives a standalone definition of itself, then opens a sentence that keeps running through Anchor and closes partway into Motion; Motion's second sentence then stands alone as the takeaway. Bond is always two sentences, Anchor is always one, Motion is always two.
 
 |  | Yellow — Bond | Brown — Anchor | Black — Motion |
 | :---- | :---- | :---- | :---- |
-| 1 | Rooted: The tile is held firmly, as if planted or fixed. | Coordinate: It is bound to its birth coordinate or exact map position. | Hold: It does not move unless another rule forces it. The tether mainly stabilizes. |
-| 2 | Threaded: The tile is held by a thin connection: line, road, seam, bridge, note, or edge-memory. | Edge: It is bound to one edge, border, coast, seam, or side of contact. | Tug: It leans, pulls, or pressures toward its anchor, but does not fully move yet. |
-| 3 | Elastic: The tile can move or turn, but tends to return or stay near its origin. | Route: It is bound to a road, river, path, current, coastline, or movement line. | Slide: It may move along its anchor: edge, route, coast, region boundary, or chain. |
-| 4 | Conditional: The tile is held only while some condition remains true. | Neighbor: It is bound to one neighboring tile, adjacent pressure, or local cluster. | Turn: It may rotate toward, away from, or around its anchor. |
-| 5 | Reciprocal: The tile and another map element hold each other; both may be affected. | Region: It is bound to a larger territory, biome, color field, grid, or zone. | Snapback: It may drift or turn, but later returns, recenters, or reorients toward its anchor. |
-| 6 | Uncertain: The tile’s binding is unclear, unstable, contradictory, or not fully known yet. | Off-Map: It is bound to something outside the map: future tile, old card, weather token, reference, archive, or void. | Wander: Its motion is not fully controlled; it may drift, rotate, detach, or require a later rule. |
+| 1 | Rooted: The tile is held firmly, as if planted or fixed. That rootedness binds the tile, tied... | Coordinate: ...to its birth coordinate or exact map position... | Hold: ...however, it holds fast, refusing to move unless another rule forces it. The tether exists to stabilize, not to act. |
+| 2 | Threaded: The tile is held by a thin connection: line, road, seam, bridge, note, or edge-memory. That thin connection binds the tile, tied... | Edge: ...to one edge, border, coast, seam, or side of contact... | Tug: ...however, it leans, pulls, or presses toward its anchor, without yet fully moving. The bond is felt as pressure long before it becomes motion. |
+| 3 | Elastic: The tile can move or turn, but tends to return or stay near its origin. That elasticity binds the tile, tied... | Route: ...to a road, river, path, current, coastline, or movement line... | Slide: ...however, it slides along its anchor: edge, route, coast, region boundary, or chain. Its movement always follows a path already laid down for it. |
+| 4 | Conditional: The tile is held only while some condition remains true. That condition binds the tile, tied... | Neighbor: ...to one neighboring tile, adjacent pressure, or local cluster... | Turn: ...however, it turns: rotating toward, away from, or around its anchor. Its bond is directional before it is fixed. |
+| 5 | Reciprocal: The tile and another map element hold each other; both may be affected. That mutual hold binds the tile, tied... | Region: ...to a larger territory, biome, color field, grid, or zone... | Snapback: ...however, it may drift or turn, but always returns, recenters, or reorients toward its anchor. Whatever pulls it away, the bond eventually calls it back. |
+| 6 | Uncertain: The tile's binding is unclear, unstable, contradictory, or not fully known yet. That uncertainty binds the tile, tied... | Off-Map: ...to something outside the map itself: a future tile, an old card, a weather token, a reference, an archive, or the void... | Wander: ...however, its motion is not fully controlled. It may drift, rotate, detach, or require a later rule to settle it. |
 
 ## Entanglement
 
