@@ -154,9 +154,7 @@ Typical actions:
 
 # Phase 1 \- Awakening
 
-[https://forms.gle/98BJcadcZXajnhydA](https://forms.gle/98BJcadcZXajnhydA)
-
-The first thing to establish is where the last session left off — specifically, which tile was the previous target. That tile's coordinates become the anchor point for calculating where to go next.
+The first thing to establish is where the last session left off — specifically, which tile was the previous target. That tile's coordinates become the reference point for calculating where to go next.
 
 The coordinate system uses two axes: NE-SW and SE-NW. Negative numbers sit to the left, positive to the right, and the very first tile placed — T001 — lives at \[0, 0\], the origin of everything. It looks unintuitive at first glance, but it becomes natural quickly. The key thing is that every tile has a precise, unambiguous address.
 

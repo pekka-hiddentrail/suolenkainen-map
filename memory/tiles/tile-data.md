@@ -13,7 +13,7 @@ Structured tile records for Suolenkainen's Map. This file tracks the tile index 
 
 ## Coordinate Map Reference
 
-Coordinate step-to-physical-direction mapping and confirmed tile placements are tracked in `coordinate-map.md`; keep that file, not this one, as the source of truth for coordinates.
+Coordinate step-to-physical-direction mapping and confirmed tile placements are tracked in `coordinate-map.md`; keep that file, not this one, as the source of truth for coordinates. A visual ASCII layout of the map is kept in `map-diagram.md` — update it alongside this file whenever a tile is placed or repositioned.
 
 ## Neighbor Coordinate Notes
 
