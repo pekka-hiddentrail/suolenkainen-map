@@ -180,11 +180,11 @@ After that, Attunement creates binding pressures from the newborn map-object sta
 
 |  | Origin | Tether | Entanglement | Temper | Office | Inheritance |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **1** | Drawn-In | Anchored | Neighbor- Tangled: The tile is entangled with one or more adjacent tiles. | Quiet: It wants restraint, openness, stillness, or low intensity. | Connector: It joins things: edges, routes, regions, colors, layers, or broken continuities.. | Edge Inheritance: It inherits something from a touching or nearby edge. |
-| **2** | Void-Born | Loosely Held | Route-Tangled: The tile is entangled with movement: road, river, coast, path, current, procession, or drift-line. | Dense: It wants accumulation, layering, crowding, or compression. | Divider: It separates things: creates boundary, wall, gap, interruption, or distinction. | Echo Inheritance: It inherits an old mark, previous tile, past session, or buried memory. |
-| **3** | Twist-Born | Reversed | Region-Tangled: The tile is entangled with a larger area, biome, territory, district, color field, or zone. | Hungry: It wants to pull, consume, spread, absorb, or demand more. | Harbor: It receives, shelters, stores, gathers, or protects something. | Material Inheritance: It inherits a material requirement, restriction, substrate, tool, or texture. |
-| **4** | Edge-Starved | Drifting | Grid-Tangled: The tile is entangled with structure: grid, coordinates, repetition, measurement, lattice, or constructed order. | Divided: It contains internal opposition, split logic, border tension, or incompatible halves. | Gate: Tile must become a threshold, crossing, hinge, pass, bridge, or decision point. | Omen Inheritance: It inherits the current omen, sign, phrase, hue, mood, or card-image pressure. |
-| **5** | Contagious | Tidebound | Shape-Tangled: The tile is entangled with a multi-tile form: circle, triangle, square, spiral, arc, ring, corridor, or patch. | Bright: It carries attention, signal, shine, power, celebration, danger, or visibility. | Signal: It announces, marks, warns, names, attracts, or becomes visible from afar. | Void Inheritance: It inherits blankness, absence, strangeness, silence, missingness, or non-map material. |
+| **1** | Drawn-In | Anchored | Neighbor-Tangled | Quiet | Connector | Edge Inheritance |
+| **2** | Void-Born | Loosely Held | Route-Tangled | Dense | Divider | Echo Inheritance |
+| **3** | Twist-Born | Reversed | Region-Tangled | Hungry | Harbor | Material Inheritance |
+| **4** | Edge-Starved | Drifting | Grid-Tangled | Divided | Gate | Omen Inheritance |
+| **5** | Contagious | Tidebound | Shape-Tangled | Bright | Signal | Void Inheritance |
 | **6** | **Origin Matrix**. | **Tether Matrix**. | **Entanglement Matrix**. | **Temper Matrix**. | **Office Matrix**. | **Inheritance Matrix**. |
 
 ## Origin
@@ -279,101 +279,179 @@ The Tether Matrix is what a Blue 6 calls instead of one of the five named Tether
 
 ## Entanglement
 
-Entanglement defines the tile’s larger relationship.
+Entanglement is what larger thing already claims the tile as one of its pieces — not how firmly it holds its own spot (that's Tether), and not one specific object or rule it carries in (that's Inheritance), but what bigger pattern beyond the tile itself it's already a fragment of: a neighbor relation, a route, a region, a grid, or a multi-tile shape. It answers what scale the tile's identity operates at, before Temper decides what mood or force lives inside it.
 
-Examples:
+### Neighbor-Tangled
+*"The tile is entangled with one or more adjacent tiles."*
 
-Neighbor-Knot — adjacent tiles matter.  
-Road-Knot — it is tied to a route, coast, river, path, or current.  
-Land-Knot — it belongs to or resists a region, biome, territory, or color field.  
-Grid-Knot — it is tied to a grid, coordinate system, lattice, or repeated structure.  
-Shape-Knot — it belongs to a larger circle, triangle, square, spiral, arc, or multi-tile shape.  
-6 = Entanglement Matrix — strange, distant, hidden, or impossible relationships.
+**Effect:** Any Effect that refers to "a neighboring tile" of this tile applies to every tile physically touching it at once, not just one.
+
+### Route-Tangled
+*"The tile is entangled with movement: road, river, coast, path, current, procession, or drift-line."*
+
+**Effect:** Name the road, river, coast, or current this tile belongs to. Any Effect that triggers for another tile on that same route triggers for this tile too, even if the two tiles aren't adjacent.
+
+### Region-Tangled
+*"The tile is entangled with a larger area, biome, territory, district, color field, or zone."*
+
+**Effect:** Name the region this tile belongs to. If a later tile is ever identified as part of the same region, both tiles gain a shared keyword marking that region, and each tile's future Effects may reference the other.
+
+### Grid-Tangled
+*"The tile is entangled with structure: grid, coordinates, repetition, measurement, lattice, or constructed order."*
+
+**Effect:** This tile's coordinate becomes a fixed reference point: any later rule that counts distance, steps, or direction (a walk-back, a bleed's reach, a Black-number direction count) may be measured from this tile instead of from the tile it would otherwise use.
+
+### Shape-Tangled
+*"The tile is entangled with a multi-tile form: circle, triangle, square, spiral, arc, ring, corridor, or patch."*
+
+**Effect:** Name the multi-tile shape this tile belongs to, even if the other tiles that would complete it don't exist yet. Once enough named tiles exist to complete that shape, all of them gain one shared Effect, decided at that time.
+
+### The Entanglement Matrix
+
+The Entanglement Matrix is what a Red 6 calls instead of one of the five named Entanglements above. Rather than a single word, it reads Yellow, Brown, and Black together as Source, Relation, and Demand — a deeper, stranger, or more compound tangle than any one named Entanglement can hold on its own. Matrix-tier results across all six Cartography categories are narrative-only: they add depth to how the tile is described, but do not carry their own mechanical effect.
+
+**Reading a Matrix result:** each row is written to be read left to right as one connected passage. Source gives a standalone definition of itself, then opens a sentence that keeps running through Relation and closes partway into Demand; Demand's second sentence then stands alone as the takeaway. Source is always two sentences, Relation is always one, Demand is always two.
 
 |  | Yellow — Source | Brown — Relation | Black — Demand |
 | :---- | :---- | :---- | :---- |
-| 1 | Neighbor: An adjacent tile, local edge, nearby pattern, or immediate map pressure. | Echo: It repeats, answers, resembles, remembers, or mirrors the source. | Show: Make the relation visibly legible in Surface or Inscription. |
-| 2 | Route: A road, river, path, coast, current, border-walk, or movement line. | Resistance: It pushes against, blocks, refuses, interrupts, or contradicts the source. | Hide: Conceal the relation; make it indirect, buried, secret, or coded. |
-| 3 | Region: A territory, biome, district, color field, zone, cluster, or atmosphere. | Dependence: It relies on the source; its meaning, position, or future work depends on that relation. | Bind: Create a lasting link: bridge, note, keyword, edge mark, route, shape, or rule. |
-| 4 | Structure: A grid, lattice, coordinate system, repeated unit, measurement, or constructed order. | Contamination: The source leaks into it, stains it, infects it, colors it, or alters it. | Break: Sever, interrupt, damage, contradict, block, or refuse the relation. |
-| 5 | Shape: A circle, triangle, square, spiral, ring, arc, corridor, patch, or multi-tile geometry. | Exchange: Something passes both ways; tile and source affect each other. | Transform: Change the relation into another form, material, pattern, role, or meaning. |
-| 6 | Stranger: Something distant, hidden, off-map, old, future, retired, beneath, above, or outside normal map logic. | Possession: The source partly governs, haunts, claims, overrides, or speaks through the tile. | Defer: Leave the relation unresolved; record a pending obligation for Chronicle/future work. |
+| 1 | Neighbor: an adjacent tile, local edge, nearby pattern, or immediate map pressure. That neighbor entangles the tile, relating to it... | Echo: ...as an echo — it repeats, answers, resembles, remembers, or mirrors the source... | Show: ...however, the demand is to show it. The relation must be made visibly legible in Surface or Inscription. |
+| 2 | Route: a road, river, path, coast, current, border-walk, or movement line. That route entangles the tile, relating to it... | Resistance: ...as resistance — it pushes against, blocks, refuses, interrupts, or contradicts the source... | Hide: ...however, the demand is to hide it. The relation must be concealed: indirect, buried, secret, or coded. |
+| 3 | Region: a territory, biome, district, color field, zone, cluster, or atmosphere. That region entangles the tile, relating to it... | Dependence: ...as dependence — it relies on the source, and its meaning, position, or future work depends on that relation... | Bind: ...however, the demand is to bind it. A lasting link must be made: a bridge, note, keyword, edge mark, route, shape, or rule. |
+| 4 | Structure: a grid, lattice, coordinate system, repeated unit, measurement, or constructed order. That structure entangles the tile, relating to it... | Contamination: ...as contamination — the source leaks into it, stains it, infects it, colors it, or alters it... | Break: ...however, the demand is to break it. The relation must be severed, interrupted, damaged, contradicted, blocked, or refused. |
+| 5 | Shape: a circle, triangle, square, spiral, ring, arc, corridor, patch, or multi-tile geometry. That shape entangles the tile, relating to it... | Exchange: ...as exchange — something passes both ways, and tile and source affect each other... | Transform: ...however, the demand is to transform it. The relation must change into another form, material, pattern, role, or meaning. |
+| 6 | Stranger: something distant, hidden, off-map, old, future, retired, beneath, above, or outside normal map logic. That stranger entangles the tile, relating to it... | Possession: ...as possession — the source partly governs, haunts, claims, overrides, or speaks through the tile... | Defer: ...however, the demand is to defer it. The relation stays unresolved: a pending obligation for Chronicle or future work. |
 
 ## Temper
 
-Temper is the tile’s internal nature before it has visible form.
+Temper is the tile's internal nature before it has visible form: not what it's connected to (that's Entanglement) or what job it does (that's Office), but the raw energy level living inside it — restrained or crowded, hungry or divided, quiet or radiant. It answers what kind of energy Surface has to honor once the tile actually gets a body.
 
-Examples:
+### Quiet
+*"It wants restraint, openness, stillness, or low intensity."*
 
-Quiet — restrained, open, still, low-intensity.  
-Dense — compressed, layered, crowded, accumulative.  
-Hungry — pulling, consuming, spreading, demanding.  
-Divided — split, opposed, internally conflicted.  
-Bright — visible, signal-like, radiant, celebratory, dangerous, attention-drawing.  
-6 = Temper Matrix — unstable, contradictory, overcharged, or shifting inner nature.
+**Effect:** Any Effect that would trigger on or because of this tile happens at its smallest, mildest possible version.
 
-Temper tells Surface what kind of energy to honor.
+### Dense
+*"It wants accumulation, layering, crowding, or compression."*
+
+**Effect:** Whenever this tile would gain one marker, layer, tag, or copy of something, it gains two instead.
+
+### Hungry
+*"It wants to pull, consume, spread, absorb, or demand more."*
+
+**Effect:** Once, this tile may copy one Effect already active on an adjacent tile onto itself. The neighbor keeps its own copy too — nothing is taken away, only duplicated.
+
+### Divided
+*"It contains internal opposition, split logic, border tension, or incompatible halves."*
+
+**Effect:** This tile counts as two tiles for any Effect that targets "one tile." Such an Effect must pick one half and record which.
+
+### Bright
+*"It carries attention, signal, shine, power, celebration, danger, or visibility."*
+
+**Effect:** Any narrative-only or hidden Effect on a tile touching this one becomes active and visible the moment the two tiles make contact.
+
+### The Temper Matrix
+
+The Temper Matrix is what a Yellow 6 calls instead of one of the five named Tempers above. Rather than a single word, it reads Green, Blue, and Red together as Impulse, Body, and Volatility — a deeper, stranger, or more compound inner energy than any one named Temper can hold on its own. Matrix-tier results across all six Cartography categories are narrative-only: they add depth to how the tile is described, but do not carry their own mechanical effect.
+
+**Reading a Matrix result:** each row is written to be read left to right as one connected passage. Impulse gives a standalone definition of itself, then opens a sentence that keeps running through Body and closes partway into Volatility; Volatility's second sentence then stands alone as the takeaway. Impulse is always two sentences, Body is always one, Volatility is always two.
 
 |  | Green — Impulse | Blue — Body | Red — Volatility |
 | :---- | :---- | :---- | :---- |
-| 1 | Rest: It wants stillness, pause, quietness, suspension, or relief. | Field: It spreads as atmosphere, color field, texture, weather, openness, or ground. | Suppressed: The force is held down, hidden, softened, buried, or made quiet. |
-| 2 | Growth: It wants expansion, spread, branching, thickening, or accumulation. | Mass: It gathers as density, block, island, body, cluster, hill, city, or accumulation. | Overgrown: The force exceeds its bounds, spreads too far, crowds, branches, or multiplies. |
-| 3 | Appetite: It wants to consume, absorb, pull in, swallow, claim, or feed. | Line: It appears through road, river, edge, seam, current, border, scar, or path. | Split: The force divides into competing halves, directions, systems, or motives. |
-| 4 | Conflict: It carries opposition, split pressure, argument, friction, or internal difference. | Cell: It forms as repeated units, compartments, rooms, blocks, tiles, bubbles, or parcels. | Contaminated: The force carries wrong color, outside material, old mood, foreign logic, or residue. |
-| 5 | Radiance: It wants to shine, signal, sing, announce, glow, warn, or attract attention. | Center: It concentrates around a core, seed, shrine, wound, anchor, pit, eye, or star. | Exposed: The force is too visible, raw, bright, vulnerable, or unprotected. |
-| 6 | Mutation: It wants to change form, contradict itself, become other, or refuse stability. | Weather: It acts as cloud, storm, fog, rain, vortex, ash, shimmer, or moving condition. | Unstable: The force changes rule, flickers, reverses, mutates, or demands a later decision. |
+| 1 | Rest: it wants stillness, pause, quietness, suspension, or relief. That want takes shape as... | Field: ...atmosphere, color field, texture, weather, openness, or ground... | Suppressed: ...however, the force is held down: hidden, softened, buried, or made quiet. Whatever rests here has been pushed beneath the surface, not resolved. |
+| 2 | Growth: it wants expansion, spread, branching, thickening, or accumulation. That want takes shape as... | Mass: ...a density, a block, an island, a body, a cluster, a hill, a city, or an accumulation... | Overgrown: ...however, the force exceeds its bounds. It spreads too far, crowds, branches, or multiplies past what was asked for. |
+| 3 | Appetite: it wants to consume, absorb, pull in, swallow, claim, or feed. That want takes shape as... | Line: ...a road, river, edge, seam, current, border, or scar... | Split: ...however, the force divides. It breaks into competing halves, directions, systems, or motives. |
+| 4 | Conflict: it carries opposition, split pressure, argument, friction, or internal difference. That want takes shape as... | Cell: ...repeated units: compartments, rooms, blocks, tiles, bubbles, or parcels... | Contaminated: ...however, the force carries the wrong color, outside material, an old mood, foreign logic, or residue. |
+| 5 | Radiance: it wants to shine, signal, sing, announce, glow, warn, or attract attention. That want takes shape as... | Center: ...a core, seed, shrine, wound, anchor, pit, eye, or star... | Exposed: ...however, the force is too visible. It is raw, bright, vulnerable, or unprotected. |
+| 6 | Mutation: it wants to change form, contradict itself, become other, or refuse stability. That want takes shape as... | Weather: ...cloud, storm, fog, rain, vortex, ash, shimmer, or a moving condition... | Unstable: ...however, the force does not hold its own rule. It flickers, reverses, mutates, or demands a later decision. |
 
 ## Office
 
-Office is the tile’s cartographic role.
+Office is the tile's cartographic role: what it actively *does* for the map, not what it's made of or what's tangled into it. It asks what this tile does for the map as a whole — joins, separates, holds, opens, announces — so it doesn't stay just "a place" with no function.
 
-It asks:
+### Connector
+*"It joins things: edges, routes, regions, colors, layers, or broken continuities."*
 
-What does this tile do for the map?
+**Effect:** Name two other tiles (adjacent or not). Any Effect that could pass from one to the other may instead relay through this tile, even if the two aren't otherwise connected.
 
-Examples:
+### Divider
+*"It separates things: creates boundary, wall, gap, interruption, or distinction."*
 
-Connector — joins routes, regions, edges, colors, layers, or histories.  
-Divider — separates, blocks, borders, dams, walls, or interrupts.  
-Harbor — receives, shelters, stores, protects, or gathers something.  
-Gate — creates a crossing, hinge, threshold, pass, bridge, or decision point.  
-Signal — announces, warns, names, shines, attracts, or becomes legible.  
-6 = Office Matrix — double office, failed office, parasitic office, ritual office, etc.
+**Effect:** Any Effect that would cross from one side of this tile to the other (a bleed, a pull, a spread) is stopped here, unless the source Effect explicitly says it can cross a Divider.
 
-This category prevents the tile from being only “a place.” It gives it a map-function.
+### Harbor
+*"It receives, shelters, stores, gathers, or protects something."*
+
+**Effect:** This tile may hold one keyword, tag, or Effect in storage on behalf of another tile, protecting it from being changed, removed, or overwritten until it's released.
+
+### Gate
+*"Tile must become a threshold, crossing, hinge, pass, bridge, or decision point."*
+
+**Effect:** Name two tiles or conditions this tile stands between. Passing from one to the other, physically or narratively, must go through this tile — no Effect may skip past it.
+
+### Signal
+*"It announces, marks, warns, names, attracts, or becomes visible from afar."*
+
+**Effect:** Whenever any Effect triggers on this tile, every tile within this session's own Black number of steps (counted from north, clockwise) is immediately made aware of it, even without contact.
+
+### The Office Matrix
+
+The Office Matrix is what a Brown 6 calls instead of one of the five named Offices above. Rather than a single word, it reads Green, Blue, and Red together as Function, Method, and Cost — a deeper, stranger, or more compound role than any one named Office can hold on its own. Matrix-tier results across all six Cartography categories are narrative-only: they add depth to how the tile is described, but do not carry their own mechanical effect.
+
+**Reading a Matrix result:** each row is written to be read left to right as one connected passage. Function gives a standalone definition of itself, then opens a sentence that keeps running through Method and closes partway into Cost; Cost's second sentence then stands alone as the takeaway. Function is always two sentences, Method is always one, Cost is always two.
 
 |  | Green — Function | Blue — Method | Red — Cost |
 | :---- | :---- | :---- | :---- |
-| 1 | Join: It exists to connect, mend, continue, bridge, combine, or reconcile. | By Edge: Through one edge, border, seam, contact side, or boundary. | Quiet Cost: Something must be softened, reduced, hidden, or made less dominant. |
-| 2 | Separate: It exists to divide, block, wall, border, dam, protect, or interrupt. | By Route: Through road, river, coast, current, path, procession, or movement line. | Boundary Cost: Something must be cut, bordered, separated, framed, or contained. |
-| 3 | Hold: It exists to receive, store, shelter, contain, preserve, or gather. | By Layer: Through depth, stack, hidden state, buried mark, lower/upper layer, or palimpsest. | Burial Cost: Something must be covered, layered over, submerged, deferred, or made latent. |
-| 4 | Open: It exists to make passage, crossing, threshold, hinge, choice, or access. | By Field: Through atmosphere, color field, region, texture, density, weather, or spread. | Distortion Cost: Something must bend, misalign, mutate, rotate, or become unreliable. |
-| 5 | Proclaim: It exists to announce, name, warn, signal, shine, attract, or reveal. | By Mark: Through symbol, name, label, sign, number, wound, note, icon, or visible marker. | Spread Cost: Something leaks, branches, multiplies, infects, or becomes hard to contain. |
-| 6 | Disturb: It exists to disrupt, twist, corrupt, displace, unsettle, infect, or complicate. | By Exchange: Through two-way interaction with another tile, token, region, route, weather, or future event. | Debt Cost: The office creates a future obligation, unresolved note, keyword, token, or Chronicle debt. |
+| 1 | Join: it exists to connect, mend, continue, bridge, combine, or reconcile. It performs that job... | By Edge: ...through one edge, border, seam, contact side, or boundary... | Quiet Cost: ...however, something must be softened, reduced, hidden, or made less dominant to pay for it. The connection only holds if something else agrees to be quieter. |
+| 2 | Separate: it exists to divide, block, wall, border, dam, protect, or interrupt. It performs that job... | By Route: ...through road, river, coast, current, path, procession, or movement line... | Boundary Cost: ...however, something must be cut, bordered, separated, framed, or contained to pay for it. Division always needs a line drawn somewhere first. |
+| 3 | Hold: it exists to receive, store, shelter, contain, preserve, or gather. It performs that job... | By Layer: ...through depth, stack, a hidden state, a buried mark, an upper or lower surface, or a palimpsest... | Burial Cost: ...however, something must be covered, layered over, submerged, deferred, or made latent to pay for it. What is held safely is never held in the open. |
+| 4 | Open: it exists to make passage, crossing, threshold, hinge, choice, or access. It performs that job... | By Field: ...through atmosphere, color field, region, texture, density, weather, or spread... | Distortion Cost: ...however, something must bend, misalign, mutate, rotate, or become unreliable to pay for it. Access this wide always costs a little precision. |
+| 5 | Proclaim: it exists to announce, name, warn, signal, shine, attract, or reveal. It performs that job... | By Mark: ...through symbol, name, label, sign, number, wound, note, icon, or visible marker... | Spread Cost: ...however, something leaks, branches, multiplies, infects, or becomes hard to contain to pay for it. Once proclaimed, it can't be called back to just one place. |
+| 6 | Disturb: it exists to disrupt, twist, corrupt, displace, unsettle, infect, or complicate. It performs that job... | By Exchange: ...through two-way interaction with another tile, token, region, route, weather, or future event... | Debt Cost: ...however, the office creates a future obligation to pay for it. Record an unresolved note, keyword, token, or Chronicle debt. |
 
 ## Inheritance
 
-Inheritance is what the tile brings into being from elsewhere.
+Inheritance is what the tile brings into being from elsewhere: one specific thing — an object, a mark, a material, an omen, an absence — carried in from a single source, not an ongoing membership in something larger (that's Entanglement) or a rule about how firmly it's bound (that's Tether). It's close to "debt," but broader: it asks what comes with the tile, not only what it owes.
 
-Examples:
+### Edge Inheritance
+*"Something from a touching or nearby edge comes with it."*
 
-Edge Inheritance — something from a touching or nearby edge comes with it.  
-Echo Inheritance — it carries an old mark, old tile, previous session, or buried memory.  
-Material Inheritance — it inherits a material, restriction, substrate, tool, or texture.  
-Omen Inheritance — it carries the current omen, sign, hue, phrase, mood, or card-image pressure.  
-Void Inheritance — it brings blankness, absence, silence, strangeness, or non-map matter.  
-6 = Inheritance Matrix — impossible source: retired tile, future tile, hidden layer, off-board object, weather token, dream/reference, etc.
+**Effect:** At Cartography, copy one tag from a touching neighbor's record onto this tile's own Tags. That tag is now shared and permanent on both tiles.
 
-Inheritance is close to “debt,” but better for new tiles because it asks what comes with the tile, not only what it owes.
+### Echo Inheritance
+*"It carries an old mark, old tile, previous session, or buried memory."*
+
+**Effect:** Name one retired keyword (see the recurrence rule in `keyword-list.md`) or another tile's Effect. This tile carries a faint copy of it as a narrative echo, unless a later rule reactivates it in full.
+
+### Material Inheritance
+*"It inherits a material requirement, restriction, substrate, tool, or texture."*
+
+**Effect:** Name one physical material, tool, or substrate at Cartography. Surface for this tile must actually use that material — it cannot be substituted later without a new rule.
+
+### Omen Inheritance
+*"It carries the current omen, sign, hue, phrase, mood, or card-image pressure."*
+
+**Effect:** This tile permanently carries this session's two Awakening cards as its governing omen. Any later rule that asks what card or omen governs this tile answers with those two cards, even in future sessions.
+
+### Void Inheritance
+*"It brings blankness, absence, silence, strangeness, or non-map matter."*
+
+**Effect:** Choose one field on this tile's own record — a Cartography result, a tag, an edge — and leave it permanently blank. Any rule that would normally require filling that field is satisfied by its absence instead.
+
+### The Inheritance Matrix
+
+The Inheritance Matrix is what a Black 6 calls instead of one of the five named Inheritances above. Rather than a single word, it reads Green, Blue, and Red together as Source, Legacy, and Burden — a deeper, stranger, or more compound inheritance than any one named Inheritance can hold on its own. Matrix-tier results across all six Cartography categories are narrative-only: they add depth to how the tile is described, but do not carry their own mechanical effect.
+
+**Reading a Matrix result:** each row is written to be read left to right as one connected passage. Source gives a standalone definition of itself, then opens a sentence that keeps running through Legacy and closes partway into Burden; Burden's second sentence then stands alone as the takeaway. Source is always two sentences, Legacy is always one, Burden is always two.
 
 |  | Green — Source | Blue — Legacy | Red — Burden |
 | :---- | :---- | :---- | :---- |
-| 1 | Neighbor: From an adjacent tile, touching edge, nearby cluster, or local pressure. | Color: A hue, palette, stain, absence of color, contrast, or color obligation. | Preserve: Keep, protect, repeat, respect, or carry the inherited thing forward. |
-| 2 | Archive: From an older tile, previous session, retired state, scan, note, log, or old card. | Line: A route, border, road, river, seam, contour, path, crack, or directional mark. | Answer: Respond to it, complete it, continue it, oppose it, or make it meaningful. |
-| 3 | Layer: From below, above, behind, buried material, stack state, or hidden surface. | Matter: Material, substrate, texture, paper, tool, medium, residue, or physical handling. | Conceal: Hide, bury, disguise, encode, cover, or make it indirect. |
-| 4 | Omen: From the current card image, sign, hue, phrase, wound, mood, or Attunement omen. | Name: Label, title, coordinate, place-name, text fragment, number, sign, or language. | Transform: Change, translate, mutate, invert, corrupt, or rework the inheritance. |
-| 5 | Void: From absence, blankness, missing space, silence, non-map matter, or unworked area. | Wound: Damage, gap, blank, missingness, awkward part, scar, rupture, or unresolved mark. | Spread: Let it branch, multiply, bleed, infect, echo, or travel outward. |
-| 6 | Impossible Source: From a future tile, off-board object, dream/reference, weather token, dead rule, retired tile, or contradiction. | Rule: A special behavior, restriction, future trigger, movement condition, bleed rule, or exception. | Owe: Record a future obligation: unresolved note, keyword, token, Chronicle debt, or later trigger. |
+| 1 | Neighbor: the inheritance comes from an adjacent tile, touching edge, nearby cluster, or local pressure. From there, the tile inherits... | Color: ...a hue, palette, stain, absence of color, contrast, or color obligation... | Preserve: ...however, it must be preserved. Keep it, protect it, repeat it, respect it, or carry it forward. |
+| 2 | Archive: the inheritance comes from an older tile, previous session, retired state, scan, note, log, or old card. From there, the tile inherits... | Line: ...a route, border, road, river, seam, contour, path, crack, or directional mark... | Answer: ...however, it must be answered. Respond to it, complete it, continue it, oppose it, or make it meaningful. |
+| 3 | Layer: the inheritance comes from below, above, behind, buried material, stack state, or a hidden surface. From there, the tile inherits... | Matter: ...a material, substrate, texture, paper, tool, medium, residue, or physical handling... | Conceal: ...however, it must be concealed. Hide it, bury it, disguise it, encode it, cover it, or make it indirect. |
+| 4 | Omen: the inheritance comes from the current card image, sign, hue, phrase, wound, mood, or Attunement omen. From there, the tile inherits... | Name: ...a label, title, coordinate, place-name, text fragment, number, sign, or language... | Transform: ...however, it must be transformed. Change it, translate it, mutate it, invert it, corrupt it, or rework it. |
+| 5 | Void: the inheritance comes from absence, blankness, missing space, silence, non-map matter, or an unworked area. From there, the tile inherits... | Wound: ...a damage, gap, blank, missingness, awkward part, scar, rupture, or unresolved mark... | Spread: ...however, it must be allowed to spread. Let it branch, multiply, bleed, infect, echo, or travel outward. |
+| 6 | Impossible Source: the inheritance comes from a future tile, an off-board object, a dream or reference, a weather token, a dead rule, a retired tile, or a contradiction. From there, the tile inherits... | Rule: ...a special behavior, restriction, future trigger, movement condition, bleed rule, or exception... | Owe: ...however, it must be owed. Record a future obligation: an unresolved note, a keyword, a token, a Chronicle debt, or a later trigger. |
 
 # Phase 2.2 - Cartography (Existing tile)
 
