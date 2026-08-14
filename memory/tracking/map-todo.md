@@ -11,7 +11,7 @@ Todo types:
 ## Next-Session Queue
 
 - [ ] Review the new Seed rule before the next Chronicle: Seed should create a future-work item with a storage place and trigger, or become an unscheduled todo.
-- [ ] S004: before Surface, place or mark T004 at [-1,-1] and confirm its physical edge placement relative to the existing tiles.
+- [ ] S004: before Surface, place or mark T004 at its corrected coordinate [-1,0], directly touching T001 on T004's NE / T001's SW edge (coordinate corrected from [-1,-1]; see `../rules/rules-delta.md`).
 - [x] S004: run new-tile Cartography for T004.
 - [ ] S004 Attunement: identify the neighbor condition that holds T004 and the preserved rule T004 inherits.
 

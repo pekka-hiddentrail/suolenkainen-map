@@ -32,7 +32,7 @@ For each phase, write results into the session file under a `## PhaseName` headi
 - If Seed produced a future-work item, add it to `memory/tracking/map-todo.md` (Triggered if it has a return condition, Unscheduled if not).
 - If a rule was clarified or adopted, record it in `memory/rules/rules-delta.md` (and fold it into `memory/rules/map-creation-rules-v1.md` once it's stable).
 - If Artifact Draw was triggered, add `## Artifact Draw` to the session file and, if it produces a publish-ready page, write that to `memory/website-drafts/`.
-- If a new tile or coordinate was placed, sync `memory/tiles/coordinate-map.md` and the Tile Index in `memory/tiles/tile-data.md`.
+- If a new tile or coordinate was placed, sync `memory/tiles/coordinate-map.md`, the Tile Index in `memory/tiles/tile-data.md`, and the ASCII layout in `memory/tiles/map-diagram.md`.
 
 ## Creating new files
 

@@ -4,7 +4,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 
 ## T001 Obligations
 
-- S004 Awakening walk-back reached occupied [0,0], but Brown 4 required a new tile. T004 appears at the last free coordinate before T001: [-1,-1].
+- S004 Awakening walk-back reaches T004 directly touching T001 at [-1,0] (corrected from an originally-recorded [-1,-1]; see Rule And Documentation Obligations below).
 - S003 neighbor update: a little grid from T003 bled south into T001's north edge by 2 cm. T001's high technical energy changed it to silver, and T001's bleed-prevention wall stopped it.
 - S003 neighbor update: T001 forces T003 to answer the warning spread, so some black bleeds into T003.
 - Surface result: Weighted ground, Strange substance, Accumulated application, Stained treatment, Structure Matrix as Shape + Repetition + Interrupted, and Closed opening.
@@ -71,9 +71,9 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 
 ## T004 Obligations
 
-- S004 creates T004 at [-1,-1].
+- S004 creates T004 at [-1,0], directly touching T001 on T004's NE / T001's SW edge (corrected from an originally-recorded [-1,-1] that did not actually touch any tile).
 - S004 Cartography births T004 as a drawn-in conditional neighbor-wandering gate.
-- Confirm or mark T004's physical placement relative to the existing tiles before Surface.
+- Physical placement is now confirmed ([-1,0], touching T001) — mark it there before Surface.
 - Carry forward the S004 cards as Awakening pressure: C031 Green earth and C174 Rock giant.
 - Attunement must identify the neighbor condition that holds T004.
 - Surface must prepare a divided threshold, crossing, hinge, or decision structure.
@@ -82,7 +82,8 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 
 ## Rule And Documentation Obligations
 
-- Adopted S004 ruling: when walk-back reaches an occupied coordinate and Brown is even, Brown requires a new tile, so the final target is the last free coordinate before the occupied coordinate. S004 creates T004 at [-1,-1].
+- Adopted S004 ruling: when walk-back reaches an occupied coordinate and Brown is even, Brown requires a new tile, so the final target is the last free coordinate before the occupied coordinate.
+- Adopted same-sign-diagonal ruling: walking back along a diagonal where both coordinates share a sign requires real NE/SE or SW/NW hex steps, not a tick of both coordinates at once; ties between a north-side and south-side contact point are broken by the black card (odd north-bound, even south-bound). This corrected T004 from [-1,-1] to [-1,0]. See `../rules/rules-delta.md`.
 - Keep `../tiles/coordinate-map.md` synchronized with `../tiles/tile-data.md` whenever a new tile is placed or an existing tile's coordinate/physical relation changes.
 - Paired equal card numbers may have future significance. Current example: Green 5 and Blue 5 in S001. Record pairs when noticed, but do not change results yet.
 - Future planned color-channel rename: Brown becomes Orange and Black becomes Purple. Not active in the current or next session; prepare to adopt soon.
