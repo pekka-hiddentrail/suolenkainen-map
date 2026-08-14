@@ -52,11 +52,11 @@ Each phase has its own full section below, in order.
 
 The first thing to establish is where the last session left off — specifically, which tile was the previous target. That tile's coordinates become the reference point for calculating where to go next.
 
-The coordinate system uses two axes: NE-SW and SE-NW. Negative numbers sit to the left, positive to the right, and the very first tile placed — T001 — lives at [0, 0], the origin of everything. It looks unintuitive at first glance, but it becomes natural quickly. The key thing is that every tile has a precise, unambiguous address.
+The coordinate system uses two axes: NE-SW and SE-NW. Each axis runs negative through zero to positive, the same as an ordinary number line — that's the arithmetic convention, not a claim about physical left/right on the tile grid. The very first tile placed — T001 — lives at [0, 0], the origin of everything. It looks unintuitive at first glance, but it becomes natural quickly. The key thing is that every tile has a precise, unambiguous address.
 
-Tiles are hexagons. Counting clockwise from the top, the six sides run N, NE, SE, S, SW, NW. The coordinate axes correspond to two of these six directions — NE-SW and SE-NW — so a coordinate shift is also a physical direction on the hex grid, not just an abstract number pair.
+Tiles are hexagons. Counting clockwise from the top, the six sides run N, NE, SE, S, SW, NW. The coordinate axes correspond to two of these six directions — NE-SW and SE-NW — so a shift on a single axis is also a single physical direction on the hex grid, not just an abstract number. A shift on both axes at once can take more than one physical step to walk; see "Walking the two different diagonals" below.
 
-Draw two faced cards and read their printed or assigned colored number results. The new target coordinate is calculated directly from those card numbers. The NE-SW value is green minus blue. The SE-NW value is red minus yellow. This can produce a wide range of results — and it can absolutely send the target to the same tile twice in a row, which is fine. What it can also do, over many sessions, is pull the map in one direction while leaving other areas untouched for a long time. That is something worth watching. A solution may be needed eventually. For now, the map goes where the cards send it.
+Draw two cards and read their six colored number results; each card also shows an illustrated face (front or back) that later phases may read as an omen or mirror. The new target coordinate is calculated directly from the six numbers. The NE-SW value is green minus blue. The SE-NW value is red minus yellow. This can produce a wide range of results — and it can absolutely send the target to the same tile twice in a row, which is fine. What it can also do, over many sessions, is pull the map in one direction while leaving other areas untouched for a long time. That is something worth watching. A solution may be needed eventually. For now, the map goes where the cards send it.
 
 So: a new target coordinate exists. But there may not be a tile there yet.
 
@@ -72,13 +72,13 @@ More generally: if any rule in this document cannot operate because the map lack
 
 When the calculated coordinate is empty — no tile exists there — the system does not simply create one on the spot. Instead, it walks the target back toward the existing map, one step at a time.
 
-The logic works like this. From the empty coordinate, identify the nearest of three reference lines running through the origin: the diagonal where the absolute values of both coordinates are equal, or either of the two axes where one coordinate is zero. If the target is equidistant between two of these lines, the black card number breaks the tie — odd sends the target to the counter-clockwise option, even to the clockwise one.
+The logic works like this. From the empty coordinate, identify the nearest of three reference lines running through the origin: the diagonal where the absolute values of both coordinates are equal, or either of the two axes where one coordinate is zero. (The diagonal itself is really two different lines with different walking behavior — see "Walking the two different diagonals" below.) If the target is equidistant between two of these lines, the black card number breaks the tie — odd sends the target to the counter-clockwise option, even to the clockwise one.
 
-From there, move one step toward that reference line. Check the new position: is there a tile there? Is it at least adjacent to an existing tile? If not, move again. Keep moving until the target lands somewhere that touches the existing map.
+From there, move one step toward that reference line. Check the new position: does it touch the existing map, either by landing on a tile or by being adjacent to one? If not, move again. Keep moving until the target lands somewhere that touches the existing map.
 
 To make it concrete: a target at [-4, 5] would first identify the diagonal as its nearest reference line. It steps to [-4, 4], then along the diagonal toward [-3, 3], [-2, 2], [-1, 1]. At [-1, 1], the target is adjacent to an existing tile. Stop.
 
-Now the brown card number makes the final call. If it is even, a new tile is created at that location and the session continues from there. If it is odd, the target moves one step further — which might land on an existing tile, or might edge to another empty space that is adjacent to the map. Either way, the brown number is what decides whether something new is born or whether the session revisits somewhere that already exists.
+Now the brown card number makes the final call. If it is even, a new tile is created at that location and the session continues from there. If it is odd, the target moves one step further — which might land on an existing tile, or might move to another empty space that is still adjacent to the map. Either way, the brown number is what decides whether something new is born or whether the session revisits somewhere that already exists.
 
 If the brown number is even but the walk-back path reaches an already occupied coordinate, do not stack a new tile on top of the occupied one and do not convert the result into an existing-tile revisit. Brown even means a new tile is required. In that case, use the last empty coordinate in the walk-back path before the occupied coordinate as the final target. Record both the occupied coordinate that stopped the walk and the last empty coordinate where the new tile appears.
 
@@ -92,6 +92,47 @@ The "diagonal where the absolute values of both coordinates are equal" is actual
 On a same-sign diagonal, this can produce a tie: two paths of equal real-step length reach contact, one having taken the N-side leg (NE or NW) one more time than the S-side leg (SE or SW), the other the reverse. When that happens, the black card number breaks the tie the same way it does for reference lines: odd sends it to the north-bound option (the extra step is NE or NW), even sends it to the south-bound option (the extra step is SE or SW).
 
 It is a simple mechanism with surprisingly interesting consequences.
+
+### Awakening at a glance
+
+```mermaid
+flowchart TD
+    A["Start Awakening"] --> B["Draw two cards,<br/>read six colored numbers"]
+    B --> C{"Does any map<br/>tile exist yet?"}
+    C -->|No| D["Target tile is T001 at [0,0]<br/>(first-tile exception)"]
+    C -->|Yes| E["Calculate raw target:<br/>NE-SW = Green - Blue<br/>SE-NW = Red - Yellow"]
+    E --> F{"Is the raw target<br/>coordinate occupied?"}
+    F -->|Yes| G["Target tile is<br/>that existing tile"]
+    F -->|No| H["Find nearest reference line:<br/>same-sign diagonal, opposite-sign<br/>diagonal, NE-SW axis, or SE-NW axis"]
+    H --> I{"Equidistant between<br/>two candidate lines?"}
+    I -->|Yes| J["Black parity breaks the tie:<br/>odd = counter-clockwise<br/>even = clockwise"]
+    I -->|No| K["Step toward the<br/>chosen line"]
+    J --> K
+    K --> L{"Which kind of line?"}
+    L -->|"Opposite-sign diagonal<br/>or a single axis"| M["Each coordinate tick<br/>IS a real hex step"]
+    L -->|"Same-sign diagonal"| N["Alternate real NE/SE<br/>or SW/NW hex steps"]
+    M --> O{"Touches the<br/>existing map yet?"}
+    N --> O
+    O -->|No| P["Take the next real step"] --> O
+    O -->|"Yes - tie between<br/>north/south contact"| Q["Black parity:<br/>odd = north-bound<br/>even = south-bound"]
+    O -->|"Yes - no tie"| R["Contact coordinate found"]
+    Q --> R
+    R --> S{"Brown card:<br/>even or odd?"}
+    S -->|Even| T{"Is the contact<br/>coordinate occupied?"}
+    T -->|No| U["Target tile is a new tile<br/>at the contact coordinate"]
+    T -->|Yes| V["Target tile is a new tile at the<br/>last empty coordinate before it"]
+    S -->|Odd| W["Move one step further"]
+    W --> S2{"Landed on an<br/>existing tile?"}
+    S2 -->|Yes| G2["Target tile is<br/>that existing tile"]
+    S2 -->|"No (empty,<br/>adjacent to the map)"| U2["Target tile is a new tile<br/>at that coordinate"]
+    D --> Z
+    G --> Z
+    U --> Z
+    V --> Z
+    G2 --> Z
+    U2 --> Z
+    Z["Log the session:<br/>cards, numbers, shift,<br/>target tile / new-tile note"] --> AA["Proceed to Cartography"]
+```
 
 ## Logging the Session
 
@@ -110,11 +151,7 @@ At this stage, the log records:
 
 This is the minimum needed to reconstruct any session from scratch. More fields will be added as the phases develop — tile work notes, material choices, non-map activity records. But this is what gets written down at the end of initiation.
 
-## New tile
-
-When a new tile is created, draw an Anchor point anywhere on the tile. Essentially it can be a random location placed by a black marker. That anchor point might have something significant happening to it in the future of the tile’s life cycle. 
-
-## Ideas
+## Awakening Ideas
 
 Raise questions from the drawn cards. What is a mystery a card presents? What is a feature that is unclear? What answers the map can provide to the card?
 
@@ -578,6 +615,24 @@ When Surface creates a wound, breach, center, harbor, threshold, or reserve, rec
 Avoid over-completing the tile. If Surface starts to explain exactly what everything is, stop and move that explanation into a future Inscription or Chronicle note.
 
 A good Surface instruction tells the maker what to do with hands and materials next: what to prepare, where to leave space, what to apply, what to avoid, and what must remain unresolved.
+
+## First Mark: The Anchor Point
+
+For a new tile, Surface's first physical act — before Ground, Substance, or any of the six results below — is placing the anchor point: a mark anywhere on the tile, essentially a random location set with a black marker. Cartography has already decided the tile's birth conditions without touching it (a "claim without body"); this is the first physical trace, and it may or may not turn out to be significant later in the tile's life — that is a question for Inscription or Chronicle to answer, not something to decide now.
+
+```
+  Anchor point
+     Front
+    ______
+   /      \
+  /        \ 
+ /       .  \ 
+/            \
+\            /
+ \          /
+  \        /
+   \______/
+```
 
 |  | Ground | Substance | Application | Treatment | Structure | Opening |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
