@@ -1015,7 +1015,7 @@ Keywords tracked across sessions in the keyword-list file carry one of four stat
 
 # Reading Glosses
 
-Short interpretive glosses for individual prompt results, gathered from practice. These supplement the matrices; they explain how to read a result, not replace the tables themselves.
+Short interpretive glosses for individual prompt results, gathered from practice. These supplement the matrices; they explain how to read a result, not replace the tables themselves. Keep these glosses generic — session-specific examples of how one was actually used belong in `prompt-interpretation-notes.md`'s "Current Interpretive Notes" sections instead, not duplicated here.
 
 ## Attunement Table Keywords
 
