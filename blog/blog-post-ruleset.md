@@ -37,7 +37,7 @@ Each chapter has two parts, always in this order:
 
 ## 3. Source Discipline
 
-- Only chronicle things that have actually happened, as recorded in the real session files (`suolenkainen-map.md`, `tile-data.md`, `open-obligations.md`, `map-todo.md`, `rules-delta.md`) or in notes/photos provided directly for that post.
+- Only chronicle things that have actually happened, as recorded in the real session files (`../memory/narrative/sessions/`, `../memory/tiles/tile-data.md`, `../memory/tracking/open-obligations.md`, `../memory/tracking/map-todo.md`, `../memory/rules/rules-delta.md`) or in notes/photos provided directly for that post.
 - Demo or reference material used earlier in planning is not canon and must never be treated as something that happened.
 - If a detail isn't confirmed anywhere, leave it as an open question in the artist-voice section rather than inventing it in the epigraph. The epigraph can gesture at mystery; it should never quietly manufacture false history.
 - Internal documentation language (keyword IDs like "K027", phase jargon, matrix table names) belongs in the artist-voice section only, and even there, translated into readable prose rather than pasted as-is.

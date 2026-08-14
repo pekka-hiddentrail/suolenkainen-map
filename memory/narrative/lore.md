@@ -2,7 +2,7 @@
 
 General lore, recurring voices, cosmology, rumors, and setting-level material for Suolenkainen's Map.
 
-This file is for durable lore that is broader than a single tile. Tile-specific facts still belong in `tile-data.md`; phase-by-phase session history belongs in `suolenkainen-map.md`; unresolved practical debts belong in `open-obligations.md`.
+This file is for durable lore that is broader than a single tile. Tile-specific facts still belong in `../tiles/tile-data.md`; phase-by-phase session history belongs in `sessions/` (see `suolenkainen-map.md` for the index); unresolved practical debts belong in `../tracking/open-obligations.md`.
 
 ## Higher Forces
 

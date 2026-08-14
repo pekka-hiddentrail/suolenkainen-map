@@ -16,7 +16,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Actual Inscription: black areas of the border safety checkers bleed inward into the tile.
 - Actual Inscription: a safety line was added at the north/northeast corner to stop the checker bleed spread.
 - Actual Inscription: archaic symbols were written in the bottom area and between AIKA and the safety line.
-- Artifact Draw has been triggered and completed as `website-drafts/t001-aika-artifact.md`.
+- Artifact Draw has been triggered and completed as `../website-drafts/t001-aika-artifact.md`.
 - Attunement Echo: preserve a first trace from this session, preferably the robot ghost or another old/ghosted mark, so it remains influential without needing to dominate.
 - Attunement Matter: name one material or tool to acquire or deliberately seek for future sessions.
 - Attunement Mirror: choose one structural reference, such as a map, diagram, circuit, floorplan, textile, manuscript, or aerial image.
@@ -65,7 +65,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Chronicle follow-up: T003 has been photographed. Capture or verify the T003/T001 contact edge if the current photo does not show it clearly.
 - Chronicle seed: return to T003 when Star-Canyon Grid, hidden tunnel, yellow routes, silver grid bleed, red-circle inheritance, C127/star pattern, or Force/Residue clarification appears.
 - Artifact Draw: created/updated T003 Docs/archive page named The Canyon; keyword K025 The Canyon added; generic S003 blog written; C074 moonscape glued; Claude descriptions planned for two Instagram posts.
-- End-of-session maintenance completed: Force/Residue and Seed clarifications were adopted into the rules and recorded in `rules-delta.md`.
+- End-of-session maintenance completed: Force/Residue and Seed clarifications were adopted into the rules and recorded in `../rules/rules-delta.md`.
 - Seed queue item created in `map-todo.md`: when T003 / The Canyon is targeted, decide what the hidden yellow tunnel connects to and how the black warning bleed behaves.
 - Carry forward the two card-image pressures: C074 map of undercity and C127 rockstar with bass guitar.
 
@@ -83,15 +83,15 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 ## Rule And Documentation Obligations
 
 - Adopted S004 ruling: when walk-back reaches an occupied coordinate and Brown is even, Brown requires a new tile, so the final target is the last free coordinate before the occupied coordinate. S004 creates T004 at [-1,-1].
-- Keep `coordinate-map.md` synchronized with `tile-data.md` whenever a new tile is placed or an existing tile's coordinate/physical relation changes.
+- Keep `../tiles/coordinate-map.md` synchronized with `../tiles/tile-data.md` whenever a new tile is placed or an existing tile's coordinate/physical relation changes.
 - Paired equal card numbers may have future significance. Current example: Green 5 and Blue 5 in S001. Record pairs when noticed, but do not change results yet.
 - Future planned color-channel rename: Brown becomes Orange and Black becomes Purple. Not active in the current or next session; prepare to adopt soon.
 - Surface Structure Matrix still has TBD descriptions in the main rules. S001 uses the matrix terms provisionally: Shape + Repetition + Interrupted.
 - Inscription Force Matrix still has TBD descriptions in the main rules. S001 uses the matrix terms provisionally: Region/Shape + Propagation + Affects 2-6 tiles.
-- S003 Inscription clarifications adopted in `map-creation-rules-v1.md` and documented in `rules-delta.md`: Broad, Thread, Spread, Source, Force On Neighbor/Bleed/Marks edge-contact, Trace replacing Collateral, and Residue Keyword/Exposed/Must be answered.
+- S003 Inscription clarifications adopted in `../rules/map-creation-rules-v1.md` and documented in `../rules/rules-delta.md`: Broad, Thread, Spread, Source, Force On Neighbor/Bleed/Marks edge-contact, Trace replacing Collateral, and Residue Keyword/Exposed/Must be answered.
 - Seed clarification adopted: Seed creates a future-work item in `map-todo.md` as either a triggered todo or unscheduled todo; Chronicle Maintenance 4 processes the todo list / future-work queue.
 - Chronicle tasks need a future audit for practicality, overlap, and concrete artifact completion.
-- Lore file created: `lore.md`. Future sessions may define The Court and the Storyteller in more detail.
+- Lore file created: `../narrative/lore.md`. Future sessions may define The Court and the Storyteller in more detail.
 
 ## Return Conditions
 
@@ -99,4 +99,4 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - If AIKA, time, safety lines, warning checkers, black/orange highlights, archaic symbols, or a color 6 appears later, consider returning to T001's blocked propagation rule.
 - If silver grid bleed, black warning bleed, north-edge pressure, AIKA technical energy, safety lines, bleed-prevention wall, or color 6 appears later, consider returning to the S003 T003/T001 two-way bleed.
 - Chronicle should record the provisional Force Matrix interpretation unless a clearer rule is adopted.
-- Return to the AIKA safety-line token in `website-drafts/t001-aika-artifact.md` when a future session activates north/northeast spread, warning checkers, safety lines, AIKA/time, or color 6.
+- Return to the AIKA safety-line token in `../website-drafts/t001-aika-artifact.md` when a future session activates north/northeast spread, warning checkers, safety lines, AIKA/time, or color 6.

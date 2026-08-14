@@ -1,336 +1,6 @@
-# Suolenkainen's Map
+# S003 — T003 · The Canyon
 
-Lightweight continuity file for map coordinates, tile IDs, and session state.
-
-## Coordinate System
-
-- Origin tile: T001 at [0,0]
-- NE-SW axis: Green minus Blue
-- SE-NW axis: Red minus Yellow
-- Hex sides, counting clockwise from the top: N, NE, SE, S, SW, NW
-- Keep the coordinate-to-physical-direction mapping explicit in the log whenever a target is calculated or adjusted.
-
-## Tile Index
-
-| Tile ID | Coordinate | State | Notes |
-| --- | --- | --- | --- |
-| T001 | [0,0] | Active / S001 Artifact complete | AIKA: first origin tile; contagious tidebound region-marker with north/northeast warning-checker spread points and a safety line block. |
-
-## Occupied Coordinates
-
-| Coordinate | Tile ID | Layer / Stack | Current status |
-| --- | --- | --- | --- |
-| [0,0] | T001 | Base tile | S001 complete; Artifact Draw stored at website-drafts/t001-aika-artifact.md. |
-
-## Session Log
-
-### S001 - Awakening
-
-- Session title: Breaking the void
-- Previous tile: none
-- Previous coordinate: none
-- Drawn card identities:
-  - Card 1: C171, robot ghost
-  - Card 2: C111, lion
-- Drawn card numbers:
-  - Green: 5
-  - Blue: 5
-  - Red: 3
-  - Yellow: 2
-  - Brown: 6
-  - Black: 1
-- Calculated shift:
-  - NE-SW = Green minus Blue = 0
-  - SE-NW = Red minus Yellow = +1
-  - Calculated shift: [0,+1]
-- Adjustment:
-  - If this is the first tile, apply the first-tile exception and create T001 at [0,0].
-- Final target:
-  - T001 at [0,0]
-
-### S001 - Cartography
-
-Target: new tile T001 at [0,0].
-
-Results:
-
-- Origin: Contagious
-- Tether: Tidebound
-- Entanglement: Region-Tangled
-- Temper: Dense
-- Office: Office Matrix: Proclaim + By Mark + Burial Cost
-- Inheritance: Edge Inheritance
-
-Map-object instruction:
-
-T001 is a contagious tidebound region-marker. It carries a force that may spread outward, is bound to changing pressure, belongs to a larger region, wants density, and must proclaim by a mark that is partly buried.
-
-Obligations for Surface and Inscription:
-
-- Prepare dense physical ground.
-- Preserve edge conditions for future inheritance.
-- Create a concrete proclaiming mark.
-- Pay the burial cost by partly covering, burying, or delaying that mark.
-
-### S001 - Attunement
-
-Results:
-
-- Echo: Trace
-- Matter: Acquire
-- Mirror: Structure
-- Omen: Hue
-- Pressure: Pressure Matrix: Restlessness + Field + Transfigure
-- Provision: Mark
-
-Story of Attunement:
-
-1. A first trace must remain influential, and the robot ghost becomes a buried remnant, old signal, or mechanical afterimage.
-2. A future material is called for, so one tool, scrap, pigment, paper, or object should be deliberately sought beyond this session.
-3. A structural mirror stands nearby, lending logic from diagrams, circuits, maps, floorplans, textiles, manuscripts, or aerial views.
-4. The lion contributes a hue that may appear as use, absence, contrast, or bias.
-5. The whole field is restless and unfinished, so later work must transfigure that instability into matter, structure, pattern, symbol, or meaning.
-6. A blank mark must remain available as a label, sign, token, wound-name, or notation.
-
-Todo list:
-
-- Choose a trace source from the robot ghost.
-- Name one future acquisition.
-- Use a structural reference.
-- Choose the lion hue behavior.
-- Prepare a blank mark.
-
-### S001 - Surface
-
-Results:
-
-- Ground: Weighted
-- Substance: Strange
-- Application: Accumulated
-- Treatment: Stained
-- Structure: Structure Matrix, provisional: Shape + Repetition + Interrupted
-- Opening: Closed
-
-Physical instruction:
-
-Build a dense collage foundation from technical and art-material scraps, stain it with yellow/orange hue, and keep the spread-point edges visually controlled rather than open.
-
-What must remain available for Inscription:
-
-- AIKA as the buried/refusing technical trace.
-- North and northeast spread points.
-- A way to block or regulate propagation.
-
-Actual surface state and materials:
-
-- About 3 x 8 cm tile covered by varied scraps.
-- Central-ish technical-font text AIKA, partly buried by schematic scraps but clarified with markers so it refuses burial.
-- Actual fan-brush epoxy-glued to the tile, with some of its stem covered by paper scraps.
-- Yellow watercolor streaks read as the brush having painted across the tile.
-- North and northeast edges marked as spread points with black/yellow warning checkers.
-
-### S001 - Inscription
-
-Results:
-
-- Scale: Map-Reaching
-- Form: Sign
-- Behavior: Block
-- Relation: Edge
-- Force: Force Matrix, provisional: Region/Shape + Propagation + Affects 2-6 tiles
-- Residue: Clean
-
-Concrete mark-making instruction:
-
-Make AIKA the governing sign, highlight it enough to refuse burial, and use the safety line to stop the checker bleed at the north/northeast spread corner.
-
-Map/lore consequence:
-
-Time rises through technical debris and regulates the tile's contagious spread. The fan-brush has made a yellow lion-hue action, but the warning-checker propagation is stopped before it can escape.
-
-Unresolved residue:
-
-- No major residue debt from Inscription. Future north/northeast tiles must check the spread points and safety line.
-- Artifact draw was later triggered and completed as `website-drafts/t001-aika-artifact.md`.
-
-### S001 - Chronicle
-
-Results:
-
-- Record: Affected map record
-- Witness: Archive object
-- Meaning: Lore fragment
-- Publication: Website update
-- Maintenance: Maintenance Matrix, provisional: Physical map + Repair/Stabilize/Protect + Prevents future damage
-- Seed: Keyword
-
-Final session log:
-
-S001, Breaking the void, created T001 at [0,0] as the first origin tile. The robot ghost and lion cards produced a raw shift of [0,+1], but the first-tile exception placed the map at the origin. Cartography made T001 contagious, tidebound, region-tangled, dense, and governed by a buried proclamation by mark with pending edge inheritance. Attunement called for a trace, acquisition, structural mirror, lion hue, restless field transfiguration, and prepared mark. Surface became a heavy collage object with electrical schematics, art-supply scraps, the technical word AIKA, an actual fan-brush, yellow watercolor streaks, and warning-checker spread points at north and northeast. Inscription kept the additions small: AIKA was highlighted in black and orange, checker black bled inward, a safety line stopped spread at the north/northeast corner, and archaic symbols were written below and between AIKA and the safety line. Chronicle records AIKA as the keyword seed and the north/northeast spread points as future checks; the later Artifact Draw completed a website/archive draft and AIKA safety-line memory token.
-
-Future obligations:
-
-- If a future tile is created north or northeast of T001, check the warning-checker spread points and the safety line before accepting bleed or continuation.
-- If AIKA, time, safety lines, warning checkers, black/orange highlights, archaic symbols, or a color 6 appears later, consider returning to T001's blocked propagation rule.
-- Protect the physical fan-brush and raised surface during storage.
-- Artifact Draw completed later as a website/archive draft and memory token.
-
-### S001 - Artifact Draw
-
-Draw values:
-
-- Green 2: Record - Tile state
-- Blue 3: Witness - Before/after
-- Red 2: Meaning - Session diary
-- Yellow 2: Publication - Website update
-- Brown 4: Maintenance - Tile index update
-- Black 5: Seed - Memory token
-
-Artifact created:
-
-- `website-drafts/t001-aika-artifact.md`
-
-Artifact summary:
-
-The Artifact Draw created a website/archive draft for T001 - AIKA. It records the final tile state, a before/after description, a session diary note, website-page material, a tile index update, and the AIKA safety-line memory token.
-
-## S002 - T002 Ring
-
-### S002 - Awakening
-
-Session S002 began from T001 at [0,0]. The cards were C123, a floral girl sleeping on a tree stump, with Green 4, Blue 3, and Red 3; and C089, a giant carrying a colosseum, with Yellow 3, Brown 6, and Black 4.
-
-Coordinate calculation:
-
-- NE-SW shift = Green 4 - Blue 3 = +1.
-- SE-NW shift = Red 3 - Yellow 3 = 0.
-- Final target coordinate: [1,0].
-
-The target was empty but adjacent to T001, so no walk-back was required. Brown 6 was even, so T002 was created at [1,0], physically touching T001 on T002's SW edge / T001's NE edge.
-
-### S002 - Cartography
-
-Results:
-
-- Origin: Edge-Starved.
-- Tether: Reversed.
-- Entanglement: Region-Tangled.
-- Temper: Hungry.
-- Office: Office Matrix: Open by Layer with Burial Cost, summarized as Buried Threshold.
-- Inheritance: Omen Inheritance.
-
-Interpretation:
-
-T002 became an edge-starved hungry buried threshold. Contact with T001 feeds it, non-contact edges become strange or underfed, and the tile opens only through layer, depth, and burial. C123 contributes sleep, root, floral, and green pressure; C089 contributes ring, arena, burden, and carried monument pressure.
-
-### S002 - Attunement
-
-Results:
-
-- Echo: Claim.
-- Matter: Family.
-- Mirror: Structure.
-- Omen: Question.
-- Pressure: Pressure Matrix: Drift + Thread + Turn.
-- Provision: Token.
-
-Attunement story:
-
-T002 was claimed by a sinkhole/arena pressure-field: the starved edges pull toward the center, while the center pushes back toward the SW/T001 edge. Thin paper, tissue, and rough layered materials became the working family. Structural reference pressure remained available through route, terrain, and circulation logic. The omen question became: what part of C089's carried burden became circles and ovals beneath the ground, and what did C123's sleep preserve there? The drifting pressure needed a thread that turned toward T001. A concealed buried-thing token was prepared.
-
-### S002 - Surface
-
-Results:
-
-- Ground: Clouded.
-- Substance: Rough.
-- Application: Accumulated.
-- Treatment: Contrasted.
-- Structure: Structure Matrix, provisional: Region + Sequence + Interrupted.
-- Opening: Threshold.
-
-Actual surface:
-
-A plastic ring supported by foil and tissue stands in the middle of the tile. Darkened tissue fills the hole inside the ring. Tissue paper gathers around the edges. Green-painted felt pads sit around the slopes, and green watercolor stains the free edges. The surface is mostly a generation-1 underlayer, monotone with dark contrast and restrained green from the floral-girl omen.
-
-### S002 - Inscription
-
-Results:
-
-- Scale: Edge-Reaching.
-- Form: Figure.
-- Behavior: Block.
-- Relation: Neighbor.
-- Force: Force Matrix, provisional: Route/chain + Bridge + Modifies one adjacent tile.
-- Residue: Debt.
-
-Actual inscription:
-
-The green felt pads bleed green downhill. The text "Ring" is written on the side of the mountain. A large dashed red circle and a smaller solid black circle mark the ring/arena pressure. A roadway traces the side of the mountain, bringing a restrained terrain/map idea into the tile. Black marker from T001's warning strip bleeds into T002, making the T001/T002 neighbor relation active.
-
-Map/lore consequence:
-
-T002's sinkhole/ring is the Court's ancient arena relic, something that existed in the void before the tile emerged. It is revealed as Ring rather than built as an ordinary feature. The black warning bleed from T001 complicates the old warning-checker return condition and must be recorded in Chronicle.
-
-### S002 - Chronicle
-
-Results:
-
-- Record: Change list.
-- Witness: Before/after.
-- Meaning: Lore fragment.
-- Publication: Short post/caption.
-- Maintenance: Maintenance Matrix, provisional: Tile index + Clarify/revise + Create rule/update note.
-- Seed: Return condition.
-
-No artifact draw was made during this Chronicle.
-
-Final session log:
-
-S002 created T002, Ring, at [1,0], touching T001 on the SW/T001 edge. Cartography made it edge-starved, reversed, region-tangled, hungry, and governed by a buried threshold that opens by layer at burial cost. Attunement claimed the tile as a sinkhole/arena pressure-field, with starved edges pulling inward and the center pushing pressure back toward T001. Surface made a rough clouded underlayer with a plastic ring, foil and tissue support, darkened central tissue, edge tissue, green felt slope pads, and green watercolor staining on the free edges. Inscription named the feature Ring, added green downhill bleed, dashed red and solid black circles, a roadway around the mountain, and black warning-strip bleed from T001 into T002. Chronicle records Ring as the Court's ancient void-arena relic and leaves a return condition around the T001 warning bleed, SW bridge pressure, circles/ovals, and possible spectator text.
-
-Future obligations:
-
-- Photograph or otherwise document the whole tile and details: Ring, dark center, green downhill bleed, roadway, red/black circles, and T001 black warning bleed.
-- Decide whether T001's warning-strip bleed satisfies, complicates, or extends T001's warning-checker return condition.
-- Return to T002 when Ring, Court arena, black warning bleed, SW/T001 bridge, circles/ovals, spectator text, or color 6 appears.
-- Keep Latin spectator text pending; do not treat it as added yet.
-- No artifact draw yet.
-
-### S002 - Artifact Draw
-
-Draw values:
-
-- Green 1: Record - Minimal log.
-- Blue 3: Witness - Before/after.
-- Red 3: Meaning - Lore fragment.
-- Yellow 6: Publication Matrix: Private self + Short post/caption + Publish a teaser.
-- Brown 2: Maintenance - Keyword list.
-- Black 6: Seed Matrix: Keyword + Todo list/queue + Return when tile is targeted.
-
-Artifact created:
-
-- Keyword `K016 Ring` in `keyword-list.md`.
-
-Artifact summary:
-
-The Artifact Draw created Ring as a reusable keyword seed rather than a public artifact. The keyword records Ring as the named T002 figure: a void-old Court arena threshold, visible as the ring/sinkhole/mountain and returning when T002 is targeted or when Ring, circles/ovals, arena pressure, spectator text, black warning bleed, or a relevant 6 appears. The publication result is treated as a private teaser/caption, not a public post.
-
-Minimal log:
-
-S002 Artifact Draw created the keyword `Ring` for T002 and stabilized it as a private, future-facing artifact seed.
-
-Before/after witness:
-
-Before the session, T002 was an empty adjacent coordinate. Afterward, it became Ring: a raised, layered, green-stained sinkhole/mountain with circles, roadway, and black warning bleed from T001.
-
-Private teaser/caption:
-
-Ring was not built by the Court; it was found where the void had been keeping it.
-
-## S003 - T003 Awakening Target
-
-### S003 - Awakening
+## Awakening
 
 Session S003 began from T002 at [1,0]. The cards were C074, map of undercity, with Green 3, Blue 2, and Red 2; and C127, a rockstar and a bass guitar, with Yellow 5, Brown 6, and Black 6.
 
@@ -356,7 +26,7 @@ Awakening notice:
 
 Brown 6 and Black 6 are both color-6 pressures. This does not alter the Awakening result, but it should be carried forward because T002's existing return condition includes color 6.
 
-### S003 - Cartography
+## Cartography
 
 Results:
 
@@ -402,7 +72,7 @@ User cartography decisions:
 - The river valley leads to the center, where there is a bright city foundation.
 - Eastern edges inherit some of T002's red circle.
 
-### S003 - Attunement
+## Attunement
 
 Results:
 
@@ -448,7 +118,7 @@ User Surface decisions:
 - The route to the north is a dried river and is bordered by cliffs.
 - The city will be in bright colors, possibly supernova-like.
 
-### S003 - Surface
+## Surface
 
 Results:
 
@@ -508,11 +178,11 @@ Future obligation:
 
 Inscription must decide what the city actually is, answer the hidden line, sharpen the central division, and resolve or complicate the eastern red-circle inheritance from T002.
 
-### S003 - Inscription
+## Inscription
 
 Clarification note:
 
-The user supplied working clarifications for several Inscription table and matrix entries. These were recorded in `rules-delta.md` as S003 delta candidates. Force collateral remains partly unresolved; S003 uses the provisional ruling that On Neighbor + Bleed + Marks edge/contact means the main edge-held feature crosses into the affected neighbor by the Red-number distance, which is 2 cm in this session.
+The user supplied working clarifications for several Inscription table and matrix entries. These were recorded in `../../rules/rules-delta.md` as S003 delta candidates. Force collateral remains partly unresolved; S003 uses the provisional ruling that On Neighbor + Bleed + Marks edge/contact means the main edge-held feature crosses into the affected neighbor by the Red-number distance, which is 2 cm in this session.
 
 Results:
 
@@ -547,7 +217,7 @@ Future obligation:
 
 Chronicle must update T001, preserve the Force/Residue clarifications as rule-delta candidates, and define when Star-Canyon Grid, the hidden tunnel, silver grid bleed, or red-circle inheritance returns.
 
-### S003 - Chronicle
+## Chronicle
 
 Phase naming note:
 
@@ -572,7 +242,7 @@ Future obligations:
 - Scan or photograph T003 and the T003/T001 contact edge.
 - Return to T003 when Star-Canyon Grid, hidden tunnel, yellow routes, silver grid bleed, red-circle inheritance, C127/star pattern, or Force/Residue clarification appears.
 - Return to T001 when silver grid bleed, north-edge pressure, AIKA technical energy, safety lines, bleed-prevention wall, or color 6 appears.
-- S003 Inscription clarifications were later adopted into `map-creation-rules-v1.md` and recorded in `rules-delta.md`.
+- S003 Inscription clarifications were later adopted into `../../rules/map-creation-rules-v1.md` and recorded in `../../rules/rules-delta.md`.
 
 Social/caption draft:
 
@@ -582,7 +252,7 @@ Loggable note:
 
 S003 main Chronicle complete. Artifact Draw remains pending because the required second Chronicle draw has not yet been supplied.
 
-### S003 - Artifact Draw
+## Artifact Draw
 
 Draw values:
 
@@ -636,7 +306,7 @@ Artifact summary:
 
 S003 Artifact Draw completes The Canyon as the named T003 archive artifact. It stabilizes the tile name, records before/after witness, creates a myth/rumor, pairs the private caption direction with the T003 photo, records rule-documentation maintenance as the last session todo, and leaves one focused seed-refinement action for preparing the next session.
 
-### S003 - Maintenance Addendum
+## Maintenance Addendum
 
 Maintenance completed the rule/documentation work left by Artifact Draw.
 
@@ -658,89 +328,9 @@ Adopted Seed clarification:
 
 Todo queue update:
 
-- `map-todo.md` is now the active future-work queue.
+- `../../tracking/map-todo.md` is now the active future-work queue.
 - The S003 Seed item was added: when T003 / The Canyon is targeted, decide what the hidden yellow tunnel connects to, and whether the black warning bleed from T001 becomes a boundary, warning system, contamination, or route law.
 
 Loggable note:
 
-S003 maintenance closed the Seed ambiguity by making Seed a todo-queue mechanism and closed the Force ambiguity by replacing Collateral with Trace. The Canyon's hidden tunnel / black warning bleed question is now a triggered todo in `map-todo.md`.
-
-## S004 - Awakening
-
-Starting tile:
-
-- T003 / The Canyon at [1,-1].
-- Current occupied coordinate reference before S004: T001 / AIKA at [0,0], T002 / Ring at [1,0], T003 / The Canyon at [1,-1].
-
-Drawn cards:
-
-- C031, Green earth: Green 1, Blue 6, Red 1.
-- C174, Rock giant: Yellow 4, Brown 4, Black 6.
-
-Target calculation:
-
-- NE-SW shift = Green 1 - Blue 6 = -5.
-- SE-NW shift = Red 1 - Yellow 4 = -3.
-- Calculated coordinate from T003 [1,-1] is [-4,-4].
-
-Adjustment:
-
-- Raw coordinate [-4,-4] is empty and does not touch the current map.
-- The nearest reference line is the diagonal where absolute coordinate values are equal. [-4,-4] is already on that diagonal, so Black 6 is not needed as a tie-breaker.
-- Walk-back path along the diagonal toward the map: [-4,-4] -> [-3,-3] -> [-2,-2] -> [-1,-1] -> [0,0].
-- [0,0] is occupied by T001 / AIKA, so the walk-back has reached the map.
-- Brown 4 is even, and even Brown means a new tile must be created.
-- Because the coordinate reached by walk-back is already occupied, the new tile appears at the last free coordinate before the occupied coordinate: [-1,-1].
-- The exact physical edge placement of T004 relative to the existing tiles should be confirmed before Surface, because the new target is chosen by the last-free-coordinate rule rather than by an ordinary adjacent empty coordinate.
-
-Final target:
-
-- Final target coordinate: [-1,-1].
-- Target tile: T004, new tile.
-- Occupied coordinate that stopped the walk: [0,0], T001 / AIKA.
-- Last free coordinate where Brown 4 creates the new tile: [-1,-1].
-
-Coordinate mapping note:
-
-A dedicated `coordinate-map.md` file now records the current tile coordinates and inferred coordinate-step-to-physical-direction mapping:
-
-- [1,-1] = N.
-- [1,0] = NE.
-- [0,1] = SE.
-- [-1,1] = S.
-- [-1,0] = SW.
-- [0,-1] = NW.
-
-Log note:
-
-S004 begins from T003 / The Canyon at [1,-1]. C031 Green earth and C174 Rock giant produce a raw shift of [-5,-3], aiming to [-4,-4]. Because the raw target is empty, Awakening walks it back along the equal-absolute-value diagonal: [-4,-4] -> [-3,-3] -> [-2,-2] -> [-1,-1] -> [0,0]. The walk reaches occupied T001 / AIKA at [0,0]. Brown 4 is even, so a new tile is required; therefore the final target is the last free coordinate before occupied [0,0]. T004 appears at [-1,-1].
-
-### S004 - Cartography
-
-Target: new tile T004 at [-1,-1].
-
-Results:
-
-- Origin / Green 1: Drawn-In. Surrounding tiles are pulled into T004.
-- Tether / Blue 6: Tether Matrix using Yellow 4, Brown 4, Black 6: Conditional + Neighbor + Wander. T004 is held only while a neighboring condition remains true, is bound to a neighboring tile or local cluster, and may drift, rotate, detach, or require a later rule.
-- Entanglement / Red 1: Neighbor-Tangled. T004 is entangled with one or more adjacent or nearby tiles.
-- Temper / Yellow 4: Divided. T004 contains internal opposition, split logic, border tension, or incompatible halves.
-- Office / Brown 4: Gate. T004 must become a threshold, crossing, hinge, pass, bridge, or decision point.
-- Inheritance / Black 6: Inheritance Matrix using Green 1, Blue 6, Red 1: Neighbor + Rule + Preserve. T004 inherits a neighboring rule, restriction, trigger, movement condition, bleed rule, or exception, and must preserve it.
-
-Map-object instruction:
-
-T004 is a drawn-in conditional neighbor-wandering gate. It appears because the map's walk-back reached occupied T001 but Brown 4 required a new tile, so its very birth is rule-shaped. Treat it as a gate pulled inward by surrounding map pressure, held by a neighbor-condition, divided inside, and carrying a rule that must not be erased.
-
-Obligations for Surface and Inscription:
-
-- Confirm or mark T004's exact physical edge placement before Surface.
-- Attunement must identify the neighbor condition that holds T004.
-- Surface must prepare a divided threshold, crossing, hinge, or decision structure.
-- Surface must keep the Green earth / Rock giant pressure available as material or weight, not full imagery yet.
-- Inscription must eventually decide what the gate opens between.
-- Inscription must preserve the inherited neighbor rule: the S004 last-free-coordinate rule, or another rule-pressure from T001/T003 that Attunement identifies.
-
-Loggable note:
-
-S004 Cartography births T004 as a drawn-in conditional neighbor-wandering gate with Neighbor Rule Inheritance. The tile is not a simple extension of the map: it is born from a walk-back exception and must preserve that rule-pressure as part of its identity.
+S003 maintenance closed the Seed ambiguity by making Seed a todo-queue mechanism and closed the Force ambiguity by replacing Collateral with Trace. The Canyon's hidden tunnel / black warning bleed question is now a triggered todo in `../../tracking/map-todo.md`.
