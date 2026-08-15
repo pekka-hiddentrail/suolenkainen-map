@@ -1,6 +1,6 @@
 # Rules Delta
 
-Living notes for rule clarifications, contradictions, provisional rulings, and adopted rulings that have not yet been folded into `map-creation-rules-v1.md`.
+Living notes for rule clarifications, contradictions, provisional rulings, and adopted rulings that have not yet been folded into `map-creation-rules.md`.
 
 ## Delta Candidate - Paired Card Numbers
 
@@ -24,7 +24,7 @@ Audit Chronicle tasks in a later session. The audit should check whether Chronic
 
 ## Adopted Delta - Brown Even Creates Last-Free New Tile
 
-Status: adopted during S004 Awakening and folded into `map-creation-rules-v1.md`. The rule itself still stands, but the S004/T004 worked example below was later found to rest on a walk-back error — see "Adopted Delta - Same-Sign Diagonal Walk-Back..." below for the correction.
+Status: adopted during S004 Awakening and folded into `map-creation-rules.md`. The rule itself still stands, but the S004/T004 worked example below was later found to rest on a walk-back error — see "Adopted Delta - Same-Sign Diagonal Walk-Back..." below for the correction.
 
 When walk-back reaches an occupied coordinate and the Brown number is even, Brown still means that a new tile must be created. Do not stack a new tile on the occupied coordinate and do not convert the result into an existing-tile revisit.
 
@@ -44,7 +44,7 @@ S004 example (superseded — see correction below):
 
 ## Adopted Delta - S003 Inscription / Force / Seed Clarifications
 
-Status: adopted into `map-creation-rules-v1.md` after S003 Artifact Draw maintenance discussion.
+Status: adopted into `map-creation-rules.md` after S003 Artifact Draw maintenance discussion.
 
 Inscription table clarifications proposed:
 
@@ -75,7 +75,7 @@ Seed / todo clarification adopted:
 
 ## Adopted Delta - Same-Sign Diagonal Walk-Back and North/South Tie-Break
 
-Status: adopted during a post-S004 rules-maintenance review and folded into `map-creation-rules-v1.md`.
+Status: adopted during a post-S004 rules-maintenance review and folded into `map-creation-rules.md`.
 
 The walk-back rule's own worked example only ever demonstrated the opposite-sign diagonal (e.g. [-4, 5] to [-1, 1]), where each coordinate tick is also a real single hex step (N or S). It never covered the same-sign diagonal (e.g. [-4, -4]), where a tile's six real sides are only N, NE, SE, S, SW, NW — there is no direct E or W step, so a [+1,+1] or [-1,-1] tick is not a real move at all. Walking that diagonal back requires alternating NE/SE (heading toward positive/east) or SW/NW (heading toward negative/west), and checking for map contact after every real step rather than after each two-coordinate tick.
 

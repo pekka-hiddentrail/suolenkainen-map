@@ -242,7 +242,7 @@ Future obligations:
 - Scan or photograph T003 and the T003/T001 contact edge.
 - Return to T003 when Star-Canyon Grid, hidden tunnel, yellow routes, silver grid bleed, red-circle inheritance, C127/star pattern, or Force/Residue clarification appears.
 - Return to T001 when silver grid bleed, north-edge pressure, AIKA technical energy, safety lines, bleed-prevention wall, or color 6 appears.
-- S003 Inscription clarifications were later adopted into `../../rules/map-creation-rules-v1.md` and recorded in `../../rules/rules-delta.md`.
+- S003 Inscription clarifications were later adopted into `../../rules/map-creation-rules.md` and recorded in `../../rules/rules-delta.md`.
 
 Social/caption draft:
 

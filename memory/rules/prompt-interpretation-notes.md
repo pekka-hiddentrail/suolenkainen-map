@@ -1,6 +1,6 @@
 # Prompt Interpretation Notes
 
-Practical notes for reading Suolenkainen's Map prompts. This file records habits and preferred practice for applying the rules at the table, plus session-specific interpretive notes below. It does not repeat the individual keyword glosses — those live in `map-creation-rules-v1.md`'s Reading Glosses section (Attunement Table Keywords, Matrix Reading Keywords) and should stay generic there. This file only adds what's specific to how a given session actually used one.
+Practical notes for reading Suolenkainen's Map prompts. This file records habits and preferred practice for applying the rules at the table, plus session-specific interpretive notes below. It does not repeat the individual keyword glosses — those live in `map-creation-rules.md`'s Reading Glosses section (Attunement Table Keywords, Matrix Reading Keywords) and should stay generic there. This file only adds what's specific to how a given session actually used one.
 
 ## General Reading Practice
 

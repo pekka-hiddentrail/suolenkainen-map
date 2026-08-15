@@ -97,7 +97,7 @@ Results:
 - Pressure / Brown 4: Conflict. Identify one conflict in the tile's current situation; later work must answer it.
 - Provision / Black 6: Provision Matrix using Green 1, Blue 6, Red 1: Mark + Transferred + Use it.
 
-(Fixing the Matter Matrix table while running this: `map-creation-rules-v1.md`'s Matter Matrix was a leftover copy-paste of the Echo Matrix — identical Calm/Longing/Unease/etc. content under mismatched Temper/Handling/Flaw headers. Replaced with real material-focused content before reading Blue 6 against it.)
+(Fixing the Matter Matrix table while running this: `map-creation-rules.md`'s Matter Matrix was a leftover copy-paste of the Echo Matrix — identical Calm/Longing/Unease/etc. content under mismatched Temper/Handling/Flaw headers. Replaced with real material-focused content before reading Blue 6 against it.)
 
 Phase-specific result:
 
@@ -154,7 +154,7 @@ Results:
 - Structure / Brown 4: Division. Establish zones, regions, sectors, quadrants, bands, split fields, or borders.
 - Opening / Black 6: Opening Matrix using Green 1, Blue 6, Red 1: Blank + Enters/exits unpredictably + Reserve.
 
-(Filled two more TBD matrix cells while running this — `map-creation-rules-v1.md`'s Substance Matrix Mirror/Precise/Create-a-rule-debt cells and Opening Matrix Blank/Enters-exits-unpredictably/Reserve cells — plus Breach/Leaks/Stain as a bonus fill, since S003 already landed on that exact row without ever writing it back into the rules.)
+(Filled two more TBD matrix cells while running this — `map-creation-rules.md`'s Substance Matrix Mirror/Precise/Create-a-rule-debt cells and Opening Matrix Blank/Enters-exits-unpredictably/Reserve cells — plus Breach/Leaks/Stain as a bonus fill, since S003 already landed on that exact row without ever writing it back into the rules.)
 
 Ground:
 

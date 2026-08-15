@@ -21,7 +21,7 @@ Next up per `memory/tracking/map-todo.md`: S004 Chronicle for T004 / Mirror.
 
 - **`blog/`** — public-facing session posts, plus `blog-post-ruleset.md`, the style guide for writing them.
 - **`memory/`** — the project's continuity/working-memory files, split by role:
-  - `rules/` — the stable rulebook (`map-creation-rules-v1.md`), pending clarifications (`rules-delta.md`), a practical how-to-apply-the-rules companion (`prompt-interpretation-notes.md`), and one superseded audit note. Several of the rulebook's secondary interpretation matrices (Surface's and Inscription's) are still placeholder `TBD` cells — they get filled in one cell at a time as a session's cards actually land on them.
+  - `rules/` — the stable rulebook (`map-creation-rules.md`), pending clarifications (`rules-delta.md`), a practical how-to-apply-the-rules companion (`prompt-interpretation-notes.md`), and one superseded audit note. Several of the rulebook's secondary interpretation matrices (Surface's and Inscription's) are still placeholder `TBD` cells — they get filled in one cell at a time as a session's cards actually land on them.
   - `tiles/` — the tile index (`tile-data.md`), coordinate reference (`coordinate-map.md`), keyword index (`keyword-list.md`), and one detail record per tile in `records/`.
   - `narrative/` — general lore/cosmology (`lore.md`) and the session log, split one file per session in `sessions/`.
   - `tracking/` — the active todo queue (`map-todo.md`) and the open-obligations ledger (`open-obligations.md`).
@@ -31,7 +31,7 @@ Next up per `memory/tracking/map-todo.md`: S004 Chronicle for T004 / Mirror.
 ## Where to start
 
 - Instructions for Claude (what to do first, what to do next, and where to document each step): [`CLAUDE.md`](CLAUDE.md)
-- Rules: [`memory/rules/map-creation-rules-v1.md`](memory/rules/map-creation-rules-v1.md)
+- Rules: [`memory/rules/map-creation-rules.md`](memory/rules/map-creation-rules.md)
 - What's next: [`memory/tracking/map-todo.md`](memory/tracking/map-todo.md)
 - Open threads: [`memory/tracking/open-obligations.md`](memory/tracking/open-obligations.md)
 - Session history: [`memory/narrative/suolenkainen-map.md`](memory/narrative/suolenkainen-map.md)

@@ -50,7 +50,7 @@ To place a second hex relative to a first one, convert the coordinate difference
 
 - Every +1 on the NE-SW axis (green minus blue) shifts the block **7 characters right**; -1 shifts left.
 - Every +1 on the SE-NW axis (red minus yellow) shifts the block **3 lines up**; -1 shifts down.
-- A tile's own six sides run N, NE, SE, S, SW, NW (per `map-creation-rules-v1.md` Phase 1) — N/S neighbors share a flat top/bottom edge with no horizontal shift at all, just a 6-line vertical offset (2 axis-steps); NE/SE/SW/NW neighbors shift diagonally using both offsets above.
+- A tile's own six sides run N, NE, SE, S, SW, NW (per `map-creation-rules.md` Phase 1) — N/S neighbors share a flat top/bottom edge with no horizontal shift at all, just a 6-line vertical offset (2 axis-steps); NE/SE/SW/NW neighbors shift diagonally using both offsets above.
 
 These two constants (7 characters, 3 lines) were measured directly off a real 3-hex cluster, not guessed — if you add a hex and the seams don't line up, recheck the coordinate difference before assuming the constants are wrong.
 

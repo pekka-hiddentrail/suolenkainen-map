@@ -72,6 +72,8 @@ More generally: if any rule in this document cannot operate because the map lack
 
 When the calculated coordinate is empty — no tile exists there — the system does not simply create one on the spot. Instead, it walks the target back toward the existing map, one step at a time.
 
+If the raw calculated coordinate is empty but already touches the existing map by adjacency — the case never arose until it was found and settled during S005 — no walking is needed at all: the walk-back's whole purpose is to reach a coordinate touching the map, and an adjacent-but-empty raw target already does. Skip the reference-line/stepping mechanism below entirely and go straight to the Brown-parity decision (new tile at that coordinate, or one further step, exactly as for any other found-contact coordinate). Only take walk-back steps when the raw target does not yet touch the map at all.
+
 The logic works like this. From the empty coordinate, identify the nearest of three reference lines running through the origin: the diagonal where the absolute values of both coordinates are equal, or either of the two axes where one coordinate is zero. (The diagonal itself is really two different lines with different walking behavior — see "Walking the two different diagonals" below.) If the target is equidistant between two of these lines, the black card number breaks the tie — odd sends the target to the counter-clockwise option, even to the clockwise one.
 
 From there, move one step toward that reference line. Check the new position: does it touch the existing map, either by landing on a tile or by being adjacent to one? If not, move again. Keep moving until the target lands somewhere that touches the existing map.

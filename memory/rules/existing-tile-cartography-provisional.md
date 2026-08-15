@@ -2,7 +2,7 @@
 
 Working note for Suolenkainen's Map.
 
-Status: superseded by `map-creation-rules-v1.md` Phase 2.2 Existing-Tile Cartography; retained as an audit note.
+Status: superseded by `map-creation-rules.md` Phase 2.2 Existing-Tile Cartography; retained as an audit note.
 
 Context: S002 targets T001 at [0,0], an existing tile. At the time this note was written, the detailed procedure appeared unfinished. The main rules now include the existing-tile adjustment questions, six-number table, concrete effects, hard-bind handling, and result types, so this file is no longer an open rule debt.
 
