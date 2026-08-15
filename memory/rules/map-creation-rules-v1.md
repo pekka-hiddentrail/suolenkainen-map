@@ -647,12 +647,12 @@ Materials: what is found, restricted, stored, acquired, or privileged.
 
 |  | Yellow — Temper | Brown — Handling | Black — Flaw |
 | :---- | :---- | :---- | :---- |
-| 1 | Calm: The echo feels settled, quiet, balanced, or resolved. | Edge: The echo presses through an edge, border, seam, or neighboring tile. | Faded: The echo is weak, pale, partial, erased, or almost gone. |
-| 2 | Longing: The echo feels incomplete, reaching, nostalgic, or drawn toward something. | Center: The echo pulls toward the tile’s center or demands a focal point. | Misaligned: The echo is shifted, rotated, offset, out of register, or wrongly connected. |
-| 3 | Unease: The echo feels wrong, tense, watched, uncertain, or slightly threatening. | Layer: The echo comes from below, behind, above, beneath, or from another state of the tile. | Broken: The echo is interrupted, cracked, segmented, cut, or discontinuous. |
-| 4 | Grief: The echo feels lost, buried, abandoned, ruined, or mournful. | Route: The echo follows a road, river, line, path, current, procession, or connection. | Infected: The echo is contaminated by another color, material, region, pattern, or idea. |
-| 5 | Hunger: The echo feels active, consuming, spreading, claiming, or unfinished. | Region: The echo belongs to a larger area, field, territory, grid, cluster, or shape. | Multiplied: The echo repeats too much, branches, duplicates, crowds, or becomes excessive. |
-| 6 | Exaltation: The echo feels sacred, excessive, triumphant, mythic, or overcharged. | Limit: The echo meets a hard stop: wall, break, refusal, gap, void, cutoff, or forbidden crossing. | Unstable: The echo cannot hold its form: it flickers, collapses, mutates, contradicts itself, or changes rules. |
+| 1 | Calm: A material that behaves gently — easy to control, forgiving, quiet in behavior. | Layer: Apply it in thin, repeated coats or stages. | Faded: It doesn't last — it fades, peels, or weakens over time. |
+| 2 | Restless: A material that resists control — active, unpredictable, prone to spreading or shifting. | Cut: Apply it by cutting, tearing, or shaping it down from something larger. | Uneven: It doesn't apply cleanly — patchy, inconsistent, or unevenly distributed. |
+| 3 | Stubborn: A material that resists change once applied — hard to remove, correct, or blend. | Bind: Apply it by attaching, gluing, stitching, or fastening it to the tile. | Contaminating: It bleeds or leaks into whatever it touches, even unintentionally. |
+| 4 | Fragile: A material that is delicate, easily damaged, torn, or lost. | Wash: Apply it wet, diluted, or blended with something else. | Brittle: It stiffens, cracks, or breaks under later handling. |
+| 5 | Hungry: A material that consumes or absorbs whatever touches it — soaks up, stains, or spreads into neighbors. | Press: Apply it by pressing, stamping, or compressing it into the surface. | Foreign: It never quite belongs — it looks or feels wrong next to the rest of the tile. |
+| 6 | Excessive: A material that overwhelms — too strong, too much, too dominant once used. | Improvise: Apply it in whatever way seems necessary in the moment; no fixed method. | Unstable: It keeps changing after being applied — shifting, reacting, or degrading unpredictably. |
 
 ## Mirror
 
