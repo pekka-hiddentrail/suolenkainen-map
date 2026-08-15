@@ -28,7 +28,7 @@ An ASCII drawing of the physical map, laid out by real coordinate, not just list
 | T001 | AIKA | [0,0] |
 | T002 | Ring | [1,0] |
 | T003 | The Canyon | [1,-1] |
-| T004 |  | [-1,0] |
+| T004 | Mirror | [-1,0] |
 
 T004 is drawn attached to this cluster now, touching T001 directly on T004's NE / T001's SW edge. Its coordinate was originally recorded as [-1,-1] — two steps from T001 and not touching anything — but that walk-back had ticked both coordinates of a same-sign diagonal at once, which isn't a real single hex step (there is no direct E/W side). Re-walking with real NE/SE steps found map contact one step earlier, at [-1,0]; see `../rules/rules-delta.md`'s same-sign-diagonal entry for the full derivation. The redraw above places T004 by mirroring T001's already-confirmed T002 (NE) offset in the opposite (SW) direction — same 7-character/3-line constants, negated.
 

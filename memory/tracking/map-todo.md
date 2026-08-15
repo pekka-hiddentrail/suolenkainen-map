@@ -10,10 +10,11 @@ Todo types:
 
 ## Next-Session Queue
 
-- [ ] Review the new Seed rule before the next Chronicle: Seed should create a future-work item with a storage place and trigger, or become an unscheduled todo.
-- [ ] S004: before Surface, place or mark T004 at its corrected coordinate [-1,0], directly touching T001 on T004's NE / T001's SW edge (coordinate corrected from [-1,-1]; see `../rules/rules-delta.md`).
+- [x] Review the new Seed rule before the next Chronicle: Seed should create a future-work item with a storage place and trigger, or become an unscheduled todo. (Reviewed against S004's own Chronicle: Seed created K032 Schematic Rewrite with a named return condition — rule followed correctly.)
+- [x] S004: place or mark T004 / Mirror at its corrected coordinate [-1,0], directly touching T001 on T004's NE / T001's SW edge (coordinate corrected from [-1,-1]; see `../rules/rules-delta.md`).
 - [x] S004: run new-tile Cartography for T004.
-- [ ] S004 Attunement: identify the neighbor condition that holds T004 and the preserved rule T004 inherits.
+- [x] S004 Attunement/Inscription: the neighbor condition and preserved rule are resolved — the archaic-symbol contact at T001's SW edge, honored through T004 rewriting some of those symbols in its own schematic pattern rather than literal retention.
+- [ ] T001/Mirror shared corner: go full archaic. Extend the rewritten area further into an archaic-script/scripture register rather than settling as a schematic-hexagon overwrite — lean into continuing/amplifying T001's original language rather than replacing it with T004's. Decided after the schematic-hexagon rewrite was already physically done and photographed; this is the next step on that same corner, not a reversal of it.
 
 ## Triggered Todos
 

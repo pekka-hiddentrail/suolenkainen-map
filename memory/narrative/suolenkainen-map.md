@@ -19,6 +19,6 @@ Phase-by-phase session narrative lives one file per session in `sessions/`:
 - [S001 — Breaking the Void (T001 · AIKA)](sessions/s001-breaking-the-void.md)
 - [S002 — T002 · Ring](sessions/s002-ring.md)
 - [S003 — T003 · The Canyon](sessions/s003-the-canyon.md)
-- [S004 — T004](sessions/s004-t004.md)
+- [S004 — T004 · Mirror](sessions/s004-mirror.md)
 
 Add a new file to `sessions/` for each new session rather than appending here.

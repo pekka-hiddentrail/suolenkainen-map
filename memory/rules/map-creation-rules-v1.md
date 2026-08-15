@@ -647,12 +647,12 @@ Materials: what is found, restricted, stored, acquired, or privileged.
 
 |  | Yellow — Temper | Brown — Handling | Black — Flaw |
 | :---- | :---- | :---- | :---- |
-| 1 | Calm: The echo feels settled, quiet, balanced, or resolved. | Edge: The echo presses through an edge, border, seam, or neighboring tile. | Faded: The echo is weak, pale, partial, erased, or almost gone. |
-| 2 | Longing: The echo feels incomplete, reaching, nostalgic, or drawn toward something. | Center: The echo pulls toward the tile’s center or demands a focal point. | Misaligned: The echo is shifted, rotated, offset, out of register, or wrongly connected. |
-| 3 | Unease: The echo feels wrong, tense, watched, uncertain, or slightly threatening. | Layer: The echo comes from below, behind, above, beneath, or from another state of the tile. | Broken: The echo is interrupted, cracked, segmented, cut, or discontinuous. |
-| 4 | Grief: The echo feels lost, buried, abandoned, ruined, or mournful. | Route: The echo follows a road, river, line, path, current, procession, or connection. | Infected: The echo is contaminated by another color, material, region, pattern, or idea. |
-| 5 | Hunger: The echo feels active, consuming, spreading, claiming, or unfinished. | Region: The echo belongs to a larger area, field, territory, grid, cluster, or shape. | Multiplied: The echo repeats too much, branches, duplicates, crowds, or becomes excessive. |
-| 6 | Exaltation: The echo feels sacred, excessive, triumphant, mythic, or overcharged. | Limit: The echo meets a hard stop: wall, break, refusal, gap, void, cutoff, or forbidden crossing. | Unstable: The echo cannot hold its form: it flickers, collapses, mutates, contradicts itself, or changes rules. |
+| 1 | Calm: A material that behaves gently — easy to control, forgiving, quiet in behavior. | Layer: Apply it in thin, repeated coats or stages. | Faded: It doesn't last — it fades, peels, or weakens over time. |
+| 2 | Restless: A material that resists control — active, unpredictable, prone to spreading or shifting. | Cut: Apply it by cutting, tearing, or shaping it down from something larger. | Uneven: It doesn't apply cleanly — patchy, inconsistent, or unevenly distributed. |
+| 3 | Stubborn: A material that resists change once applied — hard to remove, correct, or blend. | Bind: Apply it by attaching, gluing, stitching, or fastening it to the tile. | Contaminating: It bleeds or leaks into whatever it touches, even unintentionally. |
+| 4 | Fragile: A material that is delicate, easily damaged, torn, or lost. | Wash: Apply it wet, diluted, or blended with something else. | Brittle: It stiffens, cracks, or breaks under later handling. |
+| 5 | Hungry: A material that consumes or absorbs whatever touches it — soaks up, stains, or spreads into neighbors. | Press: Apply it by pressing, stamping, or compressing it into the surface. | Foreign: It never quite belongs — it looks or feels wrong next to the rest of the tile. |
+| 6 | Excessive: A material that overwhelms — too strong, too much, too dominant once used. | Improvise: Apply it in whatever way seems necessary in the moment; no fixed method. | Unstable: It keeps changing after being applied — shifting, reacting, or degrading unpredictably. |
 
 ## Mirror
 
@@ -789,9 +789,9 @@ What rule guides material choice?
 | 1 | Attunement: TBD | Plain: TBD | Use plainly: TBD |
 | 2 | Omen: Let the material choice answer an omen, card pressure, sign, hue, mood, or session image. The material should carry the omen physically through color, texture, source, fragility, stain, or absence rather than depicting it literally. | Fragile: TBD | Alter before use: TBD |
 | 3 | Echo: TBD | Rough: Choose or privilege material that is torn, gritty, fibrous, scraped, uneven, handmade-feeling, muddy, stained, broken-edged, or resistant to clean placement. Roughness may come from actual texture or from how the material is cut, handled, stained, or layered. | Partly conceal: Do not expose the chosen substance completely. Hide, overlap, bury, mask, tuck, stain over, crop, or interrupt part of it so that the material is present but not fully readable. It should remain available as evidence, not become a fully declared symbol. |
-| 4 | Mirror: TBD | Precise: TBD | Damage or interrupt: TBD |
+| 4 | Mirror: Let the material choice answer the Mirror reference chosen at Attunement — its texture, shape, color, layout, or pattern. The material should physically carry that reference's quality through its own surface, weight, or handling, not by depicting the reference's subject directly. | Precise: Choose or privilege material that is clean, measured, sharp-edged, ruled, geometric, or technical. Even handmade work should read as controlled and deliberate rather than loose or accidental. | Damage or interrupt: TBD |
 | 5 | Provision: TBD | Strange: TBD | Reserve a remnant: TBD |
-| 6 | Chance: TBD | Contradictory: TBD | Create a rule/debt: TBD |
+| 6 | Chance: TBD | Contradictory: TBD | Create a rule/debt: The material's use here creates a binding condition for later work: a restriction on how it may be touched, combined, covered, or removed. Record it as an obligation rather than treating the choice as settled and closed. |
 
 ## Application
 
@@ -838,12 +838,12 @@ What must remain open, exposed, incomplete, or available?
 
 |  | Green — Opening Type | Blue — Passage Behavior | Red — Remainder |
 | :---- | :---- | :---- | :---- |
-| 1 | Blank: TBD | No passage yet: TBD | Reserve: TBD |
+| 1 | Blank: A plain, empty area with nothing yet decided about it — held open on purpose, not yet a window, breach, or threshold. | No passage yet: TBD | Reserve: The opening leaves something held back, unused, or kept in store for later work to claim. |
 | 2 | Window: TBD | Reveal: TBD | Exposure: TBD |
-| 3 | Breach: TBD | Leaks: TBD | Stain: TBD |
+| 3 | Breach: A rupture, tear, gap, or broken continuity — an opening created by damage or force rather than by design. | Leaks: Whatever the opening holds seeps outward gradually, without one clean crossing point. | Stain: The opening leaves a mark of color, tone, or residue behind — evidence of what passed through, even after it's gone. |
 | 4 | Threshold: TBD | Crosses: TBD | Decision: TBD |
 | 5 | Ladder/Bridge point: TBD | Transfers: TBD | Connection debt: TBD |
-| 6 | Weather gate: TBD | Enters/exits unpredictably: TBD | Unresolved rule: TBD |
+| 6 | Weather gate: TBD | Enters/exits unpredictably: What passes through this opening follows no fixed direction or rule — it may come and go without warning, on its own schedule rather than the tile's. | Unresolved rule: TBD |
 
 # Phase 5 - Inscription
 
@@ -882,9 +882,9 @@ What shape does the inscription take, and how does it change?
 | 1 | Mass: TBD | Split: TBD | Fragments: TBD |
 | 2 | Thread: The inscription begins as a line-like element: route, seam, river, stitch, crack, hairline, wire, border, current, rail, thread, or narrow trace. It does not have to remain a single continuous line. | Branch: TBD | Network: TBD |
 | 3 | Figure: TBD | Multiply: Repeat, duplicate, branch into several related instances, or let the base form appear in multiple small units. Multiplication should make the form harder to read as one clean path. | Cluster: The multiplied forms gather into a knot, patch, group, bundle, thicket, bracketed set, or local concentration. A cluster remains local enough to inspect, but dense enough to change the tile's reading. |
-| 4 | Pattern: TBD | Distort: TBD | Mutation: TBD |
+| 4 | Pattern: The inscription begins as a repeating structure: grid, patchwork, hatching, weave, cells, or district-like repetition. It reads as a system of units rather than one single mark from the start. | Distort: Bend, skew, misalign, or warp the base form away from its regular version. Distortion should read as a deliberate departure from the expected shape, not an accident of handling. | Mutation: TBD |
 | 5 | Sign: TBD | Bury: TBD | Hidden code: TBD |
-| 6 | Unknown form: TBD | Hybridize: TBD | Contradictory form: TBD |
+| 6 | Unknown form: TBD | Hybridize: TBD | Contradictory form: The inscription ends up holding two incompatible shapes at once — both readings remain available, and neither fully cancels the other. Record which two readings compete, since a later phase may need to choose between them. |
 
 ## Behavior
 
@@ -939,12 +939,12 @@ What does the inscription leave behind, and how does that remainder behave later
 
 |  | Green — Remainder | Blue — Visibility | Red — Future Effect |
 | :---- | :---- | :---- | :---- |
-| 1 | Mark: TBD | Visible: TBD | Stabilizes: TBD |
-| 2 | Wound: TBD | Exposed: TBD | Must be answered: TBD |
-| 3 | Keyword: TBD | Recorded: TBD | Return later: TBD |
+| 1 | Mark: The residue is a plain, permanent mark on the tile itself — a small trace with no larger claim than being visibly present. | Visible: TBD | Stabilizes: The residue settles the pressure it came from. No further debt or return condition is created. |
+| 2 | Wound: TBD | Exposed: What is unfinished is left obvious and feels like it governs an area. | Must be answered: The residue remains mandatory the next time this tile is worked on. |
+| 3 | Keyword: The residue affects a keyword representing this tile's general behavior or feature. | Recorded: TBD | Return later: TBD |
 | 4 | Rule: TBD | Hidden: TBD | Triggers conditionally: TBD |
 | 5 | Contagion: TBD | Partial: TBD | Spreads later: TBD |
-| 6 | Ghost: TBD | Unresolved: TBD | Haunts future work: TBD |
+| 6 | Ghost: TBD | Unresolved: The residue's visibility itself is undecided — it may surface, stay hidden, or shift between the two depending on what a later phase decides. | Haunts future work: TBD |
 
 # Phase 6 - Chronicle
 
@@ -954,21 +954,23 @@ Chronicle is where unclear rules and provisional rulings should be named as docu
 
 ## **Founding Artifact Draw, S001-S010**
 
-For sessions S001-S010, make a second Chronicle draw after the normal Chronicle draw. This second draw is called the Artifact Draw.
+For sessions S001-S010, make a second draw after the normal Chronicle draw. This second draw is called the Artifact Draw.
 
-The normal Chronicle draw closes and records the session.
+The normal Chronicle draw closes and records the session — it already covers Record, Witness, Meaning, Publication, and Seed. The Artifact Draw does not repeat any of those. It draws **one card only** (not two) and reads **only Maintenance** from it, so the two draws never compete for the same ground: the first draw explains and archives the session in writing; the second makes something real happen to the deck, the keyword list, the rules, the tile index, or the physical map itself.
 
-The Artifact Draw must create one concrete work artifact before the session closes. It may create or update a deck card, keyword entry, rule note, website entry, archive image or note, caption, lore fragment, tile index entry, maintenance note, physical token, or reusable project asset.
+Reading the card: read Brown to select the Maintenance row (1-6) from the main Chronicle table, same column as the normal draw. If Brown is 6, go to the Maintenance Matrix, and read that same card's Green, Blue, and Red as its three columns (System Area, Maintenance Action, System Effect) — the same "other triad" logic used everywhere else in the ritual, just drawn from a single card instead of two.
 
-The Artifact Draw should not create an open obligation unless completion is impossible during the session. If a result would normally create a future seed, keyword, prompt, or return condition, first ask:
+The Artifact Draw must create one concrete, physical or practical artifact before the session closes: acquire, prepare, sort, repair, sleeve, label, decorate, or update something real — a deck card, a keyword-list entry, a rules note, a tile-index update, or the physical map/material itself. It should not produce writing-about-the-session artifacts (a caption, a lore fragment, a website entry, a diary note) — those belong to the normal Chronicle draw, not this one.
+
+The Artifact Draw should not create an open obligation unless completion is impossible during the session. If a result would normally create a future task rather than a finished action, first ask:
 
 Can this be made complete enough now?
 
-If yes, create a small finished artifact now. If no, record one precise open obligation with a return trigger.
+If yes, do it now — acquire the material, decorate the card, write the keyword entry, sort the deck. If no, record one precise open obligation with a return trigger.
 
-The Artifact Draw is complete only when the artifact exists in a named place: deck, keyword list, rules delta, tile index, session log, open obligations ledger, website draft, archive folder, physical map box, or material tray.
+The Artifact Draw is complete only when the artifact exists in a named place: the deck itself, the keyword list, rules delta, the tile index, the physical map box, or a material tray.
 
-During S001-S010, each Chronicle may leave at most one new open obligation unless a rule contradiction, physical tile debt, or bleed debt requires more. All other Chronicle results should be completed, omitted with a reason, or converted into finished archive material.
+During S001-S010, each Artifact Draw may leave at most one new open obligation unless a rule contradiction, physical tile debt, or bleed debt requires more. Otherwise its result should be completed, omitted with a reason, or converted into finished material now.
 
 ## **Main Chronicle Table**
 

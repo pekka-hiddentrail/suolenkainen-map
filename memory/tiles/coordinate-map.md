@@ -9,7 +9,7 @@ Durable coordinate and physical-placement reference for Suolenkainen's Map.
 | T001 | AIKA | [0,0] | Origin tile |
 | T002 | Ring | [1,0] | NE of T001; touches T001 on T002 SW / T001 NE edge |
 | T003 | The Canyon | [1,-1] | North of T001 and NW of T002; touches T001 on T003 S / T001 N edge and T002 on T003 SE / T002 NW edge |
-| T004 |  | [-1,0] | Touches T001 directly on T004's NE / T001's SW edge. Corrected from an originally-recorded [-1,-1] (see Notes below) — the real walk-back reaches map contact one step earlier than the tick-by-tick coordinate math suggested |
+| T004 | Mirror | [-1,0] | Touches T001 directly on T004's NE / T001's SW edge. Corrected from an originally-recorded [-1,-1] (see Notes below) — the real walk-back reaches map contact one step earlier than the tick-by-tick coordinate math suggested |
 
 ## Coordinate Step To Physical Edge
 

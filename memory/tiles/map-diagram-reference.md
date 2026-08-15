@@ -71,7 +71,7 @@ This is separate from `map-diagram.md`, which draws only the tiles actually plac
 | T001 | AIKA | [0,0] |
 | T002 | Ring | [1,0] |
 | T003 | The Canyon | [1,-1] |
-| T004 |  | [-1,0] |
+| T004 | Mirror | [-1,0] |
 
 All 57 remaining cells show only their coordinate; none are placeholders for planned tiles. (T004 was corrected from [-1,-1] to [-1,0] during post-S004 rules maintenance — see `../rules/rules-delta.md`'s same-sign-diagonal entry.)
 

@@ -11,11 +11,11 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 | T001 | AIKA | [0,0] | Complete (S001) |
 | T002 | Ring | [1,0] | Complete (S002) |
 | T003 | The Canyon | [1,-1] | Complete (S003) |
-| T004 | *(unnamed)* | [-1,-1] | In progress (S004) — Cartography done; Attunement, Surface, Inscription, and Chronicle still open |
+| T004 | Mirror | [-1,0] | In progress (S004) — Cartography, Attunement, Surface, and Inscription done; Chronicle in progress |
 
 15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`).
 
-Next up per `memory/tracking/map-todo.md`: S004 Attunement — identify the neighbor condition holding T004, and confirm its physical edge placement before Surface.
+Next up per `memory/tracking/map-todo.md`: S004 Chronicle for T004 / Mirror.
 
 ## Repository layout
 
