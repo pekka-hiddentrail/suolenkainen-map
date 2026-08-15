@@ -1,4 +1,4 @@
-# S004 — T004
+# S004 — T004 · Mirror
 
 ## Awakening
 
@@ -253,3 +253,46 @@ Chronicle should note that what occupies each side of the Division beyond the te
 Actual Inscription:
 
 Confirmed physically executed exactly as described above: the Peili sticker placed as a small silver-and-blue reflecting pool on one technical-zone hexagon; a large, thin, distorted hexagon line drawn over the frayed fabric zone; the Division boundary settled with an orange marker line; some of T001's archaic symbols rewritten in T004's own schematic-hexagon pattern. All Inscription todo items are complete.
+
+## Chronicle
+
+Per the user's decision, this Chronicle draw reuses the same Awakening cards rather than a fresh draw: Green 1, Blue 6, Red 1, Yellow 4, Brown 4, Black 6. Color mapping (confirmed against S003): Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed. The Artifact Draw (required for S001-S010) is a separate, second draw — not run yet.
+
+The tile is named **Mirror** at this point, per the user's decision. All records, session links, and diagrams renamed/updated accordingly (`t004.md` → `t004-mirror.md`, `s004-t004.md` → `s004-mirror.md`).
+
+Results:
+
+- Record / Green 1: Minimal log. Write a very short session note: date, tile, draw, one-sentence result.
+- Witness / Blue 6: Witness Matrix using Yellow 4, Brown 4, Black 6: Edge/bleed/neighbor + Multi-tile capture + Kept secret or delayed.
+- Meaning / Red 1: Plain explanation. Write a direct explanation of what the tile/action means in normal language.
+- Publication / Yellow 4: Long post. Draft or write a longer blog post explaining the session, method, tile, rule, or story.
+- Maintenance / Brown 4: Todo list / future-work queue. Pick one todo item, update it, complete it, reschedule it, or move it into the next-session queue.
+- Seed / Black 6: Seed Matrix using Green 1, Blue 6, Red 1: Keyword + Hidden archive + May return normally.
+
+Phase-specific result:
+
+Record's Minimal log: S004, 15.8.2026. Target tile T004, named Mirror. Cards C031 (Green earth) and C174 (Rock giant), reused across all six phases. One-sentence result: Mirror is a drawn-in, conditionally-tethered gate that resolves its own inheritance by rewriting part of its neighbor's symbols rather than merely copying or ignoring them.
+
+Witness's Edge/bleed/neighbor + Multi-tile capture + Kept secret or delayed: what should be witnessed is the T001/Mirror shared edge, specifically the area where some of T001's archaic symbols were rewritten in Mirror's schematic pattern — captured as a multi-tile photo or description showing both tiles' sides of that edge together. Status is deliberately Kept secret or delayed: this photo/description should exist, but isn't for public reveal yet. Held for a later, more complete moment (a future Artifact Draw, or paired with whatever eventually resolves the still-open Division/Blank-opening questions).
+
+Meaning's Plain explanation: told directly rather than as myth, since this session was unusually procedural — Mirror is a gate tile born from a rare coordinate-math correction; it echoes its neighbor T001's technical/schematic visual language, then partially rewrites it as its own act of inheriting and preserving; it carries deliberate physical instability (frayed, adhesive-only fabric) and one small, quiet mark (the Peili reflecting pool) that resolves a reference deferred all the way back at Attunement.
+
+Publication's Long post: a longer post already exists in draft — `blog/blog-18-the-fourth-tile-argues-with-the-map.md` — covering Awakening and Cartography. This Chronicle result calls for it to be extended to cover Attunement, Surface, Inscription, and this Chronicle, or for a follow-up post to be drafted. Not written now; flagged as the concrete Publication obligation.
+
+Maintenance's Todo list / future-work queue: processing one item from `map-todo.md` per this result. Chosen item: "Review the new Seed rule before the next Chronicle: Seed should create a future-work item with a storage place and trigger, or become an unscheduled todo." Reviewed against this very Chronicle: Seed here creates K032 Schematic Rewrite, stored in `keyword-list.md` with a named return condition (archaic symbols, schematic hexagons, cross-tile rewriting, or inheritance-preservation appearing again) — the rule is being followed correctly. Marked complete in `map-todo.md`.
+
+Seed's Keyword + Hidden archive + May return normally: creates keyword K032 Schematic Rewrite, stored in `keyword-list.md` and tagged to both T001 and T004/Mirror. Per Hidden archive, it deliberately does not explain what the original archaic symbols meant or what the rewrite specifically changes about that meaning — enough evidence to return to, not a closed case. Per May return normally, no specific trigger is required; it can resurface through later draws, readings, or interpretation.
+
+Todo List:
+
+- Draft or extend a blog post (blog-18 or a follow-up) covering S004's Attunement through Chronicle. Not done yet.
+- Take or describe the T001/Mirror multi-tile edge photo; hold it back from publication until a later, deliberate reveal.
+- When ready, run the Artifact Draw (a fresh second draw, separate from this Chronicle draw).
+
+Loggable note:
+
+S004 Chronicle for T004, now named Mirror, logs a minimal session record, calls for a held-back multi-tile witness of the T001 edge rewrite, explains the session plainly rather than mythically, flags a long-post obligation against the existing blog-18 draft, processes the Seed-rule review todo item, and creates keyword K032 Schematic Rewrite as a deliberately incomplete, returnable seed shared with T001.
+
+Future obligation:
+
+Run the Artifact Draw (S001-S010 requirement) as a separate second draw. Draft/extend the blog post. Decide when to reveal the held-back T001/Mirror edge witness. What occupies each side of the Division, and what the Blank opening connects to beyond the Peili pool, remain open.

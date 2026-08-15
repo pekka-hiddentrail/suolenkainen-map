@@ -5,6 +5,9 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 ## T001 Obligations
 
 - S004 Awakening walk-back reaches T004 directly touching T001 at [-1,0] (corrected from an originally-recorded [-1,-1]; see Rule And Documentation Obligations below).
+- S004 Inscription: T004/Mirror rewrote some (not all) of T001's archaic symbols in Mirror's own schematic-hexagon pattern — a transformation, not an erasure. Recorded on both tiles. Keyword K032 Schematic Rewrite created, shared between T001 and Mirror, deliberately leaving what the original symbols meant unexplained.
+- Open: a multi-tile witness photo of the T001/Mirror shared edge (showing the rewritten area) is owed, but held back from publication until a later, deliberate reveal. Taken and confirmed (S004 Chronicle Witness).
+- Decided, not yet done: go full archaic on this corner. Extend it further into an archaic-script/scripture register rather than settling as a schematic-hexagon overwrite — continue/amplify T001's original language rather than replace it. This is the next step after the schematic-hexagon rewrite, not a reversal of it.
 - S003 neighbor update: a little grid from T003 bled south into T001's north edge by 2 cm. T001's high technical energy changed it to silver, and T001's bleed-prevention wall stopped it.
 - S003 neighbor update: T001 forces T003 to answer the warning spread, so some black bleeds into T003.
 - Surface result: Weighted ground, Strange substance, Accumulated application, Stained treatment, Structure Matrix as Shape + Repetition + Interrupted, and Closed opening.
@@ -69,16 +72,18 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Seed queue item created in `map-todo.md`: when T003 / The Canyon is targeted, decide what the hidden yellow tunnel connects to and how the black warning bleed behaves.
 - Carry forward the two card-image pressures: C074 map of undercity and C127 rockstar with bass guitar.
 
-## T004 Obligations
+## T004 / Mirror Obligations
 
-- S004 creates T004 at [-1,0], directly touching T001 on T004's NE / T001's SW edge (corrected from an originally-recorded [-1,-1] that did not actually touch any tile).
-- S004 Cartography births T004 as a drawn-in conditional neighbor-wandering gate.
-- Physical placement is now confirmed ([-1,0], touching T001) — mark it there before Surface.
-- Carry forward the S004 cards as Awakening pressure: C031 Green earth and C174 Rock giant.
-- Attunement must identify the neighbor condition that holds T004.
-- Surface must prepare a divided threshold, crossing, hinge, or decision structure.
-- Inscription must eventually decide what the gate opens between.
-- Preserve an inherited neighbor rule: T004 carries Neighbor + Rule + Preserve (Black 6), but the source is undecided — it is not the S004 last-free-coordinate ruling, since that mechanism never actually applied to T004 (the corrected walk-back reached [-1,0] before ever touching occupied [0,0]). Live, undecided candidates: the same-sign-diagonal tie-break rule itself, or the archaic-symbol contact confirmed at T001's SW edge. Attunement must decide.
+- S004 creates T004 at [-1,0], directly touching T001 on T004's NE / T001's SW edge (corrected from an originally-recorded [-1,-1] that did not actually touch any tile). The tile is now named Mirror.
+- S004 Cartography births T004 as a drawn-in conditional neighbor-wandering gate. All six phases (Awakening through Chronicle's main draw) are complete.
+- Resolved: the preserved neighbor rule (Cartography Inheritance, Black 6: Neighbor + Rule + Preserve) is the archaic-symbol contact at T001's SW edge, honored through transformation — Inscription rewrote some (not all) of T001's archaic symbols in Mirror's own schematic-hexagon pattern, which satisfies both Force: Pushing and this preservation obligation at once. Recorded on both `t001-aika.md` and `t004-mirror.md`.
+- Resolved: Attunement's deferred Mirror reference is the Peili sticker, read as a small silver-and-blue reflecting pool placed during Inscription.
+- Chronicle Seed created keyword K032 Schematic Rewrite (`keyword-list.md`), shared with T001, deliberately leaving what the original archaic symbols meant unexplained.
+- Open: run the Artifact Draw (S001-S010 requirement) — a separate, fresh second draw, not yet done.
+- Open: extend `blog/blog-18-the-fourth-tile-argues-with-the-map.md` (currently covers Awakening/Cartography only) to include Attunement through Chronicle, or draft a follow-up post.
+- Open: T001/Mirror multi-tile edge witness photo taken (S004 Chronicle Witness); held back from publication until a later, deliberate reveal.
+- Decided, not yet done: go full archaic on the T001/Mirror shared corner rather than settling as a schematic-hexagon overwrite. Next step, not a reversal of the S004 rewrite.
+- Open: what occupies each side of the Division (beyond technical-zone vs. frayed-zone), and what the Blank opening connects to beyond the Peili pool.
 
 ## Rule And Documentation Obligations
 

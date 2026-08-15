@@ -954,21 +954,23 @@ Chronicle is where unclear rules and provisional rulings should be named as docu
 
 ## **Founding Artifact Draw, S001-S010**
 
-For sessions S001-S010, make a second Chronicle draw after the normal Chronicle draw. This second draw is called the Artifact Draw.
+For sessions S001-S010, make a second draw after the normal Chronicle draw. This second draw is called the Artifact Draw.
 
-The normal Chronicle draw closes and records the session.
+The normal Chronicle draw closes and records the session — it already covers Record, Witness, Meaning, Publication, and Seed. The Artifact Draw does not repeat any of those. It draws **one card only** (not two) and reads **only Maintenance** from it, so the two draws never compete for the same ground: the first draw explains and archives the session in writing; the second makes something real happen to the deck, the keyword list, the rules, the tile index, or the physical map itself.
 
-The Artifact Draw must create one concrete work artifact before the session closes. It may create or update a deck card, keyword entry, rule note, website entry, archive image or note, caption, lore fragment, tile index entry, maintenance note, physical token, or reusable project asset.
+Reading the card: read Brown to select the Maintenance row (1-6) from the main Chronicle table, same column as the normal draw. If Brown is 6, go to the Maintenance Matrix, and read that same card's Green, Blue, and Red as its three columns (System Area, Maintenance Action, System Effect) — the same "other triad" logic used everywhere else in the ritual, just drawn from a single card instead of two.
 
-The Artifact Draw should not create an open obligation unless completion is impossible during the session. If a result would normally create a future seed, keyword, prompt, or return condition, first ask:
+The Artifact Draw must create one concrete, physical or practical artifact before the session closes: acquire, prepare, sort, repair, sleeve, label, decorate, or update something real — a deck card, a keyword-list entry, a rules note, a tile-index update, or the physical map/material itself. It should not produce writing-about-the-session artifacts (a caption, a lore fragment, a website entry, a diary note) — those belong to the normal Chronicle draw, not this one.
+
+The Artifact Draw should not create an open obligation unless completion is impossible during the session. If a result would normally create a future task rather than a finished action, first ask:
 
 Can this be made complete enough now?
 
-If yes, create a small finished artifact now. If no, record one precise open obligation with a return trigger.
+If yes, do it now — acquire the material, decorate the card, write the keyword entry, sort the deck. If no, record one precise open obligation with a return trigger.
 
-The Artifact Draw is complete only when the artifact exists in a named place: deck, keyword list, rules delta, tile index, session log, open obligations ledger, website draft, archive folder, physical map box, or material tray.
+The Artifact Draw is complete only when the artifact exists in a named place: the deck itself, the keyword list, rules delta, the tile index, the physical map box, or a material tray.
 
-During S001-S010, each Chronicle may leave at most one new open obligation unless a rule contradiction, physical tile debt, or bleed debt requires more. All other Chronicle results should be completed, omitted with a reason, or converted into finished archive material.
+During S001-S010, each Artifact Draw may leave at most one new open obligation unless a rule contradiction, physical tile debt, or bleed debt requires more. Otherwise its result should be completed, omitted with a reason, or converted into finished material now.
 
 ## **Main Chronicle Table**
 

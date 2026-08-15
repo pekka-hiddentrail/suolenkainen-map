@@ -40,7 +40,7 @@
 | Artifact draw | S001 Artifact Draw complete: Tile state + Before/after + Session diary + Website update + Tile index update + Memory token. Artifact stored at ../../website-drafts/t001-aika-artifact.md. |
 | Omen sources |  |
 | Active token |  |
-| Keywords | K003 Region-Tangled; K007 Burial Cost (T001's other one-off Cartography results — Contagious, Tidebound, Dense, Proclaim, By Mark, Edge Inheritance, AIKA — were retired as keywords under the recurrence rule; see Tags) |
+| Keywords | K003 Region-Tangled; K007 Burial Cost; K032 Schematic Rewrite (S004 Chronicle Seed, shared with T004/Mirror) (T001's other one-off Cartography results — Contagious, Tidebound, Dense, Proclaim, By Mark, Edge Inheritance, AIKA — were retired as keywords under the recurrence rule; see Tags) |
 | Tags | contagious; tidebound; region-tangled; dense; proclaim; by-mark; burial-cost; edge-inheritance; AIKA; fan-brush; spread-points; warning-checkers; safety-line; archaic-symbols; T004-schematic-rewrite |
 | Unresolved | Decide whether the S002 warning-strip bleed into T002 satisfies, complicates, or extends T001's warning-checker return condition. |
 | Last updated by session | S001 Artifact Draw; S004 neighbor effect added (T004's schematic rewrite of some archaic symbols) |
