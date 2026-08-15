@@ -789,9 +789,9 @@ What rule guides material choice?
 | 1 | Attunement: TBD | Plain: TBD | Use plainly: TBD |
 | 2 | Omen: Let the material choice answer an omen, card pressure, sign, hue, mood, or session image. The material should carry the omen physically through color, texture, source, fragility, stain, or absence rather than depicting it literally. | Fragile: TBD | Alter before use: TBD |
 | 3 | Echo: TBD | Rough: Choose or privilege material that is torn, gritty, fibrous, scraped, uneven, handmade-feeling, muddy, stained, broken-edged, or resistant to clean placement. Roughness may come from actual texture or from how the material is cut, handled, stained, or layered. | Partly conceal: Do not expose the chosen substance completely. Hide, overlap, bury, mask, tuck, stain over, crop, or interrupt part of it so that the material is present but not fully readable. It should remain available as evidence, not become a fully declared symbol. |
-| 4 | Mirror: TBD | Precise: TBD | Damage or interrupt: TBD |
+| 4 | Mirror: Let the material choice answer the Mirror reference chosen at Attunement — its texture, shape, color, layout, or pattern. The material should physically carry that reference's quality through its own surface, weight, or handling, not by depicting the reference's subject directly. | Precise: Choose or privilege material that is clean, measured, sharp-edged, ruled, geometric, or technical. Even handmade work should read as controlled and deliberate rather than loose or accidental. | Damage or interrupt: TBD |
 | 5 | Provision: TBD | Strange: TBD | Reserve a remnant: TBD |
-| 6 | Chance: TBD | Contradictory: TBD | Create a rule/debt: TBD |
+| 6 | Chance: TBD | Contradictory: TBD | Create a rule/debt: The material's use here creates a binding condition for later work: a restriction on how it may be touched, combined, covered, or removed. Record it as an obligation rather than treating the choice as settled and closed. |
 
 ## Application
 
@@ -838,12 +838,12 @@ What must remain open, exposed, incomplete, or available?
 
 |  | Green — Opening Type | Blue — Passage Behavior | Red — Remainder |
 | :---- | :---- | :---- | :---- |
-| 1 | Blank: TBD | No passage yet: TBD | Reserve: TBD |
+| 1 | Blank: A plain, empty area with nothing yet decided about it — held open on purpose, not yet a window, breach, or threshold. | No passage yet: TBD | Reserve: The opening leaves something held back, unused, or kept in store for later work to claim. |
 | 2 | Window: TBD | Reveal: TBD | Exposure: TBD |
-| 3 | Breach: TBD | Leaks: TBD | Stain: TBD |
+| 3 | Breach: A rupture, tear, gap, or broken continuity — an opening created by damage or force rather than by design. | Leaks: Whatever the opening holds seeps outward gradually, without one clean crossing point. | Stain: The opening leaves a mark of color, tone, or residue behind — evidence of what passed through, even after it's gone. |
 | 4 | Threshold: TBD | Crosses: TBD | Decision: TBD |
 | 5 | Ladder/Bridge point: TBD | Transfers: TBD | Connection debt: TBD |
-| 6 | Weather gate: TBD | Enters/exits unpredictably: TBD | Unresolved rule: TBD |
+| 6 | Weather gate: TBD | Enters/exits unpredictably: What passes through this opening follows no fixed direction or rule — it may come and go without warning, on its own schedule rather than the tile's. | Unresolved rule: TBD |
 
 # Phase 5 - Inscription
 
