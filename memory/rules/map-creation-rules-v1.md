@@ -882,9 +882,9 @@ What shape does the inscription take, and how does it change?
 | 1 | Mass: TBD | Split: TBD | Fragments: TBD |
 | 2 | Thread: The inscription begins as a line-like element: route, seam, river, stitch, crack, hairline, wire, border, current, rail, thread, or narrow trace. It does not have to remain a single continuous line. | Branch: TBD | Network: TBD |
 | 3 | Figure: TBD | Multiply: Repeat, duplicate, branch into several related instances, or let the base form appear in multiple small units. Multiplication should make the form harder to read as one clean path. | Cluster: The multiplied forms gather into a knot, patch, group, bundle, thicket, bracketed set, or local concentration. A cluster remains local enough to inspect, but dense enough to change the tile's reading. |
-| 4 | Pattern: TBD | Distort: TBD | Mutation: TBD |
+| 4 | Pattern: The inscription begins as a repeating structure: grid, patchwork, hatching, weave, cells, or district-like repetition. It reads as a system of units rather than one single mark from the start. | Distort: Bend, skew, misalign, or warp the base form away from its regular version. Distortion should read as a deliberate departure from the expected shape, not an accident of handling. | Mutation: TBD |
 | 5 | Sign: TBD | Bury: TBD | Hidden code: TBD |
-| 6 | Unknown form: TBD | Hybridize: TBD | Contradictory form: TBD |
+| 6 | Unknown form: TBD | Hybridize: TBD | Contradictory form: The inscription ends up holding two incompatible shapes at once — both readings remain available, and neither fully cancels the other. Record which two readings compete, since a later phase may need to choose between them. |
 
 ## Behavior
 
@@ -939,12 +939,12 @@ What does the inscription leave behind, and how does that remainder behave later
 
 |  | Green — Remainder | Blue — Visibility | Red — Future Effect |
 | :---- | :---- | :---- | :---- |
-| 1 | Mark: TBD | Visible: TBD | Stabilizes: TBD |
-| 2 | Wound: TBD | Exposed: TBD | Must be answered: TBD |
-| 3 | Keyword: TBD | Recorded: TBD | Return later: TBD |
+| 1 | Mark: The residue is a plain, permanent mark on the tile itself — a small trace with no larger claim than being visibly present. | Visible: TBD | Stabilizes: The residue settles the pressure it came from. No further debt or return condition is created. |
+| 2 | Wound: TBD | Exposed: What is unfinished is left obvious and feels like it governs an area. | Must be answered: The residue remains mandatory the next time this tile is worked on. |
+| 3 | Keyword: The residue affects a keyword representing this tile's general behavior or feature. | Recorded: TBD | Return later: TBD |
 | 4 | Rule: TBD | Hidden: TBD | Triggers conditionally: TBD |
 | 5 | Contagion: TBD | Partial: TBD | Spreads later: TBD |
-| 6 | Ghost: TBD | Unresolved: TBD | Haunts future work: TBD |
+| 6 | Ghost: TBD | Unresolved: The residue's visibility itself is undecided — it may surface, stay hidden, or shift between the two depending on what a later phase decides. | Haunts future work: TBD |
 
 # Phase 6 - Chronicle
 
