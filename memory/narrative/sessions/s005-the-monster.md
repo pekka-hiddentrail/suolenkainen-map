@@ -1,4 +1,4 @@
-# S005 — T005
+# S005 — T005 · The Monster
 
 ## Awakening
 
@@ -31,6 +31,8 @@ Final target:
 - Target tile: T005, new tile.
 - [-1,-1] touches T004 / Mirror at [-1,0] directly: T005's SE edge / T004's NW edge (per `coordinate-map.md`'s [0,-1] = NW mapping).
 - No other existing tile is adjacent to [-1,-1] (checked against T001 [0,0], T002 [1,0], T003 [1,-1] using the six neighbor offsets — none match).
+
+Awakening notice: Brown rolled 6, a color-6 pressure (per the S003 precedent of flagging these even when the tile that drew them isn't the one a return condition names). This triggers `../../tracking/map-todo.md`'s Triggered Todo to review the S003 T003/T001 two-way bleed — reviewed and closed there: T005 doesn't touch T001 or T003, so the existing bleed record is unaffected.
 
 ## Cartography
 
@@ -118,3 +120,46 @@ Attunement todo list (session-scoped prep, not the persistent queue):
 - Leave the Leaves-card unfinished-face question open; do not resolve whether the tile conforms the card yet.
 - Decide which edge of T005 carries the coast/monster, and whether any teeth get individual names (carried over from Cartography discussion, still open).
 - Prepare one pending token/marker for an unresolved effect — a named tooth, or the unspent Hungry copy — to be spent later.
+
+## Surface
+
+Numbers reused from Awakening: Green 5, Blue 5, Red 2 (C170, Knight); Yellow 3, Brown 6, Black 4 (C113, Leaves). Fixed color mapping: Green = Ground, Blue = Substance, Red = Application, Yellow = Treatment, Brown = Structure, Black = Opening.
+
+Results:
+
+- Ground / Green 5: Weighted. Let the foundation feel heavy, dense, built-up, compressed, darkened, or charged.
+- Substance / Blue 5: Strange. Choose something unexpected, found, artificial, excessive, awkward, or not normally map-material.
+- Application / Red 2: Sparingly. Apply it in small amounts, fragments, hints, partial marks, or minimal touches.
+- Treatment / Yellow 3: Contrasted. Use opposition: light/dark, warm/cool, clean/dirty, blank/marked, old/new.
+- Structure / Brown 6: Structure Matrix, read using the other card's numbers (Green 5, Blue 5, Red 2): Shape + Repetition + Misaligned. An overall geometric form organizes the foundation instead of coordinate/neighbor/route/region/hidden-source; that form is built from repeated units or motifs; the flaw is that those repeated units sit offset, out of register, or wrongly connected. Newly interpreted this session and folded into `../../rules/map-creation-rules.md`'s Structure Matrix (previously TBD).
+- Opening / Black 4: Breach. Create or imply a cut, tear, gap, rupture, void, window, or broken continuity.
+
+First Mark: placed, per the user, somewhere within this session's work — exact spot not separately logged.
+
+Actual Surface materials and layout:
+
+- A bland greenish paper base covers the tile.
+- Card C113 (Leaves) was loosely taped on top of that base.
+- Several stacks of cards were taped down to form mounds — the ruined ancient-wall/bastion structure (Attunement's Echo/Trace and Mirror echo of T002's embedded-object technique). The walls are physically present as real 3D objects, matching T002's plastic-ring precedent, but end up buried under later layers rather than left exposed.
+- Greenery was glued over the entire tile, including over the top of C113 and the wall mounds — fulfilling Attunement's "substantially covered in greenery" decision.
+- Fiery triangle shapes were glued onto T005's SE edge (touching T004) and S edge (open, no neighbor yet), portraying hunger. Confirmed: this is atmosphere only — T005's one-time Hungry copy-effect remains unspent, and neither edge is thereby decided as the Route-Tangled coast. That naming stays fully open for a later phase (likely Inscription).
+- Finally, card C113 was physically cut out of the tile, leaving a card-shaped hole that exposes a lighter background underneath.
+
+Mapping actual work back to the six results:
+
+- Weighted: realized as a charged, ominous color mix — greens, browns, and burning reds — rather than literal material heft.
+- Strange: the embedded card itself (C113) serves as the "not normally map-material" substance.
+- Sparingly: applies specifically to the wall-relic — only a small number of card-stack blocks — not to the tile's overall coverage (greenery is separate and much denser).
+- Contrasted: the light patch left by the card cutout stands against the darker glued-greenery patches.
+- Structure (Shape + Repetition + Misaligned): the glued forest-green patches (roughly 1in/1.5in/1in squares) supply Repetition; the fire triangles supply a distinct Shape; the patches' inconsistent sizing against each other supplies the Misaligned flaw.
+- Breach: physically executed as the literal cut-out hole where C113 used to be.
+
+Open note carried to Inscription: cutting C113 out rather than leaving it to visually "conform" is a strong physical move against Attunement's open Omen/Question ("does the tile make the Leaves-card face conform to it?"). It reads as a candidate answer — the tile didn't make the face conform, it excised it, leaving light/absence instead — but this is left for Inscription to confirm or complicate rather than treated as settled here.
+
+Obligations for Inscription:
+
+- Decide what the card-shaped Breach hole means, and whether it resolves or deepens the Leaves-card omen question.
+- Name the Route-Tangled road/river/coast/current — still fully open; the fire-triangle edges were confirmed not to settle this.
+- Office (Proclaim/By Mark/Boundary Cost) still needs its actual mark and boundary line placed — not yet addressed by Surface.
+- Hungry's one-time copy-effect remains unspent, available whenever it makes sense.
+- Acrylic paints remain an incoming-material obligation for a future session, separate from this one.

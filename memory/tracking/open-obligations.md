@@ -94,7 +94,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Future planned color-channel rename: Brown becomes Orange and Black becomes Purple. Not active in the current or next session; prepare to adopt soon.
 - Surface Structure Matrix still has TBD descriptions in the main rules. S001 uses the matrix terms provisionally: Shape + Repetition + Interrupted.
 - Inscription Force Matrix still has TBD descriptions in the main rules. S001 uses the matrix terms provisionally: Region/Shape + Propagation + Affects 2-6 tiles.
-- S003 Inscription clarifications adopted in `../rules/map-creation-rules-v1.md` and documented in `../rules/rules-delta.md`: Broad, Thread, Spread, Source, Force On Neighbor/Bleed/Marks edge-contact, Trace replacing Collateral, and Residue Keyword/Exposed/Must be answered.
+- S003 Inscription clarifications adopted in `../rules/map-creation-rules.md` and documented in `../rules/rules-delta.md`: Broad, Thread, Spread, Source, Force On Neighbor/Bleed/Marks edge-contact, Trace replacing Collateral, and Residue Keyword/Exposed/Must be answered.
 - Seed clarification adopted: Seed creates a future-work item in `map-todo.md` as either a triggered todo or unscheduled todo; Chronicle Maintenance 4 processes the todo list / future-work queue.
 - Chronicle tasks need a future audit for practicality, overlap, and concrete artifact completion.
 - Lore file created: `../narrative/lore.md`. Future sessions may define The Court and the Storyteller in more detail.

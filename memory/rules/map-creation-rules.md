@@ -828,10 +828,10 @@ What foundation structure should organize it?
 |  | Green — Authority | Blue — Pattern logic | Red — Flaw |
 | :---- | :---- | :---- | :---- |
 | 1 | Coordinate: TBD | Axis: TBD | Too faint: TBD |
-| 2 | Neighbor: TBD | Grid: TBD | Misaligned: TBD |
+| 2 | Neighbor: TBD | Grid: TBD | Misaligned: Let the repeated units sit offset, out of register, rotated, or wrongly connected to each other, rather than aligning cleanly. |
 | 3 | Route: TBD | Sequence: TBD | Interrupted: TBD |
 | 4 | Region: TBD | Division: TBD | Overgrown: TBD |
-| 5 | Shape: TBD | Repetition: TBD | Too dominant: TBD |
+| 5 | Shape: Let an overall geometric form — circle, ring, spiral, arc, corridor, patch, or comparable figure — organize the foundation, rather than a coordinate, neighbor, route, region, or hidden source. | Repetition: Build the pattern from repeated units, motifs, or recurring marks rather than one continuous form. | Too dominant: TBD |
 | 6 | Hidden Source: TBD | Nested/recursive: TBD | Contradictory: TBD |
 
 ## Opening

@@ -122,3 +122,8 @@ Example shape:
 - Mirror uses the two drawn cards: boy in a hat on a forest path, and chaotic demon image. The forest path also makes Route a strong possible mirror behavior, and the anchor point may become the center even if it isn't geometrically centered.
 - Wound is currently a mystery wound. It may later attach to the anchor point, a quadrant, the forest path, or the demon's concealed pressure — a concrete phrasing like "Where does the forest path lead?" is stronger than a vague "forest mystery."
 - Matter: Reserve should name one specific material from the user's material folder and keep it nearby without requiring immediate use. Good candidates include a forest-path texture, torn green/brown paper, a damaged map fragment, or a dark chaotic scrap.
+
+## S005 Current Interpretive Notes
+
+- Surface Structure Matrix (Shape + Repetition + Misaligned) worked example: T005's forest-green patches were cut as roughly 1in/1.5in/1in squares (Repetition, repeated squarish units), set alongside distinct fire-triangle shapes (Shape, a different geometric figure organizing part of the foundation), with the patches' inconsistent sizing read as the Misaligned flaw — the repeated units don't quite register against each other. This is one way the generic rules-cell wording can play out physically; it isn't the only way.
+- Surface Application (Sparingly) can apply to only one material on a multi-material tile rather than the whole foundation: T005 used Sparingly for its wall-relic (a small number of card-stack "blocks"), while a separate, unrelated material (glued greenery) covered the tile far more densely. Reading Application per-material rather than tile-wide avoids a false contradiction when a tile combines a sparse element with a dense one.

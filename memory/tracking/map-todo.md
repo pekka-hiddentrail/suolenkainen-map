@@ -19,7 +19,7 @@ Todo types:
 ## Triggered Todos
 
 - [ ] When T003 / The Canyon is targeted, decide what the hidden yellow tunnel connects to, and whether the black warning bleed from T001 becomes a boundary, warning system, contamination, or route law.
-- [ ] When silver grid bleed, black warning bleed, AIKA technical energy, safety lines, bleed-prevention wall, or color 6 appears, review the S003 T003/T001 two-way bleed.
+- [x] When silver grid bleed, black warning bleed, AIKA technical energy, safety lines, bleed-prevention wall, or color 6 appears, review the S003 T003/T001 two-way bleed. (Reviewed after S005: Brown rolled 6 in S005's Awakening/Cartography draw, a color-6 pressure. T005 doesn't touch T001 or T003 — it's only adjacent to T004 — so the existing T003/T001 bleed record stands unchanged; no complication introduced.)
 - [ ] When Force or Residue clarification appears, check the adopted S003 rule changes: Force uses Trace instead of Collateral, and Seed creates todo-queue items.
 
 ## Unscheduled Todos
