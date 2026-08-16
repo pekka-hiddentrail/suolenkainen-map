@@ -72,6 +72,8 @@ More generally: if any rule in this document cannot operate because the map lack
 
 When the calculated coordinate is empty — no tile exists there — the system does not simply create one on the spot. Instead, it walks the target back toward the existing map, one step at a time.
 
+If the raw calculated coordinate is empty but already touches the existing map by adjacency — the case never arose until it was found and settled during S005 — no walking is needed at all: the walk-back's whole purpose is to reach a coordinate touching the map, and an adjacent-but-empty raw target already does. Skip the reference-line/stepping mechanism below entirely and go straight to the Brown-parity decision (new tile at that coordinate, or one further step, exactly as for any other found-contact coordinate). Only take walk-back steps when the raw target does not yet touch the map at all.
+
 The logic works like this. From the empty coordinate, identify the nearest of three reference lines running through the origin: the diagonal where the absolute values of both coordinates are equal, or either of the two axes where one coordinate is zero. (The diagonal itself is really two different lines with different walking behavior — see "Walking the two different diagonals" below.) If the target is equidistant between two of these lines, the black card number breaks the tie — odd sends the target to the counter-clockwise option, even to the clockwise one.
 
 From there, move one step toward that reference line. Check the new position: does it touch the existing map, either by landing on a tile or by being adjacent to one? If not, move again. Keep moving until the target lands somewhere that touches the existing map.
@@ -826,10 +828,10 @@ What foundation structure should organize it?
 |  | Green — Authority | Blue — Pattern logic | Red — Flaw |
 | :---- | :---- | :---- | :---- |
 | 1 | Coordinate: TBD | Axis: TBD | Too faint: TBD |
-| 2 | Neighbor: TBD | Grid: TBD | Misaligned: TBD |
+| 2 | Neighbor: TBD | Grid: TBD | Misaligned: Let the repeated units sit offset, out of register, rotated, or wrongly connected to each other, rather than aligning cleanly. |
 | 3 | Route: TBD | Sequence: TBD | Interrupted: TBD |
 | 4 | Region: TBD | Division: TBD | Overgrown: TBD |
-| 5 | Shape: TBD | Repetition: TBD | Too dominant: TBD |
+| 5 | Shape: Let an overall geometric form — circle, ring, spiral, arc, corridor, patch, or comparable figure — organize the foundation, rather than a coordinate, neighbor, route, region, or hidden source. | Repetition: Build the pattern from repeated units, motifs, or recurring marks rather than one continuous form. | Too dominant: TBD |
 | 6 | Hidden Source: TBD | Nested/recursive: TBD | Contradictory: TBD |
 
 ## Opening
@@ -922,7 +924,7 @@ How far does the inscription's force reach, and by what mechanism?
 | 2 | To edge: TBD | Bleed: The force crosses an edge and alters or continues into an adjacent tile. Whatever the tile holds on that edge may continue as bleed. When a physical measure is needed, use the Red number as centimeters of continuation. | Marks edge/contact: The force leaves visible evidence at the crossing point: stain, line, interruption, residue, boundary mark, color change, material transfer, stopped trace, or other contact evidence. |
 | 3 | On neighbor: The tile reaches out to a neighboring tile to influence it. | Bridge: TBD | Modifies one adjacent tile: TBD |
 | 4 | Route/chain: TBD | Transmission: TBD | Follows a path: TBD |
-| 5 | Region/shape: TBD | Propagation: TBD | Affects 2-6 tiles: TBD |
+| 5 | Region/shape: The force reaches across a region, multi-tile shape, or comparable larger grouping, rather than a single edge, neighbor, or route chain. | Propagation: The force spreads outward through multiple connected tiles at once — region, shape, weather, or bleed logic — rather than one bridge or transmission line. | Affects 2-6 tiles: TBD |
 | 6 | Map system: TBD | Event: TBD | Creates special rule: TBD |
 
 The third Force column is **Trace**, not Collateral. Reach says how far the force goes; Mechanism says how it travels; Trace says what evidence or effect remains after it acts. Trace is allowed to be quieter or smaller than the force itself. For example, On neighbor + Bleed + Marks edge/contact means the tile affects a neighbor by bleeding across an edge, and the crossing must leave visible evidence at the contact. The main feature does not always need to sit on the edge; a branch, extension, residue, echo, or stopped mark may carry the force to the contact.

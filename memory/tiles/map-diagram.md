@@ -29,8 +29,11 @@ An ASCII drawing of the physical map, laid out by real coordinate, not just list
 | T002 | Ring | [1,0] |
 | T003 | The Canyon | [1,-1] |
 | T004 | Mirror | [-1,0] |
+| T005 | The Monster | [-1,-1] |
 
 T004 is drawn attached to this cluster now, touching T001 directly on T004's NE / T001's SW edge. Its coordinate was originally recorded as [-1,-1] — two steps from T001 and not touching anything — but that walk-back had ticked both coordinates of a same-sign diagonal at once, which isn't a real single hex step (there is no direct E/W side). Re-walking with real NE/SE steps found map contact one step earlier, at [-1,0]; see `../rules/rules-delta.md`'s same-sign-diagonal entry for the full derivation. The redraw above places T004 by mirroring T001's already-confirmed T002 (NE) offset in the opposite (SW) direction — same 7-character/3-line constants, negated.
+
+**Pending redraw:** T005 / The Monster was created at [-1,-1] during S005, touching T004 on T005's SE / T004's NW edge (a pure SE-NW-axis step, not yet demonstrated in this diagram — T002/T003/T004 so far only demonstrate NE-SW-axis and N steps). It's listed in the summary table above but left out of the ASCII block: checking this diagram's existing hexes against its own stated per-step constants turned up an inconsistency (T003, due N of T001, measures with a nonzero horizontal offset from T001's anchor point, which the stated "N/S has no horizontal shift" rule says shouldn't happen). Rather than guess at a redraw that might not line up, this stays open until the offset constants are re-verified directly against the physical tiles.
 
 ## How to draw or extend this
 
@@ -50,7 +53,7 @@ To place a second hex relative to a first one, convert the coordinate difference
 
 - Every +1 on the NE-SW axis (green minus blue) shifts the block **7 characters right**; -1 shifts left.
 - Every +1 on the SE-NW axis (red minus yellow) shifts the block **3 lines up**; -1 shifts down.
-- A tile's own six sides run N, NE, SE, S, SW, NW (per `map-creation-rules-v1.md` Phase 1) — N/S neighbors share a flat top/bottom edge with no horizontal shift at all, just a 6-line vertical offset (2 axis-steps); NE/SE/SW/NW neighbors shift diagonally using both offsets above.
+- A tile's own six sides run N, NE, SE, S, SW, NW (per `map-creation-rules.md` Phase 1) — N/S neighbors share a flat top/bottom edge with no horizontal shift at all, just a 6-line vertical offset (2 axis-steps); NE/SE/SW/NW neighbors shift diagonally using both offsets above.
 
 These two constants (7 characters, 3 lines) were measured directly off a real 3-hex cluster, not guessed — if you add a hex and the seams don't line up, recheck the coordinate difference before assuming the constants are wrong.
 
