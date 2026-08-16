@@ -4,18 +4,19 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 
 ## Current status
 
-4 tiles exist so far:
+5 tiles exist so far:
 
 | Tile | Name | Coordinate | Status |
 | --- | --- | --- | --- |
 | T001 | AIKA | [0,0] | Complete (S001) |
 | T002 | Ring | [1,0] | Complete (S002) |
 | T003 | The Canyon | [1,-1] | Complete (S003) |
-| T004 | Mirror | [-1,0] | In progress (S004) — Cartography, Attunement, Surface, and Inscription done; Chronicle in progress |
+| T004 | Mirror | [-1,0] | Main draw complete (S004) — Artifact Draw still pending |
+| T005 | The Monster | [-1,-1] | Complete (S005) — main draw and Artifact Draw both done |
 
 15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`).
 
-Next up per `memory/tracking/map-todo.md`: S004 Chronicle for T004 / Mirror.
+Next up per `memory/tracking/map-todo.md`: T004's still-pending Artifact Draw, or the S005 Seed return condition (Route-Tangled's coast, the T004/T005 scab acknowledgment, and the floated T002 reciprocal debt) whenever The Monster, T004, or T002 is next targeted.
 
 ## Repository layout
 

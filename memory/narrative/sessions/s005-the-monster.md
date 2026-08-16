@@ -207,3 +207,36 @@ Obligations for Chronicle:
 - Whether to formalize a reciprocal debt on T002 (regarding the Ring/wall echo) is still undecided.
 - Office's Boundary Cost — whether the scab's spread onto T004 itself now counts as the boundary/division line Office demanded, or whether that's still separately unpaid, is worth a Chronicle note.
 - Acrylic paints remain an incoming-material obligation for a future session.
+
+## Chronicle
+
+Numbers reused from Awakening: Green 5, Blue 5, Red 2 (C170, Knight); Yellow 3, Brown 6, Black 4 (C113, Leaves). Fixed color mapping: Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed.
+
+Results:
+
+- Record / Green 5: Affected map record. Record changes to the wider map: neighbors, bleed, regions, routes, weather, stack state, special rules.
+- Witness / Blue 5: Archive object. Preserve a physical or digital object from the session.
+- Meaning / Red 2: Session diary. Write a personal process note: what you did, what surprised you, what decisions you made.
+- Publication / Yellow 3: Short post. Write a brief caption, note, or progress update.
+- Maintenance / Brown 6: Maintenance Matrix, read using the other card's numbers (Green 5, Blue 5, Red 2): Physical map + Repair/stabilize/protect + Change future readings.
+- Seed / Black 4: Return condition. Define when something comes back: when tile is targeted, when a color is 6, when path bleeds, when weather appears.
+
+Actual Chronicle:
+
+- **Record:** T005 is born and named The Monster at [-1,-1], touching T004 on T005's SE / T004's NW edge. Its Inscription bleeds a red/brown scab onto T004's own physical tile at that edge (Force: Region/Shape + Propagation + Marks edge/contact) — recorded on both tiles. Route-Tangled's coast remains unnamed. The color-6 draw (Brown 6) was reviewed against the standing S003 T003/T001 bleed Triggered Todo and closed as unaffected.
+- **Witness:** the cut-out C113 (Leaves) card — the literal piece removed to create the Breach — is the archived object. It has been placed in a plastic sleeve to conserve it, kept with the session's materials.
+- **Meaning (session diary):** rather than a full process recap (the user is separately writing a blog post covering that), a short in-world diary fragment on why the soldiers defend the forest:
+
+  > *Found among the mounds, unsigned: "They ask why we still stand this wall when the green has already won the fields around it. But the forest does not want land — it wants forgetting. Every root that crosses the stones is a small kindness that erases what we were. We do not fight leaves. We fight being mistaken for soil."*
+
+- **Publication:** a short post is the indicated result, but is being covered by the user's own in-progress blog post rather than drafted here.
+- **Maintenance:** confirmed done — the modeling paste has cured, the card-stack mounds are secure, and the blotchy ink accent has been left stable rather than reworked.
+- **Seed (return condition):** bundled, per user agreement — return to The Monster when it is targeted again, when T004 or T002 is targeted, or when color 6 appears; at that point resolve Route-Tangled's still-unnamed coast, whether T004 acknowledges/responds to the received scab, and whether the floated reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure?) gets formalized. Added to `../../tracking/map-todo.md` as a Triggered Todo.
+
+## Artifact Draw
+
+Card drawn: C129, Mephistomon — Green 4, Blue 4, Red 3, Yellow 3, Brown 5, Black 6.
+
+Brown 5 selects the Maintenance row directly from the main Chronicle table (not the Matrix, since Brown ≠ 6): **Physical maintenance — repair, clean, flatten, glue, protect, label, sleeve, store, magnet-check, felt-check, or stabilize materials.**
+
+Actual artifact: card **C182** ("Unfinished, intentional ugliness" — Clockface, water colors; Green 6, Blue 1, Red 2, Yellow 5, Brown 1, Black 2) was sleeved to protect it, satisfying the row's "sleeve, store" action directly in the physical deck — a separate action from the Witness step's own conservation of the cut-out C113 card.

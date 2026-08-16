@@ -36,6 +36,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - T002 return condition: return when Ring, Court arena, black warning bleed, SW/T001 bridge, circles/ovals, spectator text, or color 6 appears.
 - S003 Cartography ruling: Brown 6 and Black 6 activate T002's color-6 return condition as a neighboring witness and live pressure, but do not resolve it yet. Later phases may decide whether T003's route-vault and hidden line answer or complicate Ring's arena/route obligations.
 - T002 artifact complete: Artifact Draw created keyword K016 Ring as a future-facing artifact seed; private teaser/caption is stored in the session log.
+- S005 note: Brown 6 in S005's draw activates T002's color-6 return condition again, as a neighboring pressure only — S005 targeted T005, not T002, so nothing here resolves yet. S005 also floated (not yet formalized) whether T002's Ring/ancient-relic lore should acknowledge T005 / The Monster's wall-relic as a sibling structure, echoing the same embedded-3D-object technique; bundled into T005's own Seed return condition in `map-todo.md`.
 
 ## T003 Obligations
 
@@ -84,6 +85,23 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Open: T001/Mirror multi-tile edge witness photo taken (S004 Chronicle Witness); held back from publication until a later, deliberate reveal.
 - Decided, not yet done: go full archaic on the T001/Mirror shared corner rather than settling as a schematic-hexagon overwrite. Next step, not a reversal of the S004 rewrite.
 - Open: what occupies each side of the Division (beyond technical-zone vs. frayed-zone), and what the Blank opening connects to beyond the Peili pool.
+- S005 addendum: T004 physically received a red/brown "scab" from T005 / The Monster's Inscription on their shared edge (T004's NW / T005's SE), via Force: Region/Shape + Propagation + Marks edge/contact. Whether T004 acknowledges or responds to this is undecided — bundled into T005's own Seed return condition in `map-todo.md`, not a standalone T004 obligation yet.
+
+## T005 / The Monster Obligations
+
+- S005 creates T005 at [-1,-1], directly touching T004 on T005's SE / T004's NW edge — the raw Awakening target was empty but already adjacent to T004, a newly-found rules case (walk-back skips stepping when already touching) now folded into `../rules/map-creation-rules.md`. The tile is named The Monster.
+- S005 Cartography births it Contagious, Tidebound, Route-Tangled, Hungry, Office Proclaim (paid for with a Boundary Cost), permanently inheriting the session's two Awakening cards (Knight, Leaves) as governing omen. All six phases plus the Artifact Draw are complete.
+- Open: Route-Tangled's road/river/coast/current is still unnamed — the south edge was intended for this but the marking was forgotten during Inscription.
+- Open: whether Office's Boundary Cost is already paid (by the scab reaching T004) or still separately unpaid.
+- Open: the Hungry copy-effect remains unspent — available whenever it makes sense, from T004's standing Effects (Drawn-In, Neighbor-Tangled, Divided, or Gate).
+- Open: whether T004 acknowledges/responds to receiving the scab, and whether a reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure?) gets formalized.
+- Open: acrylic paints are an incoming material; once they arrive, using them at least once in a future session becomes an obligation.
+- Open: what the blotchy (rather than clean) ink accent on the Breach-hole edge means, if anything.
+- Return condition: return to The Monster when it's targeted again, when T004 or T002 is targeted, or when color 6 appears — resolve the coast, the T004 acknowledgment, and the T002 debt question together. Seed queue item created in `map-todo.md`.
+- Chronicle Witness: the cut-out C113 (Leaves) card is archived, sleeved for conservation, kept with session materials.
+- Chronicle Meaning: a short in-world diary fragment on why the soldiers defend the forest is recorded in the session log (`../narrative/sessions/s005-the-monster.md`).
+- Chronicle Publication (Short post) is being covered by the user's own in-progress blog post, not drafted here.
+- Artifact Draw complete: card C129 (Mephistomon), Brown 5, satisfied by sleeving deck card C182 ("Unfinished, intentional ugliness") to protect it — separate from the Witness step's own conservation of the cut-out C113 card.
 
 ## Rule And Documentation Obligations
 
@@ -92,8 +110,8 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Keep `../tiles/coordinate-map.md` synchronized with `../tiles/tile-data.md` whenever a new tile is placed or an existing tile's coordinate/physical relation changes.
 - Paired equal card numbers may have future significance. Current example: Green 5 and Blue 5 in S001. Record pairs when noticed, but do not change results yet.
 - Future planned color-channel rename: Brown becomes Orange and Black becomes Purple. Not active in the current or next session; prepare to adopt soon.
-- Surface Structure Matrix still has TBD descriptions in the main rules. S001 uses the matrix terms provisionally: Shape + Repetition + Interrupted.
-- Inscription Force Matrix still has TBD descriptions in the main rules. S001 uses the matrix terms provisionally: Region/Shape + Propagation + Affects 2-6 tiles.
+- Surface Structure Matrix: the Shape (row5), Repetition (row5), and Misaligned (row2) cells were formalized in S005 (T005's own Structure Matrix draw), replacing their TBD placeholders in `../rules/map-creation-rules.md`. Other cells in that matrix remain TBD, including S001's still-provisional Interrupted (row3, Flaw column).
+- Inscription Force Matrix: the Region/Shape and Propagation cells (both row5) were formalized in S005 (T005's own Force Matrix draw — the second session to land on them after S001's unformalized provisional use), replacing their TBD placeholders in `../rules/map-creation-rules.md`. Affects 2-6 tiles (row5, Trace column) remains TBD.
 - S003 Inscription clarifications adopted in `../rules/map-creation-rules.md` and documented in `../rules/rules-delta.md`: Broad, Thread, Spread, Source, Force On Neighbor/Bleed/Marks edge-contact, Trace replacing Collateral, and Residue Keyword/Exposed/Must be answered.
 - Seed clarification adopted: Seed creates a future-work item in `map-todo.md` as either a triggered todo or unscheduled todo; Chronicle Maintenance 4 processes the todo list / future-work queue.
 - Chronicle tasks need a future audit for practicality, overlap, and concrete artifact completion.
