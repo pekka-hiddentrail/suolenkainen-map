@@ -163,3 +163,47 @@ Obligations for Inscription:
 - Office (Proclaim/By Mark/Boundary Cost) still needs its actual mark and boundary line placed — not yet addressed by Surface.
 - Hungry's one-time copy-effect remains unspent, available whenever it makes sense.
 - Acrylic paints remain an incoming-material obligation for a future session, separate from this one.
+
+## Inscription
+
+Numbers reused from Awakening: Green 5, Blue 5, Red 2 (C170, Knight); Yellow 3, Brown 6, Black 4 (C113, Leaves). Fixed color mapping: Green = Scale, Blue = Form, Red = Behavior, Yellow = Relation, Brown = Force, Black = Residue.
+
+Results:
+
+- Scale / Green 5: Map-Reaching. It wants to affect another tile, region, route, shape, or larger system.
+- Form / Blue 5: Sign. Name, number, glyph, label, arrow, omen, icon, keyword, written mark.
+- Behavior / Red 2: Spread. Grow, bleed, branch, multiply, expand, continue.
+- Relation / Yellow 3: Neighbor. One or more adjacent tiles.
+- Force / Brown 6: Force Matrix, read using the other card's numbers (Green 5, Blue 5, Red 2): Region/Shape + Propagation + Marks edge/contact. The force reaches across a region or shape rather than a single edge, spreads outward through multiple connected tiles at once, and leaves visible evidence at the crossing point. Reach (Region/Shape) and Mechanism (Propagation) were both still TBD in the rulebook — this is the second session to land on exactly these two cells (S001 used them provisionally, never formalized), so both are now written into `../../rules/map-creation-rules.md`.
+- Residue / Black 4: Debt. Creates a future obligation for Chronicle or another session.
+
+Pre-execution discussion settled a few things: the soldiers/bastion would come through Form's Sign (a small heraldic glyph) rather than illustrated figures, keeping the still-open Omen question ("what does the Knight fight, what do the Leaves hide?") gestured at rather than answered; the mound highlights would stay partial (top-ridge only); the triangles would get softened rather than sharpened; and a modeling-paste "forest bleed" onto T004 (and possibly T001) was proposed to realize Scale/Map-Reaching and Force together.
+
+Actual Inscription:
+
+- White modeling paste was spread through a splash-shaped template across both T005 and T004 (covering part of T004's frayed-fabric zone at the shared edge) — solving the dark, inconsistently-absorbent base by creating a fresh, uniform paintable surface on top of it.
+- That paste was colored with reds and browns. The result reads as **scabs** — better than expected going in.
+- Three small heraldic paper cutouts were glued on: one cavalry, two rangers.
+- Some of the mound areas were highlighted with white marker where the crenellation peaks out.
+- The card-cutout (Breach) edges were accentuated with ink, intending a clean line — but the ink was runny and the paper absorbed it unevenly, leaving a blotchy rather than crisp result.
+- Not done: the forest squares planned for T004's NW area and T001's W area were skipped entirely — neither tile received that material. T001 was not touched at all this session.
+- Not done: the south-edge coastline marking was forgotten. Route-Tangled's coast remains unnamed, still open, intended for a later pass.
+
+Confirmed reinterpretation: **the scab is now the physical identity of Contagious's bleed, and it's understood to eventually spread through every side of The Monster**, not just the one currently touching T004. This session's own instance (reaching onto T004's physical tile) is Force acting now — the propagating reach, marking the crossing with visible red/brown evidence — not Contagious's Origin Effect actually firing (that Effect triggers reactively, when a neighbor is *changed*; T004 wasn't independently worked on this session, T005 reached out to it proactively instead). Contagious itself stays a dormant, reactive mechanism, but it now has a fixed material answer for what it bleeds whenever it does fire on a future neighbor: this same scab.
+
+Mapping actual work back to the six results:
+
+- Map-Reaching: the scab/contamination's own standing ambition to spread across the whole map over time, not limited to the one edge currently in contact.
+- Sign: the three heraldic cutouts (cavalry, two rangers) — small, plain, gesturing at the Knight without depicting a scene or answering what it fights.
+- Spread: the scab, physically spreading from T005 onto T004's shared edge.
+- Neighbor: T004, confirmed — the only tile the scab actually reached this session.
+- Force (Region/Shape + Propagation + Marks edge/contact): realized as the scab crossing onto T004's own physical tile, leaving visible red/brown evidence right at the crossing point.
+- Debt: carried to Chronicle — the south coast is still unnamed; whether T004 needs to acknowledge or respond to receiving the scab is undecided; the earlier-floated reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure?) is still just floated, not committed.
+
+Obligations for Chronicle:
+
+- T004's own tile record needs to reflect that it physically received the scab-paste (red/brown) on its T005-facing edge, over part of its frayed-fabric zone.
+- Route-Tangled's coast is still unnamed — genuinely forgotten this pass, carried forward as an open item.
+- Whether to formalize a reciprocal debt on T002 (regarding the Ring/wall echo) is still undecided.
+- Office's Boundary Cost — whether the scab's spread onto T004 itself now counts as the boundary/division line Office demanded, or whether that's still separately unpaid, is worth a Chronicle note.
+- Acrylic paints remain an incoming-material obligation for a future session.

@@ -924,7 +924,7 @@ How far does the inscription's force reach, and by what mechanism?
 | 2 | To edge: TBD | Bleed: The force crosses an edge and alters or continues into an adjacent tile. Whatever the tile holds on that edge may continue as bleed. When a physical measure is needed, use the Red number as centimeters of continuation. | Marks edge/contact: The force leaves visible evidence at the crossing point: stain, line, interruption, residue, boundary mark, color change, material transfer, stopped trace, or other contact evidence. |
 | 3 | On neighbor: The tile reaches out to a neighboring tile to influence it. | Bridge: TBD | Modifies one adjacent tile: TBD |
 | 4 | Route/chain: TBD | Transmission: TBD | Follows a path: TBD |
-| 5 | Region/shape: TBD | Propagation: TBD | Affects 2-6 tiles: TBD |
+| 5 | Region/shape: The force reaches across a region, multi-tile shape, or comparable larger grouping, rather than a single edge, neighbor, or route chain. | Propagation: The force spreads outward through multiple connected tiles at once — region, shape, weather, or bleed logic — rather than one bridge or transmission line. | Affects 2-6 tiles: TBD |
 | 6 | Map system: TBD | Event: TBD | Creates special rule: TBD |
 
 The third Force column is **Trace**, not Collateral. Reach says how far the force goes; Mechanism says how it travels; Trace says what evidence or effect remains after it acts. Trace is allowed to be quieter or smaller than the force itself. For example, On neighbor + Bleed + Marks edge/contact means the tile affects a neighbor by bleeding across an edge, and the crossing must leave visible evidence at the contact. The main feature does not always need to sit on the edge; a branch, extension, residue, echo, or stopped mark may carry the force to the contact.
