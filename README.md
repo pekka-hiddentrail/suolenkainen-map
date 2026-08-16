@@ -11,12 +11,12 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 | T001 | AIKA | [0,0] | Complete (S001) |
 | T002 | Ring | [1,0] | Complete (S002) |
 | T003 | The Canyon | [1,-1] | Complete (S003) |
-| T004 | Mirror | [-1,0] | Main draw complete (S004) — Artifact Draw still pending |
+| T004 | Mirror | [-1,0] | Complete (S004) — Artifact Draw bypassed by user decision |
 | T005 | The Monster | [-1,-1] | Complete (S005) — main draw and Artifact Draw both done |
 
 15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`).
 
-Next up per `memory/tracking/map-todo.md`: T004's still-pending Artifact Draw, or the S005 Seed return condition (Route-Tangled's coast, the T004/T005 scab acknowledgment, and the floated T002 reciprocal debt) whenever The Monster, T004, or T002 is next targeted.
+Next up per `memory/tracking/map-todo.md`: the S005 Seed return condition — Route-Tangled's still-unnamed coast, and the floated T002 reciprocal debt (T002 possibly forming wooded lands) — whenever The Monster or T002 is next targeted.
 
 ## Repository layout
 

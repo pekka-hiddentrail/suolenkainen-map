@@ -37,6 +37,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - S003 Cartography ruling: Brown 6 and Black 6 activate T002's color-6 return condition as a neighboring witness and live pressure, but do not resolve it yet. Later phases may decide whether T003's route-vault and hidden line answer or complicate Ring's arena/route obligations.
 - T002 artifact complete: Artifact Draw created keyword K016 Ring as a future-facing artifact seed; private teaser/caption is stored in the session log.
 - S005 note: Brown 6 in S005's draw activates T002's color-6 return condition again, as a neighboring pressure only — S005 targeted T005, not T002, so nothing here resolves yet. S005 also floated (not yet formalized) whether T002's Ring/ancient-relic lore should acknowledge T005 / The Monster's wall-relic as a sibling structure, echoing the same embedded-3D-object technique; bundled into T005's own Seed return condition in `map-todo.md`.
+- S005 idea (floated, tentative — "perhaps"): when T002 is next worked on, it could begin forming wooded lands, echoing The Monster's forest/greenery theme spreading toward it. Not committed; just a direction to consider.
 
 ## T003 Obligations
 
@@ -85,7 +86,8 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Open: T001/Mirror multi-tile edge witness photo taken (S004 Chronicle Witness); held back from publication until a later, deliberate reveal.
 - Decided, not yet done: go full archaic on the T001/Mirror shared corner rather than settling as a schematic-hexagon overwrite. Next step, not a reversal of the S004 rewrite.
 - Open: what occupies each side of the Division (beyond technical-zone vs. frayed-zone), and what the Blank opening connects to beyond the Peili pool.
-- S005 addendum: T004 physically received a red/brown "scab" from T005 / The Monster's Inscription on their shared edge (T004's NW / T005's SE), via Force: Region/Shape + Propagation + Marks edge/contact. Whether T004 acknowledges or responds to this is undecided — bundled into T005's own Seed return condition in `map-todo.md`, not a standalone T004 obligation yet.
+- S005 addendum: T004 physically received a red/brown "scab" from T005 / The Monster's Inscription on their shared edge (T004's NW / T005's SE), via Force: Region/Shape + Propagation + Marks edge/contact. **Resolved: T004 accepts the scab.**
+- T004's own Artifact Draw (S001-S010 requirement) is bypassed by user decision — not performed, not planned. No longer an open item.
 
 ## T005 / The Monster Obligations
 
@@ -93,10 +95,11 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - S005 Cartography births it Contagious, Tidebound, Route-Tangled, Hungry, Office Proclaim (paid for with a Boundary Cost), permanently inheriting the session's two Awakening cards (Knight, Leaves) as governing omen. All six phases plus the Artifact Draw are complete.
 - Open: Route-Tangled's road/river/coast/current is still unnamed — the south edge was intended for this but the marking was forgotten during Inscription.
 - Open: whether Office's Boundary Cost is already paid (by the scab reaching T004) or still separately unpaid.
-- Open: the Hungry copy-effect remains unspent — available whenever it makes sense, from T004's standing Effects (Drawn-In, Neighbor-Tangled, Divided, or Gate).
-- Open: whether T004 acknowledges/responds to receiving the scab, and whether a reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure?) gets formalized.
+- Open: the Hungry copy-effect remains unspent, confirmed as a standing mystery rather than a pending choice to resolve soon.
+- Resolved: T004 accepts the received scab.
+- Open: whether a reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure?) gets formalized — see the floated "wooded lands" idea under T002's own obligations.
 - Open: acrylic paints are an incoming material; once they arrive, using them at least once in a future session becomes an obligation.
-- Open: what the blotchy (rather than clean) ink accent on the Breach-hole edge means, if anything.
+- Confirmed: the blotchy (rather than clean) ink accent on the Breach-hole edge carries no meaning yet.
 - Return condition: return to The Monster when it's targeted again, when T004 or T002 is targeted, or when color 6 appears — resolve the coast, the T004 acknowledgment, and the T002 debt question together. Seed queue item created in `map-todo.md`.
 - Chronicle Witness: the cut-out C113 (Leaves) card is archived, sleeved for conservation, kept with session materials.
 - Chronicle Meaning: a short in-world diary fragment on why the soldiers defend the forest is recorded in the session log (`../narrative/sessions/s005-the-monster.md`).

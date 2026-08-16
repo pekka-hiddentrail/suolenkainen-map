@@ -16,14 +16,14 @@ Todo types:
 - [x] S004 Attunement/Inscription: the neighbor condition and preserved rule are resolved — the archaic-symbol contact at T001's SW edge, honored through T004 rewriting some of those symbols in its own schematic pattern rather than literal retention.
 - [ ] T001/Mirror shared corner: go full archaic. Extend the rewritten area further into an archaic-script/scripture register rather than settling as a schematic-hexagon overwrite — lean into continuing/amplifying T001's original language rather than replacing it with T004's. Decided after the schematic-hexagon rewrite was already physically done and photographed; this is the next step on that same corner, not a reversal of it.
 - [x] S005: Awakening through Chronicle, plus the Artifact Draw, complete for T005 / The Monster.
-- [ ] T004's own Artifact Draw (S004 requirement) is still separately pending — a fresh, single-card draw, unrelated to T005's.
+- [x] T004's own Artifact Draw (S004 requirement) is bypassed by user decision — not performed, not planned.
 
 ## Triggered Todos
 
 - [ ] When T003 / The Canyon is targeted, decide what the hidden yellow tunnel connects to, and whether the black warning bleed from T001 becomes a boundary, warning system, contamination, or route law.
 - [x] When silver grid bleed, black warning bleed, AIKA technical energy, safety lines, bleed-prevention wall, or color 6 appears, review the S003 T003/T001 two-way bleed. (Reviewed after S005: Brown rolled 6 in S005's Awakening/Cartography draw, a color-6 pressure. T005 doesn't touch T001 or T003 — it's only adjacent to T004 — so the existing T003/T001 bleed record stands unchanged; no complication introduced.)
 - [ ] When Force or Residue clarification appears, check the adopted S003 rule changes: Force uses Trace instead of Collateral, and Seed creates todo-queue items.
-- [ ] When T005 / The Monster is targeted again, when T004 or T002 is targeted, or when color 6 appears: resolve Route-Tangled's still-unnamed coast, decide whether T004 acknowledges/responds to the red/brown scab it received from The Monster's Inscription, and decide whether a reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure?) gets formalized. (S005 Chronicle Seed, bundled per user request.)
+- [ ] When T005 / The Monster is targeted again, when T002 is targeted, or when color 6 appears: resolve Route-Tangled's still-unnamed coast, and decide whether a reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure? — a floated idea is that T002 could begin forming wooded lands) gets formalized. (S005 Chronicle Seed, bundled per user request. T004's part of this bundle — whether it acknowledges the scab — is resolved: T004 accepts it.)
 
 ## Unscheduled Todos
 

@@ -240,3 +240,15 @@ Card drawn: C129, Mephistomon — Green 4, Blue 4, Red 3, Yellow 3, Brown 5, Bla
 Brown 5 selects the Maintenance row directly from the main Chronicle table (not the Matrix, since Brown ≠ 6): **Physical maintenance — repair, clean, flatten, glue, protect, label, sleeve, store, magnet-check, felt-check, or stabilize materials.**
 
 Actual artifact: card **C182** ("Unfinished, intentional ugliness" — Clockface, water colors; Green 6, Blue 1, Red 2, Yellow 5, Brown 1, Black 2) was sleeved to protect it, satisfying the row's "sleeve, store" action directly in the physical deck — a separate action from the Witness step's own conservation of the cut-out C113 card.
+
+## Post-Chronicle Follow-Up
+
+A few of the S005 Seed's open threads were settled after the main Chronicle draw closed:
+
+- **T004 accepts the scab.** Resolved on `../../tiles/records/t004-mirror.md` — no longer part of the bundled return condition.
+- **The blotchy Breach-hole ink accent carries no meaning yet** — confirmed deliberately open, not an oversight.
+- **Hungry remains a mystery.** T005's unspent copy-effect is now framed as a standing mystery rather than a mechanical choice waiting to be made.
+- **Floated for T002:** when T002 is next worked on, it could begin forming wooded lands — echoing The Monster's forest theme toward its neighbor. Tentative, not committed.
+- **T004's own Artifact Draw (an S004 leftover) is bypassed by user decision** — not performed, not planned, no longer an open item anywhere.
+
+The bundled Seed return condition in `../../tracking/map-todo.md` is narrowed accordingly: only Route-Tangled's still-unnamed coast and the floated T002 reciprocal debt remain, triggered when The Monster or T002 is next targeted (or color 6 appears).
