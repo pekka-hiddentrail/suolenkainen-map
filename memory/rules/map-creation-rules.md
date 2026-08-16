@@ -457,138 +457,65 @@ The Inheritance Matrix is what a Black 6 calls instead of one of the five named 
 
 # Phase 2.2 - Cartography (Existing tile)
 
-An existing tile is not born again.
+An existing tile is not born again. Its established identity — how it began, what it's tangled with, what job it performs in the map — stays intact; existing-tile Cartography does not re-run Origin, Tether, Entanglement, Temper, Office, or Inheritance.
 
-Its root behavior remains intact unless an explicit later rule changes root identity. Cartography for an existing tile adjusts the tile's map-relations, obligations, orientation of attention, edge behavior, stack/layer state, or unresolved pressures — it does not re-run Origin, Tether, Entanglement, Temper, Office, or Inheritance from scratch.
+Instead, it treats the tile's revisit as an event, not a character sheet. Something in the tile's history wakes up; that waking has an effect on the tile itself, and a separate effect on the map around it; a constraint limits what just happened; a cost is paid for it; and the result carries forward into later phases. This is a causal chain, not six independent traits — Activation causes Tile Effect and Map Effect, which Constraint bounds, which Cost prices, which Carry-Forward hands off. New-tile Cartography (2.1) is a character sheet: a new tile *receiving* six identity traits at birth. Existing-tile Cartography is an incident report: an already-placed tile *emitting* an event outward into a map it's already part of. The two don't need to mirror each other column-for-column, because they're not the same kind of thing.
 
-An existing tile's unresolved edge debt does not always need its own existing-tile Cartography to get answered. A new neighboring tile's Cartography can resolve it instead — without rewriting the older tile's root identity.
+Cartography still must not do Surface or Inscription work. It does not paint, collage, cut, stain, draw symbolic marks, or complete imagery. It changes the tile's recorded state — notes, markers, orientation, bindings, obligations — not its physical material.
 
-When an existing tile is updated, do not let a single debt or feature become the whole session unless the user explicitly chooses that narrow focus. Existing-tile Cartography must consider at least two distinct live items from the tile's history, and should consider three when enough history exists. These items may be wounds, named regions, neighboring relations, old marks, unresolved debts, active materials, support objects, prepared references, layer states, edge conditions, or prior phase obligations. The phase may still choose one primary active pressure, but the other considered items must remain visible as constraints, comparisons, or carry-forward obligations.
+An existing tile's unresolved edge debt does not always need its own existing-tile Cartography to get answered. A new neighboring tile's Cartography can resolve it instead, without touching the older tile's identity.
 
-For an existing tile, replace the new-tile birth questions with adjustment questions:
+Existing-tile Cartography answers six questions, one per card color, read directly off that color's own number. There is no cross-color Matrix tier for a 6 here, unlike new-tile Cartography — a 6 is simply this column's most extreme named result.
 
-* Root: What existing behavior must remain unchanged?  
-* Activation: Which old trait wakes up now?  
-* Adjustment: What physical or relational change happens to the tile as a map-object?  
-* Constraint: What cannot be changed, covered, moved, or forgotten?  
-* Cost: What new debt, marker, layer, edge condition, or future rule is created?  
-* Carry-forward: What rule, state, or constraint must later phases inherit?
+* Activation: How does the tile wake up?  
+* Tile Effect: What happens to the tile itself, as a result?  
+* Map Effect: What happens to the surrounding map — the tiles, edges, and routes already touching this one?  
+* Constraint: What limits the Tile Effect or Map Effect that just happened?  
+* Cost: What price is paid for it?  
+* Carry-Forward: What must later phases inherit?
 
-These questions keep the phase cartographic rather than decorative.
+The tile's coordinate never moves, under any roll. That is a standing rule, not a Constraint result — there is no "the tile relocates" option anywhere in this phase for a Constraint to have to veto.
 
 The six card numbers answer these six questions directly:
 
-* Green = Root  
-* Blue = Activation  
-* Red = Adjustment  
+* Green = Activation  
+* Blue = Tile Effect  
+* Red = Map Effect  
 * Yellow = Constraint  
 * Brown = Cost  
-* Black = Carry-forward
+* Black = Carry-Forward
 
-The eight existing-tile result types remain descriptive vocabulary. Use them to name the overall shape of the adjustment after the six numbered answers are read.
+Because these six are rolled independently, they will often point at different threads in the tile's history — that's expected, not a flaw to smooth over. Read each result against the tile's actual record in `tiles/records/` and its open items in `open-obligations.md`; the number says which kind of thing to look for, the tile's own history supplies what it actually is. A generic phrase like "Name Spoken" or "Recall" is a pointer, not the content — it does no work until it's matched against something the tile has actually accumulated.
 
 ## Existing-Tile Number Interpretations
 
-| # | Root | Activation | Adjustment | Constraint | Cost | Carry-Forward |
+| # | Activation | Tile Effect | Map Effect | Constraint | Cost | Carry-Forward |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **1** | Coordinate / placement remains fixed. | Unresolved debt, wound, or pending obligation wakes. | Re-aim: attention turns toward a chosen live item. | Do not move the tile or alter its coordinate. | Marker cost: create a token, note, label, pointer, or temporary marker. | Attunement must read the active issue. |
-| **2** | Root identity remains fixed. | Neighbor relation, bleed, touch, or edge contact wakes. | Re-bind: one obligation becomes the active bond. | Hard bind cannot be ignored. | Debt cost: an obligation remains open or becomes more specific. | Surface must respect the map-state. |
-| **3** | Named region, old mark, or local feature remains legible. | Center, anchor, route, or core structure wakes. | Rotate attention: read the tile from a different side or relation. | Name, mark, keyword, or record cannot be erased. | Layer/status cost: stack, layer, status, or orientation must be recorded. | Inscription must not erase the protected item. |
-| **4** | Edge relation or neighbor relation remains acknowledged. | Material, layer, stack, support, or buried state wakes. | Expose: bring forward something buried, hidden, or unfinished. | Edge / neighbor relation cannot be broken. | Edge cost: an edge condition, neighbor debt, or boundary rule is created or hardened. | Chronicle must document the state change or block. |
-| **5** | Center, anchor, or primary structure remains controlling. | Name, label, keyword, title, or recorded identity wakes. | Layer: add or reserve a layer, support, overlay, backing, sleeve, or stack relation. | Center, anchor, or primary structure cannot be violated. | Keyword/status cost: update a keyword, title, status, or rule note. | Future tile, neighbor, keyword list, title, or documentation must account for it. |
-| **6** | Keyword/rule state remains unchanged for now; no renaming unless later forced. | Dormant state wakes by remaining withheld, sleeping, or waiting. | Blocked or suspended: no map-object change unless another rule allows it. | No permanent change until a later phase or rule authorizes it. | Delay cost: record non-action, refusal, or blocked result. | Create a return condition and wait. |
+| **1** | Bleed-In: a neighbor's own session reaches across the edge and wakes this tile as a side effect. | Orientation Shift: read from a new side/edge/quadrant this session; nothing physical changes. | Undisturbed: neighbors continue entirely under their own rules. | Feature Locked: a specific already-named feature (an anchor, a marked edge, a labeled region) cannot be altered this session, regardless of what Tile Effect or Map Effect rolled. | Debt Cost: create or tighten an obligation in `open-obligations.md` and the tile's `Unresolved` field. | Attunement must read and respond to the Activation. |
+| **2** | Recall: the map draws this tile again and an old debt simply comes due. | State Change: an existing feature flips active/inactive, exposed/hidden, protected/unprotected. | Attention Drawn: one neighbor is marked as watched/relevant, rules unchanged. | Identity Locked: an established Origin/Tether/Entanglement/Temper/Office/Inheritance trait cannot be reinterpreted this session. | Material Cost: a material is spent, reserved, or restricted. | Surface must make the Tile Effect physically legible. |
+| **3** | Name Spoken: a keyword or omen already attached to the tile is invoked by this session's cards. | Layer Change: the tile gains, loses, or reveals a layer/stack relation. | Softened: one neighbor becomes easier to affect, bleed into, or override this session. | Single Neighbor Only: whatever Map Effect rolled cannot spread past one named neighbor. | Time Cost: this tile or the affected neighbor can't be worked again until a named condition clears. | Inscription must give the Map Effect a visible mark. |
+| **4** | Threshold Crossed: a slow build-up finally tips over; the tile can't hold still any longer. | Structural Change: a recorded change to the tile's actual structure — anchor, edge count, division. | Suspended: one neighbor's own rule is paused or overridden this session. | Provisional Only: whatever Tile Effect or Map Effect produced stays reversible and unconfirmed until a later phase or session confirms it. | Documentation Cost: the keyword list, tile index, or a record must be updated. | Chronicle must formally record the Cost. |
+| **5** | Buried Surfaces: something hidden since an earlier phase resurfaces unprompted. | Content Change: an actual named feature (mark, region, label) is added, renamed, or reassigned. | Radiating: something concrete (a mark, a bleed, a pressure) actually crosses into a neighbor. | No New Debt: no formal obligation beyond what's already active. | Relational Cost: a bond to a neighbor becomes a hard obligation, binding future work. | The affected neighbor's own future Cartography inherits the Map Effect as its own Activation trigger. |
+| **6** | Convergence: two old pressures wake at once and must be reconciled together. | Identity Rupture: an established Origin/Tether/Entanglement/Temper/Office/Inheritance trait becomes reinterpreted or contested this session — this is as severe as Tile Effect gets; the tile's coordinate still does not move. | Regional: the effect isn't confined to one neighbor — a whole route, region, or layer is touched. | Unbound: no constraint applies — Tile Effect and Map Effect stand fully as rolled. | Compound Cost: two or more of the above apply together. | A return condition is created; nothing acts until a named future trigger appears. |
 
-## Existing-Tile Concrete Effects
+## Existing-Tile Constraint Collisions
 
-Existing-tile Cartography must describe what changes in reality: what is placed on the table, what is recorded in the log, what becomes protected, what becomes active, and what later actions are blocked. Avoid abstract phrases unless they are paired with a concrete effect.
+Constraint is read after Tile Effect and Map Effect, specifically to limit them. When a Constraint result directly forbids what Tile Effect or Map Effect just produced, Constraint wins outright — it is not overridden, softened, or negotiated away. Log the block explicitly:
 
-Cartography still must not do Surface or Inscription work. It does not paint, collage, cut, stain, draw symbolic marks, or complete imagery. It changes the tile's map-state through notes, markers, orientation, status, bindings, rule checks, and records.
+`Blocked: [Tile/Map Effect result] cannot happen because [Constraint result] is active. Converted to [the next lower-severity result in the same column].`
 
-| Term | Concrete meaning |
-| :---- | :---- |
-| Preserved | Do not remove, cover, rename, detach, or make irrelevant. |
-| Legible | The feature must remain visible, locatable, or understandable after later work. |
-| Wakes | Put the feature into the active working set; later phases must check it before acting. |
-| Re-aim | Change the working focus; place a temporary arrow/note so one edge, region, feature, or relation is the session's front. |
-| Re-bind | Strengthen a relation from "noted" to "must be obeyed." |
-| Hard bind | A relation that can veto later actions. It cannot be ignored unless a later rule explicitly allows it. |
-| Expose | Bring an old note, hidden layer, unresolved mark, prior state, or buried condition back into active view. |
-| Layer | Record that the tile now has a stack, overlay, support, backing, sleeve, or layer relation. The physical layer itself belongs to Surface unless Cartography only prepares a non-permanent note or placeholder. |
-| Cost | Something new must be recorded: a debt, token, note, blocked action, status, keyword update, or future trigger. |
-| Carry-forward | Later phases inherit a rule or state they must check before acting. |
+The paradigm case is Identity Locked (Constraint 2) against Identity Rupture (Tile Effect 6): both address the same axis, the tile's established character, so a direct clash whenever they land together is expected, not a rare accident. Feature Locked (Constraint 1) can clash with Content Change (Tile Effect 5) or a high Map Effect result the same way, if they target the same named feature — if they target different features, both stand as rolled. No New Debt (Constraint 5) can also narrow which sub-results a Compound Cost (6) is allowed to draw from, ruling out Debt Cost and Relational Cost from the mix while leaving Material, Time, and Documentation available.
 
-When a result says something remains "authoritative," "controlling," or "primary," read it as veto power, not mood.
-
-Concrete effect:
-
-* Place a temporary marker beside the protected feature, not on top of it.  
-* Write in the log: "[feature] controls this session."  
-* Later phases must check before any permanent action: "Does this hide, weaken, cut, contradict, visually demote, detach, or ignore the protected feature?"  
-* If yes, the action is blocked unless a later result explicitly permits violating it.  
-* Record the block with the blocking keyword, characteristic, or map-state.
-
-Example for a center / anchor result:
-
-* Identify the center, anchor, shrine, pit, core, primary structure, or central mark.  
-* Mark it with a temporary note beside the tile.  
-* Log: "Do not cover, cut, move, erase, or visually demote this center unless a later result explicitly allows it."  
-* During Surface and Inscription, reject any action that would make the center unreadable or structurally irrelevant.
-
-Use this whenever a result cannot happen:
-
-`Blocked: [proposed action] cannot happen because [keyword/characteristic/map-state] is active. Result is [skipped / converted to constraint / deferred / recorded as no map-object change].`
-
-Examples:
-
-* `Blocked: rotate attention away from the north edge cannot happen because a named north-bleed trait binds this tile to its neighbor. Result converted to constraint.`  
-* `Blocked: cover the center cannot happen because the anchor point and its central structure remain controlling. Result skipped.`  
-* `Blocked: ignore the neighbor relation cannot happen because Touching Force / Bleeding Force is active. Result deferred to the receiving tile.`
-
-These examples are illustrative only — they don't cite real keyword IDs on purpose, since a made-up ID here could collide with a real one added later to `keyword-list.md`. Reference a real ID from that file when writing an actual Blocked note for a session.
-
-## Existing-Tile Concrete Action Table
-
-| # | Root: concrete action | Activation: concrete action | Adjustment: concrete action | Constraint: concrete action | Cost: concrete action | Carry-forward: concrete action |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **1** | Confirm the coordinate in the log. Write "coordinate unchanged." | Choose one unresolved debt from the tile record and mark it active for this session. | Place a temporary arrow/note showing where attention is aimed. | Check whether any result would move the tile; if yes, block it and name the blocking keyword/trait. | Create a small token, sticky note, label, or pointer for the active issue. | Add one Attunement note: "Attunement must read [active issue]." |
-| **2** | Copy the tile's root identity into the log. Write "root identity preserved." | Choose one edge, neighbor, touch, or bleed relation and mark it active. | Write "bind active/hardened" beside the relevant relation in the log. | Check for hard binds; if a result ignores them, block it and name the bleed/edge keyword. | Add or tighten a debt line in open obligations. | Add one Surface note: "Surface must respect [bind/state], without deciding imagery yet." |
-| **3** | List 1-3 named regions, marks, or features that must remain legible. | Choose the center, anchor, route, or core structure that wakes. | Record a working orientation: "read from [edge/neighbor/center] toward [feature]." | Check whether any result erases a name/mark/keyword; if yes, block it and name the protected keyword. | Add a tile-state note: layer/status/orientation changed. | Add one Inscription note: "Inscription must not erase [protected item]." |
-| **4** | Name the edge or neighbor relation that must remain acknowledged. | Choose one material/layer/support/buried state already in the tile record and mark it active. | Bring an old note, photo, prior state, or unresolved condition into the session area. | Check whether any result breaks an edge/neighbor relation; if yes, block it and name the relation/keyword. | Add or harden an edge condition: bleed, touch, boundary, neighbor debt, or crossing status. | Add one Chronicle note: "Chronicle must document [state change/block]." |
-| **5** | Identify the center, anchor, or primary structure. Place a marker beside it and log: "do not cover, cut, move, erase, or visually demote this unless later permitted." | Choose one name, label, keyword, title, or identity that wakes. | Add or update a layer/stack/support relation in the tile record. Use a note, not a physical layer yet. | Check whether any result violates the center/anchor; if yes, block it and name the anchor/structure keyword. | Update keyword/status/rule note, or create a pending keyword-update note. | Add one future-tile/neighbor note: "[neighbor/future tile] must account for this." |
-| **6** | Write "keyword/rule state unchanged for now." No identity change. | Mark one dormant issue as "withheld / waiting," not active. | Write "blocked," "suspended," or "no map-object change" in the log. | Check whether any permanent change is being attempted; if yes, block it and name the blocking rule/trait. | Record the non-action as a debt: "result delayed/refused because [reason]." | Create a return condition: "Return when [trigger] appears." |
-
-## Existing-Tile Result Types
-
-What kinds of adjustment can existing-tile Cartography produce?
-
-| Result Type | Behavior | Physical / Recordable Effect |
-| :---- | :---- | :---- |
-| Re-aim | The tile stays in place, but attention turns toward one edge, route, wound, quadrant, or center. | Mark the active direction in the log; optionally place a temporary arrow, note, or token beside the tile. |
-| Re-bind | One unresolved obligation becomes the tile's active bond. | Name the bond: edge debt, wound debt, archive-name, fragment, neighborless bleed, or center anchor. |
-| Rotate attention | The tile does not physically rotate, but the session reads it from a new side or orientation. | Record the working orientation for this session. Do not redraw north unless a later rule says so. |
-| Expose | A buried or unfinished earlier condition becomes active again. | Bring forward an older note, photo, fragment, card, label, or unresolved mark. |
-| Layer | Add or reserve a layer relation without changing the base identity. | Create a removable overlay, attached fragment, transparent sheet, label, envelope, or stack note. |
-| Tighten | A loose debt becomes more specific. | Choose exact edge, exact wound, exact fragment, exact name, or exact condition. |
-| Complicate | Two existing traits interfere with each other. | Record the contradiction and require Surface/Inscription to answer it. |
-| Suspend | A pressure is acknowledged but not acted on yet. | Create a Chronicle debt explaining why the pressure was withheld. |
+Most draws will not collide at all — Activation, Tile Effect, and Map Effect landing on unrelated threads of the tile's history is the normal case, not a problem to fix.
 
 ## Existing-Tile Cartography Output Shape
 
 Use this structure when running the phase for an existing tile:
 
-* Brief interpretation.  
-* Current tile state.  
-* Considered live items.  
-* Root behavior preserved.  
-* Active old pressure.  
-* Map-object adjustment.  
-* Affected edges / layers / stacks.  
-* Broken or preserved connections.  
-* New obligation.  
-* Carry-forward constraints for later phases.  
-* Concrete actions.  
-* Log note.  
-* Future obligation.
+* Results: one line per column, in order — Activation, Tile Effect, Map Effect, Constraint, Cost, Carry-Forward — each grounded in something the tile's actual record or open obligations already contain.  
+* If Constraint blocks a Tile Effect or Map Effect result, log the `Blocked: ... Converted to ...` line before the results.  
+* Interpretation: one short paragraph tying the six results into what actually happens to the tile and its surroundings.  
+* Update `open-obligations.md` and the tile's record per whatever Cost and Carry-Forward specify.
 
 # Phase 3 - Attunement
 
