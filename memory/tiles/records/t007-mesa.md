@@ -1,12 +1,12 @@
-# T007
+# T007 — Mesa
 
 | Field | Value |
 | --- | --- |
 | Tile ID | T007 |
-| Name | *(unnamed yet)* |
+| Name | Mesa |
 | Coordinate | [2,-2] |
 | Layer / stack | Base tile pending |
-| Current phase | S007 Cartography complete |
+| Current phase | S007 Surface complete |
 | Current map-object identity | Edge-starved, anchored, neighbor-tangled tile standing at T003's northern edge |
 | General description | T007's raw Awakening target from T006 [0,-1] was [3,-5] — empty and not touching the map. Walk-back found the diagonal as the nearest reference line (distance 2); since [3,-5] sits on the opposite-sign diagonal, two real SE steps reached the diagonal at [3,-3], then one real S step reached [2,-2], which touches T003 by adjacency. Brown 6 (even) created T007 directly at [2,-2], since the coordinate itself was empty. Cartography makes T007 edge-starved, anchored, neighbor-tangled, Bright, an Office Matrix result (Open + By Edge + Quiet Cost), and an Edge Inheritance carrying T003's "dried-river-valley" tag. |
 | Neighbor tiles | Confirmed: touches T003 at [1,-1] on T007's S / T003's N edge. No other existing tile is adjacent. |
@@ -24,7 +24,18 @@
 | Obligations for later phases | T007's five non-T003 edges should stay untouched or minimal, per Edge-Starved. The river-valley connection obligates T007 to eventually give the dried river valley a source, origin, or headwater. Office's Quiet Cost is unresolved: something on or paid by T007 must become quieter for the Open/By-Edge passage to hold. **User steer, post-Cartography:** tie T007 to T003 even more tightly by also pulling in some of T003's color influence — candidates are T003's dry-desert palette (tan/ochre/stony, the yellow star-routes, the red dashed line) for continuity, or a wetter/bluer hue held in contrast as a memory of water the dried river no longer carries. Left open for Attunement's Mirror or Omen result to actually decide the mechanism, rather than pre-deciding it at Cartography. |
 | Omen sources | C109 Violent Lion; C131 Armoured dragon lizard. |
 | Keywords | *(none yet — Cartography results are one-off until independently redrawn or made a Seed return condition; see the recurrence rule in `keyword-list.md`)* |
-| Tags | S007; T007; new-tile; edge-starved; anchored; neighbor-tangled; bright; open; by-edge; quiet-cost; edge-inheritance; dried-river-valley |
-| Unresolved | Office's Quiet Cost is unpaid — something must become quieter for T007's passage/edge to hold. T007's role as the river valley's source/headwater is inherited but not yet given a physical body. Edge-Starved's non-T003 edges have no content yet, by design. |
-| Last updated by session | S007 Cartography |
+| Surface ground | Clouded: let the foundation be uneven, mottled, foggy, uncertain, weathered, or shifting. |
+| Surface substance | Plain: ordinary, neutral, humble, background-like, or low-status — confirms Attunement's sand/rough-paste choice. |
+| Surface application | Evenly: apply it calmly, broadly, smoothly, or with balanced coverage. |
+| Surface treatment | Luminous: let something glow, shine, signal, sparkle, brighten, or draw attention — proposed as the physical seed for the violence side of the still-open violence-vs-calm question. |
+| Surface structure | Structure Matrix (Brown 6, read using Green 4 / Blue 1 / Red 1): Region + Axis + Too faint — newly interpreted this session (all three cells were TBD), folded into `../rules/map-creation-rules.md`. A single north-south axis, authorized by the larger river-valley region rather than just this tile, kept understated rather than bold. |
+| Surface opening | Closed: the foundation is whole, sealed, settled, or complete for now. |
+| Physical surface instruction | Place the First Mark anchor point first. Apply sand or rough-textured paste evenly across the whole tile, full coverage, no gaps. Let it dry uneven and mottled. While workable, brush strokes along a single N-S axis toward the S/T003 edge, suggesting current or flow, kept faint rather than bold — this fuses Structure's Axis with Mirror's water reference. Add one luminous/glinting accent somewhere in the stone as the physical seed of the violence question. Keep the blank cornerstone marker off-tile, prepared but not placed. |
+| Actual Surface materials | Texture paste spread across the whole tile. A corrugated thick-cardboard mesa plateau glued into the NW corner (seeded by the First Mark anchor point), edges smoothed into the surrounding paste. Main field textured rocky/uneven; N-S grooves dragged through the wet paste with a fork. A white paint base unifying the whole surface. Brown and tan marker work adding surface variation. Tan watercolor sprayed generally; emerald green sprayed specifically into the river-groove areas. Yellow lines added to the mesa plateau. |
+| Actual Surface layout | The NW mesa (cardboard, smoothed edges, yellow lines) is the one smooth, elevated, luminous feature, seeded by the anchor point — Treatment: Luminous lands here specifically. The rest of the tile is rocky and grooved along the N-S axis toward the S/T003 edge (Structure: Axis + Too faint), tan/brown marker variation and tan spray grounding Substance: Plain in T003's own dry-stone register (Ground: Clouded). Emerald green in the river-groove areas is a deliberate departure from the blue floated earlier — reads as something alive (fertile, mossy) rather than plain water-memory, fitting the "civilization origins" framing. Full paste coverage with no gaps satisfies Application: Evenly and Opening: Closed. |
+| Omen sources | C109 Violent Lion; C131 Armoured dragon lizard. |
+| Keywords | *(none yet — Cartography results are one-off until independently redrawn or made a Seed return condition; see the recurrence rule in `keyword-list.md`)* |
+| Tags | S007; T007; new-tile; edge-starved; anchored; neighbor-tangled; bright; open; by-edge; quiet-cost; edge-inheritance; dried-river-valley; clouded; plain; evenly; luminous; region; axis; too-faint; closed; mesa; emerald-river; ns-grooves |
+| Unresolved | Office's Quiet Cost is unpaid — something must become quieter for T007's passage/edge to hold. Edge-Starved's non-T003 edges have no content yet, by design. The violence-vs-calm question is not yet resolved — the mesa/grooved-field split gives it a physical stage (smooth-and-bright vs. rough-and-subtle) without deciding it. The cornerstone marker remains blank and unplaced, reserved for that resolution. |
+| Last updated by session | S007 Surface complete (mesa, N-S fork grooves, white/tan/brown/emerald color work, and the mesa's yellow lines all physically done) |
 | Last modified date | 18.8.2026 |

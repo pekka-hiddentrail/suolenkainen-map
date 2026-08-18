@@ -1,4 +1,4 @@
-# S007 — T007
+# S007 — T007 · Mesa
 
 ## Awakening
 
@@ -116,3 +116,53 @@ Attunement todo list (session-scoped prep, not the persistent queue):
 - Decide, at Surface or Inscription, how violence and calm coexist — possibly by letting them occupy different edges (soothed at the T003 contact, violent at the barren Edge-Starved sides) rather than blending them.
 - Prepare a physical blank cornerstone-style marker now, reserved for a later inscription once the violence-vs-calm question resolves.
 - Keep the "civilization origins" framing in view for Inscription and Chronicle — it's a lore direction worth deciding whether to commit to, not yet locked in.
+
+## Surface
+
+Numbers reused from Awakening: Green 4, Blue 1, Red 1 (C109, Violent Lion); Yellow 5, Brown 6, Black 1 (C131, Armoured dragon lizard). Fixed color mapping: Green = Ground, Blue = Substance, Red = Application, Yellow = Treatment, Brown = Structure, Black = Opening.
+
+Results:
+
+- Ground / Green 4: Clouded. Let the foundation be uneven, mottled, foggy, uncertain, weathered, or shifting.
+- Substance / Blue 1: Plain. Choose something ordinary, neutral, humble, background-like, or low-status.
+- Application / Red 1: Evenly. Apply it calmly, broadly, smoothly, or with balanced coverage.
+- Treatment / Yellow 5: Luminous. Let something glow, shine, signal, sing, sparkle, brighten, or draw attention.
+- Structure / Brown 6: Structure Matrix, read using the other card's numbers (Green 4, Blue 1, Red 1): Region + Axis + Too faint. All three cells were TBD; newly interpreted this session and folded into `../../rules/map-creation-rules.md`'s Structure Matrix.
+- Opening / Black 1: Closed. The foundation is whole, sealed, settled, or complete for now.
+
+Interpreting the six results together:
+
+- **Substance/Plain confirms Attunement's Matter choice** (sand or rough-textured paste) — an ordinary, humble, low-status material fits exactly what Edge-Starved, Quiet Cost, and Pressure's Soothe have all been asking for.
+- **Application/Evenly** reinforces the same thing physically: calm, balanced, smooth coverage — not sparse, not interrupted — matching Pressure's demand to soothe rather than dramatize.
+- **Ground/Clouded** — the rough paste itself should read as uneven, mottled, weathered, uncertain, which is just what a dry, worn stone surface naturally does.
+- **Structure/Region + Axis + Too faint** — the foundation is organized by a single main direction (Axis), read at the scale of the larger river-valley region rather than just this one tile (Region — echoing Attunement's Echo/Claim, where the whole route system claims T007), and that axis stays understated rather than bold (Too faint). Concretely: a north-south axis running toward T007's S edge (the T003 contact) — the implied direction the dried river would still flow, even absent, kept faint rather than emphasized.
+- **Mirror's water-brushwork technique lands exactly on this Axis**: brush strokes suggesting current or flow, worked into the rough paste along that same north-south line, physically fusing Structure and Mirror into one gesture instead of two separate marks.
+- **Treatment/Luminous is the one result that pulls against all of the above** — instead of quiet and plain, it wants something to shine, glow, or draw attention. Proposed as the physical seed for the still-open violence-vs-calm question: one luminous, glinting accent — a bright mineral-like fleck, a metallic streak, something that catches light like a blade or a claw — worked into the otherwise calm, plain, evenly-applied stone. This doesn't resolve which side wins; it just gives the aggressive card-omen a physical foothold inside the same calm material, ready for Inscription to develop further in either direction.
+- **Opening/Closed** — the foundation itself should read as whole and settled, not left with a literal gap or breach. This doesn't remove Inscription's job (the cornerstone marker and the violence-vs-calm resolution are both still open), it just means those additions land on top of a complete base rather than requiring an unfinished patch to fill.
+
+Surface instruction:
+
+1. Place the First Mark anchor point anywhere on the tile before any other physical work.
+2. Prepare the sand or rough-textured paste (per Attunement's Matter) and apply it evenly and calmly across the whole tile — full, settled coverage, no sparse patches or gaps (Application: Evenly, Opening: Closed).
+3. Let the paste's own drying/working process read as uneven, mottled, and weathered (Ground: Clouded) — this can be the material's natural behavior rather than a deliberately engineered effect.
+4. While the paste is still workable, brush strokes running along a single north-south axis toward T007's S edge (facing T003) — suggesting current or flow without literal water — kept understated rather than bold (Structure: Axis + Too faint, fused with Mirror's water reference).
+5. Add one luminous or glinting accent somewhere in the stone — a bright fleck, metallic streak, or reflective mark that catches light (Treatment: Luminous) — the physical seed of the violence side of the still-open question, left for Inscription to develop.
+6. The blank cornerstone marker (Provision) stays off-tile for now, physically prepared but not placed — it's reserved for whenever the violence-vs-calm question actually resolves, which may happen at Inscription or later.
+
+This leaves Inscription with real, concrete work: developing the luminous accent (toward violence, toward calm, or held in tension), and eventually inscribing the cornerstone once that's decided.
+
+Actual Surface materials and layout:
+
+- Texture paste spread across the whole tile — full coverage, satisfying Application: Evenly and Opening: Closed.
+- A corrugated thick-cardboard mesa plateau glued into the NW corner (seeded by the First Mark anchor point), edges smoothed into the surrounding paste so the raised plateau reads as part of the same foundation rather than an applied add-on.
+- The main field textured rocky/uneven (Ground: Clouded); north-south grooves dragged through the wet paste with a fork, giving Structure's Axis a real, subtle-but-present line (Too Faint) across the whole tile toward the S/T003 edge.
+- A white paint base over everything, unifying the whole surface before color went on.
+- Brown and tan marker work adding variation across the surface — grounding Substance's Plain directly in T003's own dry-stone register.
+- Tan watercolor sprayed generally, with **emerald green** sprayed specifically into the river-groove areas — a deliberate departure from the blue suggested earlier. Emerald reads as something more alive than plain water: fertile, mossy, verdant — which fits the "civilization origins" framing even better than blue would have, since it suggests the first hint of life at the map's own headwater rather than just water-memory.
+- Yellow lines added to the mesa plateau specifically — Treatment's Luminous accent landing exactly where planned, on the one smooth, elevated feature rather than across the whole rough field.
+
+Surface is complete. The mesa/grooved-field split gives the still-open violence-vs-calm question a real physical stage (smooth and bright vs. rough and subtle) without deciding it. The cornerstone marker remains unmade and unplaced, reserved for Inscription or later. Obligations carried into Inscription: develop the yellow-lit mesa and the green river-grooves into whatever actually resolves (or deliberately doesn't resolve) violence vs. calm, and decide whether this is the session the cornerstone gets inscribed.
+
+## Naming
+
+Right after Surface, the user named T007 **Mesa** — for the smooth cardboard plateau built into its NW corner. Tile record and session file renamed accordingly (`t007-mesa.md`, `s007-mesa.md`); `tile-data.md`'s Tile Index and T003's own cross-reference updated to match.
