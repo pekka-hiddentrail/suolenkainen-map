@@ -74,6 +74,8 @@ When the calculated coordinate is empty — no tile exists there — the system 
 
 If the raw calculated coordinate is empty but already touches the existing map by adjacency — the case never arose until it was found and settled during S005 — no walking is needed at all: the walk-back's whole purpose is to reach a coordinate touching the map, and an adjacent-but-empty raw target already does. Skip the reference-line/stepping mechanism below entirely and go straight to the Brown-parity decision (new tile at that coordinate, or one further step, exactly as for any other found-contact coordinate). Only take walk-back steps when the raw target does not yet touch the map at all.
 
+When checking whether a raw target already touches the map, check it against *every* currently-occupied coordinate, not just the neighbors that happen to come to mind first. S006's raw target actually touched four existing tiles at once, but only three were checked during that session's own Awakening — the fourth (a real adjacency to T005) wasn't found until a later, unrelated diagram check. Compute all six neighbor coordinates of the raw target and compare each one against the full list of occupied coordinates before concluding how many tiles it touches.
+
 The logic works like this. From the empty coordinate, identify the nearest of three reference lines running through the origin: the diagonal where the absolute values of both coordinates are equal, or either of the two axes where one coordinate is zero. (The diagonal itself is really two different lines with different walking behavior — see "Walking the two different diagonals" below.) If the target is equidistant between two of these lines, the black card number breaks the tie — odd sends the target to the counter-clockwise option, even to the clockwise one.
 
 From there, move one step toward that reference line. Check the new position: does it touch the existing map, either by landing on a tile or by being adjacent to one? If not, move again. Keep moving until the target lands somewhere that touches the existing map.
@@ -198,7 +200,7 @@ Not every named Origin needs a mechanical effect. Some (like Twist-Born) are mea
 ### Drawn-In
 *"Surrounding tiles are pulled into it."*
 
-**Effect:** If the Drawn-In tile moves from it's location, a random tile (Black number decides, calculating from north clockwise.) is pulld to the tile's previous location.
+**Effect:** If the Drawn-In tile moves from its location, a random tile (Black number decides, calculating from north clockwise.) is pulled to the tile's previous location.
 
 ### Void-Born
 *"It resists surroundings and behaves separately."*
