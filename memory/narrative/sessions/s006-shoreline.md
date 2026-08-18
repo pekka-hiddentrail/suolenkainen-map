@@ -1,4 +1,4 @@
-# S006 — T006
+# S006 — T006 · Shoreline
 
 ## Awakening
 
@@ -161,3 +161,48 @@ Actual Surface materials and layout:
 - The Hex card (C108) was not cut or otherwise used physically this session; Mirror's Alien+Boundary+Partial obligation remains open, by deliberate choice, and is expected to be answered by the hex-grid convergence at Inscription instead.
 
 Surface is complete. Obligations carried into Inscription: complete the black/silver convergence into a hex grid (answering Mirror, Entanglement's Show demand, and Office's Gate crossing mark together); decide what the Blank far side and the Application's "stopped short" turquoise patch become, if anything; and Echo's carried-forward question about T001's own warning-strip/T002 return condition remains available to answer here rather than back at T001.
+
+## Naming
+
+Mid-Inscription, the user named T006 **Shoreline** — the turquoise pooled in the texture paste's crevices reads as water, making the whole tile a sea-shore rather than an abstract corridor. Tile record and session file renamed accordingly (`t006-shoreline.md`, `s006-shoreline.md`); tile-data.md's Tile Index updated to match.
+
+## Inscription
+
+Numbers reused from Awakening: Green 3, Blue 2, Red 6 (C084, Soldier); Yellow 6, Brown 4, Black 1 (C108, Hex). Fixed color mapping: Green = Scale, Blue = Form, Red = Behavior, Yellow = Relation, Brown = Force, Black = Residue.
+
+Results:
+
+- Scale / Green 3: Broad. A large part of the tile; field, zone, body, large structure, or strong feature.
+- Form / Blue 2: Thread. Line, route, road, river, border, seam, current, coastline, crack.
+- Behavior / Red 6: Behavior Matrix, read using the other card's numbers (Yellow 6, Brown 4, Black 1): Mutation + Returns + Becomes too fixed. All three cells were TBD; newly interpreted this session and folded into `../../rules/map-creation-rules.md`.
+- Relation / Yellow 6: Relation Matrix, read using the other card's numbers (Green 3, Blue 2, Red 6): Route/region + Resistance + Defer and record. All three cells were TBD; newly interpreted this session and folded into `../../rules/map-creation-rules.md`.
+- Force / Brown 4: Pushing. It modifies, resists, or displaces something on another tile.
+- Residue / Black 1: Clean. No major debt; the inscription resolves cleanly for now.
+
+Interpreting the results together, and the physical plan:
+
+- **Scale (Broad) + Form (Thread):** confirmed by the plan below — the hex-grid marking reaches at least half the tile, built directly from the Thread already present (the black and silver bleed-lines).
+- **Behavior (Mutation + Returns + Becomes too fixed):** the black lines (30mm apart) and the silver line (28mm from the nearest black line) don't share a spacing — rather than force them into alignment, that discrepancy becomes the seed for **two separate hex grids, one black and one silver, slightly misaligned against each other**. This is Mutation made concrete: the lines refuse to hold one stable identity and become two competing patterns instead of one. It's also Returns: the pattern isn't invented new, it's the T001/T003 corridor's own established bleed-lineage coming back in a new form. Becomes-too-fixed is answered by keeping the two grids in unresolved tension with each other even though each individual hexagon is fully, cleanly drawn — completeness of the marks, not completeness of the meaning.
+- **Relation (Route/region + Resistance + Defer and record):** the inscription relates to the corridor/bleed-lineage as a shared category (Route/region), not to either neighbor tile individually. Resistance shows up twice — the lines resist staying straight and become hexes, and the two resulting grids resist each other by not lining up. Defer and record is the one genuinely open thread: **whether the black grid or the silver grid wins, or whether they remain in permanent tension, is not decided now.** Per the user's decision, this is recorded as a return condition: revisit this specifically the next time Shoreline (T006) is targeted.
+- **Force (Pushing):** the hex-change pushes onto a neighboring tile, not just Shoreline itself. Per the user's decision, this lands as **one single, wholly-formed silver hexagon on T001**, likely overlapping T001's own "AIKA" text — accepted as fine, not a problem to avoid. (Once physically done, T001's own tile record needs a small update recording this, the same way T004's rewrite of T001's archaic symbols was recorded there.)
+- **Residue (Clean):** the mark itself resolves cleanly — no new debt from the act of making it. The only carried-forward debt is the explicit Defer-and-record item above, which is a pre-existing kind of open question, not new residue from a sloppy or incomplete execution.
+
+Physical plan:
+
+1. Let the black lines (30mm spacing) and the silver line (28mm offset) each organize into their own hex grid, slightly misaligned against one another rather than reconciled into a single shared grid.
+2. Both grids are fully formed — no unfinished hexagons. The tension lives in the misalignment between the two grids, not in incomplete shapes.
+3. The combined hex marking should reach at least half of the tile.
+4. Use color pencils to fill in some hexes and/or accentuate the texture paste's fissures inside others, tying the Inscription detail back into the Surface material.
+5. Push one fully-formed silver hexagon onto T001, physically overlapping T001's existing "AIKA" text.
+6. Do not add further text or a card fragment for Mirror's Alien+Boundary+Partial obligation — the hex grid itself resolves it: Alien because it's grown organically from a conflict rather than borrowed from the Hex card directly; Boundary because hexagonal geometry inherently encodes edge/containment logic; Partial because it's two incomplete-relative-to-each-other systems covering roughly half the tile, not one finished whole.
+
+This also resolves Entanglement's "Show" demand and Office's Gate crossing mark: the convergence itself is the visible, legible structure that was owed. Only the black-vs-silver tension remains genuinely open, explicitly deferred to Shoreline's next session.
+
+Actual Inscription:
+
+- 8 black hexagons (30mm) and 4 silver hexagons built, not one grid each of unspecified count — a real, finished pair of grids rather than an abstract gesture. Correction to the plan as discussed: the silver spacing turned out to be **24mm**, not the 28mm estimated during planning. The core idea (two differently-spaced, misaligned hex grids in tension) holds regardless of the exact number — if anything, 24mm vs. 30mm is a clearer, more legible mismatch than 28mm vs. 30mm would have been.
+- 3 large hexagons and 1 small hexagon colored with coloring pencils to resemble a **flooded coastline** — a direct, concrete payoff of the Shoreline name, not just an abstract color-fill instruction.
+- The 24mm silver hex pattern bleeds into T001, covering a little of T001's "AIKA" text. Restrained, as intended — "nothing more drastic than that."
+- No card fragment or additional text was used for Mirror; the hex grids stand as its resolution, as planned.
+
+Inscription is complete. What remains open is exactly what was deferred: whether the black (30mm, 8 hexagons) or silver (24mm, 4 hexagons) grid wins, or whether they stay in permanent tension — explicitly returned to next time Shoreline (T006) is targeted. T001's own tile record needs an update recording the received silver-hex bleed onto its AIKA text, the same way it already records T004's archaic-symbol rewrite.

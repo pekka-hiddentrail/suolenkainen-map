@@ -894,12 +894,12 @@ What drives the inscription, and what does it do?
 
 |  | Yellow — Drive | Brown — Action | Black — Complication |
 | :---- | :---- | :---- | :---- |
-| 1 | Rest: TBD | Settles: TBD | Becomes too fixed: TBD |
+| 1 | Rest: TBD | Settles: TBD | Becomes too fixed: The inscription settles too completely — it reads as permanent, finished, and closed to future adjustment, even where later phases or sessions might have wanted room to still change it. |
 | 2 | Hunger: TBD | Consumes: TBD | Spreads too far: TBD |
 | 3 | Conflict: TBD | Blocks: TBD | Splits the tile: TBD |
-| 4 | Memory: TBD | Returns: TBD | Contradicts current work: TBD |
+| 4 | Memory: TBD | Returns: The inscription doesn't move forward into something new — it moves back toward something already established: an earlier mark, a prior phase's result, an old omen, or a previous state, revisiting rather than progressing. | Contradicts current work: TBD |
 | 5 | Weather: TBD | Moves: TBD | Changes direction: TBD |
-| 6 | Mutation: TBD | Transforms: TBD | Changes rule: TBD |
+| 6 | Mutation: The inscription is driven by an urge to stop being what it currently is — it wants to change form, contradict itself, become something else, or refuse to hold one stable identity. | Transforms: TBD | Changes rule: TBD |
 
 ## Relation
 
@@ -908,11 +908,11 @@ What does the inscription relate to, and what does that relation demand?
 |  | Green — Relatum | Blue — Relation Type | Red — Obligation |
 | :---- | :---- | :---- | :---- |
 | 1 | Target tile: TBD | Echo: TBD | Show it: TBD |
-| 2 | Neighbor: TBD | Resistance: TBD | Push back: TBD |
-| 3 | Route/region: TBD | Dependence: TBD | Continue or answer: TBD |
+| 2 | Neighbor: TBD | Resistance: The inscription's relation to what it relates to is oppositional — it pushes against, blocks, refuses, interrupts, or contradicts it, rather than repeating, relying on, or translating it. | Push back: TBD |
+| 3 | Route/region: What the inscription relates to is a road, river, path, coast, current, territory, biome, or zone — a shared, larger-than-one-tile category — rather than one specific neighboring tile or an outside card/source. | Dependence: TBD | Continue or answer: TBD |
 | 4 | Card/source: TBD | Translation: TBD | Transform it: TBD |
 | 5 | Layer/memory: TBD | Possession: TBD | Let it speak through: TBD |
-| 6 | Distant/impossible source: TBD | Contradiction: TBD | Defer and record: TBD |
+| 6 | Distant/impossible source: TBD | Contradiction: TBD | Defer and record: The obligation the relation creates is not settled now — it stays open and must be written down as a pending question or return condition for Chronicle or a future session, rather than resolved on the spot. |
 
 ## Force
 
