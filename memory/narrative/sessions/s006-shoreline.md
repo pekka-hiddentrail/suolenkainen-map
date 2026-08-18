@@ -44,6 +44,8 @@ Awakening notice:
   - "When T005 / The Monster is targeted again, when T002 is targeted, or when color 6 appears: resolve Route-Tangled's still-unnamed coast..." (T006 doesn't target T005 or T002, so this one stays a neighboring pressure note only, unresolved.)
 - Unlike prior color-6 draws (S005's, which touched neither T001 nor T003), T006 is a new tile landing directly adjacent to *both* T001 and T003 at once — this is a live pressure, not just a passing neighbor note, and should be weighed carefully once Cartography and later phases are run for T006.
 
+**Post-Chronicle correction:** the adjacency check above only tested T006's raw target against T001, T003, and T004 — it never checked T005, even though T005 was already on the board. T006 [0,-1] minus T005 [-1,-1] is exactly the NE offset [1,0], so T006 actually touches T005 too, on T006's SW edge / T005's NE edge. This means the raw target touched **four** tiles at once, not three, and T001's neighbor-slot count below is otherwise correct but the "touches three tiles" framing throughout this Awakening section undercounts by one. Found while verifying a manually-corrected `../../tiles/map-diagram.md` after Chronicle had already closed. This has a real consequence: T005's Contagious Origin should have bled onto T006 when it was created and worked this session, and didn't, because the relation wasn't recognized in time. Recorded as an unpaid debt in `../../tracking/open-obligations.md` and `../../tracking/map-todo.md` rather than invented after the fact.
+
 ## Cartography
 
 Target: new tile T006 at [0,-1].
@@ -206,3 +208,41 @@ Actual Inscription:
 - No card fragment or additional text was used for Mirror; the hex grids stand as its resolution, as planned.
 
 Inscription is complete. What remains open is exactly what was deferred: whether the black (30mm, 8 hexagons) or silver (24mm, 4 hexagons) grid wins, or whether they stay in permanent tension — explicitly returned to next time Shoreline (T006) is targeted. T001's own tile record needs an update recording the received silver-hex bleed onto its AIKA text, the same way it already records T004's archaic-symbol rewrite.
+
+## Chronicle
+
+Numbers reused from Awakening: Green 3, Blue 2, Red 6 (C084, Soldier); Yellow 6, Brown 4, Black 1 (C108, Hex). Fixed color mapping: Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed.
+
+Results:
+
+- Record / Green 3: Change list. List what physically changed during the session. Include target tile and any other affected tiles.
+- Witness / Blue 2: Scan. Scan the tile or create a flat, clear archive image.
+- Meaning / Red 6: Meaning Matrix, read using the other card's numbers (Yellow 6, Brown 4, Black 1): Contradiction + Rumor + Makes it legible. Meaning comes from two incompatible truths remaining present; tell it as uncertain, partial, or disputed knowledge; the note should still help a future reader understand the action.
+- Publication / Yellow 6: Publication Matrix, read using the other card's numbers (Green 3, Blue 2, Red 6): Casual audience + Website entry + Make it part of a sequence. The audience is someone following the process lightly; a web/project entry is the format; record where this belongs in a sequence and what comes before/after.
+- Maintenance / Brown 4: Todo list / future-work queue. Pick one todo item, update it, complete it, reschedule it, or move it into the next-session queue.
+- Seed / Black 1: Keyword. Create or update a keyword that may return later.
+
+Interpreting the results:
+
+- **Record (Change list):** Shoreline (T006) created and fully built this session — Cartography through Inscription complete. Physical changes: texture-paste foundation with a postal-consignment-list diamond joining the T001- and T003-facing edges; turquoise wash; two misaligned hex grids (8 black at 30mm, 4 silver at 24mm), 4 of them colored to resemble a flooded coastline. One affected neighbor: T001, which received a single pushed silver hexagon over part of its AIKA text.
+- **Witness (Scan):** confirmed — good photos of the finished tile already exist.
+- **Meaning (Contradiction + Rumor + Makes it legible):** the "two incompatible truths" are literally the black grid and the silver grid, neither resolved. Per the user's steer — the shore itself should want to be more stone or metal, not just caught between two colors — final rumor:
+
+  > *Fishers here say the shoreline is jealous of the stone behind it and the iron somewhere past the tideline. Every year it tries to harden — the black grid pulling toward flint, the silver grid pulling toward some remembered ore — but the water always wins by morning, and it's shoreline again: soft, undecided, neither stone nor metal, just two grids still arguing about which one it should have become.*
+
+  This keeps it Contradiction (two competing pulls, toward flint vs. toward ore) and Rumor (oral, uncertain, "fishers say"), while still making the actual tension legible: the shore wants permanence and can't hold it.
+- **Publication (Casual audience + Website entry + Make it part of a sequence):** confirmed — covered by the user's own `blog-20-the-threshold-the-ancients-already-cut.md`, already done.
+- **Maintenance (Todo list / future-work queue):** processing the recurring Triggered Todo — "When silver grid bleed, black warning bleed, AIKA technical energy, safety lines, bleed-prevention wall, or color 6 appears, review the S003 T003/T001 two-way bleed." Unlike S005 (which touched neither T001 nor T003 and left the record unchanged), Shoreline actually *is* now the physical body of that corridor — sitting directly between both tiles, sharing T003's black-warning-bleed tag, and pushing a silver hexagon onto T001. This is the first review that actually changes something: the old bleed record now has a third participant, and the corridor's own resolution (which color wins) is exactly what's deferred to Shoreline's next session. Recorded as an update to this todo item in `../../tracking/map-todo.md`, not just another unchanged review.
+- **Seed (Keyword):** confirmed — keyword **K033 "Hex Tideline"**, the black-vs-silver hex contest, permanently tied to Shoreline, with a return condition of "when Shoreline (T006) is targeted again."
+
+## Artifact Draw
+
+Card drawn: C057 — Green 2, Blue 4, Red 3, Yellow 5, Brown 1, Black 3.
+
+Brown 1 selects Maintenance row 1 directly from the main Chronicle table (not the Matrix, since Brown ≠ 6):
+
+> **Deck reset:** Shuffle, reset, sort, repair, update, sleeve, annotate, rebalance, or prepare the deck.
+
+Actual artifact: this session's own second Awakening card, **C108 (Hex)**, was physically decorated ahead of the draw — an archaic sepia "correspondence template" page glued onto it, then hand-drawn with 24mm hexagons and inscribed with the numbers **6, 4, 1** (C108's own Yellow, Brown, and Black values). The hexagon size matches Shoreline's own silver grid exactly, and the correspondence-template paper echoes the same archaic-postal register as the postal-consignment-list diamond used in Surface — the card now permanently carries a physical trace of the session it helped govern. Already reflected in `../cards/Cards.csv` (C108's description, back, and updated/last-used dates). This satisfies Deck reset's "annotate/prepare the deck" directly, the same way S003 glued a moonscape onto C074 and S005 sleeved C182.
+
+Chronicle is complete for T006 / Shoreline: all six phases plus the Artifact Draw.

@@ -4,6 +4,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 
 ## T001 Obligations
 
+- S006 addendum: T006/Shoreline's Inscription (Force: Pushing) pushes a single 24mm-spaced silver hexagon, from its own misaligned black/silver hex convergence, across T001's NW edge, covering a little of the AIKA text. Restrained by design — Shoreline's own Residue result was Clean, so this carries no further debt onto T001 beyond the physical mark. T001's long-standing "does the S002 warning-strip bleed resolve the warning-checker return condition" question was also carried into Shoreline as Attunement's Echo result; it may end up answered from Shoreline's side rather than T001's.
 - S004 Awakening walk-back reaches T004 directly touching T001 at [-1,0] (corrected from an originally-recorded [-1,-1]; see Rule And Documentation Obligations below).
 - S004 Inscription: T004/Mirror rewrote some (not all) of T001's archaic symbols in Mirror's own schematic-hexagon pattern — a transformation, not an erasure. Recorded on both tiles. Keyword K032 Schematic Rewrite created, shared between T001 and Mirror, deliberately leaving what the original symbols meant unexplained.
 - Open: a multi-tile witness photo of the T001/Mirror shared edge (showing the rewritten area) is owed, but held back from publication until a later, deliberate reveal. Taken and confirmed (S004 Chronicle Witness).
@@ -105,6 +106,23 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Chronicle Meaning: a short in-world diary fragment on why the soldiers defend the forest is recorded in the session log (`../narrative/sessions/s005-the-monster.md`).
 - Chronicle Publication (Short post) is being covered by the user's own in-progress blog post, not drafted here.
 - Artifact Draw complete: card C129 (Mephistomon), Brown 5, satisfied by sleeving deck card C182 ("Unfinished, intentional ugliness") to protect it — separate from the Witness step's own conservation of the cut-out C113 card.
+- New (found post-S006): T005 also touches T006/Shoreline, on T005's NE / T006's SW edge — missed during S006's own Awakening, found afterward while verifying a corrected `../tiles/map-diagram.md`. T005's Contagious Origin ("every time a neighboring tile is changed, T005 bleeds something random to it") should have fired when T006 was created and fully worked in S006, but didn't, since the adjacency wasn't recognized at the time. Recorded as an unpaid debt rather than invented after the fact: T005 owes Shoreline a random bleed, to be resolved next time either tile is worked on.
+
+## T006 / Shoreline Obligations
+
+- S006 creates T006 at [0,-1], empty but already touching four existing tiles at once before any walk-back step — T001 (NW), T003 (SW of T003), T004 (N of T004), and T005 (SW of T005) — the first time an already-touching raw target has touched more than one tile (the mechanism itself was first found in S005, touching only one). Only T001, T003, and T004 were recognized during S006's own Awakening; the T005 relation was found afterward, post-Chronicle, while verifying a corrected `../tiles/map-diagram.md`. Brown 4 (even) created T006 there directly. Named Shoreline mid-Inscription, for the turquoise-in-crevices texture reading as water.
+- S006 Cartography births T006 twist-born, loosely held, an Entanglement Matrix result (Stranger + Contamination + Show), a Temper Matrix result (Appetite + Mass + Unstable), a Gate standing between T001 and T003, and an Edge Inheritance carrying T003's "black-warning-bleed" tag. All six phases plus the Artifact Draw are complete.
+- Resolved: Entanglement's "Show" demand and Office's Gate crossing function are both answered by Inscription's hex-grid convergence — no separate mark was needed for either.
+- Resolved: Mirror's Alien+Boundary+Partial obligation (a fragment of the Hex card, C108) was deliberately not used physically — the hex grids themselves stand in as the resolution instead, grown organically from the tile's own inherited bleed-lines.
+- Open: whether the black hex grid (30mm, 8 hexagons) or the silver hex grid (24mm, 4 hexagons) wins, or whether they remain in permanent tension. Keyword K033 Hex Tideline created as the named return condition. Return when Shoreline (T006) is next targeted.
+- Open: Loosely Held's one-time full-effect-then-Anchored rule remains available, unspent.
+- Open: Echo's carried-forward question from T001 (whether the S002 warning-strip bleed into T002 satisfies, complicates, or extends T001's warning-checker return condition) is now available to answer from Shoreline's side as well as T001's.
+- Cross-tile effect: Shoreline's Inscription (Force: Pushing) pushes a single silver hexagon onto T001, covering a little of the AIKA text — recorded on both tiles.
+- Open: Shoreline also touches T005, on T006's SW / T005's NE edge — missed during S006's own Awakening (only T001/T003/T004 were checked), found post-Chronicle while verifying a corrected `../tiles/map-diagram.md`. T005's Contagious Origin owes Shoreline an unpaid bleed as a result; see T005's own obligations above. Resolve next time either tile is worked on.
+- Chronicle Maintenance: the recurring "review the S003 T003/T001 two-way bleed" Triggered Todo was updated (not just re-confirmed) for the first time, since Shoreline is now a real physical participant in that corridor rather than an unaffected neighbor.
+- Chronicle Meaning: a short in-world rumor fragment (the shoreline wanting to harden into stone or metal, unable to hold either) is recorded in the session log (`../narrative/sessions/s006-shoreline.md`).
+- Chronicle Publication is covered by the user's own `../../blog/blog-20-the-threshold-the-ancients-already-cut.md`, not drafted here.
+- Artifact Draw complete: card C057, Brown 1, selected Deck reset (annotate/prepare the deck) directly. Satisfied by the user's own prior decoration of C108 (Hex) — a glued archaic sepia "correspondence template" page, hand-drawn with 24mm hexagons (matching Shoreline's own silver-grid spacing exactly) and inscribed with the numbers 6, 4, 1 (C108's own Yellow/Brown/Black values) — already reflected in `../narrative/cards/Cards.csv`.
 
 ## Rule And Documentation Obligations
 
