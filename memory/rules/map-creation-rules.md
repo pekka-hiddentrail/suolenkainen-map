@@ -801,12 +801,12 @@ How should the material be laid down?
 
 |  | Yellow — Origin point | Brown — Movement | Black — Interruption |
 | :---- | :---- | :---- | :---- |
-| 1 | Edge: TBD | Straight: TBD | Stops short: TBD |
+| 1 | Edge: TBD | Straight: TBD | Stops short: The application halts before reaching its expected edge, extent, or conclusion. Leave it deliberately incomplete, as if it ran out or was cut off before finishing, rather than reworking it to look intentional. |
 | 2 | Center: TBD | Radiating: TBD | Break apart: TBD |
 | 3 | Route: TBD | Following: TBD | Is blocked: TBD |
-| 4 | Layer: TBD | Emerging: TBD | Is buried again: TBD |
+| 4 | Layer: TBD | Emerging: The material doesn't travel across the surface from an outside direction — apply it as if surfacing from beneath, rising up through the foundation and becoming visible gradually, rather than arriving from an edge, center, or route. | Is buried again: TBD |
 | 5 | Wound: TBD | Branching: TBD | Overgrows: TBD |
-| 6 | Nowhere/Many points: TBD | Spiraling/Shifting: TBD | Changes rules: TBD |
+| 6 | Nowhere/Many points: The material has no single starting point. Apply it as if it began everywhere at once — scattered, ambient, or arising simultaneously from several unconnected spots — rather than radiating outward from one origin. | Spiraling/Shifting: TBD | Changes rules: TBD |
 
 ## Treatment
 
@@ -815,11 +815,11 @@ How should color, tone, texture, or finish behave?
 |  | Green — Mood Source | Blue — Alteration | Red — Surface Effect |
 | :---- | :---- | :---- | :---- |
 | 1 | Card/Omen: TBD | Mute: TBD | Pale: TBD |
-| 2 | Neighbor: TBD | Stain: TBD | Residue: TBD |
-| 3 | Material: TBD | Contrast: TBD | Split surface: TBD |
+| 2 | Neighbor: TBD | Stain: Let color or tone behave like residue, seepage, contamination, shadow, or memory — the alteration should read as something that soaked in or left a mark behind, not a clean, deliberate application. | Residue: TBD |
+| 3 | Material: The treatment's mood comes from the material itself — its own physical behavior, texture, weight, or handling sets the tone, rather than a card, neighbor, or outside reference imposing one on it. | Contrast: TBD | Split surface: TBD |
 | 4 | Reference: TBD | Weather: TBD | Eroded/worn: TBD |
 | 5 | Memory/Echo: TBD | Brighten: TBD | Glow/signal: TBD |
-| 6 | Conflict: TBD | Corrupt: TBD | Unstable finish: TBD |
+| 6 | Conflict: TBD | Corrupt: TBD | Unstable finish: The surface effect doesn't settle. Let it keep looking unfinished, shifting, reactive, or provisional — as if it could still change after the session ends, rather than resolving into one fixed final look. |
 
 ## Structure
 
