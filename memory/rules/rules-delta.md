@@ -22,6 +22,18 @@ Status: requested after S001 Artifact Draw; future maintenance task.
 
 Audit Chronicle tasks in a later session. The audit should check whether Chronicle and Artifact Draw outputs are practical, distinct, not overly redundant, and easy to complete as concrete artifacts. Do not perform the audit immediately unless the user explicitly asks for it.
 
+## Delta Candidate - Attunement Wording Revisit
+
+Status: requested during S007 Attunement; future maintenance task, wording only.
+
+Revisit Attunement's phrasing at some point — check table wording, keyword glosses, and general clarity. This is explicitly not about the six-question process itself, which the user considers fine as-is; it's a wording/clarity pass only. Note: unlike Surface and Inscription, Attunement's own six sub-matrices (Echo, Matter, Mirror, Omen, Pressure, Provision) have no TBD cells — all 108 cells across them are already fully written, so this revisit is pure wording polish, not a fill-in-the-blanks task.
+
+## Delta Candidate - Remove the Token/Provision System
+
+Status: requested during S007 Attunement; user wants to discuss removing this mechanic.
+
+The user finds the Provision category's token/marker mechanic ("prepare one blank label, tag, marker, or notation piece for possible later use") unsatisfying in practice — they report having several reserved tokens sitting unused with no real purpose, and want to discuss dropping the token system altogether. Not yet adopted or scoped: removing or replacing one of Attunement's six categories is a structural change (Attunement is built as six parallel questions: Echo, Matter, Mirror, Omen, Pressure, Provision), so it needs a real decision about what happens to the "Black" color slot in Attunement's fixed mapping if Provision goes — replaced with something else, folded into another category, or the six-question structure itself changes. Do not remove anything yet; this is a flagged discussion, not an adopted ruling. In the meantime (S007), rather than leave another inert unlabeled token, T007's own Provision/Mark result was given a concrete, specific purpose instead of a generic placeholder — see the S007 session log.
+
 ## Adopted Delta - Brown Even Creates Last-Free New Tile
 
 Status: adopted during S004 Awakening and folded into `map-creation-rules.md`. The rule itself still stands, but the S004/T004 worked example below was later found to rest on a walk-back error — see "Adopted Delta - Same-Sign Diagonal Walk-Back..." below for the correction.
