@@ -22,5 +22,6 @@ Phase-by-phase session narrative lives one file per session in `sessions/`:
 - [S004 — T004 · Mirror](sessions/s004-mirror.md)
 - [S005 — T005 · The Monster](sessions/s005-the-monster.md)
 - [S006 — T006 · Shoreline](sessions/s006-shoreline.md)
+- [S007 — T007](sessions/s007-t007.md)
 
 Add a new file to `sessions/` for each new session rather than appending here.
