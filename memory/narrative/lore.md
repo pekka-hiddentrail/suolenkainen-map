@@ -32,6 +32,18 @@ Current reading:
 - Circles and ovals connected to C089 may become early signs of the arena before any literal colosseum appears.
 - Later Latin text about spectators of gladiator matches may belong to this arena lore if Surface or Inscription makes room for it.
 
+### The Ancients
+
+Status: provisional; introduced in blog-20, not yet confirmed as canon by session mechanics.
+
+The Ancients are a builder-people or force older than the map's own six-phase ritual. Their works don't get invented on a tile — they're found there, already finished, the way T002's arena and T005's fortification both "existed in the void before the tile emerged." The working image from blog-20: the map doesn't build so much as it remembers, and every new tile is a shovelful of old ground that may turn up another piece of what the Ancients already made.
+
+Current reading:
+
+- The Ancients' relics so far: T002's Court arena, T005's ruined fortification. Both are described in session notes as the same category of "Ancient structure" serving different functions.
+- Not yet defined: whether the Ancients served, opposed, or predate The Court; whether they're still active in any sense; how many relics exist across the unmapped grid.
+- blog-20 extends this into T001/T003's old two-way bleed corridor, reading T006's Gate/Edge-Inheritance results as that corridor finally getting a body — the threshold "the Ancients had cut" before either tile knew the other was there. This is Storyteller-voice invention, not a session mechanic; nothing in T006's actual Cartography record names the Ancients directly.
+
 ## Voices
 
 ### The Storyteller
