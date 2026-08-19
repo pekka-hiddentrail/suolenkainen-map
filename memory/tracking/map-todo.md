@@ -18,6 +18,7 @@ Todo types:
 - [x] S005: Awakening through Chronicle, plus the Artifact Draw, complete for T005 / The Monster.
 - [x] T004's own Artifact Draw (S004 requirement) is bypassed by user decision — not performed, not planned.
 - [x] S006: Awakening through Chronicle, plus the Artifact Draw, complete for T006 / Shoreline.
+- [x] S007: Awakening through Chronicle, plus the Artifact Draw, complete for T007 / Mesa.
 
 ## Triggered Todos
 
@@ -27,11 +28,13 @@ Todo types:
 - [ ] When T005 / The Monster is targeted again, when T002 is targeted, or when color 6 appears: resolve Route-Tangled's still-unnamed coast, and decide whether a reciprocal debt on T002 (does the Ring's ancient-relic lore acknowledge The Monster's wall as a sibling structure? — a floated idea is that T002 could begin forming wooded lands) gets formalized. (S005 Chronicle Seed, bundled per user request. T004's part of this bundle — whether it acknowledges the scab — is resolved: T004 accepts it.)
 - [ ] When T006 / Shoreline is targeted again, decide whether the black hex grid (30mm, 8 hexagons) or the silver hex grid (24mm, 4 hexagons) wins, or whether they remain in permanent tension. (S006 Chronicle Seed; keyword K033 Hex Tideline created.)
 - [ ] When T005 / The Monster or T006 / Shoreline is next worked on, pay T005's unpaid Contagious bleed onto Shoreline. Found post-S006 Chronicle: T005 and T006 are neighbors (T005's NE / T006's SW edge) via the corrected `../tiles/map-diagram.md`, a relation missed during S006's own Awakening. T005's Contagious Origin should have bled onto T006 when it was created and worked this session but didn't, since the adjacency wasn't recognized at the time.
+- [ ] When settlement, road, or building imagery appears again anywhere on the map, or when T007 / Mesa is targeted again: decide whether it expands, connects to Mesa, or remains an isolated origin point. Also resolve Mesa's still-unpaid Office Quiet Cost. (S007 Chronicle Seed; keyword K034 First Settlement created.)
 
 ## Unscheduled Todos
 
 - [ ] Generate or review two Instagram post descriptions for S003 / The Canyon.
 - [ ] Verify whether the existing T003 photo clearly captures the T003/T001 contact edge; if not, take a detail photo.
+- [ ] Decide the actual target platform(s) for Chronicle Publication results (blog-only, Instagram, Reddit, or elsewhere) — flagged as a real, previously-unaddressed ambiguity during S007 Chronicle; see `../rules/rules-delta.md`.
 
 ## Rule / System Maintenance
 

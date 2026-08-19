@@ -74,6 +74,8 @@ When the calculated coordinate is empty — no tile exists there — the system 
 
 If the raw calculated coordinate is empty but already touches the existing map by adjacency — the case never arose until it was found and settled during S005 — no walking is needed at all: the walk-back's whole purpose is to reach a coordinate touching the map, and an adjacent-but-empty raw target already does. Skip the reference-line/stepping mechanism below entirely and go straight to the Brown-parity decision (new tile at that coordinate, or one further step, exactly as for any other found-contact coordinate). Only take walk-back steps when the raw target does not yet touch the map at all.
 
+When checking whether a raw target already touches the map, check it against *every* currently-occupied coordinate, not just the neighbors that happen to come to mind first. S006's raw target actually touched four existing tiles at once, but only three were checked during that session's own Awakening — the fourth (a real adjacency to T005) wasn't found until a later, unrelated diagram check. Compute all six neighbor coordinates of the raw target and compare each one against the full list of occupied coordinates before concluding how many tiles it touches.
+
 The logic works like this. From the empty coordinate, identify the nearest of three reference lines running through the origin: the diagonal where the absolute values of both coordinates are equal, or either of the two axes where one coordinate is zero. (The diagonal itself is really two different lines with different walking behavior — see "Walking the two different diagonals" below.) If the target is equidistant between two of these lines, the black card number breaks the tie — odd sends the target to the counter-clockwise option, even to the clockwise one.
 
 From there, move one step toward that reference line. Check the new position: does it touch the existing map, either by landing on a tile or by being adjacent to one? If not, move again. Keep moving until the target lands somewhere that touches the existing map.
@@ -198,7 +200,7 @@ Not every named Origin needs a mechanical effect. Some (like Twist-Born) are mea
 ### Drawn-In
 *"Surrounding tiles are pulled into it."*
 
-**Effect:** If the Drawn-In tile moves from it's location, a random tile (Black number decides, calculating from north clockwise.) is pulld to the tile's previous location.
+**Effect:** If the Drawn-In tile moves from its location, a random tile (Black number decides, calculating from north clockwise.) is pulled to the tile's previous location.
 
 ### Void-Born
 *"It resists surroundings and behaves separately."*
@@ -754,10 +756,10 @@ What foundation structure should organize it?
 
 |  | Green — Authority | Blue — Pattern logic | Red — Flaw |
 | :---- | :---- | :---- | :---- |
-| 1 | Coordinate: TBD | Axis: TBD | Too faint: TBD |
+| 1 | Coordinate: TBD | Axis: Establish a main direction, orientation, base angle, flow, or north/south relation — the simplest organizing logic, before grid, sequence, or division complicate it. | Too faint: The organizing structure barely registers — it's present but hard to see, read, or follow, undersized or underemphasized relative to what the tile actually needs. |
 | 2 | Neighbor: TBD | Grid: TBD | Misaligned: Let the repeated units sit offset, out of register, rotated, or wrongly connected to each other, rather than aligning cleanly. |
 | 3 | Route: TBD | Sequence: TBD | Interrupted: TBD |
-| 4 | Region: TBD | Division: TBD | Overgrown: TBD |
+| 4 | Region: Let a broader territory, zone, field, or biome organize the foundation — a larger-than-one-tile area authority, rather than a coordinate, single neighbor, or route. | Division: TBD | Overgrown: TBD |
 | 5 | Shape: Let an overall geometric form — circle, ring, spiral, arc, corridor, patch, or comparable figure — organize the foundation, rather than a coordinate, neighbor, route, region, or hidden source. | Repetition: Build the pattern from repeated units, motifs, or recurring marks rather than one continuous form. | Too dominant: TBD |
 | 6 | Hidden Source: TBD | Nested/recursive: TBD | Contradictory: TBD |
 
@@ -847,10 +849,10 @@ How far does the inscription's force reach, and by what mechanism?
 
 |  | Green — Reach | Blue — Mechanism | Red — Trace |
 | :---- | :---- | :---- | :---- |
-| 1 | Within tile: TBD | Pressure: TBD | Alter local balance: TBD |
+| 1 | Within tile: TBD | Pressure: The force doesn't cross an edge or physically travel — it exerts influence, weight, or a felt push on what's nearby, present without literally moving into or through anything. | Alter local balance: The trace stays entirely within the tile itself — it shifts weight, tone, or balance locally, without yet reaching an edge, marking a neighbor, or leaving evidence anywhere else. |
 | 2 | To edge: TBD | Bleed: The force crosses an edge and alters or continues into an adjacent tile. Whatever the tile holds on that edge may continue as bleed. When a physical measure is needed, use the Red number as centimeters of continuation. | Marks edge/contact: The force leaves visible evidence at the crossing point: stain, line, interruption, residue, boundary mark, color change, material transfer, stopped trace, or other contact evidence. |
 | 3 | On neighbor: The tile reaches out to a neighboring tile to influence it. | Bridge: TBD | Modifies one adjacent tile: TBD |
-| 4 | Route/chain: TBD | Transmission: TBD | Follows a path: TBD |
+| 4 | Route/chain: The force follows a specific route, path, or linked chain of tiles rather than a single neighbor or an entire region — it travels along a connection already named (a road, river, corridor), moving only as far as that chain actually reaches. | Transmission: TBD | Follows a path: TBD |
 | 5 | Region/shape: The force reaches across a region, multi-tile shape, or comparable larger grouping, rather than a single edge, neighbor, or route chain. | Propagation: The force spreads outward through multiple connected tiles at once — region, shape, weather, or bleed logic — rather than one bridge or transmission line. | Affects 2-6 tiles: TBD |
 | 6 | Map system: TBD | Event: TBD | Creates special rule: TBD |
 
