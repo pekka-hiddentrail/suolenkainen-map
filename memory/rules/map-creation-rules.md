@@ -849,10 +849,10 @@ How far does the inscription's force reach, and by what mechanism?
 
 |  | Green — Reach | Blue — Mechanism | Red — Trace |
 | :---- | :---- | :---- | :---- |
-| 1 | Within tile: TBD | Pressure: TBD | Alter local balance: TBD |
+| 1 | Within tile: TBD | Pressure: The force doesn't cross an edge or physically travel — it exerts influence, weight, or a felt push on what's nearby, present without literally moving into or through anything. | Alter local balance: The trace stays entirely within the tile itself — it shifts weight, tone, or balance locally, without yet reaching an edge, marking a neighbor, or leaving evidence anywhere else. |
 | 2 | To edge: TBD | Bleed: The force crosses an edge and alters or continues into an adjacent tile. Whatever the tile holds on that edge may continue as bleed. When a physical measure is needed, use the Red number as centimeters of continuation. | Marks edge/contact: The force leaves visible evidence at the crossing point: stain, line, interruption, residue, boundary mark, color change, material transfer, stopped trace, or other contact evidence. |
 | 3 | On neighbor: The tile reaches out to a neighboring tile to influence it. | Bridge: TBD | Modifies one adjacent tile: TBD |
-| 4 | Route/chain: TBD | Transmission: TBD | Follows a path: TBD |
+| 4 | Route/chain: The force follows a specific route, path, or linked chain of tiles rather than a single neighbor or an entire region — it travels along a connection already named (a road, river, corridor), moving only as far as that chain actually reaches. | Transmission: TBD | Follows a path: TBD |
 | 5 | Region/shape: The force reaches across a region, multi-tile shape, or comparable larger grouping, rather than a single edge, neighbor, or route chain. | Propagation: The force spreads outward through multiple connected tiles at once — region, shape, weather, or bleed logic — rather than one bridge or transmission line. | Affects 2-6 tiles: TBD |
 | 6 | Map system: TBD | Event: TBD | Creates special rule: TBD |
 

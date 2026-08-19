@@ -166,3 +166,38 @@ Surface is complete. The mesa/grooved-field split gives the still-open violence-
 ## Naming
 
 Right after Surface, the user named T007 **Mesa** — for the smooth cardboard plateau built into its NW corner. Tile record and session file renamed accordingly (`t007-mesa.md`, `s007-mesa.md`); `tile-data.md`'s Tile Index and T003's own cross-reference updated to match.
+
+## Inscription
+
+Numbers reused from Awakening: Green 4, Blue 1, Red 1 (C109, Violent Lion); Yellow 5, Brown 6, Black 1 (C131, Armoured dragon lizard). Fixed color mapping: Green = Scale, Blue = Form, Red = Behavior, Yellow = Relation, Brown = Force, Black = Residue.
+
+Results:
+
+- Scale / Green 4: Edge-Reaching. It touches or approaches one or more edges.
+- Form / Blue 1: Mass. Area, region, color body, terrain, atmosphere, zone, patch, field.
+- Behavior / Red 1: Settle. Stabilize, complete, calm, clarify, anchor, make legible.
+- Relation / Yellow 5: Source. Card image, word, Attunement, Cartography, Surface, memory, omen, archive.
+- Force / Brown 6: Force Matrix, read using the other card's numbers (Green 4, Blue 1, Red 1): Route/chain + Pressure + Alter local balance. All three cells were TBD; newly interpreted this session and folded into `../../rules/map-creation-rules.md`'s Force Matrix.
+- Residue / Black 1: Mark. The residue is a plain, permanent mark on the tile itself — a small trace with no larger claim than being visibly present.
+
+**A strong, unanimous signal in this draw:** every one of the six results points toward calm rather than violence. Behavior is literally Settle ("stabilize, complete, calm, clarify, anchor"). Force's own three cells — Route/chain, Pressure, Alter local balance — describe an influence that follows the river-route toward T003 without physically crossing into it (Pressure, not Bleed), leaving no mark anywhere but locally, inside Mesa itself (Alter local balance). Residue is a small, plain, permanent Mark, nothing more. Scale (Edge-Reaching) and Form (Mass) are both modest, area-level results rather than anything dramatic. Nothing here reflects or amplifies the Violent Lion / Armoured dragon lizard mood from Attunement's Omen — the draw reads, unprompted, as a resolution toward the **resist** option Omen itself offered ("later work must reflect, resist, or corrupt it").
+
+**Proposed reading, pending confirmation:** the violence-vs-calm question resolves toward calm. Mesa settles into being the quiet, stabilizing headwater its Office (Quiet Cost), Origin (Edge-Starved), and Pressure (Soothe) have been pointing toward all along — the aggressive card-omen is present in the tile's history (it's still the governing Omen) but actively resisted rather than expressed. Concretely: the inscription mark is a broad-area (Mass) treatment reaching toward the S/T003 edge (Edge-Reaching) — extending or deepening the existing color zones (the emerald river-grooves, the mesa's yellow) as they approach that edge, reading as the moment the tile visibly settles into its calm identity, sourced from (Relation: Source) everything already established at Attunement and Cartography rather than inventing anything new. The Residue Mark and Force's local-only trace both suggest this stays modest and self-contained — nothing crosses into T003 itself, matching the already-resolved Bright/Cartography decision that T003 needs nothing further from this tile.
+
+**The cornerstone marker:** since the question it was reserved for now has a strongly-supported answer, this could be the session it gets inscribed — a single word or mark meaning something like "settled," "quiet," or "source," placed near the S edge as the literal marker of where the calm headwater begins. Not decided yet — flagging it as ready rather than assuming it.
+
+Actual Inscription:
+
+- The mesa's existing yellow lines were accentuated and reread as **roads**, not water or abstract marks.
+- A few small **black squares** were added along them as **buildings** — the map's first literal architecture. Everything before now (AIKA's circuits, Ring's arena relic, the Canyon's star-routes, Mirror's hexagons, the Monster's fortification, Shoreline's hex-tide) has been geological, technical, or abstract; Mesa is the first tile to depict an actual built settlement.
+- The word **"Source"** was written directly onto the tile.
+- No cornerstone marker or separate token was made — a direct, deliberate choice, consistent with the user's broader wish (logged in `../../rules/rules-delta.md`) to drop the token/Provision mechanic. Provision's own Attunement result goes unfulfilled here by choice, not oversight.
+
+This lands the six results more precisely than the wash-and-stone plan proposed above:
+
+- **Behavior/Settle** turns out to be a direct pun neither of us called explicitly: a **settlement** literally settles. Buildings and roads are the most concrete possible reading of "stabilize, complete, calm, clarify, anchor, make legible."
+- **Relation/Source + Residue/Mark** are answered by the same single gesture — the word "Source" is both the tile naming its own Relation category outright and a plain, permanent, legible mark on the tile itself, exactly as Residue specified.
+- **Force's local-only trace (Route/chain + Pressure + Alter local balance)** holds: nothing physically crosses into T003. The whole settlement, its roads, and the word stay entirely on Mesa.
+- **Violence vs. calm resolves cleanly toward calm** — and decisively so. Nothing violent was added anywhere, not even as a suppressed trace. The governing Omen (Violent Lion, Armoured dragon lizard) is present in the tile's history but fully unexpressed here: a clean resist, not a resist-with-residue.
+
+Inscription is complete. Mesa is now, narratively, the first hint of civilization on the whole map — a small settlement at the literal source of the river The Canyon depends on, calm and self-contained, naming itself "Source" without needing to cross into its only neighbor.
