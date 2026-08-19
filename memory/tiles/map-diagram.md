@@ -31,10 +31,13 @@ An ASCII drawing of the physical map, laid out by real coordinate, not just list
 | T004 | Mirror | [-1,0] |
 | T005 | The Monster | [-1,-1] |
 | T006 | Shoreline | [0,-1] |
+| T007 | Mesa | [2,-2] |
 
 T004 is drawn attached to this cluster now, touching T001 directly on T004's NE / T001's SW edge. Its coordinate was originally recorded as [-1,-1] — two steps from T001 and not touching anything — but that walk-back had ticked both coordinates of a same-sign diagonal at once, which isn't a real single hex step (there is no direct E/W side). Re-walking with real NE/SE steps found map contact one step earlier, at [-1,0]; see `../rules/rules-delta.md`'s same-sign-diagonal entry for the full derivation.
 
 T005 / The Monster and T006 / Shoreline are now both drawn in, added by the user directly against the physical tiles. Checking the result against every hex's position resolved the diagram's own long-standing inconsistency: the previously-stated rule ("NE-SW axis shifts columns, SE-NW axis shifts rows, independently") was simply wrong — real hex geometry needs both axes to combine on a diagonal move. The correct formula, verified against all six placed tiles with no exceptions, is documented below. This also surfaced a fact neither the user nor Claude had checked before: **T005 and T006 are themselves neighbors** — T006 [0,-1] minus T005 [-1,-1] is exactly the NE offset [1,0], so T006 touches T005 on T006's SW edge / T005's NE edge, visible in the diagram as the shared edge between their two hexes. This wasn't caught during S006's own Awakening (which only checked T006 against T001, T003, and T004) and has a real mechanical consequence — see `../tracking/open-obligations.md`'s T005 and T006 sections for the resulting Contagious-bleed debt.
+
+**Pending redraw:** T007 / Mesa was created at [2,-2] during S007, touching only T003 on T007's S / T003's N edge — a pure N step, the same relationship T003 already has to T001. Per the verified formula, T007 sits at offset (row -6, col 0) from T003, i.e. (row -12, col 0) from T001: directly above T003's own hex, twice the pure-north distance from the origin, no horizontal shift. It's listed in the summary table above but left out of the ASCII block for now — extending the block upward by one more N-step is straightforward in principle, but is better done with the physical tiles or a rendered view at hand to confirm the seams line up, rather than blind here.
 
 ## How to draw or extend this
 

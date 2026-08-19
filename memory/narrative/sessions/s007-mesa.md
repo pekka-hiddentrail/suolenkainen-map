@@ -201,3 +201,37 @@ This lands the six results more precisely than the wash-and-stone plan proposed 
 - **Violence vs. calm resolves cleanly toward calm** — and decisively so. Nothing violent was added anywhere, not even as a suppressed trace. The governing Omen (Violent Lion, Armoured dragon lizard) is present in the tile's history but fully unexpressed here: a clean resist, not a resist-with-residue.
 
 Inscription is complete. Mesa is now, narratively, the first hint of civilization on the whole map — a small settlement at the literal source of the river The Canyon depends on, calm and self-contained, naming itself "Source" without needing to cross into its only neighbor.
+
+## Chronicle
+
+Numbers reused from Awakening: Green 4, Blue 1, Red 1 (C109, Violent Lion); Yellow 5, Brown 6, Black 1 (C131, Armoured dragon lizard). Fixed color mapping: Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed.
+
+Results:
+
+- Record / Green 4: Cause chain. Explain why the tile ended up this way. Connect Cartography -> Attunement -> Surface -> Inscription.
+- Witness / Blue 1: Photo. Take a basic photo of the finished tile.
+- Meaning / Red 1: Plain explanation. Write a direct explanation of what the tile/action means in normal language.
+- Publication / Yellow 5: Social/caption. Prepare something shareable: image caption, social post, alt text, title, teaser, short public description.
+- Maintenance / Brown 6: Maintenance Matrix, read using the other card's numbers (Green 4, Blue 1, Red 1): Tile index + Reset/sort + Restore readiness.
+- Seed / Black 1: Keyword. Create or update a keyword that may return later.
+
+Interpreting the results:
+
+- **Record (Cause chain):** Cartography made Mesa Edge-Starved, Anchored, Bright, and gave it an Open/By-Edge/Quiet-Cost Office plus an Edge Inheritance carrying T003's "dried-river-valley" tag — establishing it as the river's unbuilt headwater from the start. Attunement claimed it into that same route system with a "civilization origins" framing, chose sand/rough paste and a stone-plus-water-brushwork Mirror, and flagged a real tension between the governing Omen's violence and Pressure's demand to soothe. Surface built that tension a physical stage: a smooth, luminous mesa plateau (seeded by the First Mark anchor point) against a rough, N-S-grooved, emerald-and-tan stone field. Inscription resolved everything at once — rereading the mesa's yellow as roads, adding buildings, writing "Source" — landing Behavior's Settle as a literal pun (a settlement settles), answering Relation/Source and Residue/Mark in the same gesture, and resolving violence-vs-calm cleanly toward calm.
+- **Witness (Photo):** a basic photo of the finished tile is the recommended witness — a physical action for you to take when convenient.
+- **Meaning (Plain explanation):** Mesa is a new tile just north of The Canyon. It was born quiet, self-contained, and structurally tied to being the source of The Canyon's dried river valley. Despite carrying a violent governing omen from its own birth cards, it settled into something calm instead — a small cluster of roads and buildings on a raised plateau, the map's first hint of an actual civilization, naming itself "Source."
+- **Publication (Social/caption):** proposed short caption — *"Before there was a canyon, there was a source. Mesa: the map's first settlement, calm where its own omen wasn't."* Adjust freely; this is a starting point, not a final draft.
+- **Maintenance (Tile index):** done directly rather than deferred — `../../tiles/tile-data.md`'s T007 row was stale (still said "Surface complete," missing the roads/buildings/Source resolution and the settled violence-vs-calm status) and its "Neighbor Coordinate Notes" section had drifted out of date since S004, never updated for T005, T006, or T007. Both fixed; the Notes section now also flags `coordinate-map.md` as the authoritative source to prevent the same drift recurring.
+- **Seed (Keyword):** creating keyword **K034**, proposed name **"First Settlement"** — marking Mesa's roads-and-buildings imagery as the map's founding civilization moment. Return condition: when settlement, road, or building imagery appears again anywhere on the map, or when Mesa is targeted again, revisit whether it expands, connects to Mesa, or remains an isolated origin point. Also carries Office's still-unpaid Quiet Cost as a secondary open thread under the same return condition.
+
+## Artifact Draw
+
+Card drawn: C061 — Green 2, Blue 5, Red 1, Yellow 1, Brown 3, Black 3.
+
+Brown 3 selects Maintenance row 3 directly from the main Chronicle table (not the Matrix, since Brown ≠ 6):
+
+> **Rule/documentation note:** Write or revise a rule note, clarify a table, record an ambiguity, or update documentation.
+
+Actual artifact: the rules-delta.md entry "Publication Target Platforms Undefined," written in response to the user's own question about where Chronicle's Publication results are actually meant to go (Instagram, Reddit, blog-only, or something else) — recording a real ambiguity that's existed silently in the rules since the Chronicle table was first written, distinct from Chronicle's own Maintenance action (the `tile-data.md` tidy-up) so the two draws don't compete for the same ground.
+
+Chronicle is complete for T007 / Mesa: all six phases plus the Artifact Draw.

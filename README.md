@@ -4,7 +4,7 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 
 ## Current status
 
-6 tiles exist so far:
+7 tiles exist so far:
 
 | Tile | Name | Coordinate | Status |
 | --- | --- | --- | --- |
@@ -14,10 +14,11 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 | T004 | Mirror | [-1,0] | Complete (S004) — Artifact Draw bypassed by user decision |
 | T005 | The Monster | [-1,-1] | Complete (S005) — main draw and Artifact Draw both done |
 | T006 | Shoreline | [0,-1] | Complete (S006) — main draw and Artifact Draw both done |
+| T007 | Mesa | [2,-2] | Complete (S007) — main draw and Artifact Draw both done |
 
-15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`), plus a further post in progress covering T006 (`blog/blog-20-the-threshold-the-ancients-already-cut.md`).
+15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`), plus further posts covering T006 and T007 (`blog/blog-20-the-threshold-the-ancients-already-cut.md`, `blog/blog-21-quiet-enough-to-feed-a-river.md`).
 
-Next up per `memory/tracking/map-todo.md`: the S005 Seed return condition — Route-Tangled's still-unnamed coast, and the floated T002 reciprocal debt (T002 possibly forming wooded lands) — whenever The Monster or T002 is next targeted; and the S006 Seed return condition — keyword K033 Hex Tideline, deciding whether the black or silver hex grid wins — whenever Shoreline is next targeted.
+Next up per `memory/tracking/map-todo.md`: the S005 Seed return condition — Route-Tangled's still-unnamed coast, and the floated T002 reciprocal debt (T002 possibly forming wooded lands) — whenever The Monster or T002 is next targeted; the S006 Seed return condition — keyword K033 Hex Tideline, deciding whether the black or silver hex grid wins — whenever Shoreline is next targeted; and the S007 Seed return condition — keyword K034 First Settlement, whether Mesa's roads-and-buildings motif recurs or expands — whenever settlement imagery appears again or Mesa is next targeted. T007/Mesa is also the map's first tile to depict an actual built settlement, after six tiles of geological, technical, or abstract imagery only.
 
 ## Repository layout
 

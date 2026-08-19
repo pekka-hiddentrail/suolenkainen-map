@@ -124,6 +124,20 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Chronicle Publication is covered by the user's own `../../blog/blog-20-the-threshold-the-ancients-already-cut.md`, not drafted here.
 - Artifact Draw complete: card C057, Brown 1, selected Deck reset (annotate/prepare the deck) directly. Satisfied by the user's own prior decoration of C108 (Hex) — a glued archaic sepia "correspondence template" page, hand-drawn with 24mm hexagons (matching Shoreline's own silver-grid spacing exactly) and inscribed with the numbers 6, 4, 1 (C108's own Yellow/Brown/Black values) — already reflected in `../narrative/cards/Cards.csv`.
 
+## T007 / Mesa Obligations
+
+- S007 creates T007 at [2,-2], touching only T003 on T007's S / T003's N edge, reached via a real walk-back (opposite-sign diagonal: two SE steps, one S step) rather than an already-touching landing. Named Mesa mid-Surface, for the smooth cardboard plateau built into its NW corner.
+- S007 Cartography births T007 Edge-Starved, Anchored, Neighbor-Tangled, Bright, an Office Matrix result (Open + By Edge + Quiet Cost), and an Edge Inheritance carrying T003's "dried-river-valley" tag — Mesa sits exactly where that river valley is established to enter T003 from the north. Bright's contact effect on T003 was decided as already satisfied by T003's own existing Inscription; no change made to T003.
+- Resolved: the violence-vs-calm tension flagged at Attunement (the governing Omen's aggressive mood against Pressure's demand to soothe) settled cleanly toward calm at Inscription — no violent trace was added anywhere, a clean resist rather than a suppressed one.
+- Resolved: no cornerstone marker or separate Provision token was made — a deliberate choice, consistent with the user's stated wish (see Rule And Documentation Obligations below) to drop the token mechanic altogether.
+- Milestone: Mesa's Inscription (roads reread from its own yellow lines, black-square buildings, the word "Source") makes it the map's first tile to depict an actual built settlement, after six tiles of purely geological, technical, or abstract imagery. Keyword K034 First Settlement created as the named return condition.
+- Open: Office's Quiet Cost remains unpaid — something must become quieter for Mesa's Open/By-Edge passage to hold.
+- Open: Edge-Starved's five non-T003 edges have no content yet, by design.
+- Return condition: return to Mesa when settlement/road/building imagery appears again anywhere, or when Mesa is targeted again — decide whether it expands, connects to Mesa, or stays an isolated origin point, and resolve the Quiet Cost. Seed queue item created in `map-todo.md`.
+- Chronicle Meaning: a plain-language explanation is recorded in the session log (`../narrative/sessions/s007-mesa.md`); Publication proposes a short social caption but the actual target platform is undecided (see Rule And Documentation Obligations below).
+- Chronicle Maintenance: `../tiles/tile-data.md`'s T007 row and its long-stale "Neighbor Coordinate Notes" section (frozen since S004, missing T005–T007) were both corrected directly as this session's Maintenance action.
+- Artifact Draw complete: card C061, Brown 3, selected Rule/documentation note directly. Satisfied by the new "Publication Target Platforms Undefined" rules-delta entry.
+
 ## Rule And Documentation Obligations
 
 - Adopted S004 ruling: when walk-back reaches an occupied coordinate and Brown is even, Brown requires a new tile, so the final target is the last free coordinate before the occupied coordinate.

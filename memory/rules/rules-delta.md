@@ -28,6 +28,12 @@ Status: requested during S007 Attunement; future maintenance task, wording only.
 
 Revisit Attunement's phrasing at some point — check table wording, keyword glosses, and general clarity. This is explicitly not about the six-question process itself, which the user considers fine as-is; it's a wording/clarity pass only. Note: unlike Surface and Inscription, Attunement's own six sub-matrices (Echo, Matter, Mirror, Omen, Pressure, Provision) have no TBD cells — all 108 cells across them are already fully written, so this revisit is pure wording polish, not a fill-in-the-blanks task.
 
+## Delta Candidate - Publication Target Platforms Undefined
+
+Status: requested during S007 Chronicle; open question, not yet decided.
+
+Chronicle's Publication category (and the Founding Artifact Draw, when it touches Publication-adjacent work) has always spoken generically — "short post," "social/caption," "website entry," "long post" — without ever naming which actual platform(s) the user intends. In practice, `blog/` posts are the one venue actually used so far (blog-01 through blog-21); Instagram has been floated more than once (see the still-Unscheduled "Generate or review two Instagram post descriptions for S003" item in `map-todo.md`) but never committed to; Reddit has never come up before this session. Needs a real decision: is this blog-only, or should Publication results actually route to specific platforms (Instagram, Reddit, elsewhere) depending on the row rolled? Until decided, keep treating Publication results as drafted text handed to the user rather than assuming any specific destination.
+
 ## Delta Candidate - Remove the Token/Provision System
 
 Status: requested during S007 Attunement; user wants to discuss removing this mechanic.

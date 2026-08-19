@@ -27,6 +27,7 @@ This was applied retroactively: K001, K002, K004–K006, K008–K015, K017–K02
 | K025 | The Canyon | Active | Chronicle / Artifact Draw | Name and artifact keyword for T003: the dried river valley, cliff-bounded canyon grid, bright city-foundation, hidden tunnel, red-circle inheritance, and neighbor bleeds into/from T001. | Use as the stable name for T003 and its Docs/archive page. Return when The Canyon, canyon routes, cliff borders, hidden tunnel, star routes, black warning bleed, silver grid bleed, or C074/C127 pressure appears. | Read as T003's archive identity: not merely a canyon landform, but a named route-vault where warning, grid, star, and hidden passage meet. |
 | K032 | Schematic Rewrite | Active | Chronicle / Seed Matrix | Seed keyword created by T004/Mirror's S004 Chronicle (Green 1: Keyword, Blue 6: Hidden archive, Red 1: May return normally): T004's Inscription rewrote some of T001's archaic symbols in T004's own schematic-hexagon pattern — a transformation, not an erasure, that doubles as preserving what T004 inherited from that edge. What the original archaic symbols meant, and what the rewrite specifically changes about that meaning, is deliberately left unexplained for now. | Return to either T001 or T004/Mirror when archaic symbols, schematic hexagons, cross-tile rewriting, or an inheritance-preservation question appears again. | Read as evidence kept deliberately incomplete: something real changed between two tiles, but why it changed is a question later work gets to answer, not one Chronicle is settling now. |
 | K033 | Hex Tideline | Active | Chronicle / Seed | Seed keyword created by T006/Shoreline's S006 Chronicle (Black 1: Keyword): Shoreline's Inscription grew two deliberately misaligned hex grids — 8 black hexagons (30mm spacing) and 4 silver hexagons (24mm spacing) — out of the mismatched black-warning-bleed and silver-grid-bleed lines it inherited from T001 and T003. Neither grid is resolved as dominant; the tension between them is the point. | Return to T006/Shoreline when it is next targeted, to decide whether the black grid or the silver grid wins, or whether they remain in permanent tension. | Read as an unresolved contest given a permanent, named body: two inherited histories occupying the same tile without reconciling. |
+| K034 | First Settlement | Active | Chronicle / Seed | Seed keyword created by T007/Mesa's S007 Chronicle (Black 1: Keyword): Mesa's Inscription reread its own yellow lines as roads and added black-square buildings, the map's first depiction of an actual built settlement after six tiles of purely geological, technical, or abstract imagery — resolving Mesa's violence-vs-calm tension cleanly toward calm in the same gesture. | Return when settlement, road, or building imagery appears again anywhere on the map, or when Mesa (T007) is targeted again — decide whether it expands, connects to Mesa, or remains an isolated origin point. Also carries Mesa's still-unpaid Office Quiet Cost. | Read as the map's founding civilization moment: not just a tile detail, but a marker for whenever settled, built imagery recurs elsewhere. |
 
 ## Tags In Use
 
@@ -34,9 +35,12 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 
 - AIKA
 - already-touching
+- alter-local-balance
 - anchor-point
+- anchored
 - appetite
 - archaic-symbols
+- axis
 - becomes-too-fixed
 - black-circle
 - black-hex-grid
@@ -47,11 +51,15 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - bright
 - bright-city-foundation
 - broad
+- buildings
 - burial-cost
+- by-edge
 - by-mark
 - C074-moonscape
 - clean
 - cliffs
+- closed
+- clouded
 - color-6-notice
 - conditional-neighbor-wander
 - contagious
@@ -68,9 +76,13 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - drawn-in
 - dried-river-valley
 - edge-inheritance
+- edge-reaching
 - edge-starved
+- emerald-river
 - emerging
+- evenly
 - fan-brush
+- first-civilization
 - flooded-coastline
 - gate
 - green-bleed
@@ -83,8 +95,12 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - layer-line-inheritance
 - light-turquoise
 - loosely-held
+- luminous
+- mark
 - mass
 - material
+- Mesa
+- mesa
 - misaligned-grids
 - mountain
 - mutation
@@ -93,34 +109,46 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - new-tile
 - north-south-tiebreak
 - nowhere-many-points
+- ns-grooves
 - omen-inheritance
+- open
 - open-by-layer
 - partial
+- plain
 - plastic-ring
 - postal-consignment-list
+- pressure
 - proclaim
 - pushing
+- quiet-cost
+- region
 - region-tangled
 - resistance
 - returns
 - reversed
 - Ring
+- roads
 - roadway
 - rock-giant
 - rockstar-bass
+- route-chain
 - route-region
 - route-tangled
 - S003
 - S004
 - S006
+- S007
 - safety-line
 - same-sign-diagonal
+- settle
+- settlement
 - Shoreline
 - show
 - silver-grid-bleed
 - silver-hex-grid
 - sinkhole
 - soft
+- source
 - spread-points
 - stain
 - star-canyon-grid
@@ -134,10 +162,12 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - T004
 - T006
 - T006-silver-hex-bleed
+- T007
 - texture-paste
 - The-Canyon
 - thread
 - tidebound
+- too-faint
 - twist-born
 - undercity-map
 - unstable
