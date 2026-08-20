@@ -70,3 +70,13 @@ Return to this token when a future session targets or creates a tile north or no
 ## Publication Note
 
 Use this draft as the source for the T001 website tile page or project archive entry. Add final photos before publishing if the page is public-facing.
+
+## S008 Addendum — First Revisit
+
+T001 was revisited in S008, the map's first-ever existing-tile Cartography case. The revisit re-invoked T001's own founding Burial Cost (a Zombie card naming the theme outright) and formally renamed the tile's long-multiply-modified corner — touched by both T004's S004 schematic rewrite and T006/Shoreline's S006 silver-hex push — as the **archaic-symbol palimpsest**.
+
+A new named zone, **Dotti** (a word hidden inside "Ehdotti," the AIKA book's own word for "suggested"), was built as a corridor along T001's S, SW, and NW edges: green tissue-paper strips, sprout-like marker scribbles, a tissue-wrapped fan-brush stem, echo hexagons answering Shoreline's own hex grid, and a small yellow mark preserving a covered letter of the AIKA anchor text. Dotti's tissue reaches a little onto both T004/Mirror and T006/Shoreline, answering T001's oldest unresolved question (whether its S002 warning-strip bleed satisfied a return condition) from T001's own side for the first time, rather than leaving it entirely to Shoreline.
+
+Inscription placed a word on the tile's long-blank Provision marker at Dotti's NW edge — the literal T006 crossing point: **Amedda**, taken from a *Star Wars* novel and chosen with no intended meaning. Keyword K035 Amedda was created, returning when the name appears again anywhere on the map, or when T001 or T006 is next targeted.
+
+Full detail: `../narrative/sessions/s008-aika.md`; tile record: `../tiles/records/t001-aika.md`.

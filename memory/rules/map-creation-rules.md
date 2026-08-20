@@ -86,6 +86,8 @@ Now the brown card number makes the final call. If it is even, a new tile is cre
 
 If the brown number is even but the walk-back path reaches an already occupied coordinate, do not stack a new tile on top of the occupied one and do not convert the result into an existing-tile revisit. Brown even means a new tile is required. In that case, use the last empty coordinate in the walk-back path before the occupied coordinate as the final target. Record both the occupied coordinate that stopped the walk and the last empty coordinate where the new tile appears.
 
+**Odd brown on an already-touching raw target** (the case never arose until it was found and settled during S008): every already-touching landing found so far (S005, S006, S007) happened to roll an even brown, so the tile was simply created on the spot. When brown is odd instead, "the target moves one step further" needs a direction to move in — but an already-touching raw target never took any walk-back steps, so there's no established direction to continue. Resolve it the same way the stepping mechanism itself would: identify the raw target's nearest reference line (it may already sit exactly on one, at distance zero) and take one real hex step further along that line, in the direction leading back toward the map/origin. That step may land on an already-occupied coordinate — in which case the session revisits that tile — or on another tile-adjacent empty coordinate, exactly as the odd branch already describes for the ordinary walk-back case.
+
 ### Walking the two different diagonals
 
 The "diagonal where the absolute values of both coordinates are equal" is actually two different lines, and they behave differently during walk-back:
@@ -1318,6 +1320,8 @@ The third Force column is **Trace**, not Collateral. Reach says how far the forc
 **Receiving an old bleed:** When a new or existing tile receives a bleed recorded by a neighbor, it does not have to accept it cleanly. Surface is usually the right phase to decide how the bleed physically enters: clean continuation, misalignment, interruption, filtering, resistance, or transformation. The receiving tile's Cartography can also transform it outright — interrupting, absorbing, misaligning, or otherwise changing its behavior rather than continuing it as-is.
 
 **Touching vs. Bleeding:** Force: Touching reaches an edge and creates a debt, the same as Bleeding, but it does not yet alter another tile. Bleeding crosses into and changes an adjacent tile; Touching stops at the edge until a later result or session decides whether it crosses.
+
+**Confirming a Matrix trigger:** The Force Matrix (like any phase's Matrix-tier result) is only correct when that category's own card number actually rolled a 6 — nothing else calls it. If a session's own draw is later found to have invoked a matrix in error, resolve it as the plain listed result for the number that was actually rolled instead. If the mistaken invocation had already filled a still-TBD matrix cell, revert that cell back to TBD and correct every place the fill was cross-referenced — the erroneous draw does not retroactively legitimize the cell. First found and corrected in S008, where Force/Brown 5 was mistakenly read as the Force Matrix.
 
 ## Residue
 
