@@ -77,3 +77,49 @@ Obligations for later phases:
 Loggable note:
 
 S008 Cartography — the first existing-tile revisit and the first real use of Phase 2.2 — wakes T001's Burial Cost via the Zombie card, formally names its multiply-modified archaic-symbol corner as a palimpsest, and sends a pressure back toward T006/Shoreline, turning T001's oldest open question into a hard bond between the two tiles instead of a one-sided debt.
+
+## Attunement
+
+Numbers reused from Awakening: Green 3, Blue 5, Red 5 (C101, Green power leaf); Yellow 2, Brown 5, Black 1 (C100, Zombie). Fixed color mapping: Green = Echo, Blue = Matter, Red = Mirror, Yellow = Omen, Brown = Pressure, Black = Provision.
+
+Results:
+
+- Echo / Green 3: Unresolved. Choose one unresolved previous-session obligation that may influence this tile.
+- Matter / Blue 5: Acquire. Order, acquire, wishlist, or deliberately seek one interesting material/tool for future sessions.
+- Mirror / Red 5: Prepared Mirror. Prepare one reference for actual use: print it, crop it, save it, place it nearby, or attach it to the session notes.
+- Omen / Yellow 2: Hue. Choose one color from the card/sign. It becomes a color bias, absence, or contrast.
+- Pressure / Brown 5: Correction. Choose one correction the tile seems to demand: connect it, quiet it, disturb it, divide it, bury something, reveal something, or make it stranger.
+- Provision / Black 1: Mark. Prepare one blank label, tag, marker, or notation piece for possible later use.
+
+Interpreting the results — all six genuinely engage Cartography's Carry-Forward demand (Attunement must read and respond to the Burial Cost / Zombie Activation), not just one:
+
+- **Echo/Unresolved:** the obligation chosen is the same one Cartography already activated — the T001↔T006 warning-strip question, now a hard Relational Cost bond rather than a one-sided deferral. Echo reinforces it with a second, independent hook rather than reaching for a different thread.
+- **Matter/Acquire:** an unearthed-feeling material — rust tone, bone-white, aged or weathered paper — something that reads as *dug up* rather than freshly made. Not needed this session; reserved for whenever the palimpsest needs further physical treatment.
+- **Mirror/Prepared Mirror:** a fragment of C100's own Zombie artwork — specifically its decayed, cracked texture, not the whole image — set aside as the actual visual reference for how the radiating mark toward T006 should read.
+- **Omen/Hue — a deliberate color echo:** sickly, undead green. This isn't just "the zombie's color" in isolation — it's the same register T006/Shoreline's own emerald river-grooves already speak in. Crowning it here means whatever radiates toward T006 can visually agree with what's already there, rather than introducing a fourth unrelated color.
+- **Pressure/Correction — Reveal something:** the archaic-symbol palimpsest has only ever been *covered* across three sessions (T004's rewrite, T006's hex-push) — never opened back up. The correction this session demands is the opposite motion: expose or reveal part of what's underneath, even while a piece of it is simultaneously sent outward to Shoreline.
+- **Provision/Mark — given real purpose, not a generic reserve:** the blank marker is prepared now specifically to carry whatever word or symbol ends up being the actual content of the Radiating response to T006. It stays blank until Inscription decides what that content is.
+
+Story of Attunement:
+
+1. Echo: the old, one-sided warning-strip question with T006 returns, already promoted to a hard bond by Cartography, and Attunement doesn't look away from it.
+2. Matter: an unearthed material — rust, bone, aged paper — is marked down for a future session, not spent now.
+3. Mirror: a cracked, decayed fragment of the Zombie card itself becomes the real visual reference for the mark that will travel to T006.
+4. Omen: sickly undead green is crowned, chosen because it already agrees with the emerald T006 speaks in.
+5. Pressure: something in the palimpsest must be revealed, not buried further, even as part of it travels outward.
+6. Provision: a blank marker waits, prepared now, for whatever finally crosses over to Shoreline.
+
+Attunement todo list (session-scoped prep, not the persistent queue):
+
+- Treat the T001↔T006 warning-strip/Radiating obligation as this session's central answerable question — don't let a later phase drift onto something else.
+- Note down (not yet acquire) an unearthed-feeling material — rust, bone-white, aged paper — as a future-session want.
+- Set aside a fragment of C100's Zombie card, specifically its cracked/decayed texture, as the actual working reference for Surface/Inscription.
+- Reserve sickly undead green as the governing hue, deliberately matched to T006's existing emerald.
+- Decide, at Surface or Inscription, what part of the archaic-symbol palimpsest gets exposed rather than covered further.
+- Prepare a physical blank marker now, reserved for whatever word or symbol ends up crossing to T006, unfilled until that's decided.
+
+Concrete material decisions made ahead of Surface:
+
+- **Matter/Acquire:** metallic paint added to the shopping list — reads as unearthed/tarnished metal, and also echoes T006's own silver hexagon.
+- **Omen/Hue + Pressure/Correction, combined:** green tissue paper (already on hand) does double duty — its translucency lets it tint the surface sickly green while also letting a hint of what's underneath show through, serving as the non-destructive Reveal option in one material rather than two separate treatments.
+- **Mirror/Prepared Mirror:** super glue on silk paper, to create a crackle effect for the decayed texture reference — brittle, fast-drying glue should produce sharper, less even cracks than a slower crackle medium, which suits "decayed" better than a neat crackle would.
