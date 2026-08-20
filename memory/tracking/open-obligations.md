@@ -4,6 +4,11 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 
 ## T001 Obligations
 
+- S008 Chronicle Witness: the green Dotti tissue-paper offcut is stored for future sessions (complete).
+- S008 Chronicle Maintenance: clear coat applied to all of this session's changes as a stabilizing/protective pass (complete).
+- S008 Chronicle Seed: keyword K035 Amedda created. Return when the name Amedda appears again anywhere on the map, or when T001 or T006 is next targeted — decide whether it ever gains an in-world meaning or stays permanently foreign.
+- S008 Chronicle Record: T001's own Dotti corridor, archaic-symbol-palimpsest renaming, and "Amedda" marker are this session's physical changes; T004/Mirror and T006/Shoreline each carry their own small tissue-strip-bleed cross-reference. T002/Ring and T003/The Canyon were not affected this session.
+- S008 Artifact Draw complete: card C016, Brown 3, selected Rule/documentation note directly. Satisfied by the new "Confirming a Matrix trigger" note in `../rules/map-creation-rules.md`'s Force section.
 - S006 addendum: T006/Shoreline's Inscription (Force: Pushing) pushes a single 24mm-spaced silver hexagon, from its own misaligned black/silver hex convergence, across T001's NW edge, covering a little of the AIKA text. Restrained by design — Shoreline's own Residue result was Clean, so this carries no further debt onto T001 beyond the physical mark. T001's long-standing "does the S002 warning-strip bleed resolve the warning-checker return condition" question was also carried into Shoreline as Attunement's Echo result; it may end up answered from Shoreline's side rather than T001's.
 - S004 Awakening walk-back reaches T004 directly touching T001 at [-1,0] (corrected from an originally-recorded [-1,-1]; see Rule And Documentation Obligations below).
 - S004 Inscription: T004/Mirror rewrote some (not all) of T001's archaic symbols in Mirror's own schematic-hexagon pattern — a transformation, not an erasure. Recorded on both tiles. Keyword K032 Schematic Rewrite created, shared between T001 and Mirror, deliberately leaving what the original symbols meant unexplained.
@@ -153,6 +158,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Inscription Force Matrix: T007/Mesa's own Inscription draw formalized three more cells — Pressure (row1, Mechanism), Alter local balance (row1, Trace), and Route/chain (row4, Reach) — replacing their TBD placeholders in `../rules/map-creation-rules.md`. Combined with S003/S005's earlier Bleed/Marks-edge-contact (row2) and Region-shape/Propagation (row5), 6 of 18 cells in this matrix are now filled; the rest remain TBD.
 - S003 Inscription clarifications adopted in `../rules/map-creation-rules.md` and documented in `../rules/rules-delta.md`: Broad, Thread, Spread, Source, Force On Neighbor/Bleed/Marks edge-contact, Trace replacing Collateral, and Residue Keyword/Exposed/Must be answered.
 - Seed clarification adopted: Seed creates a future-work item in `map-todo.md` as either a triggered todo or unscheduled todo; Chronicle Maintenance 4 processes the todo list / future-work queue.
+- S008 Artifact Draw added a "Confirming a Matrix trigger" note to `../rules/map-creation-rules.md`'s Force section: a Matrix-tier result is only correct when its own category's number actually rolled a 6; a mistaken invocation should be resolved as the plain listed result instead, and any TBD-cell fill made on that false premise reverted back to TBD. Written after this session's own Force/Brown-5-misread-as-matrix mistake was caught and corrected.
 - Chronicle tasks need a future audit for practicality, overlap, and concrete artifact completion.
 - Lore file created: `../narrative/lore.md`. Future sessions may define The Court and the Storyteller in more detail.
 

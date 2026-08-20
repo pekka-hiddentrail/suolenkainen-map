@@ -28,6 +28,7 @@ This was applied retroactively: K001, K002, K004–K006, K008–K015, K017–K02
 | K032 | Schematic Rewrite | Active | Chronicle / Seed Matrix | Seed keyword created by T004/Mirror's S004 Chronicle (Green 1: Keyword, Blue 6: Hidden archive, Red 1: May return normally): T004's Inscription rewrote some of T001's archaic symbols in T004's own schematic-hexagon pattern — a transformation, not an erasure, that doubles as preserving what T004 inherited from that edge. What the original archaic symbols meant, and what the rewrite specifically changes about that meaning, is deliberately left unexplained for now. | Return to either T001 or T004/Mirror when archaic symbols, schematic hexagons, cross-tile rewriting, or an inheritance-preservation question appears again. | Read as evidence kept deliberately incomplete: something real changed between two tiles, but why it changed is a question later work gets to answer, not one Chronicle is settling now. |
 | K033 | Hex Tideline | Active | Chronicle / Seed | Seed keyword created by T006/Shoreline's S006 Chronicle (Black 1: Keyword): Shoreline's Inscription grew two deliberately misaligned hex grids — 8 black hexagons (30mm spacing) and 4 silver hexagons (24mm spacing) — out of the mismatched black-warning-bleed and silver-grid-bleed lines it inherited from T001 and T003. Neither grid is resolved as dominant; the tension between them is the point. | Return to T006/Shoreline when it is next targeted, to decide whether the black grid or the silver grid wins, or whether they remain in permanent tension. | Read as an unresolved contest given a permanent, named body: two inherited histories occupying the same tile without reconciling. |
 | K034 | First Settlement | Active | Chronicle / Seed | Seed keyword created by T007/Mesa's S007 Chronicle (Black 1: Keyword): Mesa's Inscription reread its own yellow lines as roads and added black-square buildings, the map's first depiction of an actual built settlement after six tiles of purely geological, technical, or abstract imagery — resolving Mesa's violence-vs-calm tension cleanly toward calm in the same gesture. | Return when settlement, road, or building imagery appears again anywhere on the map, or when Mesa (T007) is targeted again — decide whether it expands, connects to Mesa, or remains an isolated origin point. Also carries Mesa's still-unpaid Office Quiet Cost. | Read as the map's founding civilization moment: not just a tile detail, but a marker for whenever settled, built imagery recurs elsewhere. |
+| K035 | Amedda | Active | Chronicle / Seed | Seed keyword created by T001/AIKA's S008 Chronicle (Black 1: Keyword): Inscription's Form/Sign result gave T001's long-blank Provision marker an actual word — "Amedda," taken from a *Star Wars* novel and chosen with no intended meaning — placed at Dotti's NW edge, the literal crossing point toward T006/Shoreline. | Return when the name Amedda appears again anywhere on the map, or when T001 or T006 is next targeted — decide whether it ever gains an in-world meaning or stays permanently foreign. | Read as a deliberately imported, meaningless sign: a name grafted onto the tile from entirely outside its own vocabulary, left open for a later session to explain or leave unexplained. |
 
 ## Tags In Use
 
@@ -36,9 +37,11 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - AIKA
 - already-touching
 - alter-local-balance
+- Amedda
 - anchor-point
 - anchored
 - appetite
+- archaic-symbol-palimpsest
 - archaic-symbols
 - axis
 - becomes-too-fixed
@@ -73,6 +76,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - diamond-shape
 - divided
 - division
+- Dotti
 - drawn-in
 - dried-river-valley
 - edge-inheritance
@@ -150,6 +154,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - soft
 - source
 - spread-points
+- sprout-scribbles
 - stain
 - star-canyon-grid
 - stops-short

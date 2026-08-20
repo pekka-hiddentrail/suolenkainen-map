@@ -19,6 +19,7 @@ Todo types:
 - [x] T004's own Artifact Draw (S004 requirement) is bypassed by user decision — not performed, not planned.
 - [x] S006: Awakening through Chronicle, plus the Artifact Draw, complete for T006 / Shoreline.
 - [x] S007: Awakening through Chronicle, plus the Artifact Draw, complete for T007 / Mesa.
+- [x] S008: Awakening through Chronicle, plus the Artifact Draw, complete for T001 / AIKA's first-ever existing-tile revisit.
 
 ## Triggered Todos
 
@@ -29,6 +30,7 @@ Todo types:
 - [ ] When T006 / Shoreline is targeted again, decide whether the black hex grid (30mm, 8 hexagons) or the silver hex grid (24mm, 4 hexagons) wins, or whether they remain in permanent tension. (S006 Chronicle Seed; keyword K033 Hex Tideline created.)
 - [ ] When T005 / The Monster or T006 / Shoreline is next worked on, pay T005's unpaid Contagious bleed onto Shoreline. Found post-S006 Chronicle: T005 and T006 are neighbors (T005's NE / T006's SW edge) via the corrected `../tiles/map-diagram.md`, a relation missed during S006's own Awakening. T005's Contagious Origin should have bled onto T006 when it was created and worked this session but didn't, since the adjacency wasn't recognized at the time.
 - [ ] When settlement, road, or building imagery appears again anywhere on the map, or when T007 / Mesa is targeted again: decide whether it expands, connects to Mesa, or remains an isolated origin point. Also resolve Mesa's still-unpaid Office Quiet Cost. (S007 Chronicle Seed; keyword K034 First Settlement created.)
+- [ ] When the name Amedda appears again anywhere on the map, or when T001 / AIKA or T006 / Shoreline is targeted again: decide whether Amedda ever gains an in-world meaning or stays permanently foreign. (S008 Chronicle Seed; keyword K035 Amedda created.)
 
 ## Unscheduled Todos
 

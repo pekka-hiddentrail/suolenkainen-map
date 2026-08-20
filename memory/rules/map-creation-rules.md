@@ -1321,6 +1321,8 @@ The third Force column is **Trace**, not Collateral. Reach says how far the forc
 
 **Touching vs. Bleeding:** Force: Touching reaches an edge and creates a debt, the same as Bleeding, but it does not yet alter another tile. Bleeding crosses into and changes an adjacent tile; Touching stops at the edge until a later result or session decides whether it crosses.
 
+**Confirming a Matrix trigger:** The Force Matrix (like any phase's Matrix-tier result) is only correct when that category's own card number actually rolled a 6 — nothing else calls it. If a session's own draw is later found to have invoked a matrix in error, resolve it as the plain listed result for the number that was actually rolled instead. If the mistaken invocation had already filled a still-TBD matrix cell, revert that cell back to TBD and correct every place the fill was cross-referenced — the erroneous draw does not retroactively legitimize the cell. First found and corrected in S008, where Force/Brown 5 was mistakenly read as the Force Matrix.
+
 ## Residue
 
 What does the inscription leave behind, and how does that remainder behave later?

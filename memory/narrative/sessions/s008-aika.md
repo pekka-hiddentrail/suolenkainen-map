@@ -223,3 +223,44 @@ This closes the loop Cartography opened: Activation invoked Burial Cost, Map Eff
 - **Black warning-strip spread grew, but stays within T001:** the existing black warning-checker spread grew a little further toward the eastern/NE and north edges this session — negligibly in both directions. Correction: this stays entirely within T001 itself; it does not cross into T002 or T003. No change needed on either neighbor's own record.
 
 Inscription is complete.
+
+## Chronicle
+
+Numbers reused from Awakening: Green 3, Blue 5, Red 5 (C101, Green power leaf); Yellow 2, Brown 5, Black 1 (C100, Zombie). Fixed color mapping: Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed.
+
+Results:
+
+- Record / Green 3: Change list. List what physically changed during the session. Include target tile and any other affected tiles.
+- Witness / Blue 5: Archive object. Preserve a physical or digital object from the session.
+- Meaning / Red 5: Myth/rumor. Write a more legendary, distorted, oral, symbolic, or unreliable version of what happened.
+- Publication / Yellow 2: Website update. Update the map website, tile page, project page, gallery, index, or progress log.
+- Maintenance / Brown 5: Physical maintenance. Repair, clean, flatten, glue, protect, label, sleeve, store, magnet-check, felt-check, or stabilize materials.
+- Seed / Black 1: Keyword. A word, phrase, tag, motif, pressure, or concept may return later.
+
+Interpreting the results:
+
+- **Record (Change list):** T001 (target) — Cartography renamed the "bottom archaic-symbol area" to the archaic-symbol palimpsest and re-invoked K007 Burial Cost via Name Spoken; Surface and Inscription built the Dotti corridor along the S/SW/NW edges (green tissue strips, black-pen boundary, glued "Dotti" label, tissue-wrapped fan-brush stem, green marker scribbles, sprout scribbles, echo hexagons, reinforced S006 silver hexagon, a small yellow mark over the partly-covered "A" in AIKA); Inscription placed the marker word "Amedda" at Dotti's NW edge; the existing black warning-checker spread grew slightly toward the NE/N edges, staying entirely within T001. T004/Mirror and T006/Shoreline each received a little of Dotti's tissue-strip bleed — already cross-referenced on their own records during Surface. T002/Ring and T003/The Canyon were not affected this session (an earlier draft of this session's notes said otherwise; corrected).
+- **Witness (Archive object):** a physical fragment from this session's central material — a small offcut of the green tissue paper used for Dotti — is the natural archive object. Left as a physical action for you to do when convenient: set the scrap aside, labeled "S008 / T001 Dotti tissue," in the material tray.
+- **Meaning (Myth/rumor):** *They say AIKA never truly buried what it swallowed. In the season the corridor opened — the one they call Dotti, a word hidden inside a longer one meaning "suggested" — a name arrived that belonged to no local tongue: Amedda. No elder claims it; no card explains it. The old sentries at the northern and eastern borders stirred at its arrival, testing their own edges as if remembering how to reach further, though they did not yet dare cross. Some say Amedda is a visitor's name, spoken by accident and now stuck like a splinter. Others say it is the name the buried thing chooses for itself, now that it has finally been given a mouth to speak with.*
+- **Publication (Website update):** `../../website-drafts/t001-aika-artifact.md` — the S001 artifact draft page for T001 — gets an S008 addendum documenting the revisit, so the page reflects the tile's current state rather than only its S001 birth. The user also made a small update to the live website directly, and scheduled posts — the actual publication side of this result, done independently of this draft.
+- **Maintenance (Physical maintenance):** given this session's own note that clear coat darkened the tissue strips more than expected, and that CA glue was used to bond strip edges (though not the sheet itself), the fitting physical-maintenance action is to check the newly-worked Dotti material for anything that needs stabilizing: confirm the CA-glued strip edges are holding, and that the glued "Dotti" label isn't lifting at a corner. Left as a physical action for you to do and report back.
+- **Seed (Keyword):** creating keyword **K035**, proposed name **"Amedda"** — the imported, deliberately meaningless word inscribed at Dotti's NW edge. Return condition: if the name Amedda appears again anywhere on the map, or when T001 or T006 is next targeted, decide whether it ever gains an in-world meaning or stays permanently foreign.
+
+**Actual Chronicle:**
+
+- **Witness (Archive object):** the green Dotti tissue-paper offcut is stored for future sessions, as proposed.
+- **Maintenance (Physical maintenance):** clear coat was applied to all of this session's changes, protecting and stabilizing the new material (tissue strips, scribbles, Dotti label, Amedda marker) as a single pass rather than a targeted edge-check.
+
+Chronicle's main draw is complete.
+
+## Artifact Draw
+
+Card drawn: C016 — Green 1, Blue 3, Red 4, Yellow 6, Brown 3, Black 5.
+
+Brown 3 selects Maintenance row 3 directly from the main Chronicle table (not the Matrix, since Brown ≠ 6):
+
+> **Rule/documentation note:** Write or revise a rule note, clarify a table, record an ambiguity, or update documentation.
+
+Actual artifact: a new clarifying note added to `../../rules/map-creation-rules.md`'s Force section, "Confirming a Matrix trigger" — directly addressing this session's own Force-result mistake (Brown 5 misread as the Force Matrix trigger, when only a 6 calls it). The note states the general rule and the correction procedure (revert any TBD-cell fill made on a false matrix invocation) so the same mistake is easier to catch and fix cleanly if it recurs in a future session. Distinct from Chronicle's own Maintenance action (the physical clear-coat pass), so the two draws don't compete for the same ground.
+
+Chronicle is complete for T001 / AIKA's S008 revisit: all six phases plus the Artifact Draw.

@@ -8,7 +8,7 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 
 | Tile | Name | Coordinate | Status |
 | --- | --- | --- | --- |
-| T001 | AIKA | [0,0] | Complete (S001) |
+| T001 | AIKA | [0,0] | Complete (S001); revisited S008 — first-ever existing-tile Cartography case, main draw and Artifact Draw both done |
 | T002 | Ring | [1,0] | Complete (S002) |
 | T003 | The Canyon | [1,-1] | Complete (S003) |
 | T004 | Mirror | [-1,0] | Complete (S004) — Artifact Draw bypassed by user decision |
@@ -18,7 +18,7 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 
 15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`), plus further posts covering T006 and T007 (`blog/blog-20-the-threshold-the-ancients-already-cut.md`, `blog/blog-21-quiet-enough-to-feed-a-river.md`).
 
-Next up per `memory/tracking/map-todo.md`: the S005 Seed return condition — Route-Tangled's still-unnamed coast, and the floated T002 reciprocal debt (T002 possibly forming wooded lands) — whenever The Monster or T002 is next targeted; the S006 Seed return condition — keyword K033 Hex Tideline, deciding whether the black or silver hex grid wins — whenever Shoreline is next targeted; and the S007 Seed return condition — keyword K034 First Settlement, whether Mesa's roads-and-buildings motif recurs or expands — whenever settlement imagery appears again or Mesa is next targeted. T007/Mesa is also the map's first tile to depict an actual built settlement, after six tiles of geological, technical, or abstract imagery only.
+Next up per `memory/tracking/map-todo.md`: the S005 Seed return condition — Route-Tangled's still-unnamed coast, and the floated T002 reciprocal debt (T002 possibly forming wooded lands) — whenever The Monster or T002 is next targeted; the S006 Seed return condition — keyword K033 Hex Tideline, deciding whether the black or silver hex grid wins — whenever Shoreline is next targeted; the S007 Seed return condition — keyword K034 First Settlement, whether Mesa's roads-and-buildings motif recurs or expands — whenever settlement imagery appears again or Mesa is next targeted; and the S008 Seed return condition — keyword K035 Amedda, whether the imported marker word ever gains an in-world meaning — whenever the name appears again or T001/T006 is next targeted. T007/Mesa is also the map's first tile to depict an actual built settlement, after six tiles of geological, technical, or abstract imagery only; T001/AIKA's S008 revisit is the map's first-ever existing-tile Cartography case.
 
 ## Repository layout
 
