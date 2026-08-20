@@ -22,6 +22,12 @@ Status: requested after S001 Artifact Draw; future maintenance task.
 
 Audit Chronicle tasks in a later session. The audit should check whether Chronicle and Artifact Draw outputs are practical, distinct, not overly redundant, and easy to complete as concrete artifacts. Do not perform the audit immediately unless the user explicitly asks for it.
 
+## Delta Candidate - Reading Glosses Heading Overlap
+
+Status: noticed during the table-optimization restructure; explicitly left as-is for now, future topic.
+
+The main phase tables (Cartography, Attunement, Surface, Inscription, Chronicle) now each give every named result its own `### ResultName` subheading with a flavor-text quote, matching Cartography 2.1's original shape. The pre-existing `# Reading Glosses` appendix (`## Attunement Table Keywords`, `## Matrix Reading Keywords`) already has its own `### Edge`, `### Continuation`, `### Claim`, etc. headings — a different, complementary layer (generic "how to read a result" tips, gathered from practice, explicitly meant to supplement rather than replace the tables). The two layers now share heading text in several places. Not a technical break, but worth a look eventually: consider consolidating, cross-linking, or renaming one layer so the overlap doesn't read as accidental duplication. Do not act on this without the user raising it again.
+
 ## Delta Candidate - Attunement Wording Revisit
 
 Status: requested during S007 Attunement; future maintenance task, wording only.
