@@ -180,3 +180,46 @@ Actual Surface materials and layout:
 - Part of the "A" in the AIKA anchor text got covered by Dotti's material; a small yellow mark was added where it used to be, extending T001's own established Treatment (Stained: "yellow/orange hue behaves as residue... memory") to a new instance of exactly that.
 
 Surface is complete. Pressure/Correction's Reveal demand did not resolve cleanly — between the still-covered archaic text and now a partially-covered AIKA letter, this session leans further toward "covered" than "revealed," acknowledged as a held tension rather than forced into a clean answer. Obligations carried into Inscription: the actual crossing at the NW edge (the tissue physically reaches T006, but nothing has been formally marked as crossing yet), the still-blank Provision marker, and the silver/metallic treatment for the echo hexagons once that material arrives.
+
+Post-Surface note: clear coat applied to the tissue strips darkened them more than expected — accepted as fine, and if anything it pushes the color further toward sickly/decayed than the original bright green would have.
+
+## Inscription
+
+Numbers reused from Awakening: Green 3, Blue 5, Red 5 (C101, Green power leaf); Yellow 2, Brown 5, Black 1 (C100, Zombie). Fixed color mapping: Green = Scale, Blue = Form, Red = Behavior, Yellow = Relation, Brown = Force, Black = Residue.
+
+Results:
+
+- Scale / Green 3: Broad. A large part of the tile; field, zone, body, large structure, or strong feature.
+- Form / Blue 5: Sign. Name, number, glyph, label, arrow, omen, icon, keyword, or written mark.
+- Behavior / Red 5: Mutate. Bend, corrupt, transform, twist, misalign, hybridize.
+- Relation / Yellow 2: Edge. One edge, seam, border, contact side, or opening.
+- Force / Brown 5: Propagating (the plain result — no 6 appears anywhere in this draw, so the Force Matrix is not invoked). "It may affect 2–6 other tiles through route, region, shape, weather, or bleed logic."
+- Residue / Black 1: Mark. The residue is a plain, permanent mark on the tile itself — a small trace with no larger claim than being visibly present.
+
+Interpreting the six results together — this draw resolves almost everything Surface left open, cleanly:
+
+- **Scale/Broad** simply confirms what's already true: Dotti already spans three edges, a genuinely large part of the tile. Nothing new required.
+- **Relation/Edge** names exactly what's still unfinished from Surface: the NW edge, where Dotti physically reaches T006 but nothing has been formally marked as *crossing* yet.
+- **Force/Propagating** retroactively validates what Surface already did rather than demanding something new: the effect isn't confined to one bridge or a single named neighbor — it spreads via route/region/bleed logic exactly the way the tissue actually behaved, reaching T004 and T006 both rather than staying confined to the one neighbor Cartography's Radiating obligation named.
+- **Form/Sign** is the vehicle for finally answering Relation/Edge: this is the moment to inscribe Attunement's still-blank Provision marker with an actual word, and place it at the NW edge — the formal act of marking the crossing that Surface left undone.
+- **Behavior/Mutate** governs how that mark should look and read: not settled or resolved (the way T007/Mesa's own Inscription landed on Settle), but actively transforming, twisted, not fully stable — consistent with Zombie/Burial-Cost being *invoked*, not *paid off*.
+- **Residue/Mark** confirms the whole thing resolves into something modest and permanent: the inscribed marker itself, once placed, is the plain, small, lasting trace — not a new debt or a big unresolved claim.
+
+**Proposed word for the marker: "RISEN."** It's the most literal possible answer to a Zombie-invoked Burial Cost — not paid, not settled, just awake and crossing. It also refuses Settle's finality, matching Mutate: something risen isn't done changing.
+
+Inscription instruction:
+
+1. Write "RISEN" on the previously-blank Provision marker.
+2. Place it physically at Dotti's NW edge, where the corridor already meets T006 — the literal crossing point.
+3. Let the mark itself (or the hex shapes nearest it) read as slightly warped or misaligned rather than clean, echoing Behavior/Mutate and T004's own precedent of a distorted hexagon.
+4. No further material changes required elsewhere — Scale, Force/Propagating, and Residue are all already satisfied by what Surface built; name the actually-reached tiles (T004, T006) rather than leaving it as "nearby ones," per Propagating's own Effect.
+
+This closes the loop Cartography opened: Activation invoked Burial Cost, Map Effect demanded something radiate to T006, and Inscription now gives that radiation its actual, permanent, physical word.
+
+**Actual Inscription:**
+
+- **Form/Sign, word chosen: "Amedda"** — not "RISEN" as proposed. Drawn from a *Star Wars* novel, chosen without an intended meaning attached. This still satisfies Form/Sign (a legible, discrete word) and arguably suits Behavior/Mutate even better than the original proposal: a name grafted on from entirely outside the tile's own vocabulary is its own kind of hybridization, unsettled rather than resolved. Placed at Dotti's NW edge, the T006 crossing point, as planned.
+- **Sprout scribbles:** small branching marks were added spanning out from the green tissue strips, reading like little sprouts growing from the green area — an unplanned addition, but consistent with Behavior/Mutate (something still changing, not settled) and with Substance/Strange's material already being alive-feeling (the wrapped fan-brush).
+- **Black warning-strip spread grew, but stays within T001:** the existing black warning-checker spread grew a little further toward the eastern/NE and north edges this session — negligibly in both directions. Correction: this stays entirely within T001 itself; it does not cross into T002 or T003. No change needed on either neighbor's own record.
+
+Inscription is complete.
