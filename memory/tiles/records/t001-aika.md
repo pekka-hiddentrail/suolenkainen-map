@@ -6,7 +6,7 @@
 | Name | AIKA |
 | Coordinate | [0,0] |
 | Layer / stack | Base tile |
-| Current phase | S001 Artifact complete |
+| Current phase | S008 Cartography complete (first existing-tile revisit) |
 | Current map-object identity | Contagious tidebound region-marker |
 | General description | T001 is the first origin tile at [0,0]. Cartography makes it contagious, tidebound, region-tangled, and dense; its office is to proclaim by mark while paying a burial cost, and its inheritance is an unresolved edge inheritance. Attunement adds Trace, Acquire, Structure, Hue, restless field transfiguration, and Mark as session pressures. |
 | Neighbor tiles | NE / T002 edge: T002 receives black warning-strip bleed; N / T003 edge: T003 silver grid bleed enters T001 and is stopped; T001 black warning spread bleeds into T003; SW / T004 edge: T004 rewrites some of T001's archaic symbols in its own schematic-hexagon pattern; NW / T006 (Shoreline) edge: Shoreline's Inscription pushes a 24mm silver hexagon pattern into T001, covering a little of the AIKA text |
@@ -21,7 +21,7 @@
 | Surface opening | Closed: foundation remains whole, sealed, settled, or complete for now |
 | Actual surface materials | Electrical diagram scraps; art-supply scraps; technical font text "AIKA"; marker clarification; actual fan-brush epoxy-glued to tile; paper scraps over brush stem; yellow watercolor streaks; black/yellow warning checkers on north and northeast edges |
 | Actual surface layout | About 3 x 8 cm tile covered by varied scraps; AIKA sits middle-ish as anchor/trace and refuses burial; fan-brush is physically attached and partly covered; north and northeast edges are marked as Spread points |
-| Named areas | AIKA anchor; north spread point; northeast spread point; north/northeast safety line; bottom archaic-symbol area |
+| Named areas | AIKA anchor; north spread point; northeast spread point; north/northeast safety line; archaic-symbol palimpsest (renamed S008, from "bottom archaic-symbol area" — formally recognizes it as multiply-modified by T004's S004 rewrite and T006/Shoreline's S006 silver-hex push, not a single untouched zone) |
 | Bleed-capable features | North and northeast warning-checker Spread points |
 | Inscription scale | Map-Reaching: wants to affect another tile, region, route, shape, or larger system |
 | Inscription form | Sign: name, number, glyph, label, arrow, omen, icon, keyword, or written mark |
@@ -38,10 +38,16 @@
 | Chronicle maintenance | Maintenance Matrix, provisional: Physical map + Repair/Stabilize/Protect + Prevents future damage |
 | Chronicle seed | Keyword: AIKA may return normally as a future keyword seed |
 | Artifact draw | S001 Artifact Draw complete: Tile state + Before/after + Session diary + Website update + Tile index update + Memory token. Artifact stored at ../../website-drafts/t001-aika-artifact.md. |
+| S008 Cartography activation | Name Spoken: C100's own card name, Zombie, invokes K007 Burial Cost — a zombie is the literal image of a burial cost refusing to stay paid. The founding trait itself is not reinterpreted (see Constraint); it's invoked as a live pressure again. |
+| S008 Cartography tile effect | Content Change: the "bottom archaic-symbol area" is formally renamed the archaic-symbol palimpsest, recognizing it as multiply-modified (T004's S004 rewrite, T006/Shoreline's S006 silver-hex push) rather than a single untouched zone. |
+| S008 Cartography map effect | Radiating: something concrete must cross from the archaic-symbol palimpsest back out to T006/Shoreline this session — T001 answering from its own side rather than continuing to leave the question entirely on Shoreline's side. |
+| S008 Cartography constraint | Identity Locked: T001's six founding traits (Contagious, Tidebound, Region-Tangled, Dense, Proclaim/By-Mark/Burial-Cost, Edge Inheritance) are not reinterpreted this session. No collision with Tile Effect or Map Effect — neither touches this axis. |
+| S008 Cartography cost | Relational Cost: the T001–T006 bond becomes a hard, binding obligation on both tiles' records, not an open floating question. |
+| S008 Cartography carry-forward | Attunement must directly read and respond to the Burial Cost / Zombie Activation this session. |
 | Omen sources |  |
 | Active token |  |
-| Keywords | K003 Region-Tangled; K007 Burial Cost; K032 Schematic Rewrite (S004 Chronicle Seed, shared with T004/Mirror) (T001's other one-off Cartography results — Contagious, Tidebound, Dense, Proclaim, By Mark, Edge Inheritance, AIKA — were retired as keywords under the recurrence rule; see Tags) |
-| Tags | contagious; tidebound; region-tangled; dense; proclaim; by-mark; burial-cost; edge-inheritance; AIKA; fan-brush; spread-points; warning-checkers; safety-line; archaic-symbols; T004-schematic-rewrite; T006-silver-hex-bleed |
-| Unresolved | Decide whether the S002 warning-strip bleed into T002 satisfies, complicates, or extends T001's warning-checker return condition. Echo's carried-forward question from S006 (via T006/Shoreline) is the same open item, so it may get answered from Shoreline's side instead. |
-| Last updated by session | S001 Artifact Draw; S004 neighbor effect added (T004's schematic rewrite of some archaic symbols); S006 neighbor effect added (T006/Shoreline's silver hexagon bleed onto AIKA text) |
-| Last modified date | 15.8.2026 |
+| Keywords | K003 Region-Tangled; K007 Burial Cost (re-invoked S008 via Name Spoken, not reinterpreted); K032 Schematic Rewrite (S004 Chronicle Seed, shared with T004/Mirror) (T001's other one-off Cartography results — Contagious, Tidebound, Dense, Proclaim, By Mark, Edge Inheritance, AIKA — were retired as keywords under the recurrence rule; see Tags) |
+| Tags | contagious; tidebound; region-tangled; dense; proclaim; by-mark; burial-cost; edge-inheritance; AIKA; fan-brush; spread-points; warning-checkers; safety-line; archaic-symbols; T004-schematic-rewrite; T006-silver-hex-bleed; archaic-symbol-palimpsest; name-spoken; content-change; radiating; identity-locked; relational-cost |
+| Unresolved | Decide whether the S002 warning-strip bleed into T002 satisfies, complicates, or extends T001's warning-checker return condition. **S008 update:** this is no longer purely deferred to Shoreline's side — T001's own Cartography now commits to radiating something back to T006 this session, and the bond between the two tiles is a hard obligation, not optional. What physically radiates is not yet decided (Surface/Inscription's job). |
+| Last updated by session | S001 Artifact Draw; S004 neighbor effect added (T004's schematic rewrite of some archaic symbols); S006 neighbor effect added (T006/Shoreline's silver hexagon bleed onto AIKA text); S008 Cartography (first existing-tile revisit — Burial Cost re-invoked, archaic-symbol area renamed palimpsest, Radiating obligation toward T006 created) |
+| Last modified date | 20.8.2026 |

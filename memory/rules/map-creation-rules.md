@@ -86,6 +86,8 @@ Now the brown card number makes the final call. If it is even, a new tile is cre
 
 If the brown number is even but the walk-back path reaches an already occupied coordinate, do not stack a new tile on top of the occupied one and do not convert the result into an existing-tile revisit. Brown even means a new tile is required. In that case, use the last empty coordinate in the walk-back path before the occupied coordinate as the final target. Record both the occupied coordinate that stopped the walk and the last empty coordinate where the new tile appears.
 
+**Odd brown on an already-touching raw target** (the case never arose until it was found and settled during S008): every already-touching landing found so far (S005, S006, S007) happened to roll an even brown, so the tile was simply created on the spot. When brown is odd instead, "the target moves one step further" needs a direction to move in — but an already-touching raw target never took any walk-back steps, so there's no established direction to continue. Resolve it the same way the stepping mechanism itself would: identify the raw target's nearest reference line (it may already sit exactly on one, at distance zero) and take one real hex step further along that line, in the direction leading back toward the map/origin. That step may land on an already-occupied coordinate — in which case the session revisits that tile — or on another tile-adjacent empty coordinate, exactly as the odd branch already describes for the ordinary walk-back case.
+
 ### Walking the two different diagonals
 
 The "diagonal where the absolute values of both coordinates are equal" is actually two different lines, and they behave differently during walk-back:
