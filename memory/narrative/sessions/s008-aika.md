@@ -123,3 +123,60 @@ Concrete material decisions made ahead of Surface:
 - **Matter/Acquire:** metallic paint added to the shopping list — reads as unearthed/tarnished metal, and also echoes T006's own silver hexagon.
 - **Omen/Hue + Pressure/Correction, combined:** green tissue paper (already on hand) does double duty — its translucency lets it tint the surface sickly green while also letting a hint of what's underneath show through, serving as the non-destructive Reveal option in one material rather than two separate treatments.
 - **Mirror/Prepared Mirror:** super glue on silk paper, to create a crackle effect for the decayed texture reference — brittle, fast-drying glue should produce sharper, less even cracks than a slower crackle medium, which suits "decayed" better than a neat crackle would.
+
+## Surface
+
+Numbers reused from Awakening: Green 3, Blue 5, Red 5 (C101, Green power leaf); Yellow 2, Brown 5, Black 1 (C100, Zombie). Fixed color mapping: Green = Ground, Blue = Substance, Red = Application, Yellow = Treatment, Brown = Structure, Black = Opening.
+
+No First Mark this session — that rule is specific to a tile's birth, and T001 already has one from S001.
+
+Results:
+
+- Ground / Green 3: Divided. Let the foundation begin with zones, halves, bands, sectors, or competing fields.
+- Substance / Blue 5: Strange. Choose something unexpected, found, artificial, excessive, awkward, or not normally map-material.
+- Application / Red 5: Edgeward. Apply it from edges, seams, borders, routes, or contact zones inward/outward.
+- Treatment / Yellow 2: Stained. Let color or tone behave like residue, seepage, contamination, shadow, or memory.
+- Structure / Brown 5: Shape. Establish a larger geometry: circle, triangle, square, spiral, arc, corridor, ring, patch.
+- Opening / Black 1: Closed. The foundation is whole, sealed, settled, or complete for now.
+
+Interpreting the six results together, for a revisit rather than a birth:
+
+- **Ground/Divided** reads as the whole tile splitting into two zones this session: the untouched original AIKA surface (S001's own work, left alone) versus a new intervention zone where this session's event actually happens. This isn't a new foundation — it's a division of *where this session is allowed to touch*.
+- **Structure/Shape** gives that intervention zone its own geometry: a **corridor**, running from the archaic-symbol palimpsest to T001's NW edge (the T006 contact). A corridor is the most literal shape for something that has to travel from one point to another, which is exactly what Radiating requires.
+- **Application/Edgeward**, read together with Structure, gives the corridor a direction: apply the new material starting at the palimpsest (the source) and working outward toward the NW edge (the destination) — matching the direction the Radiating pressure actually needs to travel, not the reverse.
+- **Substance/Strange — user finding, retroactive:** rather than needing a brand-new material, Strange is already sitting on the tile — the actual fan-brush epoxy-glued to T001 since S001 is exactly "not normally map-material." This session adds to it rather than replacing it: a small tissue-paper wrap around the brush's stem, bristles still showing.
+- **Treatment/Stained** is also already built into the plan: the tissue paper's translucency naturally behaves like residue or memory rather than a flat clean color, since it's meant to let the palimpsest underneath show through.
+- **Opening/Closed** asks that the corridor's own coverage read as complete and settled, not left sparse or interrupted — this is a real, decisive event, not another deferred pressure. Any remaining incompleteness belongs to Inscription's own marks, not to this base layer.
+
+**The corridor is named Dotti** — found embedded inside "Ehdotti" (from the AIKA book), the way a word can hide a smaller word inside itself. Fitting, given the corridor's whole job is partially exposing what's hidden inside something older.
+
+**Revised scope, user decision:** the corridor runs along three consecutive edges, not just one — **S, SW (facing T004), and NW (facing T006)** — a continuous arc across T001's lower-left, read as a corridor or meadow rather than a single narrow path. This still satisfies Structure/Shape (one recognizable geometry) and Application/Edgeward (it still originates from edge contact, now three edges instead of one), just at a larger scale than first proposed.
+
+Surface instruction, updated:
+
+1. Leave the rest of T001's original S001 surface completely untouched (Ground: Divided) — this session's work is confined to Dotti.
+2. Mark out Dotti as a corridor/meadow running along the S, SW, and NW edges, touching the archaic-symbol palimpsest along the way (Structure: Shape).
+3. Wrap a small piece of tissue paper around the existing fan-brush's stem, bristles still visible — Substance/Strange made physical as an addition to what's already there, not a new import.
+4. Cut the green tissue paper into strips; superglue the strip edges, and stain the paper itself lightly with CA glue to stiffen and harden it (Treatment: Stained, and Mirror's decayed-crackle quality built directly into the working material rather than kept as a separate reference).
+5. Lay the strips across Dotti. Where strips don't touch, fill the gaps with marker work. The natural gaps between strips are the honest place for a sliver of the archaic text to still show through, since the strips themselves will likely read more opaque once hardened than a single soft sheet would have.
+6. Where Dotti reaches the T006-facing NW edge, draw hexagons directly over the green paper — a deliberate visual echo of Shoreline's own hex convergence, giving Radiating a recognizable answer in T006's own visual language.
+7. Apply metallic paint somewhere within Dotti — a tarnished, unearthed-reading accent, not a clean bright metallic finish.
+8. If Inscription's own Force result allows it, let a little of the green bleed across the S/SW/NW edges into T004 and T006 themselves — kept small, not decided as mandatory yet.
+9. Accept, without forcing a fix, that the archaic-symbol palimpsest will end up substantially covered by Dotti rather than cleanly revealed — a real tension against Pressure/Correction's demand, held rather than resolved.
+
+This leaves Inscription with real, concrete work still to do: actually marking the crossing at the NW edge itself (the corridor reaches the edge, but nothing has crossed it yet), and deciding what, if anything, gets written on the blank Provision marker.
+
+Actual Surface materials and layout:
+
+- **CA glue on the tissue paper itself was abandoned** — brittle glue on thin paper without a stiff backing didn't work. Paper glue was used to adhere the tissue strips instead; the CA-glue-hardening idea for Treatment/Stained was dropped in favor of a different technique (below).
+- Green marker scribbles were added directly to the surface within Dotti, partially covered by the tissue strips laid over them afterward — this layered peek-through does the job Treatment/Stained and the decayed-texture reference were originally reaching for, just via a different material than planned.
+- Green tissue paper cut into strips, edges superglued (the CA glue worked fine for bonding strip edges to each other — it was specifically hardening the sheet itself that failed), then the strips glued down across Dotti with paper glue.
+- Black pen used to draw Dotti's own boundary edges — a real, drawn Structure/Shape line, not just an implied zone.
+- A "Dotti" text label physically glued onto the tile, naming the corridor directly rather than only in documentation.
+- The fan-brush's stem was wrapped in a small piece of tissue paper, with a little of it left showing through the surrounding scribbles — bristles still visible, Substance/Strange built onto what was already there rather than importing something new.
+- Metallic paint was not used — still a wishlist acquisition, specifically intended for the hexagons rather than general use.
+- New echo hexagons were drawn near the T006-facing NW edge, over the green paper, alongside reinforcing the existing S006 silver hexagon mark where Dotti's tissue had covered it. Neither used metallic material this time; the silver treatment is deferred until the paint is acquired.
+- Some tissue strips physically extend a little onto **both T004 and T006**, not just T006 — Radiating over-delivered relative to the minimum (one neighbor) the result required.
+- Part of the "A" in the AIKA anchor text got covered by Dotti's material; a small yellow mark was added where it used to be, extending T001's own established Treatment (Stained: "yellow/orange hue behaves as residue... memory") to a new instance of exactly that.
+
+Surface is complete. Pressure/Correction's Reveal demand did not resolve cleanly — between the still-covered archaic text and now a partially-covered AIKA letter, this session leans further toward "covered" than "revealed," acknowledged as a held tension rather than forced into a clean answer. Obligations carried into Inscription: the actual crossing at the NW edge (the tissue physically reaches T006, but nothing has been formally marked as crossing yet), the still-blank Provision marker, and the silver/metallic treatment for the echo hexagons once that material arrives.
