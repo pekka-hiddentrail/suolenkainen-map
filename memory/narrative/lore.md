@@ -18,6 +18,33 @@ Current reading:
 - The Court should not override the six-phase procedure unless a future rule explicitly says so.
 - The Court can be used as lore voice, framing device, or mythic authority in website and blog writing.
 - Details about The Court should be added gradually as sessions reveal them.
+- Recurring phrasing from the earliest posts (blog-03 onward) calls it "the unseen court," with a standing formula that "the court that opened this proceeding must also close it" (blog-09) — the Court is bound by its own openings, not just an outside judge.
+- blog-09's own closing line — "the map does not build so much as remember," time "crawling up out from under what buried it" — is the textual origin of the idea later formalized as [[The Ancients]]. It predates that name by many sessions; the Ancients gave a name to something the Court's own voice had already been implying since S001.
+
+### AIKA's Unburied Name
+
+Status: durable cross-session motif; confirmed by session mechanics, not Storyteller invention alone — traced from S001 through S008 so far.
+
+AIKA's founding Office (Proclaim by Mark, paid for by a Burial Cost) has been described since Session One as a throat that proclaims while a hand covers its own mouth. blog-07 named the pattern directly — "The Name That Would Not Stay Buried" — the AIKA name pushing back against being buried under collage, "insisting on its own outline even from underneath everything laid over it." Seven sessions later, S008's Cartography reactivated the exact same cost on its own terms: the Zombie card invoked K007 (Burial Cost) as, in the Storyteller's words, "the literal image of a burial cost refusing to stay paid," and the session's Chronicle myth states outright: "They say AIKA never truly buried what it swallowed."
+
+Current reading:
+
+- This isn't Storyteller invention alone — the mechanical Office result (Proclaim by Mark, Burial Cost) produced this same tension independently in S001 and S008, seven sessions apart, which is why it reads as a real throughline rather than a one-off phrase.
+- K035, Amedda — the meaningless imported name inscribed at Dotti's edge in S008 — is the most recent and most literal form of this: a name with no claimed origin, arriving exactly where an old cost was reopened rather than paid off.
+- Unresolved: whether a burial cost of this kind can ever actually be paid, or whether every attempt to cover it (Mirror's S004 rewrite, Shoreline's S006 hex-push, Dotti's S008 tissue) is fated to leave something else exposed instead. S008 itself ended leaning toward "covered" rather than "revealed" — an open tension, not an answer — since Dotti's own material ended up covering part of AIKA's original anchor text along the way.
+- The physical fan-brush epoxy-glued into T001's surface in Session One — described then as a tool that "stopped being a tool and started being terrain" — is the literal material Dotti's corridor wraps in Session Eight. The object that helped seal AIKA's founding mark is the same one now used to help expose what's underneath it.
+
+### The Living Deck
+
+Status: confirmed mechanic, not merely lore — the physical card deck accrues real history over sessions and that history is meant to matter later.
+
+The deck itself isn't static once drawn. In Session One's Founding Artifact Draw, one of the two cards that opened the whole campaign — the "robot ghost" card, originally just a borrowed stock image with no particular claim to the project — was physically altered: a glued fragment of a Jayrun water-clock schematic now sits on its face, with colored numbers and the handwritten words "Running out of time." The alteration was deliberate, aimed at a theme (time running short) no tile had claimed yet. The same kind of thing happened again in S003, when deck-maintenance work restored/added description text to card C074.
+
+Current reading:
+
+- A physically altered card becomes a pre-loaded omen: whatever session eventually draws it should reckon with what's now stuck to its face, not just its original stock image.
+- As of S008, no tile has yet drawn the altered robot-ghost/water-clock card since S001 — its "running out of time" pressure is still fully unspent.
+- Worth checking whenever Chronicle or Provision produces a Mark/Token/sticker-type result: gluing something onto a card is an available, precedented move, not only onto a tile.
 
 ### The Court's Arena
 
