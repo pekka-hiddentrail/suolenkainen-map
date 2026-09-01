@@ -152,6 +152,8 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Open: Grid-Tangled's reference-point capability (T008's coordinate as a future distance/step/direction anchor) is unspent.
 - Open: Void-Born's tension against Gate/Grid-Tangled/Edge Inheritance — a tile whose Origin insists it stands apart, immediately surrounded by mechanisms tying it to both neighbors — is the tile's own central open question, not yet resolved.
 - Cross-tile: T001 gains a new S-edge neighbor for the first time (see T001's own Neighbor tiles field); T004 gains a new SE-edge neighbor, distinct from its existing NE/T001, N/T006, and NW/T005 relations.
+- S009 Attunement: Echo/Continuation picks up T004's own permanently-unsealed frayed-fabric edge as a possible continuation onto T008; Matter/Family sets Textile as the session's material family; Mirror/Phrase reserves C130's own card note ("Robot detail, poorly cut") as an indirect guide; Omen/Question opens "what was cut away, and did it matter?"; Pressure/Conflict names blank-vs-marked, standing in for Void-Born-vs-Gate; Provision/Mark prepares a blank marker for T008's eventual Gate-crossing word.
+- Open: whether T004's frayed edge actually continues onto T008, or stops at the edge, is Surface's decision — if it stops, the stop must be marked explicitly per Continuation's own Effect.
 
 ## Rule And Documentation Obligations
 

@@ -67,6 +67,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - conditional-neighbor-wander
 - contagious
 - contamination
+- continuation
 - Court-arena
 - dark-center
 - dashed-red-circle
@@ -169,6 +170,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - T006
 - T006-silver-hex-bleed
 - T007
+- textile
 - texture-paste
 - The-Canyon
 - thread
