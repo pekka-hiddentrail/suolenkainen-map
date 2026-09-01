@@ -143,6 +143,16 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Chronicle Maintenance: `../tiles/tile-data.md`'s T007 row and its long-stale "Neighbor Coordinate Notes" section (frozen since S004, missing T005–T007) were both corrected directly as this session's Maintenance action.
 - Artifact Draw complete: card C061, Brown 3, selected Rule/documentation note directly. Satisfied by the new "Publication Target Platforms Undefined" rules-delta entry.
 
+## T008 Obligations
+
+- S009 creates T008 at [-1,1], empty but already touching T001 (T008's S edge, ordinarily N) and T004 (T008's SE edge, ordinarily NW) at once before any walk-back step. Brown 4 (even) created it there directly.
+- S009 Cartography births T008 Void-Born, Reversed (its own compass directions flip at birth — see Tags/records for the post-flip edge labels), Grid-Tangled, Hungry, a Gate standing between T001 and T004, and an Edge Inheritance carrying T001's "dotti" tag — T008 sits exactly on Dotti's still-unanswered S edge.
+- Open: Gate's naming (T001, T004) is not yet physically reflected — a crossing/hinge/threshold feature is owed, echoing but not duplicating T006's own Gate treatment.
+- Open: Hungry's one-time copy effect (duplicating one Effect already active on T001 or T004) is unspent.
+- Open: Grid-Tangled's reference-point capability (T008's coordinate as a future distance/step/direction anchor) is unspent.
+- Open: Void-Born's tension against Gate/Grid-Tangled/Edge Inheritance — a tile whose Origin insists it stands apart, immediately surrounded by mechanisms tying it to both neighbors — is the tile's own central open question, not yet resolved.
+- Cross-tile: T001 gains a new S-edge neighbor for the first time (see T001's own Neighbor tiles field); T004 gains a new SE-edge neighbor, distinct from its existing NE/T001, N/T006, and NW/T005 relations.
+
 ## Rule And Documentation Obligations
 
 - Adopted S004 ruling: when walk-back reaches an occupied coordinate and Brown is even, Brown requires a new tile, so the final target is the last free coordinate before the occupied coordinate.

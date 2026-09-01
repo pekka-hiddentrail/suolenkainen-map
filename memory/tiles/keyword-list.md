@@ -92,6 +92,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - green-bleed
 - green-earth
 - green-felt
+- grid-tangled
 - hex-grid
 - hidden-tunnel
 - hold-by-route
@@ -177,6 +178,8 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - undercity-map
 - unstable
 - unstable-finish
+- void-born
 - void-relic
 - walk-back
 - warning-checkers
+- water-energy
