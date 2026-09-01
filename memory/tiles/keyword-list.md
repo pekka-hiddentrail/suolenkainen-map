@@ -29,6 +29,7 @@ This was applied retroactively: K001, K002, K004–K006, K008–K015, K017–K02
 | K033 | Hex Tideline | Active | Chronicle / Seed | Seed keyword created by T006/Shoreline's S006 Chronicle (Black 1: Keyword): Shoreline's Inscription grew two deliberately misaligned hex grids — 8 black hexagons (30mm spacing) and 4 silver hexagons (24mm spacing) — out of the mismatched black-warning-bleed and silver-grid-bleed lines it inherited from T001 and T003. Neither grid is resolved as dominant; the tension between them is the point. | Return to T006/Shoreline when it is next targeted, to decide whether the black grid or the silver grid wins, or whether they remain in permanent tension. | Read as an unresolved contest given a permanent, named body: two inherited histories occupying the same tile without reconciling. |
 | K034 | First Settlement | Active | Chronicle / Seed | Seed keyword created by T007/Mesa's S007 Chronicle (Black 1: Keyword): Mesa's Inscription reread its own yellow lines as roads and added black-square buildings, the map's first depiction of an actual built settlement after six tiles of purely geological, technical, or abstract imagery — resolving Mesa's violence-vs-calm tension cleanly toward calm in the same gesture. | Return when settlement, road, or building imagery appears again anywhere on the map, or when Mesa (T007) is targeted again — decide whether it expands, connects to Mesa, or remains an isolated origin point. Also carries Mesa's still-unpaid Office Quiet Cost. | Read as the map's founding civilization moment: not just a tile detail, but a marker for whenever settled, built imagery recurs elsewhere. |
 | K035 | Amedda | Active | Chronicle / Seed | Seed keyword created by T001/AIKA's S008 Chronicle (Black 1: Keyword): Inscription's Form/Sign result gave T001's long-blank Provision marker an actual word — "Amedda," taken from a *Star Wars* novel and chosen with no intended meaning — placed at Dotti's NW edge, the literal crossing point toward T006/Shoreline. | Return when the name Amedda appears again anywhere on the map, or when T001 or T006 is next targeted — decide whether it ever gains an in-world meaning or stays permanently foreign. | Read as a deliberately imported, meaningless sign: a name grafted onto the tile from entirely outside its own vocabulary, left open for a later session to explain or leave unexplained. |
+| K036 | The Rift | Active | Chronicle / Seed | Seed keyword created by T008/Cross-word's S009 Chronicle (Black 1: Keyword): the Division boundary Surface built (seeded directly by First Mark) became, at Inscription, the site of a gate — the "MITÄ AIKA ON?" sticker glued directly over it rather than an opening cut through it. | Return when a future tile's own division/boundary line later becomes, or is covered by, an actual crossing feature, or when Cross-word or Mirror (T004) is next targeted — revisit whether the Rift stays sealed under its sticker-gate or gets reopened. | Read as a threshold answered by covering rather than opening: the gate exists, but nothing has actually crossed through it yet. |
 
 ## Tags In Use
 
@@ -67,7 +68,10 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - conditional-neighbor-wander
 - contagious
 - contamination
+- continuation
 - Court-arena
+- Cross-word
+- crossword
 - dark-center
 - dashed-red-circle
 - defer-and-record
@@ -92,6 +96,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - green-bleed
 - green-earth
 - green-felt
+- grid-tangled
 - hex-grid
 - hidden-tunnel
 - hold-by-route
@@ -103,9 +108,11 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - mark
 - mass
 - material
+- Matted
 - Mesa
 - mesa
 - misaligned-grids
+- MITA-AIKA-ON
 - mountain
 - mutation
 - neighbor-rule-inheritance
@@ -144,6 +151,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - S007
 - safety-line
 - same-sign-diagonal
+- schematic-fragments
 - settle
 - settlement
 - Shoreline
@@ -168,6 +176,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - T006
 - T006-silver-hex-bleed
 - T007
+- textile
 - texture-paste
 - The-Canyon
 - thread
@@ -177,6 +186,9 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - undercity-map
 - unstable
 - unstable-finish
+- void-born
 - void-relic
 - walk-back
+- wall
 - warning-checkers
+- water-energy

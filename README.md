@@ -4,7 +4,7 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 
 ## Current status
 
-7 tiles exist so far:
+8 tiles exist so far:
 
 | Tile | Name | Coordinate | Status |
 | --- | --- | --- | --- |
@@ -15,10 +15,11 @@ A physical hex-tile map, built one tile and one session at a time. Each session 
 | T005 | The Monster | [-1,-1] | Complete (S005) — main draw and Artifact Draw both done |
 | T006 | Shoreline | [0,-1] | Complete (S006) — main draw and Artifact Draw both done |
 | T007 | Mesa | [2,-2] | Complete (S007) — main draw and Artifact Draw both done |
+| T008 | Cross-word | [-1,1] | Complete (S009) — main draw and Artifact Draw both done |
 
-15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`), plus further posts covering T006 and T007 (`blog/blog-20-the-threshold-the-ancients-already-cut.md`, `blog/blog-21-quiet-enough-to-feed-a-river.md`).
+15 blog posts have been published narrating S001–S003 (`blog/blog-01-here-it-starts.md` through `blog-16-a-ring-is-named-and-a-session-ends.md`), plus further posts covering T006 through T008 (`blog/blog-20-the-threshold-the-ancients-already-cut.md`, `blog/blog-21-quiet-enough-to-feed-a-river.md`, `blog/blog-23-a-gate-born-already-facing-backward.md`).
 
-Next up per `memory/tracking/map-todo.md`: the S005 Seed return condition — Route-Tangled's still-unnamed coast, and the floated T002 reciprocal debt (T002 possibly forming wooded lands) — whenever The Monster or T002 is next targeted; the S006 Seed return condition — keyword K033 Hex Tideline, deciding whether the black or silver hex grid wins — whenever Shoreline is next targeted; the S007 Seed return condition — keyword K034 First Settlement, whether Mesa's roads-and-buildings motif recurs or expands — whenever settlement imagery appears again or Mesa is next targeted; and the S008 Seed return condition — keyword K035 Amedda, whether the imported marker word ever gains an in-world meaning — whenever the name appears again or T001/T006 is next targeted. T007/Mesa is also the map's first tile to depict an actual built settlement, after six tiles of geological, technical, or abstract imagery only; T001/AIKA's S008 revisit is the map's first-ever existing-tile Cartography case.
+Next up per `memory/tracking/map-todo.md`: the S005 Seed return condition — Route-Tangled's still-unnamed coast, and the floated T002 reciprocal debt (T002 possibly forming wooded lands) — whenever The Monster or T002 is next targeted; the S006 Seed return condition — keyword K033 Hex Tideline, deciding whether the black or silver hex grid wins — whenever Shoreline is next targeted; the S007 Seed return condition — keyword K034 First Settlement, whether Mesa's roads-and-buildings motif recurs or expands — whenever settlement imagery appears again or Mesa is next targeted; the S008 Seed return condition — keyword K035 Amedda, whether the imported marker word ever gains an in-world meaning — whenever the name appears again or T001/T006 is next targeted; and the S009 Seed return condition — keyword K036 The Rift, whether Cross-word's gate stays sealed under its sticker or gets reopened — whenever Cross-word or Mirror is next targeted. T007/Mesa is also the map's first tile to depict an actual built settlement; T001/AIKA's S008 revisit is the map's first-ever existing-tile Cartography case; T008/Cross-word is the first tile born with a Reversed Tether that actually took effect (T002's own Reversed result predates Tether taking a mechanical role).
 
 ## Repository layout
 

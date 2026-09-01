@@ -9,7 +9,7 @@
 | Current phase | S008 Chronicle complete, including Artifact Draw |
 | Current map-object identity | Contagious tidebound region-marker |
 | General description | T001 is the first origin tile at [0,0]. Cartography makes it contagious, tidebound, region-tangled, and dense; its office is to proclaim by mark while paying a burial cost, and its inheritance is an unresolved edge inheritance. Attunement adds Trace, Acquire, Structure, Hue, restless field transfiguration, and Mark as session pressures. |
-| Neighbor tiles | NE / T002 edge: T002 receives black warning-strip bleed; N / T003 edge: T003 silver grid bleed enters T001 and is stopped; T001 black warning spread bleeds into T003; SW / T004 edge: T004 rewrites some of T001's archaic symbols in its own schematic-hexagon pattern; NW / T006 (Shoreline) edge: Shoreline's Inscription pushes a 24mm silver hexagon pattern into T001, covering a little of the AIKA text |
+| Neighbor tiles | NE / T002 edge: T002 receives black warning-strip bleed; N / T003 edge: T003 silver grid bleed enters T001 and is stopped; T001 black warning spread bleeds into T003; SW / T004 edge: T004 rewrites some of T001's archaic symbols in its own schematic-hexagon pattern; NW / T006 (Shoreline) edge: Shoreline's Inscription pushes a 24mm silver hexagon pattern into T001, covering a little of the AIKA text; S / T008 edge (new, S009): T008 inherits T001's "dotti" tag via Edge Inheritance — Dotti's still-unanswered S edge finally has a neighbor |
 | Anchor point |  |
 | Quadrants |  |
 | Reserve / harbor area |  |

@@ -88,8 +88,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Resolved: Attunement's deferred Mirror reference is the Peili sticker, read as a small silver-and-blue reflecting pool placed during Inscription.
 - Chronicle Seed created keyword K032 Schematic Rewrite (`keyword-list.md`), shared with T001, deliberately leaving what the original archaic symbols meant unexplained.
 - Open: run the Artifact Draw (S001-S010 requirement) — a separate, fresh second draw, not yet done.
-- Open: extend `blog/blog-18-the-fourth-tile-argues-with-the-map.md` (currently covers Awakening/Cartography only) to include Attunement through Chronicle, or draft a follow-up post.
-- Open: T001/Mirror multi-tile edge witness photo taken (S004 Chronicle Witness); held back from publication until a later, deliberate reveal.
+- Rescheduled (S009 Chronicle Maintenance, Todo list/future-work queue): extend `blog/blog-18-the-fourth-tile-argues-with-the-map.md` (currently covers Awakening/Cartography only) to include Attunement through Chronicle, and release the already-taken, held-back T001/Mirror witness photo — both now carry an explicit trigger: do this next time T004/Mirror is itself the target tile, rather than sitting as an untriggered permanent note.
 - Decided, not yet done: go full archaic on the T001/Mirror shared corner rather than settling as a schematic-hexagon overwrite. Next step, not a reversal of the S004 rewrite.
 - Open: what occupies each side of the Division (beyond technical-zone vs. frayed-zone), and what the Blank opening connects to beyond the Peili pool.
 - S005 addendum: T004 physically received a red/brown "scab" from T005 / The Monster's Inscription on their shared edge (T004's NW / T005's SE), via Force: Region/Shape + Propagation + Marks edge/contact. **Resolved: T004 accepts the scab.**
@@ -142,6 +141,26 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Chronicle Meaning: a plain-language explanation is recorded in the session log (`../narrative/sessions/s007-mesa.md`); Publication proposes a short social caption but the actual target platform is undecided (see Rule And Documentation Obligations below).
 - Chronicle Maintenance: `../tiles/tile-data.md`'s T007 row and its long-stale "Neighbor Coordinate Notes" section (frozen since S004, missing T005–T007) were both corrected directly as this session's Maintenance action.
 - Artifact Draw complete: card C061, Brown 3, selected Rule/documentation note directly. Satisfied by the new "Publication Target Platforms Undefined" rules-delta entry.
+
+## T008 / Cross-word Obligations
+
+- S009 creates T008 at [-1,1], empty but already touching T001 (T008's S edge, ordinarily N) and T004 (T008's SE edge, ordinarily NW) at once before any walk-back step. Brown 4 (even) created it there directly.
+- S009 Cartography births T008 Void-Born, Reversed (its own compass directions flip at birth — see Tags/records for the post-flip edge labels), Grid-Tangled, Hungry, a Gate standing between T001 and T004, and an Edge Inheritance carrying T001's "dotti" tag — T008 sits exactly on Dotti's still-unanswered S edge.
+- Resolved: Gate's naming (T001, T004) is physically built — the "MITÄ AIKA ON?" sticker itself is the gate figure, glued over the Division seam ("the rift").
+- Open: Hungry's one-time copy effect (duplicating one Effect already active on T001 or T004) is unspent.
+- Open: Grid-Tangled's reference-point capability (T008's coordinate as a future distance/step/direction anchor) is unspent.
+- Open: Void-Born's tension against Gate/Grid-Tangled/Edge Inheritance — a tile whose Origin insists it stands apart, immediately surrounded by mechanisms tying it to both neighbors — is the tile's own central open question, not yet resolved.
+- Cross-tile: T001 gains a new S-edge neighbor for the first time (see T001's own Neighbor tiles field); T004 gains a new SE-edge neighbor, distinct from its existing NE/T001, N/T006, and NW/T005 relations.
+- S009 Attunement: Echo/Continuation picks up T004's own permanently-unsealed frayed-fabric edge as a possible continuation onto T008; Matter/Family sets Textile as the session's material family; Mirror/Phrase reserves C130's own card note ("Robot detail, poorly cut") as an indirect guide; Omen/Question opens "what was cut away, and did it matter?"; Pressure/Conflict names blank-vs-marked, standing in for Void-Born-vs-Gate; Provision/Mark prepares a blank marker for T008's eventual Gate-crossing word.
+- Resolved: T004's frayed edge does continue onto T008 — physically confirmed as matted, glued frayed wool thread on T008's T004-facing zone.
+- S009 Surface complete: green-to-beige-to-white acrylic gradient across the whole tile; filled crossword-puzzle strips and green chemical schematics on the T001-facing zone; matted frayed wool thread (grey, light green) on the T004-facing zone; First Mark resolved as the Division boundary line itself (a beige band between the two zones) rather than an isolated dot. Time-related book-page scraps were dropped at Surface.
+- Open: Pressure/Conflict's blank-vs-marked is only partly answered — the crossword strips are filled, so this zone reads mostly as "marked" rather than a full blank/filled contrast.
+- Confirmed: Lincoln/Monroe stamps and old map postcards are general stock, not used on T008.
+- S009 Inscription complete: schematic lines emphasized in red, bleeding onto T004's own technical/schematic zone (Force: Pushing); T004's own orange Division-settling line (S004) continued onto T008's thread zone; crossword pieces outlined in green; Form/Figure resolved as one fused object — the "MITÄ AIKA ON?" sticker glued directly over the rift as the gate itself (Behavior: Absorb via covering). Residue: Clean.
+- Confirmed: named **Cross-word** (crossword material + a phrase literally crossing the rift + "cross" as threshold); the lower T004-facing zone is separately named **Matted**.
+- S009 Chronicle complete: Record (tile state, confirmed via the tile's own record), Witness (before/after — no before photo exists, described in the session log), Meaning (confirms the Cross-word/Matted naming), Publication (covered by the user's own `../blog/blog-23-a-gate-born-already-facing-backward.md`), Maintenance (rescheduled T004/Mirror's dormant blog-18/witness-photo item — see T004's own section below), Seed (keyword K036 "The Rift" created).
+- Open: whether the Rift (K036) stays sealed under its sticker-gate or gets reopened — return when Cross-word or Mirror is next targeted, or when a future tile's own division line becomes/gets covered by a crossing feature.
+- S009 Artifact Draw complete: card C071, Brown 1, selected Deck reset directly. Satisfied by marking C071 itself as used in `../narrative/cards/Cards.csv` — flagged afterward as too thin a reading (routine bookkeeping, not a real deck action); see the new Delta Candidate in `../rules/rules-delta.md`. Left as historically complete, not redone.
 
 ## Rule And Documentation Obligations
 
