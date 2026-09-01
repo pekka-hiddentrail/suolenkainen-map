@@ -143,11 +143,11 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Chronicle Maintenance: `../tiles/tile-data.md`'s T007 row and its long-stale "Neighbor Coordinate Notes" section (frozen since S004, missing T005–T007) were both corrected directly as this session's Maintenance action.
 - Artifact Draw complete: card C061, Brown 3, selected Rule/documentation note directly. Satisfied by the new "Publication Target Platforms Undefined" rules-delta entry.
 
-## T008 Obligations
+## T008 / Cross-word Obligations
 
 - S009 creates T008 at [-1,1], empty but already touching T001 (T008's S edge, ordinarily N) and T004 (T008's SE edge, ordinarily NW) at once before any walk-back step. Brown 4 (even) created it there directly.
 - S009 Cartography births T008 Void-Born, Reversed (its own compass directions flip at birth — see Tags/records for the post-flip edge labels), Grid-Tangled, Hungry, a Gate standing between T001 and T004, and an Edge Inheritance carrying T001's "dotti" tag — T008 sits exactly on Dotti's still-unanswered S edge.
-- Open: Gate's naming (T001, T004) is not yet physically reflected — a crossing/hinge/threshold feature is owed, echoing but not duplicating T006's own Gate treatment.
+- Resolved: Gate's naming (T001, T004) is physically built — the "MITÄ AIKA ON?" sticker itself is the gate figure, glued over the Division seam ("the rift").
 - Open: Hungry's one-time copy effect (duplicating one Effect already active on T001 or T004) is unspent.
 - Open: Grid-Tangled's reference-point capability (T008's coordinate as a future distance/step/direction anchor) is unspent.
 - Open: Void-Born's tension against Gate/Grid-Tangled/Edge Inheritance — a tile whose Origin insists it stands apart, immediately surrounded by mechanisms tying it to both neighbors — is the tile's own central open question, not yet resolved.
@@ -155,9 +155,10 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - S009 Attunement: Echo/Continuation picks up T004's own permanently-unsealed frayed-fabric edge as a possible continuation onto T008; Matter/Family sets Textile as the session's material family; Mirror/Phrase reserves C130's own card note ("Robot detail, poorly cut") as an indirect guide; Omen/Question opens "what was cut away, and did it matter?"; Pressure/Conflict names blank-vs-marked, standing in for Void-Born-vs-Gate; Provision/Mark prepares a blank marker for T008's eventual Gate-crossing word.
 - Resolved: T004's frayed edge does continue onto T008 — physically confirmed as matted, glued frayed wool thread on T008's T004-facing zone.
 - S009 Surface complete: green-to-beige-to-white acrylic gradient across the whole tile; filled crossword-puzzle strips and green chemical schematics on the T001-facing zone; matted frayed wool thread (grey, light green) on the T004-facing zone; First Mark resolved as the Division boundary line itself (a beige band between the two zones) rather than an isolated dot. Time-related book-page scraps were dropped at Surface.
-- Open, carried to Inscription: a "MITÄ AIKA ON?" ("What is time?") sticker planned for the tile's northern edge, and a clearer follow-up pass on the chemical-schematic layer.
 - Open: Pressure/Conflict's blank-vs-marked is only partly answered — the crossword strips are filled, so this zone reads mostly as "marked" rather than a full blank/filled contrast.
 - Confirmed: Lincoln/Monroe stamps and old map postcards are general stock, not used on T008.
+- S009 Inscription complete: schematic lines emphasized in red, bleeding onto T004's own technical/schematic zone (Force: Pushing); T004's own orange Division-settling line (S004) continued onto T008's thread zone; crossword pieces outlined in green; Form/Figure resolved as one fused object — the "MITÄ AIKA ON?" sticker glued directly over the rift as the gate itself (Behavior: Absorb via covering). Residue: Clean.
+- Confirmed: named **Cross-word** (crossword material + a phrase literally crossing the rift + "cross" as threshold); the lower T004-facing zone is separately named **Matted**.
 
 ## Rule And Documentation Obligations
 

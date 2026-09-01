@@ -32,7 +32,7 @@ An ASCII drawing of the physical map, laid out by real coordinate, not just list
 | T005 | The Monster | [-1,-1] |
 | T006 | Shoreline | [0,-1] |
 | T007 | Mesa | [2,-2] |
-| T008 | *(unnamed)* | [-1,1] |
+| T008 | Cross-word | [-1,1] |
 
 T004 is drawn attached to this cluster now, touching T001 directly on T004's NE / T001's SW edge. Its coordinate was originally recorded as [-1,-1] — two steps from T001 and not touching anything — but that walk-back had ticked both coordinates of a same-sign diagonal at once, which isn't a real single hex step (there is no direct E/W side). Re-walking with real NE/SE steps found map contact one step earlier, at [-1,0]; see `../rules/rules-delta.md`'s same-sign-diagonal entry for the full derivation.
 

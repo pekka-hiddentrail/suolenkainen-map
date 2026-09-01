@@ -69,6 +69,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - contamination
 - continuation
 - Court-arena
+- Cross-word
 - crossword
 - dark-center
 - dashed-red-circle
@@ -106,7 +107,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - mark
 - mass
 - material
-- matted-thread
+- Matted
 - Mesa
 - mesa
 - misaligned-grids

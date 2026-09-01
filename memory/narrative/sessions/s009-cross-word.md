@@ -1,4 +1,4 @@
-# S009 — T008
+# S009 — T008 · Cross-word
 
 ## Awakening
 
@@ -172,3 +172,47 @@ Actual Surface:
 - Pressure/Conflict (blank vs. marked) is only partly answered: the crossword strips are described as filled, so the zone reads mostly as "marked" rather than a real blank/filled contrast. Left as an honest partial resolution rather than forced.
 
 Surface is complete.
+
+## Inscription
+
+Numbers reused from Awakening: Green 2, Blue 3, Red 4 (C052, Water energy); Yellow 3, Brown 4, Black 1 (C130, Robot details). Fixed color mapping: Green = Scale, Blue = Form, Red = Behavior, Yellow = Relation, Brown = Force, Black = Residue.
+
+Results:
+
+- Scale / Green 2: Local. A contained area of the tile; noticeable but not dominant.
+- Form / Blue 3: Figure. City, building, object, creature, landmark, island, cloud, shrine, focal thing.
+- Behavior / Red 4: Absorb. Pull in, consume, inherit, cover, swallow, gather.
+- Relation / Yellow 3: Neighbor. One or more adjacent tiles.
+- Force / Brown 4: Pushing. It modifies, resists, or displaces something on another tile.
+- Residue / Black 1: Clean. No major debt; the inscription resolves cleanly for now.
+
+Interpreting the six results together — this draw finally gives Office/Gate its physical answer, deliberately deferred since Surface:
+
+- **Form/Figure** is the vehicle: a real, nameable, recognizable **gate figure**, not an abstract mark. This is the moment Cartography's Gate office (T008 standing as a threshold between T001 and T004) stops being a standing rule and becomes an actual object.
+- **Scale/Local** keeps the gate contained and bounded — placed along the existing Division seam (the beige band First Mark already created), not spreading to dominate the tile.
+- **Behavior/Absorb** governs how the gate is physically built: it gathers a small piece from *both* existing zones — a scrap of crossword paper from the T001-facing side, a bit of frayed thread from the T004-facing side — into itself. Both lose their separate identity and become the gate's own material, rather than the gate sitting beside them as a third, unrelated thing. Literally: the threshold is built from what it stands between.
+- **Relation/Neighbor**, named explicitly: **T001 and T004**, the same two tiles Cartography's Office/Gate already named. Recorded on this tile's own record and on both neighbors'.
+- **Force/Pushing**, one specific modification named: a small schematic/chemistry-diagram fragment (echoing Mirror/Phrase's "robot detail, poorly cut" register) crosses from the newly-built gate figure onto **T004's own frayed zone**, at the shared edge. A small, real, physical addition to T004's own tile — recorded on both records.
+- **Residue/Clean** confirms this closes cleanly: Gate's long-deferred obligation is finally paid in full this phase, and paying it doesn't create a new debt in the process.
+
+The planned **"MITÄ AIKA ON?"** sticker (carried forward from Surface) sits separately, on the tile's own empty northern edge — no neighbor there to complicate it. It also loops back neatly to Attunement's still-open Omen/Question ("what was cut away, and did it matter?"): the sticker itself is a small cut/prepared object asking, in Finnish, what time even is — a second cut thing answering a question about cutting, rather than a plain factual answer.
+
+Inscription instruction (draft):
+
+1. Build a small, contained gate figure directly on the Division seam (the beige First-Mark band) — recognizable as an actual gate/threshold, not just decoration.
+2. Construct it by absorbing real material from both zones: a torn crossword scrap and a piece of the frayed thread, physically merged into the gate figure itself.
+3. Let a small schematic/chemistry-diagram fragment cross from the gate onto T004's own frayed zone, at the shared edge — this needs recording on T004's own record too.
+4. Place the "MITÄ AIKA ON?" sticker on the tile's empty northern edge, separately from the gate.
+5. No further debt to create — Residue/Clean means this should resolve, not open a new thread.
+
+This is a starting proposal — let me know what you actually build, or adjust the gate's placement/material before doing it.
+
+Actual Inscription:
+
+- **Force/Pushing, resolved more precisely than drafted:** the schematic lines were emphasized in red, and that red bled across onto **T004's technical/schematic zone specifically** — not the frayed-fabric zone. A sharper choice than the original draft: schematic material crossing onto T004's own pre-existing schematic material, rather than crossing into the fray. Recorded on T004's own record.
+- **A second continuation, unplanned but consistent:** the orange line T004 used at its own Inscription (S004) to settle its Division boundary was continued from T004 onto T008, traced along the edges of the matted thread zone. A second thread now runs between the two tiles alongside the frayed fabric itself — the same settling motif, carried across.
+- The crossword-puzzle pieces were outlined in green — pulling the thread-zone's color across the Division seam into the crossword zone, visually knitting the two zones together rather than leaving Division as a hard cut.
+- **Form/Figure, resolved as one object with the planned sticker:** rather than building a separate gate figure and placing the "MITÄ AIKA ON?" sticker elsewhere, the sticker itself *is* the gate — glued directly over the Division seam (the user's own term: "the rift"). This satisfies Behavior/Absorb through "cover" (one of its own listed readings): the gate/sticker covers the seam where both zones meet, gathering them under itself rather than sitting beside them as a third object. Simpler and more unified than the draft, and it fuses Form/Figure with the carried-forward time-question in a single gesture.
+- **Naming, proposed by the user:** the tile could be named **Cross-word** — a pun that holds three readings at once: the crossword-puzzle material itself, a "crossed word" (the gate is literally a phrase — "MITÄ AIKA ON?" — laid across the rift), and "cross" as threshold/gate. Proposed, not yet locked in.
+
+Inscription is complete, pending the naming decision.

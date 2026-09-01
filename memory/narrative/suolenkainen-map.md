@@ -24,6 +24,6 @@ Phase-by-phase session narrative lives one file per session in `sessions/`:
 - [S006 — T006 · Shoreline](sessions/s006-shoreline.md)
 - [S007 — T007 · Mesa](sessions/s007-mesa.md)
 - [S008 — T001 · AIKA (revisit)](sessions/s008-aika.md)
-- [S009 — T008](sessions/s009-t008.md)
+- [S009 — T008 · Cross-word](sessions/s009-cross-word.md)
 
 Add a new file to `sessions/` for each new session rather than appending here.
