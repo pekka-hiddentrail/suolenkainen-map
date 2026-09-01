@@ -40,6 +40,12 @@ Status: requested during S007 Chronicle; open question, not yet decided.
 
 Chronicle's Publication category (and the Founding Artifact Draw, when it touches Publication-adjacent work) has always spoken generically — "short post," "social/caption," "website entry," "long post" — without ever naming which actual platform(s) the user intends. In practice, `blog/` posts are the one venue actually used so far (blog-01 through blog-21); Instagram has been floated more than once (see the still-Unscheduled "Generate or review two Instagram post descriptions for S003" item in `map-todo.md`) but never committed to; Reddit has never come up before this session. Needs a real decision: is this blog-only, or should Publication results actually route to specific platforms (Instagram, Reddit, elsewhere) depending on the row rolled? Until decided, keep treating Publication results as drafted text handed to the user rather than assuming any specific destination.
 
+## Delta Candidate - Artifact Draw Maintenance/Deck Reset Must Be a Real Deck Action
+
+Status: requested during S009 Chronicle; user wants to discuss and refine further, not yet a finalized rule.
+
+S009's Founding Artifact Draw rolled Maintenance/Deck reset, satisfied by updating `Cards.csv`'s Last-used/Updated fields for the drawn card — routine bookkeeping that happens every session regardless of what Maintenance rolls. The user flagged this as too thin: Deck reset should mean an actual action on the deck's own structure or composition, not the normal card-tracking already logged as part of drawing. Going forward, candidate concrete actions include: removing a card, adding a card, physically shuffling the deck, or some other real structural change — to be refined further, not fixed yet. Until a fuller rule is adopted, treat "Deck reset" (and likely "Keyword list," "Rule/documentation note," etc. by the same logic) as needing a real, deck-specific action distinct from whatever bookkeeping a session would do anyway.
+
 ## Delta Candidate - Remove the Token/Provision System
 
 Status: requested during S007 Attunement; user wants to discuss removing this mechanic.

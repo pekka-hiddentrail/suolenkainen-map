@@ -15,10 +15,12 @@ Todo types:
 - [x] S004: run new-tile Cartography for T004.
 - [x] S004 Attunement/Inscription: the neighbor condition and preserved rule are resolved — the archaic-symbol contact at T001's SW edge, honored through T004 rewriting some of those symbols in its own schematic pattern rather than literal retention.
 - [ ] T001/Mirror shared corner: go full archaic. Extend the rewritten area further into an archaic-script/scripture register rather than settling as a schematic-hexagon overwrite — lean into continuing/amplifying T001's original language rather than replacing it with T004's. Decided after the schematic-hexagon rewrite was already physically done and photographed; this is the next step on that same corner, not a reversal of it.
+- [ ] Next time T004/Mirror is itself the target tile: extend `../../blog/blog-18-the-fourth-tile-argues-with-the-map.md` to cover Attunement through Chronicle, and release the held-back T001/Mirror witness photo. (Rescheduled with an explicit trigger during S009 Chronicle Maintenance — previously an untriggered permanent note.)
 - [x] S005: Awakening through Chronicle, plus the Artifact Draw, complete for T005 / The Monster.
 - [x] T004's own Artifact Draw (S004 requirement) is bypassed by user decision — not performed, not planned.
 - [x] S006: Awakening through Chronicle, plus the Artifact Draw, complete for T006 / Shoreline.
 - [x] S007: Awakening through Chronicle, plus the Artifact Draw, complete for T007 / Mesa.
+- [x] S009: Awakening through Chronicle, plus the Artifact Draw, complete for T008 / Cross-word.
 - [x] S008: Awakening through Chronicle, plus the Artifact Draw, complete for T001 / AIKA's first-ever existing-tile revisit.
 
 ## Triggered Todos
@@ -31,6 +33,7 @@ Todo types:
 - [ ] When T005 / The Monster or T006 / Shoreline is next worked on, pay T005's unpaid Contagious bleed onto Shoreline. Found post-S006 Chronicle: T005 and T006 are neighbors (T005's NE / T006's SW edge) via the corrected `../tiles/map-diagram.md`, a relation missed during S006's own Awakening. T005's Contagious Origin should have bled onto T006 when it was created and worked this session but didn't, since the adjacency wasn't recognized at the time.
 - [ ] When settlement, road, or building imagery appears again anywhere on the map, or when T007 / Mesa is targeted again: decide whether it expands, connects to Mesa, or remains an isolated origin point. Also resolve Mesa's still-unpaid Office Quiet Cost. (S007 Chronicle Seed; keyword K034 First Settlement created.)
 - [ ] When the name Amedda appears again anywhere on the map, or when T001 / AIKA or T006 / Shoreline is targeted again: decide whether Amedda ever gains an in-world meaning or stays permanently foreign. (S008 Chronicle Seed; keyword K035 Amedda created.)
+- [ ] When a future tile's own division/boundary line becomes, or is covered by, an actual crossing feature, or when T008 / Cross-word or T004 / Mirror is targeted again: decide whether the Rift stays sealed under its sticker-gate or gets reopened. (S009 Chronicle Seed; keyword K036 The Rift created.)
 
 ## Unscheduled Todos
 

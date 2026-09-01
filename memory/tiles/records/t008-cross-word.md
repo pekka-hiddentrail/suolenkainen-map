@@ -6,7 +6,7 @@
 | Name | Cross-word |
 | Coordinate | [-1,1] |
 | Layer / stack | Base tile |
-| Current phase | S009 Inscription complete; named |
+| Current phase | S009 complete: all six phases plus the Artifact Draw |
 | Current map-object identity | Void-born reversed grid-tangled hungry gate |
 | General description | T008 is a new tile created by S009, empty but already touching two existing tiles at once before any walk-back step — T001 (on the edge that would ordinarily be N) and T004 (on the edge that would ordinarily be NW). Brown 4 (even) created it there directly. Its own Tether result, Reversed, flips its compass directions at birth: what would ordinarily be its N and NW edges are recorded as its S and SE edges instead, so T001 sits on T008's S edge and T004 on T008's SE edge going forward. |
 | Neighbor tiles | S / T001 edge (post-Reversed labeling; ordinarily N): T008 inherits T001's "dotti" tag, answering Dotti's still-open S edge; SE / T004 edge (post-Reversed labeling; ordinarily NW): a new relation, distinct from T004's existing NE/T001, N/T006, and NW/T005 edges |
@@ -40,9 +40,16 @@
 | Inscription force | Pushing: the T001-facing zone's schematic lines were emphasized in red, and that red bled across onto **T004's technical/schematic zone specifically** (not its frayed zone) — schematic material crossing onto T004's own pre-existing schematic material. Recorded on T004's own record too. |
 | Inscription residue | Clean: Gate's long-deferred obligation is paid in full this phase; paying it creates no new debt. |
 | Actual Inscription | Red emphasis on the schematic lines bled onto T004's technical/schematic zone. T004's own orange Division-settling line (from its S004 Inscription) was continued onto T008, traced along the matted-thread zone's edges — a second cross-tile continuation alongside the fray itself. The crossword pieces were outlined in green, pulling the thread-zone's color across the seam. Form/Figure resolved as one fused object: the "MITÄ AIKA ON?" sticker itself is the gate, glued directly over the Division seam ("the rift," the user's own term) — satisfying Behavior/Absorb via covering rather than via building a separate absorbing object. **Naming proposed: Cross-word** — reading the crossword material, a "crossed word" (the sticker-gate's own phrase laid across the rift), and "cross" as threshold, all at once. Not yet confirmed. |
+| Chronicle record | Tile state: this record itself, confirmed complete and self-sufficient. |
+| Chronicle witness | Before/after: no before photo exists (new tile) — empty coordinate vs. the finished gradient/rift/gate tile, described in the session log. |
+| Chronicle meaning | Name/title: confirms Cross-word (tile) and Matted (lower zone) as stable names, replacing "T008" alone going forward. |
+| Chronicle publication | Short post: covered by the user's own `../../blog/blog-23-a-gate-born-already-facing-backward.md`. |
+| Chronicle maintenance | Todo list / future-work queue: rescheduled T004/Mirror's dormant "blog-18 extension / held-back witness photo" item with an explicit trigger — next time T004/Mirror is itself targeted. |
+| Chronicle seed | Keyword: K036 "The Rift" created — the Division boundary Surface built and Inscription then covered with a gate. Return when a future tile's own division line becomes/gets covered by a crossing feature, or when Cross-word or Mirror is next targeted. |
+| Artifact draw | S009 Artifact Draw complete: card C071, Brown 1, selected Deck reset directly. Satisfied by updating `../../narrative/cards/Cards.csv` — C071 itself marked as used (Last used/Updated set to 1.9.2026). |
 | Omen sources | C052 Water energy; C130 Robot details |
 | Active token |  |
-| Keywords | *(none yet — T008's Cartography results are one-off unless independently redrawn or made a Seed return condition; see Tags)* |
+| Keywords | K036 The Rift (S009 Chronicle Seed) (T008's Cartography results are one-off unless independently redrawn; see Tags) |
 | Tags | T008; Cross-word; new-tile; already-touching; void-born; reversed; grid-tangled; hungry; gate; edge-inheritance; dotti; water-energy; textile; continuation; crossword; wall; schematic-fragments; Matted; MITA-AIKA-ON; rift; gate-figure |
 | Unresolved | Hungry's one-time copy effect and Grid-Tangled's mechanical reference-point capability remain unspent, though Grid-Tangled now has a physical echo in the crossword strips. Void-Born's tension against Gate/Grid-Tangled/Edge Inheritance is staged throughout (zone contrast, the gate finally built at the seam) but never fully resolved into one answer — likely the tile's permanent character rather than something to close out. Pressure/Conflict's blank-vs-marked was only partly answered at Surface (crossword strips read mostly as "marked"). What was "cut away" from C130 is answered obliquely by the sticker-gate itself, a second cut/prepared thing asking about time, rather than a plain factual answer. **Resolved:** Echo/Continuation (fray continues from T004); Office/Gate (built as the sticker-gate over the rift); Relation/Neighbor (T001, T004 named); Force/Pushing (red schematic bleed onto T004's technical zone). |
-| Last updated by session | S009 Cartography; S009 Attunement; S009 Surface; S009 Inscription complete |
+| Last updated by session | S009 Cartography; S009 Attunement; S009 Surface; S009 Inscription; S009 Chronicle and Artifact Draw complete |

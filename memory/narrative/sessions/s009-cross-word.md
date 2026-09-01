@@ -215,4 +215,40 @@ Actual Inscription:
 - **Form/Figure, resolved as one object with the planned sticker:** rather than building a separate gate figure and placing the "MITÄ AIKA ON?" sticker elsewhere, the sticker itself *is* the gate — glued directly over the Division seam (the user's own term: "the rift"). This satisfies Behavior/Absorb through "cover" (one of its own listed readings): the gate/sticker covers the seam where both zones meet, gathering them under itself rather than sitting beside them as a third object. Simpler and more unified than the draft, and it fuses Form/Figure with the carried-forward time-question in a single gesture.
 - **Naming, proposed by the user:** the tile could be named **Cross-word** — a pun that holds three readings at once: the crossword-puzzle material itself, a "crossed word" (the gate is literally a phrase — "MITÄ AIKA ON?" — laid across the rift), and "cross" as threshold/gate. Proposed, not yet locked in.
 
-Inscription is complete, pending the naming decision.
+Inscription is complete. The tile is named **Cross-word**; its lower, T004-facing zone is named **Matted**.
+
+## Chronicle
+
+Numbers reused from Awakening: Green 2, Blue 3, Red 4 (C052, Water energy); Yellow 3, Brown 4, Black 1 (C130, Robot details). Fixed color mapping: Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed.
+
+Results:
+
+- Record / Green 2: Tile state. Record the final condition of the tile: level, surface, inscriptions, edges, bridges, wounds, names, unresolved effects.
+- Witness / Blue 3: Before/after. Capture both the earlier state and the final state, or describe the difference if no before photo exists.
+- Meaning / Red 4: Name/title. Name something: tile, path, region, wound, weather event, city part, bridge, rule, inscription, or session.
+- Publication / Yellow 3: Short post. Write a short update: a caption, micro-blog, quick note, small progress entry.
+- Maintenance / Brown 4: Todo list / future-work queue. Pick one todo item, update it, complete it, reschedule it, or move it into the next-session queue.
+- Seed / Black 1: Keyword. A word, phrase, tag, motif, pressure, or concept may return later.
+
+Interpreting the results:
+
+- **Record (Tile state):** already fully captured in `../../tiles/records/t008-cross-word.md` — Cartography's six traits, Attunement's six pressures, Surface's gradient/zones/First-Mark-as-Division-line, and Inscription's sticker-gate over the rift. This Chronicle result confirms that record as complete and sufficient to reconstruct the tile without rereading the narrative.
+- **Witness (Before/after):** no before photo exists — the tile didn't exist before this session. Before: an empty coordinate at [-1,1], already touching T001 and T004 but with no physical body. After: a gradient-washed tile split by a First-Mark-seeded boundary (the rift), crossword-and-schematic material on one side (Cross-word), matted frayed thread continuing T004's own old fray on the other (Matted), and a glued "MITÄ AIKA ON?" sticker standing as the gate itself, with a red-schematic bleed and an echoed orange line both crossing onto T004.
+- **Meaning (Name/title):** this result is already satisfied by what happened organically during Inscription — naming the tile **Cross-word** and its lower zone **Matted**. Chronicle confirms both names as the tile's stable, permanent identity going forward, to be used consistently rather than "T008" alone.
+- **Publication (Short post):** covered by the user's own blog post, `../../blog/blog-23-a-gate-born-already-facing-backward.md`, which already narrates this session in full. Not drafted separately here.
+- **Maintenance (Todo list / future-work queue):** picked from `../../tracking/map-todo.md` — T004/Mirror's long-dormant "blog-18 extension" and "held-back T001/Mirror witness photo" item, open since S004 and never given a real trigger. Since this session worked with T004 directly again (the red-schematic bleed, the echoed orange line), it's a natural moment to stop letting it sit as a vague permanent note: rescheduled with an explicit trigger — next time T004/Mirror is itself the target tile.
+- **Seed (Keyword):** creating keyword **K036**, name **"The Rift"** — the user's own term for the Division boundary that Surface built and Inscription then covered with a gate. Return condition: whenever a future tile's own boundary/division line later becomes, or is covered by, an actual crossing feature — or when Cross-word or Mirror is next targeted — revisit whether the Rift stays sealed under its sticker-gate or gets reopened.
+
+Chronicle's main draw is complete.
+
+## Artifact Draw
+
+Card drawn: C071 — Green 2, Blue 6, Red 5, Yellow 5, Brown 1, Black 6.
+
+Brown 1 selects Maintenance row 1 directly from the main Chronicle table (not the Matrix, since Brown ≠ 6):
+
+> **Deck reset:** Shuffle, reset, sort, repair, update, or maintain the card/deck system.
+
+Actual artifact: `../cards/Cards.csv` updated directly — C071 itself marked as used (Last used, Updated both set to 1.9.2026), the concrete deck-maintenance action this result asks for. Distinct from Chronicle's own Maintenance action (the T004 todo-rescheduling), so the two draws don't compete for the same ground.
+
+Chronicle is complete for T008 / Cross-word: all six phases plus the Artifact Draw.
