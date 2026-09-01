@@ -69,6 +69,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - contamination
 - continuation
 - Court-arena
+- crossword
 - dark-center
 - dashed-red-circle
 - defer-and-record
@@ -105,9 +106,11 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - mark
 - mass
 - material
+- matted-thread
 - Mesa
 - mesa
 - misaligned-grids
+- MITA-AIKA-ON
 - mountain
 - mutation
 - neighbor-rule-inheritance
@@ -146,6 +149,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - S007
 - safety-line
 - same-sign-diagonal
+- schematic-fragments
 - settle
 - settlement
 - Shoreline
@@ -183,5 +187,6 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - void-born
 - void-relic
 - walk-back
+- wall
 - warning-checkers
 - water-energy

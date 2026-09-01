@@ -153,7 +153,11 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Open: Void-Born's tension against Gate/Grid-Tangled/Edge Inheritance — a tile whose Origin insists it stands apart, immediately surrounded by mechanisms tying it to both neighbors — is the tile's own central open question, not yet resolved.
 - Cross-tile: T001 gains a new S-edge neighbor for the first time (see T001's own Neighbor tiles field); T004 gains a new SE-edge neighbor, distinct from its existing NE/T001, N/T006, and NW/T005 relations.
 - S009 Attunement: Echo/Continuation picks up T004's own permanently-unsealed frayed-fabric edge as a possible continuation onto T008; Matter/Family sets Textile as the session's material family; Mirror/Phrase reserves C130's own card note ("Robot detail, poorly cut") as an indirect guide; Omen/Question opens "what was cut away, and did it matter?"; Pressure/Conflict names blank-vs-marked, standing in for Void-Born-vs-Gate; Provision/Mark prepares a blank marker for T008's eventual Gate-crossing word.
-- Open: whether T004's frayed edge actually continues onto T008, or stops at the edge, is Surface's decision — if it stops, the stop must be marked explicitly per Continuation's own Effect.
+- Resolved: T004's frayed edge does continue onto T008 — physically confirmed as matted, glued frayed wool thread on T008's T004-facing zone.
+- S009 Surface complete: green-to-beige-to-white acrylic gradient across the whole tile; filled crossword-puzzle strips and green chemical schematics on the T001-facing zone; matted frayed wool thread (grey, light green) on the T004-facing zone; First Mark resolved as the Division boundary line itself (a beige band between the two zones) rather than an isolated dot. Time-related book-page scraps were dropped at Surface.
+- Open, carried to Inscription: a "MITÄ AIKA ON?" ("What is time?") sticker planned for the tile's northern edge, and a clearer follow-up pass on the chemical-schematic layer.
+- Open: Pressure/Conflict's blank-vs-marked is only partly answered — the crossword strips are filled, so this zone reads mostly as "marked" rather than a full blank/filled contrast.
+- Confirmed: Lincoln/Monroe stamps and old map postcards are general stock, not used on T008.
 
 ## Rule And Documentation Obligations
 
