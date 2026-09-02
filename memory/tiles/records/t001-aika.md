@@ -6,7 +6,7 @@
 | Name | AIKA |
 | Coordinate | [0,0] |
 | Layer / stack | Base tile |
-| Current phase | S010 Cartography complete (second existing-tile revisit) |
+| Current phase | S010 Attunement complete (second existing-tile revisit) |
 | Current map-object identity | Contagious tidebound region-marker |
 | General description | T001 is the first origin tile at [0,0]. Cartography makes it contagious, tidebound, region-tangled, and dense; its office is to proclaim by mark while paying a burial cost, and its inheritance is an unresolved edge inheritance. Attunement adds Trace, Acquire, Structure, Hue, restless field transfiguration, and Mark as session pressures. |
 | Neighbor tiles | NE / T002 edge: T002 receives black warning-strip bleed; N / T003 edge: T003 silver grid bleed enters T001 and is stopped; T001 black warning spread bleeds into T003; SW / T004 edge: T004 rewrites some of T001's archaic symbols in its own schematic-hexagon pattern; NW / T006 (Shoreline) edge: Shoreline's Inscription pushes a 24mm silver hexagon pattern into T001, covering a little of the AIKA text; S / T008 edge (new, S009): T008 inherits T001's "dotti" tag via Edge Inheritance — Dotti's still-unanswered S edge finally has a neighbor |
@@ -68,6 +68,7 @@
 | S010 Cartography constraint | Feature Locked: the AIKA anchor text specifically cannot be altered this session. No collision — neither Structural Change nor Attention Drawn targets it. |
 | S010 Cartography cost | Relational Cost: the long-dormant T001–T002 bond becomes a hard, binding obligation — the same move S008 already made for the T001–T006 side of this same underlying question. |
 | S010 Cartography carry-forward | Chronicle must formally record the new Relational Cost with T002. |
+| S010 Attunement | Echo Matrix (Calm + Region + Infected): the old T002/Amedda pressure feels settled but belongs to a whole region now, and that calm is infected by a foreign color waiting to spread in. Matter/Reserve: a yellow-and-black root-like scrap, earmarked for this convergence. Mirror/Old Mirror: T002/Ring, echoed rather than resisted. Omen/Sign: "Yellow energy" itself (C200), not the Dragon — revised per user preference. Pressure/Correction: Connect it — physically join the Spread-points zone and Dotti corridor. Provision/Token: **ignored, forced retcon** — the user does not want the token mechanic; no token created this session (escalates the S007 Delta Candidate on removing tokens, still not finalized). Floated, undecided: treating Dotti as its own nation/region, which would finally exercise T001's long-unspent Region-Tangled Effect. |
 | Omen sources |  |
 | Active token |  |
 | Keywords | K003 Region-Tangled; K007 Burial Cost (re-invoked S008 via Name Spoken, not reinterpreted); K032 Schematic Rewrite (S004 Chronicle Seed, shared with T004/Mirror); K035 Amedda (S008 Chronicle Seed) (T001's other one-off Cartography results — Contagious, Tidebound, Dense, Proclaim, By Mark, Edge Inheritance, AIKA — were retired as keywords under the recurrence rule; see Tags) |

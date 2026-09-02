@@ -78,3 +78,56 @@ Obligations for later phases:
 Loggable note:
 
 S010 Cartography reads Green 6 as Convergence, recognizing that T001's two currently-open Unresolved items — the original S002 T002-facing warning-checker question and S008's Amedda-meaning question — were never actually separate, and hard-binds the long-dormant T001–T002 side of that question the same way S008 already hard-bound the T006 side.
+
+## Attunement
+
+Numbers reused from Awakening: Green 6, Blue 4, Red 2 (C200, Yellow energy); Yellow 1, Brown 5, Black 4 (C150, Dragon). Fixed color mapping: Green = Echo, Blue = Matter, Red = Mirror, Yellow = Omen, Brown = Pressure, Black = Provision.
+
+Green rolls a 6, calling the Echo Matrix, read using this session's own Yellow/Brown/Black (Yellow 1, Brown 5, Black 4):
+
+- Yellow — Feeling, row 1: **Calm**. The echo feels settled, quiet, balanced, or resolved.
+- Brown — Boundary, row 5: **Region**. The echo belongs to a larger area, field, territory, grid, cluster, or shape.
+- Black — Distortion, row 4: **Infected**. The echo is contaminated by another color, material, region, pattern, or idea.
+
+Results:
+
+- Echo / Green 6: Echo Matrix — Calm + Region + Infected.
+- Matter / Blue 4: Reserve. Store one found material, scrap, texture, image, or object in the active reserve for future use.
+- Mirror / Red 2: Old Mirror. Find one older tile, scan, photo, or layer that the target tile should echo or resist.
+- Omen / Yellow 1: Sign. Choose one visible element from the card/image/sign. It becomes an omen for later work.
+- Pressure / Brown 5: Correction. Choose one correction the tile seems to demand.
+- Provision / Black 4: Token. Create one pending token, card, note, or marker for an unresolved effect.
+
+Interpreting the results — and this is one of those sessions where the matrix result and the physical instinct arrived at the same place independently:
+
+- **Echo Matrix (Calm + Region + Infected):** the old warning-checker/Amedda pressure feels dormant and settled on its surface (Calm) — it's been quietly watched for years without incident — but it actually belongs to a whole region-level structure now (Region: the newly-recognized Spread-points-plus-Dotti system, not a single edge), and that calm is deceptive, because the region is Infected: contaminated by a color or material from somewhere else. This reads directly as the user's own proposed physical image: T002's own material — yellowish and blackish, echoing its buried-threshold/black-warning-bleed identity — spreading in as a contaminating root system, unsettling a boundary that had looked calm and settled.
+- **Mirror/Old Mirror:** **T002/Ring itself** — its plastic ring, dark center, black warning-strip bleed, and void-relic Court-arena lore. Decided now, per the result's own Effect: **echo, not resistance**. Convergence is about reconciling two old pressures, not fighting them, so T001 should echo T002's own visual language (yellowish/blackish, buried/root/mountain material) rather than push back against it.
+- **Omen/Sign, revised:** not the Dragon — **"Yellow energy" itself** (C200's own concept, a burst/glow/radiating yellow force), used with no further card-art detail beyond the name. This actually fits the physical plan more directly than the Dragon did: the governing sign is now literally the same color doing the tainting, rather than a creature standing in for it.
+- **Matter/Reserve:** a length of yellow-and-black material (yarn, wire, or dyed root-like scrap) reserved now, specifically earmarked as the "root" material for this convergence — available through next session if not used immediately.
+- **Pressure/Correction — Connect it:** the plainest possible reading, and it matches Cartography's own Structural Change exactly: Surface's required action is to physically **connect** the two zones (Spread-points and Dotti) rather than leave them as two separate named areas that merely happen to share a Cartography note.
+- **Provision/Token — ignored, forced retcon:** the user does not want the token mechanic to exist. For this session, Provision/Token is simply skipped — no token gets created. This escalates (but does not yet resolve) the existing S007 Delta Candidate "Remove the Token/Provision System" in `../../rules/rules-delta.md`; still not a finalized rule, and past tiles' existing token references are left untouched as historical record.
+
+Story of Attunement:
+
+1. Echo: the old pressure feels calm on the surface, but it belongs to a whole region now, and that calm is infected by a foreign color already waiting to spread in.
+2. Matter: a yellow-and-black root-like scrap is reserved, earmarked for this specific convergence.
+3. Mirror: T002/Ring is the old mirror, to be echoed rather than resisted.
+4. Omen: "Yellow energy" itself becomes the governing sign — the same color doing the tainting, not a creature standing in for it.
+5. Pressure: the two zones must be connected, not merely cross-referenced on paper.
+6. Provision: ignored this session, per the user's forced retcon — no token gets created.
+
+Attunement todo list (session-scoped prep, not the persistent queue):
+
+- Reserve a yellow-and-black root-like scrap (yarn, wire, dyed paper, or similar) for this session's use.
+- Treat T002/Ring as the working visual reference — echo its buried/root/mountain material language, don't resist it.
+- Keep "Yellow energy" itself in mind as the governing sign for how the root/taint material should read.
+- At Surface, physically connect the Spread-points zone and the Dotti corridor — a required action, not optional.
+- No Provision/token prep needed this session.
+
+Concrete material decisions made ahead of Surface, per the user's own proposed direction:
+
+- T002/Ring's own mountain becomes tainted with yellow and black, and that taint travels down T001's eastern edges (the NE contact with T002, curving along toward the S/SW where Dotti sits) rather than cutting straight across.
+- Dotti's own material extends to meet that taint partway, giving Structural Change and Pressure/Correction's "connect it" a literal physical route.
+- Both routes bend around the AIKA anchor rather than crossing it directly — satisfying Constraint/Feature Locked without needing to think about it as a separate restriction.
+- Floated, not yet decided: treating **Dotti as a nation/region** in its own right. This would be a strong, concrete way to finally exercise T001's own Region-Tangled Entanglement (from S001) — its Effect ("Name the region this tile belongs to...") has sat unspent since the tile's birth. Worth deciding explicitly rather than drifting into it.
+- Explicitly preliminary — to be refined once Surface actually begins.
