@@ -131,3 +131,57 @@ Concrete material decisions made ahead of Surface, per the user's own proposed d
 - Both routes bend around the AIKA anchor rather than crossing it directly — satisfying Constraint/Feature Locked without needing to think about it as a separate restriction.
 - Floated, not yet decided: treating **Dotti as a nation/region** in its own right. This would be a strong, concrete way to finally exercise T001's own Region-Tangled Entanglement (from S001) — its Effect ("Name the region this tile belongs to...") has sat unspent since the tile's birth. Worth deciding explicitly rather than drifting into it.
 - Explicitly preliminary — to be refined once Surface actually begins.
+
+## Surface
+
+Numbers reused from Awakening: Green 6, Blue 4, Red 2 (C200, Yellow energy); Yellow 1, Brown 5, Black 4 (C150, Dragon). Fixed color mapping: Green = Ground, Blue = Substance, Red = Application, Yellow = Treatment, Brown = Structure, Black = Opening.
+
+No First Mark this session — that rule is specific to a tile's birth, and T001 already has one from S001.
+
+Green rolls a 6, calling the Ground Matrix — never touched before this session, so all three landed cells were TBD and are now newly interpreted and folded into `../../rules/map-creation-rules.md`:
+
+- Yellow — Source, row 1: **Edge**. The ground's condition comes from a contact edge already active on the tile, not an outside card/omen or an unrelated internal source.
+- Brown — Behavior, row 5: **Stains**. The ground's condition behaves like a stain — seeping, discoloring, spreading the way a spill or contamination would.
+- Black — Consequence, row 4: **Be protected**. The resulting condition becomes load-bearing: later Application, Treatment, or Structure choices must not override or erase it.
+
+Results:
+
+- Ground / Green 6: Ground Matrix — Edge + Stains + Be protected.
+- Substance / Blue 4: Precise. Choose something clean, measured, sharp, ruled, geometric, controlled, or technical.
+- Application / Red 2: Sparingly. Apply it in small amounts, fragments, hints, partial marks, or minimal touches.
+- Treatment / Yellow 1: Muted. Keep hue, contrast, texture, or finish quiet, pale, softened, or restrained.
+- Structure / Brown 5: Shape. Establish a larger geometry, recognizable at a glance.
+- Opening / Black 4: Breach. Create or imply a cut, tear, gap, rupture, void, window, or broken continuity — must actually interrupt the foundation's continuity somewhere real.
+
+Interpreting the six results together:
+
+- **Ground Matrix (Edge + Stains + Be protected)** names exactly what's already been decided: the ground's condition originates at the **T002 edge** (the NE contact — the newly-filled Source cell describes precisely this), behaves like a **stain** spreading down toward Dotti rather than a clean application, and once laid down, that tainted condition must be **protected** — later phases can't just paint over or erase the connection. This last part gives Pressure/Correction's "connect it" real teeth: once the two zones are joined, the join has to stay.
+- **Substance/Precise**, in real tension with the "organic root/stain" image: resolved by rendering the taint in a *technical* register rather than a loose organic one — wire, ruled lines, or cut geometric shapes standing in for roots, echoing T002's own buried-threshold material and the campaign's established schematic/technical vocabulary (T001's own electrical scraps, T004's schematic hexagons). A precise, controlled root, not a sloppy bleed.
+- **Application/Sparingly** tempers the whole route: the taint appears as scattered small marks or fragments along its path, not a solid thick line — consistent with roots being thin, reaching tendrils rather than a mass. Clearly more untouched tile than touched, along the whole route.
+- **Treatment/Muted**, in tension with wanting bold yellow and black: resolved by keeping everything *else* on the tile quiet and restrained, so the taint reads as the deliberate exception the result's own Effect explicitly allows for — it stands out precisely because the baseline stays muted.
+- **Structure/Shape**: the route reads as a recognizable **arc** — curving from the T002/NE edge down around the AIKA anchor to the S/SW where Dotti sits. Not a straight cut, an actual bend, matching both the "circle around AIKA" plan and Dotti's own established corridor identity.
+- **Opening/Breach**, in real tension with Pressure/Correction's "connect it": the arc is real and mostly continuous, but carries **one deliberate gap** somewhere along its length — an honest acknowledgment that reconciling two old pressures doesn't mean total, seamless connection. Something stays torn even as the two zones are joined.
+
+Surface instruction:
+
+1. Along T001's NE edge (T002 contact) curving down around the AIKA anchor to the S/SW (Dotti), lay a sparse, technical-looking root/taint: wire, ruled lines, or cut geometric fragments rather than an organic bleed — small scattered marks, not a solid line (Substance: Precise; Application: Sparingly).
+2. Color the taint yellow and black, and keep everything else on the tile muted/restrained so the taint reads as the deliberate exception (Treatment: Muted).
+3. Shape the whole route as a recognizable arc at a glance (Structure: Shape) — bending around the AIKA anchor rather than crossing it (Constraint: Feature Locked, already established at Cartography).
+4. Leave one real, deliberate gap somewhere along the arc's length — the connection is genuine but not total (Opening: Breach).
+5. Once laid down, treat the taint as load-bearing: it should not be casually covered or erased by anything else done to the tile this session or later (Ground Matrix: Be protected).
+
+This is a starting proposal — adjust materials or the arc's exact path based on what's actually on hand.
+
+Actual Surface:
+
+- **The connection runs both directions, as planned:** Dotti's own green paper continues along T001's eastern edge up toward T002 — with a small leak into T008 — while T002's own "mountain ridges" flow the other way onto T001, accentuated with white tissue paper. The two materials genuinely meet rather than one simply arriving.
+- **Real cross-tile cost on T002:** the incoming green covers parts of T002's own red circle, black circle, and the roadway around the ring. Not erased — the user expects these to be redrawn or otherwise answered at Inscription, which is exactly what Ground Matrix's "Be protected" asks for: the connection, once made, isn't something later work casually erases back to how T002 looked before.
+- **T002's ridge material covers T001's own warning strip** on the NE edge — a second real, physical consequence, this time landing on T001 itself rather than a neighbor.
+- **Structure/Shape, physically resolved:** a compass-drawn circle following roughly Dotti's own edges, with a second green point spreading along it. The far edge of that painted strip is deliberately uneven — a real, physical irregularity, not a clean line. This also reads as Opening/Breach: the uneven edge is the real interruption the result asked for, not merely implied.
+- **Substance/Precise, honestly reconciled:** the paint and tissue themselves read as organic, not technical — but the compass-drawn circle is a genuinely deliberate, controlled, measured method, which is where Precise actually shows up this session, rather than in the material's own texture.
+- **Application/Sparingly, mixed result:** the yellow-and-black bleed onto T002 is explicitly described as subtle markers — a clean match. But the green paper/tissue/stippling covers more ground than "small amounts, hints, minimal touches" would suggest. Recorded honestly as a partial resolution, not forced.
+- **Treatment/Muted, live tension:** the yellow/black stays quiet, satisfying Muted directly. But the green material is trending toward dominance rather than staying a quiet baseline — especially now that it's reading as a forest. Left as an open tension, not resolved.
+- **Small additional bleeds:** the green paint also reaches a little further onto T004 and T006 — continuing, not replacing, the relationships already established in S008.
+- **A new direction, arriving mid-craft:** lighter green stippled over the existing green areas is starting to read as **Dotti becoming a forest nation** — with buildings floated as a possible future addition. This gives T001's long-unspent Region-Tangled Effect (name the region this tile belongs to) its first real, physically-grounded candidate: not just "Dotti," but specifically a forest nation. Not yet formally locked in — a strong candidate for Inscription or Chronicle to confirm.
+
+Surface is complete.

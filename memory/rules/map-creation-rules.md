@@ -903,11 +903,11 @@ What kind of base condition should the tile have?
 
 |  | Yellow — Source | Brown — Behavior | Black — Consequence |
 | :---- | :---- | :---- | :---- |
-| 1 | Edge: TBD | Settles: TBD | Remain visible: TBD |
+| 1 | Edge: Let the ground's condition come from a contact edge, border, or crossing point already active on the tile. The foundation should read as shaped by that specific edge, not by an outside card, omen, or an unrelated internal source. | Settles: TBD | Remain visible: TBD |
 | 2 | Omen: TBD | Spreads: TBD | Be partly buried: TBD |
 | 3 | Archive: TBD | Gathers: TBD | Be interrupted: TBD |
-| 4 | Void: TBD | Divides: TBD | Be protected: TBD |
-| 5 | Weather: TBD | Stains: TBD | Create future pressure: TBD |
+| 4 | Void: TBD | Divides: TBD | Be protected: The ground's resulting condition becomes something later Application, Treatment, or Structure choices must not override or erase — it stays load-bearing and off-limits once set, rather than an ordinary base layer available for later revision. |
+| 5 | Weather: TBD | Stains: Let the ground's condition behave like a stain — seeping, discoloring, or leaving residue across the foundation, the way a spill or contamination would spread, rather than a clean or evenly-applied change. | Create future pressure: TBD |
 | 6 | Contradiction: TBD | Shifts: TBD | Stay unresolved: TBD |
 
 ## Substance
