@@ -232,3 +232,52 @@ Actual Inscription:
 - **Scale Matrix's Jumps by relation did not happen this session:** no seed-marks were added to T004, T006, or T008. Left honestly unresolved rather than assumed — Force/Propagating's own reach still stands on Surface's already-delivered paint bleeds, but the Inscription-level "jump" specifically stays undone, a live option for a future session rather than something quietly completed here.
 
 Inscription is complete.
+
+## Chronicle
+
+Numbers reused from Awakening: Green 6, Blue 4, Red 2 (C200, Yellow energy); Yellow 1, Brown 5, Black 4 (C150, Dragon). Fixed color mapping: Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed.
+
+Green rolls a 6, calling the Record Matrix, read using this session's own Yellow/Brown/Black (Yellow 1, Brown 5, Black 4):
+
+- Yellow — Focus, row 1: **Tile**. Record the target tile itself: identity, coordinate, final state, visible changes, and unresolved details.
+- Brown — Form, row 5: **Map-wide record**. Put the note somewhere the wider map can find it.
+- Black — Consequence, row 4: **Keeps tension alive**. The tension remains meaningful but does not have to block closure.
+
+Results:
+
+- Record / Green 6: Record Matrix — Tile + Map-wide record + Keeps tension alive.
+- Witness / Blue 4: Detail capture. Photograph or scan a close-up: wound, edge, mark, path, bridge, texture, inscription, or special rule area.
+- Meaning / Red 2: Session diary. Write a personal process note: what you did, what surprised you, what decisions you made.
+- Publication / Yellow 1: No public action. Keep this session private for now.
+- Maintenance / Brown 5: Physical maintenance. Repair, clean, flatten, glue, protect, label, sleeve, store, or stabilize materials.
+- Seed / Black 4: Return condition. A specific event, draw, tile state, edge contact, color number, or rule trigger will wake something later.
+
+Interpreting the results:
+
+- **Record Matrix (Tile + Map-wide record + Keeps tension alive):** the record centers on T001 itself, written so the wider map can find and reference it (already the practice this whole session — every cross-tile effect got logged on both records), and it deliberately does not force closure on this session's live tensions: Treatment/Muted vs. the green's growing dominance, and whether T004/T006/T008 belong to the forest-nation region. Both stay open and meaningful, not smoothed over.
+- **Witness/Detail capture:** the natural subject is the seven buildings under the Dotti sign, ideally alongside the re-clarified AIKA text nearby — the moment Dotti's forest-nation identity actually became visible on the tile.
+- **Meaning/Session diary:** the real surprises this session were the axis-vs-diagonal walk-back tie (a genuinely new rules case, resolved into a permanent general rule), the user's forced retcon of the Provision/token mechanic, and the way Substance/Precise ended up satisfied by the compass's method rather than the material itself.
+- **Publication/No public action:** this Chronicle's own publication action stays internal — no new website-draft update this time. Separately and independently, the user's own `../../blog/blog-24-the-wheel-that-chose-the-nearer-door.md` already covers this session in full; that's the user's own ongoing practice, not something the dice govern.
+- **Maintenance/Physical maintenance:** given this session's real material work (green paper, white tissue, paint, redrawn T002 features, the compass circle), the fitting action is to check that everything has properly set/adhered and apply a protective pass if needed — left as a physical action for you to do and report.
+- **Seed/Return condition:** named concretely — return when T004, T006, or T008 is next targeted, or when forest/settlement imagery appears again anywhere on the map: decide whether those three tiles get formally identified as part of T001's forest-nation region (earning the shared keyword Region-Tangled's own Effect promises), or stay merely adjacent to it.
+
+Chronicle's Record, Meaning, and Publication results are complete as written above.
+
+**Actual Chronicle:**
+
+- **Witness (Detail capture):** detail shots taken of the seven buildings and the re-clarified AIKA text, as planned.
+- **Maintenance (Physical maintenance):** some papers that weren't glued well enough were re-glued and stabilized.
+
+Chronicle's main draw is complete.
+
+## Artifact Draw
+
+Card drawn: C183 — Green 6, Blue 1, Red 3, Yellow 2, Brown 3, Black 5.
+
+Brown 3 selects Maintenance row 3 directly from the main Chronicle table (not the Matrix, since Brown ≠ 6):
+
+> **Rule/documentation note:** Write or revise a rule note, clarify a table, record an ambiguity, or update documentation.
+
+Actual artifact: a new clarifying note added to `../../rules/map-creation-rules.md`'s Publication section, "Publication vs. the user's own independent publishing" — directly addressing this session's own live ambiguity (Publication rolled No public action, while the user's own blog-24 already covered the session independently). States plainly that Chronicle's Publication result governs the ritual's own action, not the user's separate blogging practice, so the two are recorded as parallel facts rather than a contradiction to resolve. Distinct from Chronicle's own Maintenance action (re-gluing loose papers), so the two draws don't compete for the same ground.
+
+Chronicle is complete for T001 / AIKA's second revisit: all six phases plus the Artifact Draw.

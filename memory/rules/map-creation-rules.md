@@ -1536,6 +1536,8 @@ Where does the session’s meaning come from, and how should it be told?
 
 Who is this session for, and how and when should it be shared?
 
+**Publication vs. the user's own independent publishing:** Chronicle's Publication result governs what the ritual itself does this session — draft a caption, update a website entry, keep it private, and so on. It does not control, override, or need to match the user's own separate blogging practice, which has run in parallel across many sessions regardless of what Publication rolls. If Publication rolls No public action (or anything else) in a session where the user has already written their own blog post about it, record both facts as they actually are — the roll's own action, and the user's independent publication — rather than treating them as a contradiction to resolve.
+
 ### No public action
 *"Keep this session private for now. Record it internally only."*
 
