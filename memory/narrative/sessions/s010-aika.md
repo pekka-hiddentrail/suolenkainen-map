@@ -185,3 +185,50 @@ Actual Surface:
 - **A new direction, arriving mid-craft:** lighter green stippled over the existing green areas is starting to read as **Dotti becoming a forest nation** — with buildings floated as a possible future addition. This gives T001's long-unspent Region-Tangled Effect (name the region this tile belongs to) its first real, physically-grounded candidate: not just "Dotti," but specifically a forest nation. Not yet formally locked in — a strong candidate for Inscription or Chronicle to confirm.
 
 Surface is complete.
+
+## Inscription
+
+Numbers reused from Awakening: Green 6, Blue 4, Red 2 (C200, Yellow energy); Yellow 1, Brown 5, Black 4 (C150, Dragon). Fixed color mapping: Green = Scale, Blue = Form, Red = Behavior, Yellow = Relation, Brown = Force, Black = Residue.
+
+Green rolls a 6, calling the Scale Matrix — never touched before this session, so all three landed cells were TBD and are now newly interpreted and folded into `../../rules/map-creation-rules.md`:
+
+- Yellow — Extent, row 1: **Seed**. The inscription starts from a single small point or kernel, not yet spread or reaching any edge.
+- Brown — Expansion law, row 5: **Jumps by relation**. It doesn't travel by continuous contact — it appears at a related tile or feature elsewhere because of a shared relation, skipping the space in between.
+- Black — Limit, row 4: **Breaks at seam**. Its reach stops exactly at a seam or division already present on the tile, even where it could otherwise continue.
+
+Results:
+
+- Scale / Green 6: Scale Matrix — Seed + Jumps by relation + Breaks at seam.
+- Form / Blue 4: Pattern. Grid, patchwork, repetition, cells, hatching, texture, district logic, weave.
+- Behavior / Red 2: Spread. Grow, bleed, branch, multiply, expand, continue.
+- Relation / Yellow 1: Self. The tile itself: its surface, center, wound, mood, or internal logic.
+- Force / Brown 5: Propagating. The force spreads outward through multiple connected tiles at once, rather than one bridge or transmission line.
+- Residue / Black 4: Debt. Creates a future obligation for Chronicle or another session.
+
+Interpreting the results — this draw is the moment Dotti's forest-nation direction, floated at Surface, gets a physical and mechanical answer:
+
+- **Form/Pattern + Scale Matrix's Seed + Behavior/Spread, combined:** one small seed-mark planted within Dotti — the literal first building or tree — from which a few repeating building/tree-like marks grow outward. This is also the map's second-ever settlement-style imagery, directly triggering T007/Mesa's own **K034 First Settlement** return condition ("when settlement, road, or building imagery appears again anywhere on the map").
+- **Scale Matrix's Breaks at seam:** this growing pattern stays entirely on Dotti's own side of the internal seam Cartography's Structural Change created — it does not cross into the Spread-points/warning-checker zone, and does not cross the AIKA anchor (Feature Locked, already established).
+- **Relation/Self:** the meaning of this mark is intrinsic to T001 — it's about what Dotti *is* becoming, not something that needs T002's or T006's own record to make sense.
+- **Force/Propagating + Scale Matrix's Jumps by relation, combined:** the forest-nation identity itself doesn't need to travel continuously to reach T004, T006, and T008 — small matching seed-marks can simply appear on each of them, because a relation already exists (the small green bleeds already delivered this session and in S008/S009). Naming the actually-reached tiles, per Propagating's own Effect: **T004, T006, T008**.
+- **This is the moment to formally exercise T001's own Region-Tangled Entanglement**, unspent since S001. Its Effect: "Name the region this tile belongs to. If a later tile is ever identified as part of the same region, both tiles gain a shared keyword marking that region." **Named: Dotti — a forest nation.**
+- **Residue/Debt**, named concretely: Region-Tangled's own Effect requires a real *identification* decision, not just a bleed — so the debt is deciding whether T004, T006, and T008 (all already touched by Dotti material) actually get identified as part of the same forest-nation region, or stay merely adjacent to it. Not resolved now; recorded as a real Chronicle debt.
+
+Inscription instruction:
+
+1. Plant one small seed-mark within Dotti — the literal first building or tree — near the compass-circle's own uneven edge from Surface.
+2. From that seed, add a few small repeating building/tree-like marks (at least a few, to read as a pattern rather than a coincidence).
+3. Keep the whole pattern on Dotti's own side of the internal seam; do not let it cross into the Spread-points zone or touch the AIKA anchor.
+4. Optionally, add one small matching seed-mark each on T004, T006, and T008 — not connected by a continuous line, appearing there because a relation already exists.
+5. No further material changes required elsewhere — Relation, Force, and Residue are already satisfied by naming Dotti's forest-nation identity and flagging the T004/T006/T008 identification question as a real debt.
+
+This closes the loop Attunement opened with the floated "Dotti as a nation" idea: Region-Tangled finally gets named, and the debt of who else belongs to that region is handed to Chronicle rather than quietly assumed.
+
+Actual Inscription:
+
+- **T002's covered features fully redrawn:** the red circle, black circle, and roadway/driveway that Surface's incoming green had covered were all restored. Ground Matrix's "Be protected" reading holds — the connection stays, but T002's own identity wasn't erased by it.
+- **Seven buildings drawn under the Dotti sign** — a concrete, countable repeating pattern (Form/Pattern, satisfying its own Effect's "repeats at least a few times" requirement outright), confirming the map's second-ever settlement-style imagery and triggering T007/Mesa's K034 First Settlement return condition for real, not just provisionally.
+- **The AIKA text was clarified again** where the forest had slightly covered it — the same "refuses burial" move this anchor has made every time something threatens to cover it, now against its own tile's forest rather than an outside material.
+- **Scale Matrix's Jumps by relation did not happen this session:** no seed-marks were added to T004, T006, or T008. Left honestly unresolved rather than assumed — Force/Propagating's own reach still stands on Surface's already-delivered paint bleeds, but the Inscription-level "jump" specifically stays undone, a live option for a future session rather than something quietly completed here.
+
+Inscription is complete.

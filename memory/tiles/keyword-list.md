@@ -69,6 +69,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - contagious
 - contamination
 - continuation
+- convergence
 - Court-arena
 - Cross-word
 - crossword
@@ -92,6 +93,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - fan-brush
 - first-civilization
 - flooded-coastline
+- forest-nation
 - gate
 - green-bleed
 - green-earth
@@ -167,6 +169,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - star-canyon-grid
 - stops-short
 - stranger
+- structural-change
 - supernova-city
 - T001-warning-bleed
 - T002

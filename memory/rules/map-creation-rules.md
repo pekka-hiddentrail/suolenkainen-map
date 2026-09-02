@@ -1158,11 +1158,11 @@ How far does the inscription extend, and what stops it?
 
 |  | Yellow — Extent | Brown — Expansion law | Black — Limit |
 | :---- | :---- | :---- | :---- |
-| 1 | Seed: TBD | Grow outwards: TBD | Stops at edge: TBD |
+| 1 | Seed: The inscription starts from a single small point or kernel, not yet spread, patched, or reaching any edge. Whatever comes later must be traceable back to that one origin point. | Grow outwards: TBD | Stops at edge: TBD |
 | 2 | Patch: TBD | Repeats: TBD | Leaves gaps: TBD |
 | 3 | Body: TBD | Thickens: TBD | Crowds itself: TBD |
-| 4 | Edge-reach: TBD | Follow contact: TBD | Breaks at seam: TBD |
-| 5 | Map-reach: TBD | Jumps by relation: TBD | Creates debt: TBD |
+| 4 | Edge-reach: TBD | Follow contact: TBD | Breaks at seam: The inscription's reach stops exactly at a seam, boundary, or division line already present on the tile — it does not cross that internal seam, even where it could otherwise continue. |
+| 5 | Map-reach: TBD | Jumps by relation: The inscription doesn't travel by continuous contact — it appears at a related tile, edge, or feature elsewhere on the map because of a shared relation (an old mirror, an inherited tag, a matching keyword), skipping the space in between rather than crossing it. | Creates debt: TBD |
 | 6 | Impossible Scale: TBD | Changes size/rule: TBD | Cannot resolve now: TBD |
 
 ## Form
