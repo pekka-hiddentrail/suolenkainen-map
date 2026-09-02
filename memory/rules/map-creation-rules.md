@@ -78,6 +78,18 @@ When checking whether a raw target already touches the map, check it against *ev
 
 The logic works like this. From the empty coordinate, identify the nearest of three reference lines running through the origin: the diagonal where the absolute values of both coordinates are equal, or either of the two axes where one coordinate is zero. (The diagonal itself is really two different lines with different walking behavior — see "Walking the two different diagonals" below.) If the target is equidistant between two of these lines, the black card number breaks the tie — odd sends the target to the counter-clockwise option, even to the clockwise one.
 
+### Which Line Counts as Clockwise (Resolving Reference-Line Ties)
+
+There are really four candidate lines, not three: the two axes (where q or r is zero) and the two diagonals (same-sign, where q=r, and opposite-sign, where q=-r). Laid out around the origin, their eight rays fall on a fixed clockwise wheel that lines up with the map's own six hex directions, with the same-sign diagonal's two rays sitting in the otherwise-empty gaps between NE/SE and between SW/NW:
+
+**N** (opposite-sign diagonal, q>0 side) → **NE** (axis r=0, q>0 side) → **[E]** (same-sign diagonal, q=r>0 side) → **SE** (axis q=0, r>0 side) → **S** (opposite-sign diagonal, q<0 side) → **SW** (axis r=0, q<0 side) → **[W]** (same-sign diagonal, q=r<0 side) → **NW** (axis q=0, r<0 side) → back to **N**.
+
+A tie can only ever happen between two rays that sit next to each other on this wheel — always an axis and the diagonal immediately beside it, never axis-vs-axis or diagonal-vs-diagonal. (Reasoning: axis-vs-axis would require |q|=|r|, but that always puts the target exactly on one of the two diagonals at distance zero, which wins outright instead of tying. Diagonal-vs-diagonal would require q=0 or r=0, which puts the target exactly on an axis at distance zero, same outcome.) So whenever this tie-break actually comes up, it's always one specific axis against its one neighboring diagonal.
+
+To resolve it: **even black sends the target to whichever of the two tied rays comes next going clockwise around the wheel above; odd black sends it to whichever comes next going counter-clockwise.** (This includes the wrap: going clockwise from NW leads to N, not backward to SW.)
+
+Worked example (first found in S010): target [1,2] ties between the axis q=0 (SE side, distance |q|=1) and the same-sign diagonal (E side, distance |q-r|=1). On the wheel, SE sits clockwise of E. Black 4 (even) → clockwise → the axis (SE) wins the tie.
+
 From there, move one step toward that reference line. Check the new position: does it touch the existing map, either by landing on a tile or by being adjacent to one? If not, move again. Keep moving until the target lands somewhere that touches the existing map.
 
 To make it concrete: a target at [-4, 5] would first identify the diagonal as its nearest reference line. It steps to [-4, 4], then along the diagonal toward [-3, 3], [-2, 2], [-1, 1]. At [-1, 1], the target is adjacent to an existing tile. Stop.
