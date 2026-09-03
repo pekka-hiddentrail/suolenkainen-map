@@ -48,9 +48,11 @@ S009's Founding Artifact Draw rolled Maintenance/Deck reset, satisfied by updati
 
 ## Delta Candidate - Remove the Token/Provision System
 
-Status: requested during S007 Attunement; user wants to discuss removing this mechanic.
+Status: requested during S007 Attunement; escalated during S010 Attunement to a forced retcon for that one session; still not a finalized permanent rule.
 
 The user finds the Provision category's token/marker mechanic ("prepare one blank label, tag, marker, or notation piece for possible later use") unsatisfying in practice — they report having several reserved tokens sitting unused with no real purpose, and want to discuss dropping the token system altogether. Not yet adopted or scoped: removing or replacing one of Attunement's six categories is a structural change (Attunement is built as six parallel questions: Echo, Matter, Mirror, Omen, Pressure, Provision), so it needs a real decision about what happens to the "Black" color slot in Attunement's fixed mapping if Provision goes — replaced with something else, folded into another category, or the six-question structure itself changes. Do not remove anything yet; this is a flagged discussion, not an adopted ruling. In the meantime (S007), rather than leave another inert unlabeled token, T007's own Provision/Mark result was given a concrete, specific purpose instead of a generic placeholder — see the S007 session log.
+
+**S010 escalation:** when Black 4 rolled Token for T001's own Attunement, the user explicitly said they don't want the token mechanic to exist and directed a "forced retcon" — for that session, Provision/Token was simply ignored (no token created), scoped to that one session only. Past tiles' existing token references (T001, T002, T003, T004, T007) were deliberately left untouched as historical record, not retroactively rewritten. The underlying structural question — what permanently replaces Provision, if anything — is still open and still needs a real decision before this becomes an adopted rule.
 
 ## Adopted Delta - Brown Even Creates Last-Free New Tile
 
