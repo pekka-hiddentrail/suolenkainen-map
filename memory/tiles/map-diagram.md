@@ -33,6 +33,7 @@ An ASCII drawing of the physical map, laid out by real coordinate, not just list
 | T006 | Shoreline | [0,-1] |
 | T007 | Mesa | [2,-2] |
 | T008 | Cross-word | [-1,1] |
+| T009 | *(unnamed)* | [0,1] |
 
 T004 is drawn attached to this cluster now, touching T001 directly on T004's NE / T001's SW edge. Its coordinate was originally recorded as [-1,-1] — two steps from T001 and not touching anything — but that walk-back had ticked both coordinates of a same-sign diagonal at once, which isn't a real single hex step (there is no direct E/W side). Re-walking with real NE/SE steps found map contact one step earlier, at [-1,0]; see `../rules/rules-delta.md`'s same-sign-diagonal entry for the full derivation.
 
@@ -41,6 +42,8 @@ T005 / The Monster and T006 / Shoreline are now both drawn in, added by the user
 **Pending redraw:** T007 / Mesa was created at [2,-2] during S007, touching only T003 on T007's S / T003's N edge — a pure N step, the same relationship T003 already has to T001. Per the verified formula, T007 sits at offset (row -6, col 0) from T003, i.e. (row -12, col 0) from T001: directly above T003's own hex, twice the pure-north distance from the origin, no horizontal shift. It's listed in the summary table above but left out of the ASCII block for now — extending the block upward by one more N-step is straightforward in principle, but is better done with the physical tiles or a rendered view at hand to confirm the seams line up, rather than blind here.
 
 T008 was created at [-1,1] during S009, touching T001 on a pure S step (offset row +6, col 0 from T001) and T004 on a SE step (offset row +3, col +8 from T004) — both consistent with each other, since T004 itself sits SW of T001. Also listed in the summary table only, for the same reason as T007.
+
+T009 was created at [0,1] during S011, touching T002 on a pure S step from T002 (offset row +6, col 0), T001 on a pure SE step from T001 (offset row +3, col +8), and T008 on a pure NE step from T008 (offset row -3, col +8) — a triple-touch landing, consistent across all three. Also listed in the summary table only, pending a careful redraw alongside T007 and T008.
 
 ## How to draw or extend this
 

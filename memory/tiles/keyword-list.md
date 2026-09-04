@@ -30,6 +30,7 @@ This was applied retroactively: K001, K002, K004–K006, K008–K015, K017–K02
 | K034 | First Settlement | Active | Chronicle / Seed | Seed keyword created by T007/Mesa's S007 Chronicle (Black 1: Keyword): Mesa's Inscription reread its own yellow lines as roads and added black-square buildings, the map's first depiction of an actual built settlement after six tiles of purely geological, technical, or abstract imagery — resolving Mesa's violence-vs-calm tension cleanly toward calm in the same gesture. | Return when settlement, road, or building imagery appears again anywhere on the map, or when Mesa (T007) is targeted again — decide whether it expands, connects to Mesa, or remains an isolated origin point. Also carries Mesa's still-unpaid Office Quiet Cost. | Read as the map's founding civilization moment: not just a tile detail, but a marker for whenever settled, built imagery recurs elsewhere. |
 | K035 | Amedda | Active | Chronicle / Seed | Seed keyword created by T001/AIKA's S008 Chronicle (Black 1: Keyword): Inscription's Form/Sign result gave T001's long-blank Provision marker an actual word — "Amedda," taken from a *Star Wars* novel and chosen with no intended meaning — placed at Dotti's NW edge, the literal crossing point toward T006/Shoreline. | Return when the name Amedda appears again anywhere on the map, or when T001 or T006 is next targeted — decide whether it ever gains an in-world meaning or stays permanently foreign. | Read as a deliberately imported, meaningless sign: a name grafted onto the tile from entirely outside its own vocabulary, left open for a later session to explain or leave unexplained. |
 | K036 | The Rift | Active | Chronicle / Seed | Seed keyword created by T008/Cross-word's S009 Chronicle (Black 1: Keyword): the Division boundary Surface built (seeded directly by First Mark) became, at Inscription, the site of a gate — the "MITÄ AIKA ON?" sticker glued directly over it rather than an opening cut through it. | Return when a future tile's own division/boundary line later becomes, or is covered by, an actual crossing feature, or when Cross-word or Mirror (T004) is next targeted — revisit whether the Rift stays sealed under its sticker-gate or gets reopened. | Read as a threshold answered by covering rather than opening: the gate exists, but nothing has actually crossed through it yet. |
+| K037 | Dotti Forest Nation | Active | Cartography / Entanglement | Region keyword created by T001/AIKA's Region-Tangled Effect (unspent since S001, finally named in S010's own Inscription as "Dotti — a forest nation") and now shared for the first time: T009's own S011 Cartography rolled Region-Tangled too, and — touching T001 directly — identified itself as part of the same region, per Region-Tangled's own Effect ("if a later tile is ever identified as part of the same region, both tiles gain a shared keyword"). | Return whenever another tile is considered for membership in this region (T004, T006, and T008 are still an open question from S010's own Seed), or when Dotti/forest-nation imagery recurs anywhere on the map. | Read as a real, growing region rather than a single tile's private feature — the first time this map has had more than one tile formally claimed by the same named territory. |
 
 ## Tags In Use
 
@@ -80,10 +81,12 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - diagonal-return
 - diamond-shape
 - divided
+- divider
 - division
 - Dotti
 - drawn-in
 - dried-river-valley
+- echo-inheritance
 - edge-inheritance
 - edge-reaching
 - edge-starved
@@ -133,6 +136,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - pressure
 - proclaim
 - pushing
+- quiet
 - quiet-cost
 - region
 - region-tangled
