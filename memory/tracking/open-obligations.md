@@ -179,6 +179,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - S011 Cartography: Twist-Born (narrative only), Reversed (compass flips at birth: T002=S, T001=SE, T008=NE), Region-Tangled (joins T001's Dotti forest nation — **creates keyword K037 Dotti Forest Nation, shared with T001**), Quiet (mildest version of any Effect), Divider (blocks bleeds between T002's mountain identity and the T001/T008 forest cluster), Echo Inheritance (a faint echo of T008's own K036 The Rift).
 - Open: Office/Divider needs a physical boundary condition at Surface, between the T002-facing edge and the T001/T008-facing edges.
 - Open: K036's echo should be referenced somewhere in Surface or Inscription, even faintly.
+- S011 Attunement: Echo/Unresolved picks up the map's oldest open question — the S002 T001/T002 warning-checker condition — giving it a third structural front to be answered from. Matter/Family is Paper; Mirror/Structure is a real coastline/border map read for division logic; Omen/Sign is Beach (C054), an unplanned echo of T006/Shoreline; Pressure/Avoidance says T009 must not read as too similar to either neighbor; Provision/Guide prepares a boundary-line stencil for Surface.
 - Not yet named.
 
 ## Rule And Documentation Obligations
