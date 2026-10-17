@@ -159,8 +159,55 @@ Actual Surface:
 - **Orientation:** the compass directions above are physical, as the tile sits on the table, not T009's own post-Reversed labels. Physically, the NW corner is where T009's two contact edges toward T002 and T001 meet — which is why the mountains there tie into the mountainous corner T001 and T002 already share — and the open SW side faces T008. Under Reversed, T002 is recorded as T009's S edge, T001 as SE, and T008 as NE.
 - **Forest zone, not built:** the Forest zone the draft proposed was not made. Forest bleed reaching T009 is judged very early at this point, so Region-Tangled membership in Dotti (K037) stands as a recorded fact but is not yet visible on the tile.
 - **Follow-up from the user:** the landmass was in fact already built higher (past tense), so Application/Accumulated is physically satisfied. The **First Mark anchor point is the compass rose** — the same pattern as T007 and T008, where the anchor became a real, structural feature rather than an isolated dot.
-- **Opening/Reserved, intent rather than result:** the reserved place may be very crowded rather than sparse, with reds and possibly greens — green as the visible tie to T001 and the Dotti forest nation (K037). **The reserved, crowded side is the western part of the tile** — physically the side facing T001 (NW edge) and T008 (SW edge), the two forest-nation neighbors, which fits green as the tie. What actually goes there is Inscription's call once its results are drawn; these are intentions, not locked results. The earlier note that the physical SW half was left open as open water sits uneasily with this, and where the open water lies is left unconfirmed.
+- **Opening/Reserved, intent rather than result:** the reserved place may be very crowded rather than sparse, with reds and possibly greens — green as the visible tie to T001 and the Dotti forest nation (K037). **The reserved, crowded side is the western part of the tile** — physically the side facing T001 (NW edge) and T008 (SW edge), the two forest-nation neighbors, which fits green as the tie. What actually goes there is Inscription's call once its results are drawn; these are intentions, not locked results. The earlier note that the physical SW half was left open as open water sits uneasily with this, and where the open water lies was left unconfirmed at this point (resolved at Inscription: the open water is the reserved place).
 - **The International Date Line, planned:** to run roughly SW corner to NE corner, dividing the tile through the middle. Not drawn yet. Surface's Structure result was Grid, not Division, so a hard dividing line leans toward Inscription; it is recorded as a planned feature, not a Surface fact. It is also the natural carrier of Cartography's Echo Inheritance of K036 The Rift — a boundary that, unlike T008's sealed gate, can simply be crossed.
 - **Named: Divider.** The tile takes the name of its own Office. In records, the tile is written "T009 / Divider" or "Divider (T009)", and the rule is written "Office: Divider", to keep the two from blurring.
 
 Surface is complete.
+
+## Inscription
+
+Numbers reused from Awakening: Green 3, Blue 3, Red 3 (C087, Blank); Yellow 1, Brown 2, Black 2 (C054, Beach). Fixed color mapping: Green = Scale, Blue = Form, Red = Behavior, Yellow = Relation, Brown = Force, Black = Residue.
+
+No 6 appears in this draw, so no matrix is called and no TBD cell needs filling.
+
+Results:
+
+- Scale / Green 3: Broad. A large part of the tile; field, zone, body, large structure, or strong feature.
+- Form / Blue 3: Figure. City, building, object, creature, landmark, island, cloud, shrine, focal thing.
+- Behavior / Red 3: Block. Stop, dam, interrupt, contain, wall, refuse, sever.
+- Relation / Yellow 1: Self. The tile itself: its surface, center, wound, mood, or internal logic.
+- Force / Brown 2: Touching. It reaches an edge but does not yet alter another tile.
+- Residue / Black 2: Mark. Leaves a visible mark, label, keyword, tag, or notation.
+
+Interpreting the six results together:
+
+- **Form/Figure + Scale/Broad:** a recognizable, nameable figure covering the majority of the tile, not one corner. The natural reading is a **crowded city** on the landmass — the reserved, crowded western side is where it is densest, in reds and greens, thinning toward the east.
+- **Behavior/Block:** the International Date Line, SW corner to NE corner, is the block in physical form. What it blocks, named specifically: the **red-and-green crowding** — the city's spread stops at the line rather than crossing it. This is Office: Divider doing its job on the tile itself, and it is also Cartography's Echo Inheritance of K036 The Rift: a boundary that, unlike T008's sealed gate, can be crossed by people while the spread cannot.
+- **Force/Touching:** the city reaches the edges of the tile on its crowded side — the T001 (physical NW) and T008 (physical SW) edges, the two forest-nation neighbors, and possibly the T002 (N) edge — without altering any of them. No bleed this session. Each touched edge is recorded as a notice for a future session or rule to decide whether it ever crosses.
+- **Relation/Self:** the meaning is Divider's own internal logic: a border city that exists because of the division, not something that needs a neighbor's record to make sense.
+- **Residue/Mark:** one visible label on the tile itself — the city's name, or a label on the Date Line. The text is the user's to choose.
+
+Worth flagging: a city is settlement imagery, so it triggers **K034 First Settlement** again — the third place on the map after T007/Mesa and T001's seven Dotti buildings. The question already open on `map-todo.md` — does it connect to Mesa, or stay a separate origin point — now has a third candidate.
+
+Inscription instruction (draft):
+
+1. Draw a crowded city on the landmass, spreading across most of the tile and densest on the western side, in reds and greens (Form: Figure; Scale: Broad; the reserved place used).
+2. Draw the International Date Line from the SW corner to the NE corner through it, so the city's crowding stops at the line (Behavior: Block) — keeping the reds and greens confined to the crowded side so the rest of the tile stays Muted.
+3. Let the city reach the T001 and T008 edges, and the T002 edge if it does, without crossing them (Force: Touching) — and note which edges you actually reached.
+4. Add one visible label — the city's name or a label on the Date Line (Residue: Mark).
+
+This is a starting proposal — change the figure, the line, or the label to whatever you actually build.
+
+Actual Inscription (as reported so far):
+
+- **Open water, located:** the sea covers the physical SE half, the whole S, the whole SW, and half of the NW — one large area, divided by the Date Line. This settles the earlier loose end: the open SW water and the crowded western side are the same place, so **the reserved place is the open water**, to be crowded with green.
+- **Green circles, planned:** coloring-pencil circles all over the sea — green as the visible tie to T001 and the Dotti forest nation (K037).
+- **Red squares, planned:** red squares standing for buildings on the hilly landmass — the red in the plan.
+- **The city, Beau:** in the physical NW corner only, about ten buildings. It reaches the T001 and T002 edges — the corner is where those two contact edges meet — and **does not reach T008**. That is Force/Touching: no alteration, no bleed; the N (T002) and NW (T001) edges are recorded as notices, and T008's edge stays untouched.
+- **The label:** "Beau" was glued next to the town, and is now its name. That is Residue/Mark: a visible label on the tile itself.
+- **Behavior/Block, resolved:** the green circles are only on the western side of the Date Line; the eastern side is clean. So the line blocks exactly what the result asks it to: **the green spread stops at the line.** Office: Divider is doing its job on the tile itself, and the clean eastern side is the deliberate absence the block leaves behind.
+- **Scale/Broad, not met:** the city is one corner, and with the green now confined to the western side of the sea, the inscribed material fills roughly the western part of the tile, not a majority of it. The Effect ("a majority of the tile's visible surface, not just one prominent corner") is therefore not met. Recorded honestly as a miss for Chronicle, not stretched to fit. (The earlier reading, that the green carried the scale across most of the sea, no longer holds.)
+- **K034 First Settlement** is triggered a third time, by Beau's ten buildings.
+
+Whether the red squares and the Date Line itself are drawn yet has not been confirmed; the green circles are reported as drawn.
