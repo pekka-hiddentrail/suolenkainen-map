@@ -1,4 +1,4 @@
-# S011 — T009
+# S011 — T009 · Divider
 
 ## Awakening
 
@@ -113,3 +113,54 @@ Attunement todo list (session-scoped prep, not the persistent queue):
 - Keep Beach/shoreline in mind as the governing sign.
 - At Surface, make sure T009 reads as neither T002's mountain nor T001/T008's forest, but its own boundary.
 - Prepare a boundary-line stencil or ruler guide now, for Surface's own use.
+
+## Surface
+
+Numbers reused from Awakening: Green 3, Blue 3, Red 3 (C087, Blank); Yellow 1, Brown 2, Black 2 (C054, Beach). Fixed color mapping: Green = Ground, Blue = Substance, Red = Application, Yellow = Treatment, Brown = Structure, Black = Opening.
+
+First Mark: T009 is a new tile, so before any of the six results below, place the anchor point — a mark anywhere on the tile, set with a black marker at an essentially random location.
+
+Results:
+
+- Ground / Green 3: Divided. Let the foundation begin with zones, halves, bands, sectors, or competing fields.
+- Substance / Blue 3: Rough. Choose something torn, fibrous, gritty, uneven, raw, scraped, or handmade-feeling.
+- Application / Red 3: Accumulated. Build it up through layers, repetition, clusters, density, or gradual addition.
+- Treatment / Yellow 1: Muted. Keep hue, contrast, texture, or finish quiet, pale, softened, or restrained.
+- Structure / Brown 2: Grid. Establish repeated units, coordinate logic, lattice, measure, or modular structure.
+- Opening / Black 2: Reserved. Leave a place open for later Inscription, bleed, name, object, mark, or weather.
+
+Interpreting the six results together — this is the cleanest possible match between dice and destiny this whole session:
+
+- **Ground/Divided** is Office/Divider's own literal physical form: two named zones, not three. Even though T009 touches three tiles, its actual job is dividing one identity from another — **Mountain zone** (the S edge, facing T002) and **Forest zone** (spanning both the SE/T001 and NE/T008 edges together, since both already belong to the same Dotti forest-nation region).
+- **Substance/Rough + Application/Accumulated, combined:** torn paper (Matter/Family) built up in visible layers along the dividing line — at least two distinct passes, physically rough rather than implied — reading like a built berm or ridge separating the two zones, loosely in Beach's own register (a dune line, not literal sand).
+- **Structure/Grid:** a row of small, repeated paper tabs or posts running along the boundary itself — modular and consistent, echoing T008's own crossword-grid precedent next door, and giving Office/Divider's boundary a literal, countable structure rather than a single soft line.
+- **Treatment/Muted:** the whole tile stays pale and restrained — not T002's yellow/black, not T001/T008's green. This single choice does double duty, also satisfying Pressure/Avoidance's demand that T009 not read as too similar to either neighbor.
+- **Opening/Reserved:** one spot along the boundary grid — likely its center — is left open now, reserved for Inscription to place either the tile's own name or the K036 Rift echo Cartography's Inheritance still owes.
+
+Surface instruction:
+
+1. Place the anchor point: one essentially-random black-marker mark, anywhere on the tile.
+2. Divide the tile into two zones (Ground: Divided): a Mountain zone facing T002 (S edge) and a Forest zone spanning the T001 (SE) and T008 (NE) edges together.
+3. Build a rough, torn-paper ridge along the dividing line, in at least two visible layers (Substance: Rough; Application: Accumulated) — reading like a berm or dune, not literal sand.
+4. Along that same line, place a row of small, repeated paper tabs or posts (Structure: Grid) — modular and consistent.
+5. Keep the whole tile pale and restrained (Treatment: Muted) — deliberately unlike either neighbor's own palette.
+6. Leave one spot along the boundary grid — its center — open and noted as reserved (Opening: Reserved), for Inscription to fill later.
+
+This is a starting proposal — adjust materials or the exact zone split based on what's actually on hand.
+
+Actual Surface:
+
+- **Base:** a printed map of part of the Bering Strait, in light sepia, carrying radial grid lines that follow no strict cardinal direction. The map's own grid does the work of Structure/Grid, in place of the row of paper tabs the draft proposed; the light sepia is Treatment/Muted, and unlike either neighbor's palette, which also satisfies Pressure/Avoidance. The Strait is itself a divider between two landmasses — an unplanned bonus fit for Office/Divider.
+- **Mirror/Structure, used literally:** the real map is on the tile itself rather than only translated into division logic, as the Attunement Effect originally asked. Recorded as a literal use of the reference, not a translation of it.
+- **Landmass:** torn paper in a darker sepia, printed like old photographs, built up higher (Substance/Rough; Application/Accumulated — the base map plus the raised torn-paper layer make at least two passes).
+- **Compass rose:** an old, torn compass rose added to the middle of the tile.
+- **Beach (Omen/Sign):** present through the coastlines themselves.
+- **Ground/Divided, zones named:** a raised **Landmass** (with mountains in its NW corner) and **Open water**, the SW half of the tile left open.
+- **Orientation:** the compass directions above are physical, as the tile sits on the table, not T009's own post-Reversed labels. Physically, the NW corner is where T009's two contact edges toward T002 and T001 meet — which is why the mountains there tie into the mountainous corner T001 and T002 already share — and the open SW side faces T008. Under Reversed, T002 is recorded as T009's S edge, T001 as SE, and T008 as NE.
+- **Forest zone, not built:** the Forest zone the draft proposed was not made. Forest bleed reaching T009 is judged very early at this point, so Region-Tangled membership in Dotti (K037) stands as a recorded fact but is not yet visible on the tile.
+- **Follow-up from the user:** the landmass was in fact already built higher (past tense), so Application/Accumulated is physically satisfied. The **First Mark anchor point is the compass rose** — the same pattern as T007 and T008, where the anchor became a real, structural feature rather than an isolated dot.
+- **Opening/Reserved, intent rather than result:** the reserved place may be very crowded rather than sparse, with reds and possibly greens — green as the visible tie to T001 and the Dotti forest nation (K037). **The reserved, crowded side is the western part of the tile** — physically the side facing T001 (NW edge) and T008 (SW edge), the two forest-nation neighbors, which fits green as the tie. What actually goes there is Inscription's call once its results are drawn; these are intentions, not locked results. The earlier note that the physical SW half was left open as open water sits uneasily with this, and where the open water lies is left unconfirmed.
+- **The International Date Line, planned:** to run roughly SW corner to NE corner, dividing the tile through the middle. Not drawn yet. Surface's Structure result was Grid, not Division, so a hard dividing line leans toward Inscription; it is recorded as a planned feature, not a Surface fact. It is also the natural carrier of Cartography's Echo Inheritance of K036 The Rift — a boundary that, unlike T008's sealed gate, can simply be crossed.
+- **Named: Divider.** The tile takes the name of its own Office. In records, the tile is written "T009 / Divider" or "Divider (T009)", and the rule is written "Office: Divider", to keep the two from blurring.
+
+Surface is complete.

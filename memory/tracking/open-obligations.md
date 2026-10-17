@@ -172,7 +172,7 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Open: whether the Rift (K036) stays sealed under its sticker-gate or gets reopened — return when Cross-word or Mirror is next targeted, or when a future tile's own division line becomes/gets covered by a crossing feature.
 - S009 Artifact Draw complete: card C071, Brown 1, selected Deck reset directly. Satisfied by marking C071 itself as used in `../narrative/cards/Cards.csv` — flagged afterward as too thin a reading (routine bookkeeping, not a real deck action); see the new Delta Candidate in `../rules/rules-delta.md`. Left as historically complete, not redone.
 
-## T009 Obligations
+## T009 / Divider Obligations
 
 - S011 creates T009 at [0,1], empty but already touching three tiles at once before any walk-back step — T002 (N), T001 (NW), and T008 (SW). Raw target [0,2] sat exactly on the axis q=0 reference line (distance zero, no tie), so one real step reached contact. Brown 2 (even) created T009 there directly.
 - T009 becomes T008/Cross-word's third neighbor, alongside T001 and T004 — T008's own Gate office only ever named two tiles it stands between.
@@ -180,6 +180,9 @@ Live unresolved pressures, debts, openings, and return conditions for Suolenkain
 - Open: Office/Divider needs a physical boundary condition at Surface, between the T002-facing edge and the T001/T008-facing edges.
 - Open: K036's echo should be referenced somewhere in Surface or Inscription, even faintly.
 - S011 Attunement: Echo/Unresolved picks up the map's oldest open question — the S002 T001/T002 warning-checker condition — giving it a third structural front to be answered from. Matter/Family is Paper; Mirror/Structure is a real coastline/border map read for division logic; Omen/Sign is Beach (C054), an unplanned echo of T006/Shoreline; Pressure/Avoidance says T009 must not read as too similar to either neighbor; Provision/Guide prepares a boundary-line stencil for Surface.
+- S011 Surface complete (named **Divider**): a light-sepia printed map of part of the Bering Strait as base, with radial grid lines; a darker-sepia torn-paper landmass, built up higher; an old torn compass rose in the middle, which is the First Mark anchor point; mountains in the physical NW corner tying into the T001/T002 mountainous corner; the physical SW half left open, facing T008. The planned Forest zone was not built — forest bleed to T009 judged very early, so K037 membership is recorded but not yet visible on the tile.
+- Opening/Reserved: the reserved, crowded side is the western part of Divider (physically the T001/T008 side), with reds and possibly greens (green as the visible tie to T001/K037) — intentions pending Inscription's results. Open: where the open water lies is unconfirmed, since the earlier note placed it on the SW side.
+- Planned, not drawn: the International Date Line running roughly SW corner to NE corner through the middle of Divider — better suited to Inscription (Surface rolled Grid, not Division); also a natural carrier of the K036 Rift echo.
 - Not yet named.
 
 ## Rule And Documentation Obligations
