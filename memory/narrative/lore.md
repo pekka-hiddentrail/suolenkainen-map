@@ -100,3 +100,4 @@ Current use:
 - Use tile pages for local lore tied to a specific tile.
 - Use session logs for what actually happened during a map session.
 - Mark uncertain lore as provisional unless the user confirms it as canon.
+- Short creative fragments written on request live in `lore-fragments.md`, all provisional.

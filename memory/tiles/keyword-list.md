@@ -27,9 +27,10 @@ This was applied retroactively: K001, K002, K004–K006, K008–K015, K017–K02
 | K025 | The Canyon | Active | Chronicle / Artifact Draw | Name and artifact keyword for T003: the dried river valley, cliff-bounded canyon grid, bright city-foundation, hidden tunnel, red-circle inheritance, and neighbor bleeds into/from T001. | Use as the stable name for T003 and its Docs/archive page. Return when The Canyon, canyon routes, cliff borders, hidden tunnel, star routes, black warning bleed, silver grid bleed, or C074/C127 pressure appears. | Read as T003's archive identity: not merely a canyon landform, but a named route-vault where warning, grid, star, and hidden passage meet. |
 | K032 | Schematic Rewrite | Active | Chronicle / Seed Matrix | Seed keyword created by T004/Mirror's S004 Chronicle (Green 1: Keyword, Blue 6: Hidden archive, Red 1: May return normally): T004's Inscription rewrote some of T001's archaic symbols in T004's own schematic-hexagon pattern — a transformation, not an erasure, that doubles as preserving what T004 inherited from that edge. What the original archaic symbols meant, and what the rewrite specifically changes about that meaning, is deliberately left unexplained for now. | Return to either T001 or T004/Mirror when archaic symbols, schematic hexagons, cross-tile rewriting, or an inheritance-preservation question appears again. | Read as evidence kept deliberately incomplete: something real changed between two tiles, but why it changed is a question later work gets to answer, not one Chronicle is settling now. |
 | K033 | Hex Tideline | Active | Chronicle / Seed | Seed keyword created by T006/Shoreline's S006 Chronicle (Black 1: Keyword): Shoreline's Inscription grew two deliberately misaligned hex grids — 8 black hexagons (30mm spacing) and 4 silver hexagons (24mm spacing) — out of the mismatched black-warning-bleed and silver-grid-bleed lines it inherited from T001 and T003. Neither grid is resolved as dominant; the tension between them is the point. | Return to T006/Shoreline when it is next targeted, to decide whether the black grid or the silver grid wins, or whether they remain in permanent tension. | Read as an unresolved contest given a permanent, named body: two inherited histories occupying the same tile without reconciling. |
-| K034 | First Settlement | Active | Chronicle / Seed | Seed keyword created by T007/Mesa's S007 Chronicle (Black 1: Keyword): Mesa's Inscription reread its own yellow lines as roads and added black-square buildings, the map's first depiction of an actual built settlement after six tiles of purely geological, technical, or abstract imagery — resolving Mesa's violence-vs-calm tension cleanly toward calm in the same gesture. | Return when settlement, road, or building imagery appears again anywhere on the map, or when Mesa (T007) is targeted again — decide whether it expands, connects to Mesa, or remains an isolated origin point. Also carries Mesa's still-unpaid Office Quiet Cost. | Read as the map's founding civilization moment: not just a tile detail, but a marker for whenever settled, built imagery recurs elsewhere. |
+| K034 | First Settlement | Active | Chronicle / Seed | Seed keyword created by T007/Mesa's S007 Chronicle (Black 1: Keyword): Mesa's Inscription reread its own yellow lines as roads and added black-square buildings, the map's first depiction of an actual built settlement after six tiles of purely geological, technical, or abstract imagery — resolving Mesa's violence-vs-calm tension cleanly toward calm in the same gesture. **Triggered again in S010** (T001's seven Dotti buildings) **and S011** (T009/Divider's city Beau, about ten red-square buildings in its physical NW corner). | Return when settlement, road, or building imagery appears again anywhere on the map, or when Mesa (T007) is targeted again — decide whether it expands, connects to Mesa, or remains an isolated origin point. Also carries Mesa's still-unpaid Office Quiet Cost. Three settlement sites now exist — Mesa, T001's Dotti buildings, and Beau — so the open question is no longer whether this imagery recurs, but whether the sites connect to Mesa, to each other, or stay separate origin points. | Read as the map's founding civilization moment: not just a tile detail, but a marker for whenever settled, built imagery recurs elsewhere. |
 | K035 | Amedda | Active | Chronicle / Seed | Seed keyword created by T001/AIKA's S008 Chronicle (Black 1: Keyword): Inscription's Form/Sign result gave T001's long-blank Provision marker an actual word — "Amedda," taken from a *Star Wars* novel and chosen with no intended meaning — placed at Dotti's NW edge, the literal crossing point toward T006/Shoreline. | Return when the name Amedda appears again anywhere on the map, or when T001 or T006 is next targeted — decide whether it ever gains an in-world meaning or stays permanently foreign. | Read as a deliberately imported, meaningless sign: a name grafted onto the tile from entirely outside its own vocabulary, left open for a later session to explain or leave unexplained. |
 | K036 | The Rift | Active | Chronicle / Seed | Seed keyword created by T008/Cross-word's S009 Chronicle (Black 1: Keyword): the Division boundary Surface built (seeded directly by First Mark) became, at Inscription, the site of a gate — the "MITÄ AIKA ON?" sticker glued directly over it rather than an opening cut through it. | Return when a future tile's own division/boundary line later becomes, or is covered by, an actual crossing feature, or when Cross-word or Mirror (T004) is next targeted — revisit whether the Rift stays sealed under its sticker-gate or gets reopened. | Read as a threshold answered by covering rather than opening: the gate exists, but nothing has actually crossed through it yet. |
+| K037 | Dotti Forest Nation | Active | Cartography / Entanglement | Region keyword created by T001/AIKA's Region-Tangled Effect (unspent since S001, finally named in S010's own Inscription as "Dotti — a forest nation") and now shared for the first time: T009's own S011 Cartography rolled Region-Tangled too, and — touching T001 directly — identified itself as part of the same region, per Region-Tangled's own Effect ("if a later tile is ever identified as part of the same region, both tiles gain a shared keyword"). | Return whenever another tile is considered for membership in this region (T004, T006, and T008 are still an open question from S010's own Seed), or when Dotti/forest-nation imagery recurs anywhere on the map. | Read as a real, growing region rather than a single tile's private feature — the first time this map has had more than one tile formally claimed by the same named territory. |
 
 ## Tags In Use
 
@@ -45,7 +46,9 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - archaic-symbol-palimpsest
 - archaic-symbols
 - axis
+- Beau
 - becomes-too-fixed
+- bering-strait
 - black-circle
 - black-hex-grid
 - black-warning-bleed
@@ -60,11 +63,13 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - by-edge
 - by-mark
 - C074-moonscape
+- city
 - clean
 - cliffs
 - closed
 - clouded
 - color-6-notice
+- compass-rose
 - conditional-neighbor-wander
 - contagious
 - contamination
@@ -80,10 +85,12 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - diagonal-return
 - diamond-shape
 - divided
+- divider
 - division
 - Dotti
 - drawn-in
 - dried-river-valley
+- echo-inheritance
 - edge-inheritance
 - edge-reaching
 - edge-starved
@@ -92,6 +99,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - evenly
 - fan-brush
 - first-civilization
+- first-mark-compass
 - flooded-coastline
 - forest-nation
 - gate
@@ -133,6 +141,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - pressure
 - proclaim
 - pushing
+- quiet
 - quiet-cost
 - region
 - region-tangled
@@ -154,6 +163,7 @@ Add tags here as they appear. Synced against every tile record's Tags field; add
 - safety-line
 - same-sign-diagonal
 - schematic-fragments
+- sepia-map
 - settle
 - settlement
 - Shoreline
