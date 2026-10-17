@@ -211,3 +211,29 @@ Actual Inscription (as reported so far):
 - **K034 First Settlement** is triggered a third time, by Beau's ten buildings.
 
 Whether the red squares and the Date Line itself are drawn yet has not been confirmed; the green circles are reported as drawn.
+
+## Chronicle
+
+Numbers reused from Awakening: Green 3, Blue 3, Red 3 (C087, Blank); Yellow 1, Brown 2, Black 2 (C054, Beach). Fixed color mapping: Green = Record, Blue = Witness, Red = Meaning, Yellow = Publication, Brown = Maintenance, Black = Seed.
+
+No 6 appears in this draw, so no matrix is called. S011 is outside the S001–S010 Founding Artifact Draw window, so there is no Artifact Draw this session.
+
+Results:
+
+- Record / Green 3: Change list. List what physically changed during the session, including the target tile and any other affected tiles.
+- Witness / Blue 3: Before/after. Capture both the earlier state and the final state, or describe the difference if no before photo exists.
+- Meaning / Red 3: Lore fragment. Write in-world material: place description, local history, rumor, ecology, event, inhabitant, route note.
+- Publication / Yellow 1: No public action. Keep this session private for now.
+- Maintenance / Brown 2: Keyword list. Add, remove, replace, or update one keyword in the growing keyword list.
+- Seed / Black 2: Unresolved prompt. A question remains useful but unanswered.
+
+Interpreting the results:
+
+- **Record (Change list):** T009 / Divider is the only tile physically changed: a light-sepia printed Bering Strait map as base with radial grid lines; a raised darker-sepia torn-paper landmass with mountains in the physical NW corner; an old torn compass rose in the middle (the First Mark); the city Beau — about ten buildings in the NW corner, with its label glued beside it; green coloring-pencil circles on the western side of the Date Line only. T001, T002 and T008 are named as affected tiles without being physically altered: Beau touches the T001 and T002 edges (notices on both records), and T008's edge is untouched. Recorded as a rule miss: Inscription's Scale/Broad was not met.
+- **Witness (Before/after):** no before photo exists — the tile did not exist before this session. Before: an empty coordinate at [0,1], already touching T002, T001 and T008. After: a sepia Strait map divided by a Date Line, a crowded city in one corner, a western sea ringed in green and a clean eastern side.
+- **Meaning (Lore fragment)**, in-world and provisional — not user-confirmed canon: *At Beau the day is always a little behind. The town keeps to the hills in the north-west corner, ten red roofs looking out over a sea that has grown green rings nobody planted. East of the Line the water is bare and the calendar has already turned over; the people of Beau say the rings stop where tomorrow starts, and that the Line is the only wall in the world that cannot be seen from either side.*
+- **Publication (No public action):** the ritual itself takes no publication action this Chronicle. Separately and independently, the user's own `../../blog/blog-25-born-already-a-citizen-of-the-forest.md` already exists; per the Publication note added in S010, both facts stand as they are.
+- **Maintenance (Keyword list):** K034 First Settlement was updated in `../../tiles/keyword-list.md` itself — it now records its triggers in S010 (T001's seven Dotti buildings) and S011 (Beau), and reframes the open question around three settlement sites rather than one. This is a real change to how the keyword reads, not routine bookkeeping. The new tags this session (Beau, bering-strait, city, compass-rose, first-mark-compass, sepia-map) were also synced into the tag registry.
+- **Seed (Unresolved prompt):** recorded verbatim — *"What waits on the clean eastern side of the Date Line, and who gets to cross it?"*
+
+Chronicle is complete for T009 / Divider: all six phases. There is no Artifact Draw, since S011 is past the founding window.
